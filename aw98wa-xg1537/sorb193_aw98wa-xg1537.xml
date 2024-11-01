@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 12 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#nivaca">Nicolas Vaughan</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 12 [Sorb193 Transcription]</title>
+          <date when="2022-07-22">July 20, 2022</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2022-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="64-r"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg1537">
+        <head xml:id="aw98wa-xg1537-Hd1e109">Quaestio 12 [Sorb 193 Transcription]</head>
+        <head xml:id="aw98wa-xg1537-Hd1e111" type="question-title"/>
+        <p xml:id="aw98wa-xg1537-d1e113">
+          <lb ed="#S" n="40"/>duodecimo circa primam distinctionem quaero utrum haec sic 
+          <lb ed="#S" n="41"/>possibilis creatura rationalis fruitur una persona divina 
+          <lb ed="#S" n="42"/>non fruendo alia
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e122">
+          et videtur quod sic quia aliquis potest 
+          <lb ed="#S" n="43"/>frui essentia divina non fruendo alia persona igitur et 
+          <lb ed="#S" n="44"/>una persona non fruendo alia consequentia patet quia nihil videretur ex parte personarum ob<lb ed="#S" break="no" n="45"/>stare 
+          nisi ydemptitas essentialis personarum sed ista aeque abstaret de essentia 
+          <lb ed="#S" n="46"/>et persona quia magis distinguitur quaelibet persona ab alia quam essentia ab aliqua 
+          <lb ed="#S" n="47"/>earumdem antecedens probatur primo quia essentiam divina intelligi potest non intellecta 
+          <lb ed="#S" n="48"/>alia persona igitur et diligi quia ad <add place="margin-left">omnem</add> actum cognoscedi potest haberi actus proportionalis 
+          <lb ed="#S" n="49"/>voluntatis et personaliter hoc aliquis diligeret incognitum <pc type="punctus"/> assumptum probatur quia philosophi et 
+          <lb ed="#S" n="50"/>iudaei cognoverunt divinam essentiam et non parvam id est nec patrem nec filium 
+          <lb ed="#S" n="51"/>nec spiritum sanctum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e149">
+          <pc type="pilcrow"/> 2o probatur antecedens sic omne prius intelligi potest et concipi 
+          <lb ed="#S" n="52"/>non <unclear>intellecto</unclear> posteriori sed essentia divina est prior persona quia omne quod est 
+          <lb ed="#S" n="53"/>persona haec divina vel ista est divina essentia et non econverso
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e161">
+          <pc type="pilcrow"/> 3o quia aliquando vi<lb ed="#S" break="no" n="54"/>det 
+          quis colorem a remotis et non albedinem et tamen iste color 
+          <lb ed="#S" n="55"/>est albedo 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e170">
+          <pc type="pilcrow"/> Item omnis res realiter distincta ab alia potest intelligi 
+          <lb ed="#S" n="56"/>et diligi alia non intellecta <del rend="expunctuation">et</del> nec dilecta sed quaelibet persona realiter distinguitur 
+          <lb ed="#S" n="57"/>ab alia et est res realiter distincta ab alia igitur maior 
+          <lb ed="#S" n="58"/>patet ex <ref xml:id="aw98wa-xg1537-Rd1e184">2o metaphysicae</ref> unumquodque sicut se habet ad esse sic ad veri<lb ed="#S" break="no" n="59"/>tatem 
+          id est ad cognoscibilitatem 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e189">
+          <pc type="pilcrow"/> Item non magis videtur re<cb ed="#S" n="b"/><lb ed="#S" n="60"/>pungnare 
+          uni personae terminare intellectionem aliquam vel dilectionem alia non terminan<lb ed="#S" break="no" n="61"/>te 
+          igitur possibilitatem primi negare non debet
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e201">
+          <pc type="pilcrow"/> Item aliter de personis distinctis 
+          <lb ed="#P" n="62"/>non esset distincti articuli fidei consequens contra <ref xml:id="aw98wa-xg1537-Rd1e207">asymbolum fidei</ref> 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e210">
+          <pc type="pilcrow"/>ad oppositum 
+          <lb ed="#P" n="63"/>nihil concessis de una persona debet ab alia negari nisi ubi ad hoc cognoscit 
+          <lb ed="#P" n="64"/>oppositio relativa vel fides informans non de opposito si igitur omne illud quo 
+          <lb ed="#P" n="65"/>aliquis fruitur vel quod ab alio intelligitur vere conceditur de una persona divina cum 
+          <lb ed="#P" n="66"/>oppositio relativa non obstet quin haec dicatur de alia nec fides 
+          <lb ed="#P" n="67"/>docet quin hoc conveniat alteri igitur haec ab illa negari non debet
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e226">
+          <pc type="pilcrow"/> Praeterea nulla 
+          <lb ed="#P" n="68"/>persona potest cognosci ut diligi essentia divina non cognita et dilecta prima 
+          <lb ed="#P" n="69"/>propositio patet quia quaelibet persona est essentialiter essentia igitur nihil potest convenire personae quin conveni<lb ed="#P" n="70"/>at 
+          essentiae nec repungnare personae quod essentiae non repugngnet quod addo 
+          <lb ed="#P" n="71"/>pro talibus distingui a tali et tali persona generare generari non 
+          <lb ed="#P" n="72"/>esse communem vel non posse communicari et huius sed esse illud quod intelligitur 
+          <lb ed="#P" n="73"/>seu diligi vel intelligi non repugnat essentiae igitur si conveniat a<lb ed="#P" n="74"/>licui 
+          divinae personae conveniet essentiae et patet etiam <unclear>ex?o</unclear> quia ideo essentia dicitur in<lb ed="#P" n="75"/>carnata 
+          filio incarnato
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e251">
+          <pc type="pilcrow"/> Item 2o probatur eadem prima propositio per <ref xml:id="aw98wa-xg1537-Rd1e255">augustinum 
+          <lb ed="#P" n="76"/>10 de trinitate 25 de pavi</ref> <quote xml:id="aw98wa-xg1537-Qd1e260" source="http://scta.info/resource/adt-l10-d1e1175@15-26">nullo inquit modo recte dicitur sciri alia res 
+          <lb ed="#P" n="77"/>dum eius ignoratur substantia</quote>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e266">
+          <pc type="pilcrow"/> 2a propositi probatur quia essentia nullo modo dis<lb ed="#P" n="78"/>tinguitur 
+          ab aliqua persona in entitate igitur nec in veritate nec in cognos<lb ed="#P" n="79"/>cibilitate 
+          igitur sicut essentia non potest esse persona divina non existente 
+          <lb ed="#P" n="80"/>quacumque <unclear>ita nec <!-- possible correction --></unclear> cognosci nisi persona qualibet divina cognita 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e281">
+          <lb ed="#P" n="81"/><pc type="pilcrow"/> Circa istam quaestionem primo ponuntur conclusiones aliquae 2o in<lb ed="#P" n="82"/>pungnabuntur 
+          3o movebuntur dubia et solventur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e289">
+          <lb ed="#P" n="83"/><pc type="pilcrow"/> In primo articulo est haec prima conclusio quod una persona divina cognosci non potest 
+          <lb ed="#P" n="84"/>alia non cognita et hoc cognitione intellectuali cuius per se obiectum sic 
+          <lb ed="#P" n="85"/>deitas vel alia divina persona et eadem ratione nec diligi alia 
+          <lb ed="#P" n="86"/>non dilecta aliud hoc praecipue movet me verbum christi in ioanne 
+          <lb ed="#P" n="87"/>ubitum diceret <quote xml:id="aw98wa-xg1537-Qd1e303" source="http://scta.info/resource/io14_8@3-7 http://scta.info/resource/io14_8@3-7 http://scta.info/resource/io14_10/critical/transcription@1-11">philippus domine ostende nobis patrem dicit 
+          <lb ed="#P" n="88"/>ei ihesus tanto tempore vobiscum sum et non cognovistis me philippe qui vidit 
+          <lb ed="#P" n="89"/>me vidit et patrem <unclear>meum</unclear> et quomodo tu dicis ostende nobis patrem non cre<lb ed="#P" n="90"/>dis 
+          quia ego in patre et patre in me est</quote> haec enim probo consequentiae quam idem 
+          <lb ed="#P" n="91"/>christus <unclear>promiserat</unclear> <quote xml:id="aw98wa-xg1537-Qd1e318" source="http://scta.info/resource/io14_7@1-8">si cognovissetis me et Patrem meum utique cognovissetis</quote>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e322">
+          <lb ed="#P" n="92"/><pc type="pilcrow"/> dices forte quod verbum christi procedit de facto non de possibili et 
+          <lb ed="#P" n="93"/><unclear>hic quia</unclear> de possbili non de facto sed tunc consequentia christi non videretur valere quia 
+          <lb ed="#P" n="94"/>antecedens posset esse verum sine consequente et frustra etiam <unclear>apponisset</unclear> istam 
+          <lb ed="#P" n="95"/>probationem de <unclear>circumincessione</unclear> et <subst><del rend="expunctuation">probat</del> <add>praeterea</add></subst> hoc plane quod est 2am expositionem 
+          <lb ed="#P" n="96"/><ref xml:id="aw98wa-xg1537-Rd1e346">augustini 1 de trinitate capitulo 10</ref> ubi dicit de phillippo quod <!-- quote is somewhere in this paragraph: http://scta.info/resource/adt-l1-d1e90 -->aeque bene po<lb ed="#P" n="97"/>tuisset 
+          dicere de christo domine ostende nobis te et sufficit nobis 
+          <lb ed="#P" n="98"/>sicut ostende nobis p etc quia sive audiamus ostende nobis filium 
+          <lb ed="#P" n="99"/>sive audiamus ostende nobis patrem tantumdem valet quia neutrorum sine 
+          <lb ed="#P" n="100"/>altero ostendi potest unum quippe sunt sicut ait <pc type="punctus"/> ego et pater 
+          <lb ed="#P" n="101"/>unum summus et si deberet intelligi solum de potentia ordinata frustra 
+          <lb ed="#P" n="102"/><unclear>apponivisset</unclear> christus vel augustinus probationem quam apponit 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e368">
+          <pc type="pilcrow"/> Et hoc etiam 
+          <lb ed="#P" n="103"/>suadeo ratione quia inpossibile est ut aliquid per novam unionem vi<lb ed="#P" n="104"/>deatur 
+          per se loquendo quod addo pro illo quod solum videtur per accidens 
+          <lb ed="#P" n="105"/>quod scilicet est subiectum illius quod per se videtur vel quia in est illi quod per se videtur 
+          <lb ed="#P" n="106"/>quam ipsum content active tamquam <unclear>obiectum</unclear> visionem illam nihil autem aliud 
+          <lb ed="#P" n="107"/>est quod supplere potest activitatem dei obiectivam respectu unionis tandem 
+          <lb ed="#P" n="108"/>igitur adhuc quod deus de novo videatur requiritur necessario quod deus ipse
+          <lb ed="#P" n="109"/>tamquam obiectum concauset istam visionem sed opera trium personarum incausando active 
+          <lb ed="#P" n="110"/>sunt indivisa nec dividi possunt igitur si aliqua persona divina causet 
+          <lb ed="#P" n="111"/>aliquem actum cognitionis intuitive active per modum obiecti oportet eo ipso quod 
+          <lb ed="#P" n="112"/>quaelibet persona divina visionem illam causet sicut obiectum <add place="margin-right">omne <unclear>a</unclear> quod</add> causat visionem sui quod 
+          <lb ed="#P" n="113"/>visionem aliquam causat sicut obiectum eius in potentia visiva per illam videtur igitur 
+          <lb ed="#P" n="114"/>inpossibile est aliquam <unclear>parvam</unclear> divinam videri quin quaelibet videeatur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e409">
+          <pc type="pilcrow"/> 2a 
+          <lb ed="#P" n="115"/>conclusio iuxta hanc materiam est quod per accidens potest bene cognos<lb ed="#P" n="116"/>ci 
+          una persona divina nulla alia cognita quia <unclear>christus</unclear> corporaliter visus 
+          <pb ed="#P" n="64-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>est in carne assumpta et tamen ita corporali visione nec pater nec spiritus sanctus 
+          <lb ed="#P" n="2"/>visus est Similiter christus odiebatur a iudaeis et deus et hoc ratione 
+          <lb ed="#P" n="3"/>humanitatis assumptae et tamen isto odio non odiebatur persona patris 
+          <lb ed="#P" n="4"/>nec persona spiritus sancti 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e433">
+          <pc type="pilcrow"/> Praeterea persona filii concipitur illo conceptu homo et conceptu correspondenti huic 
+          <lb ed="#P" n="5"/>voci animal quia isti tales conceptus ita sunt conceptus christi qui est verus 
+          <lb ed="#P" n="6"/>homo et verum animal sicut aliorum hominum et alium et tamen istis conceptibus 
+          <lb ed="#P" n="7"/>non concipitur pater Et similiter argui potest de dilectione dato enim 
+          <lb ed="#P" n="8"/>quod aliquis concipiat homines sub conceptu specifico hominis ipse potest elicere 
+          <lb ed="#P" n="9"/>actum amoris respectu omnium hominum et tali tunc dilectione diligeret filium 
+          <lb ed="#P" n="10"/>non tamen patrem aut spiritum sanctum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e451">
+          <pc type="pilcrow"/> Ex prima conclusione sequitur 3a quod nulla cognitione 
+          <lb ed="#P" n="11"/>abstractiva quae non habeat creaturam aliquam pro obiecto sed deitatem vel 
+          <lb ed="#P" n="12"/>personam quae sit <unclear>abstractiva</unclear> individualis vel etiam specifica quam causare nata 
+          <lb ed="#P" n="13"/>est inuitiva praevia dei cognosci potest una persona alia non cognita 
+          <lb ed="#P" n="14"/>tunc quia tales abstractivae individuales hanc omnia eadem et praecise 
+          <lb ed="#P" n="15"/>eadem pro obiectis quae et ipse intuitive ex quibus causabantur et multo 
+          <lb ed="#P" n="16"/>fortius tales abstractivae specificae hanc omnia eadem pro obiectis quae et 
+          <lb ed="#P" n="17"/>ipse intuitive correspondentes praevie secundum naturam cum igitur quaelibet intui<lb ed="#P" n="18"/>tiva 
+          talis de qua in prima conclusione quae habet unam personam divinam pro 
+          <lb ed="#P" n="19"/>obiecto habeat et quamlibet igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e477">
+          <pc type="pilcrow"/> Ex hac sequiturq uod nec alia generali nec 
+          <lb ed="#P" n="20"/>transcendenti cognitione quae personae praedicetur de intuitiva de qua in prima conclusione 
+          <lb ed="#P" n="21"/>vel abstractiva correspondente individuali vel specifica secundum speciem specialissimam 
+          <lb ed="#P" n="22"/>personaliter supponentibus cognosci potest una persona divina quin alia tunc 
+          <lb ed="#P" n="23"/>cognosceretur eadem quia cuiuscumque rei et quarumcumque realiter 
+          <lb ed="#P" n="24"/>est cognitio individualis vel specifica signum naturale sine
+          <lb ed="#P" n="25"/>intellecto eiusdem rei est intellectivo et signum naturale 
+          <lb ed="#P" n="26"/>quaelibet cognitio per se superior ad eandem igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e497">
+          <pc type="pilcrow"/> Ex hac 
+          <lb ed="#P" n="27"/>sequitur quod exceptis conceptibus qui conveniunt filio dei solum 
+          <lb ed="#P" n="28"/>per humanitatem assumptam vel ratione illius quod nulla persona divina potest 
+          <lb ed="#P" n="29"/>a nobis apprehendi in via nisi quaelibet apprehendatur licet enim <unclear>menti</unclear>
+          <lb ed="#P" n="30"/>conceptus haberi valeant quorum aliquis supponat sic pro essentia divina 
+          <lb ed="#P" n="31"/>quod pro nulla persona divina ut est iste entitas non producens ad intra 
+          <lb ed="#P" n="32"/>nec producta et aliquis pro persona una sic quod nec pro alia nec pro 
+          <lb ed="#P" n="33"/>essentia ut iste persona divina generans et sic de similibus nec tamen in 
+          <lb ed="#P" n="34"/>via nec in patria potest conceptus aliquis haberi qui unam personam divinam 
+          <lb ed="#P" n="35"/>significet quin et quamlibet significet exemplum huius habetur de conceptu cui in 
+          <lb ed="#P" n="36"/>significando sub ordinatur hoc concretum albedinem qui licet per se significet 
+          <lb ed="#P" n="37"/>albedinem et non subiectum praecise tamen pro supposito supponit et non 
+          <lb ed="#P" n="38"/>pro albedine
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e530">
+          <pc type="pilcrow"/> conclusio ista probatur quia quidquid significatur per conceptum quemlibet inferi<lb ed="#P" n="39"/>orem 
+          per se significatur per qualibet superiorem ad istum conceptum inferi<lb ed="#P" n="40"/>orem 
+          sed conceptus vie quibus deum concipiumus vel simplices per se 
+          <lb ed="#P" n="41"/><unclear>sunt<!-- unclear if this is corrected --></unclear> superiores ad conceptum individualem vel specificum dei vel 
+          <lb ed="#P" n="42"/>componuntur ex talibus simplicibus
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e547">
+          <pc type="pilcrow"/> Exemplum primorum substantia ens spiritus 
+          <lb ed="#P" n="43"/>et huius Exemplum aliorum primum ens summa substantia <unclear>natura<!-- possibly corrected from "nec"--></unclear> spirtualis prima 
+          <lb ed="#P" n="44"/>et huius igitur quidquid concipimus per conceptus patriae individuales et specificas dei 
+          <lb ed="#P" n="45"/>concipimus in via per conceptus communiores certum est enim quod quaelibet persona 
+          <lb ed="#P" n="46"/>divina est ens est substantia est spiritus et sic de aliis quibus deum 
+          <lb ed="#P" n="47"/>concipimus pro statu viae
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e567">
+          <pc type="pilcrow"/> dices forte quod licet deus concipi 
+          <lb ed="#P" n="48"/>non posset in via conceptione simplici communiter habita nisi ista conceptione 
+          <lb ed="#P" n="49"/>concipiatur et quaelibet persona tamen ut videetur conceptione composita potest sicud 
+          <lb ed="#P" n="50"/>iste conceptus videtur esse solus essentiae ens nec generans 
+          <lb ed="#P" n="51"/>nec genitum nec spiratum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e580">
+          <pc type="pilcrow"/> Contra quidquid significatur pro partem conceptus 
+          <lb ed="#P" n="52"/>totius compositi significatur per communem istum compositum sed per illam responsionem per 
+          <lb ed="#P" n="53"/>partem huius <sic>conpositi</sic> conceptus scilicet per contemptum correspondetem habuit
+          <lb ed="#P" n="54"/>voci ens significatur et intelligitur persona qualibet divina igitur per conceptum compositum 
+          <lb ed="#P" n="55"/>ex illo et addito maior huius deductionis patet quia signum 
+          <lb ed="#P" n="56"/>naturale alicuius obiecti quod est conceptio mentis a significando absolvi 
+          <lb ed="#P" n="57"/>non potest ipso manente et mentem informante alioquin esset signum 
+          <lb ed="#P" n="58"/>ad placitum si enim per additionem alterius conceptus ad 
+          <lb ed="#P" n="59"/>situm cessaret intelligi per illum illud quod prius intelligebatur 
+          <lb ed="#P" n="60"/>et significabatur per ipsum tunc in beneplacito meo <unclear>esset <!-- possible correction here --></unclear> <pc type="virgula">/</pc> quod esset 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="61"/>signum et intellectio illius cuius est intellectio etiam ipso in eadem potentia manente 
+          <lb ed="#P" n="62"/>quod non videtur concedendum <add place="margin-below">in primo folio ad signum <unclear>tale</unclear></add>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e624">
+          <pc type="pilcrow"/> praeterea quod vere videatur quaelibet persona divina alia earum 
+          <lb ed="#P" n="63"/>secundum deitatem cognita videtur quia non plus potest contingere quam quod 
+          <lb ed="#P" n="64"/>aliquid puta a per se cognoscatur vel diligatur ab alia potentia cognitiva 
+          <lb ed="#P" n="65"/>et dilectiva quin omne illud quod est realiter a cognoscatur etc quam 
+          <lb ed="#P" n="66"/>quod <c>a</c> cognoscatur etc et tamen quod aliud ab a unicum sibi sicut 
+          <lb ed="#P" n="67"/>subiectum formae vel accidenti non cognoscatur sed 2m contingere non potest 
+          <lb ed="#P" n="68"/>igitur nec primum maior patet quia si ex hoc quod albedo informans subiectum 
+          <lb ed="#P" n="69"/>videtur eo ipso videatur subiectum informatum stante informatione 
+          <lb ed="#P" n="70"/>licet per accidens multo magis videretur subiectum ex visione albedinis 
+          <lb ed="#P" n="71"/>si subiectum sibi ydemptitaretur realiter
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e650">
+          <pc type="pilcrow"/> minor patet per philosophum 2o de anima <unclear>dicen<lb ed="#P" n="72"/>tem</unclear>
+          <lb ed="#P" n="73"/>quod dyarrii filius videtur per accidens hoc etiam patet in alio <unclear>scilicet</unclear> 
+          <lb ed="#P" n="74"/>exemplo calor enim non potest calefacere et informare aliquam quin aliquam 
+          <lb ed="#P" n="75"/>caelfaciat nec albedo disgregare et informare subiectum quin subiectum 
+          <lb ed="#P" n="76"/>disgregationem igitur nec aliquid cognosci potest quin omne sibi idem cognoscatur 
+          <lb ed="#P" n="77"/>igitur videtur quod nulla persona divina cognosci potest quin essentiam divina cognoscatur 
+          <lb ed="#P" n="78"/>nec essentia per deductionem hanc quin quilibet quod est essentia haec cognoscatur 
+          <lb ed="#P" n="79"/>non minus quam si solum esset forma illorum igitur nulla persona divina cognosci 
+          <lb ed="#P" n="80"/>poterit quin quaelibet cognoscatur 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e679">
+          <pc type="pilcrow"/>6a conclusio sic de fruitione 
+          <lb ed="#P" n="81"/>vel dilectione quod nullus frui potest una persona sicut prima 
+          <lb ed="#P" n="82"/>de cognitione per media christi et beati augustini quoad primum argumentum 
+          <lb ed="#P" n="83"/>Et confirmatur quia aliter posset una persona sine alia adorari vel coli quia di<lb ed="#P" n="84"/>lectio 
+          fruitiva est summus deus cultus consequens est contra <name xml:id="aw98wa-xg1537-Nd1e692">damascenum</name> capitulo 
+          <lb ed="#P" n="85"/>54 et alios sanctos
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e698">
+          <pc type="pilcrow"/> Praeterea <add place="margin-right">ideo</add> una persona non potest creare alia non 
+          <lb ed="#P" n="86"/>creante quia principium creationis proximum et immediatum est velle divi<lb ed="#P" n="87"/>num 
+          commune omnibus personis divinis igitur pari ratione quia obiectum primum et 
+          <lb ed="#P" n="88"/>immediatum fruitionis vel visionis causa in causando actum quam in terminan<lb ed="#P" n="89"/>do
+          sic deitas ipsa vel bonitas essentialis communis omnis personis nec est 
+          <lb ed="#P" n="90"/>alia fruibilis nisi per istam sequitur quod quaelibet erit obiectum sicut 
+          <lb ed="#P" n="91"/>alia 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e719">
+          <pc type="pilcrow"/> praeterea non est possibile quod quis fruatur aliquo nisi illud al<lb ed="#P" n="92"/>liciat 
+          ipsum per modum finis sed nulla persona potest voluntatem aliquam al<lb ed="#P" n="93"/>licere 
+          per modum finis nisi tunc alia alliciat Similiter per modum 
+          <lb ed="#P" n="94"/>finis quia non est plus possibile quod una persona sit tam finalis alicuius 
+          <lb ed="#P" n="95"/>effectus <add place="margin-right">sine alia</add> quam quod una sit efficiens sine alia sed opera trinitatis 
+          <lb ed="#P" n="96"/>sunt indivisa igitur 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e738">
+          <pc type="pilcrow"/> praeterea aliter una persona posset esse finalis et sum<lb ed="#P" n="97"/>ma 
+          beatitudo alicuius alia non existente consequens inconveniens et 
+          <lb ed="#P" n="98"/>consequentia patet quia qua ratione in uno gradu fruitionis pari ratione in 
+          <lb ed="#P" n="99"/><unclear>omni</unclear> illius speciei et similiter una est ita bona bonitate essentiali sicud 
+          <lb ed="#P" n="100"/>omnis igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e752">
+          <pc type="pilcrow"/> Praeterea probo hoc per argumentum commune <add place="margin-below">omnibus quasi conclusionibus simul quia quin posset esse</add> fruitio alterius 
+          <lb ed="#P" n="101"/>igitur nec quoniam si est sic de facto fruitio alteirus personae antecedens probo 
+          <lb ed="#P" n="102"/>primo secundum opinantem contrarium <name xml:id="aw98wa-xg1537-Nd1e763">scotum</name> scilicet distinctione 1 quaestio 2a <add place="margin-right">qui dicit</add> quod nec intellectus de potentia sua 
+          <lb ed="#P" n="103"/>naturali potest vivere essentiam non videndo personam nec unam personam non 
+          <lb ed="#P" n="104"/>videndo aliquam quia intellectus mere naturaliter et non libere agit agente 
+          <lb ed="#P" n="105"/>obiecto si igitur oppositum ex parte sui agit <unclear>ma?i?do</unclear> 3es personas intellectui non 
+          <lb ed="#P" n="106"/>est in potestate intellectus ut videat aliquid ostensis et aliquid non vide<lb ed="#P" n="107"/>at 
+          nec intellectus ut videat aliquid ostensis et aliquid non vide<lb ed="#P" n="108"/>at 
+          nec voluntas potest ordinate frui essentia non fruendo persona quia si non 
+          <lb ed="#P" n="109"/>frueretur non inpedimenta peccaret secundum eum sed dubitans de potentia 
+          <lb ed="#P" n="110"/>absoluta voluntatis secundum quam videretur <add place="margin-right">magis</add> posse frui una persona 
+          <lb ed="#P" n="111"/>non fruendo alia vel frui essentia non persona dicit et quod non quia licet 
+          <lb ed="#P" n="112"/>in potestate voluntatis sic aliquis actus ut ponatur in esse <subst><del>et</del> <add>vel</add></subst> non ponatur 
+          <lb ed="#P" n="113"/>tamen non est in potestate eius ut actus <unclear>po?tus</unclear> in esse habeat illam con<lb ed="#P" n="114"/>ditionem 
+          vel non habeat quae naturaliter competit actui ratione obiecti actus 
+          <lb ed="#P" n="115"/>autem fruitionis quantum est ex natura obiecti patus est ut sic trium 
+          <lb ed="#P" n="116"/>personarum in essentia quia non ponendo aliquod miraculum ex parte obiecti erit 
+          <lb ed="#P" n="117"/>de se terminet sic igitur patet antecedens per eum consequentia patet tum quia non con<lb ed="#P" n="118"/>tingit 
+          transire de contradictorio ad contadictorium sine alia de 5 viis 
+          <lb ed="#P" n="119"/>in alia quaestione prius tactus etc licet non sic consequentia bona 
+          <lb ed="#P" n="120"/>per eum respectu potentiae divinae sic enim instat sibi ipsi quod aliquis forsan 
+          <pb ed="#P" n="65-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>diceret quod ratio iam posita concluderet quod non est in potestate dei quod 
+          <lb ed="#P" n="2"/>actus sic essentiae et non trium personarum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e830">
+          <pc type="pilcrow"/> Sed respondet quod non sequitur nam actus 
+          <lb ed="#P" n="3"/>elicitus est in potestate dei quantum ad aliquam conditionem quae naturaliter 
+          <lb ed="#P" n="4"/>sibi competeret ex obiecto et tamen non est in potestate creata quantum ad aliam 
+          <lb ed="#P" n="5"/>conditionem utpote sicut exemplificando innuit quod sic vel non sit 
+          <lb ed="#P" n="6"/>respectu obiecti secundarii
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e843">
+          <pc type="pilcrow"/> Respondeo <subst><del rend="expunctuation">de</del> <add place="above-line">ex</add></subst> quo teneo consequentiam sibi contrariam non ac<lb ed="#P" n="7"/>cipio 
+          dicta sua <unclear>consequentia</unclear> ut teneam sed ut ex dictis suis 
+          <lb ed="#P" n="8"/>pro conclusione mea contra eam arguam et ideo concedo quod male mihi suf<lb ed="#P" n="9"/>ficienter 
+          solvit propriam instantiam contra se et quod ego probo per idem 
+          <lb ed="#P" n="10"/>principium inpossibile est transire de contradictorio in contradictorium etc quo principio 
+          <lb ed="#P" n="11"/>ipsemet etiam frequenter utitur sicut distinctione 17 primi et alibi et certe in hoc 
+          <lb ed="#P" n="12"/>passu de obiecto primario et secundario quod idem actus modo sit 
+          <lb ed="#P" n="13"/>respectu unius sine alio et alias non suis discipulis et sequax valemus 
+          <lb ed="#P" n="14"/>Ioannes de eadem materia sibi planissime contradicit
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e875">
+          <pc type="pilcrow"/> 2o probo idem antecedens 
+          <lb ed="#P" n="15"/>sicut supra de cognitione quicumque diligit aliquam bonitatem diliget eo 
+          <lb ed="#P" n="16"/>ipso omne illud quod est ita bonitas sum hoc sciat sum non sed qui 
+          <lb ed="#P" n="17"/>diligit deitatem diligit bonitatem cui quaelibet persona est eadem realiter 
+          <lb ed="#P" n="18"/>ideo diligit quamlibet personam contra patet quia non minus hoc quam qui diligit 
+          <lb ed="#P" n="19"/>formam aliquam diligit subiectum illius forme si diligit istam frui<lb ed="#P" n="20"/>tive 
+          et non usive desiderando eam sibi ipsi vel non minus hoc 
+          <lb ed="#P" n="21"/>quam qui odit mores alicuius odit sic eum morigeratum 
+          <lb ed="#P" n="22"/>stantibus moribus saltem de amore in <unclear>compos?s</unclear> est hoc verum de 
+          <lb ed="#P" n="23"/>quo est hic sermo vel non minus hoc quam qui odit naturam aliquam 
+          <lb ed="#P" n="24"/>ex hoc odit suppositum illius naturae licet natura illa realiter distinguatur 
+          <lb ed="#P" n="25"/>a tali supposito sed ibi non potest aliter esse teste christo qui dixit de iudaeis 
+          <lb ed="#P" n="26"/>quod ipsum oderunt <add place="margin-left">qui si oderunt</add> eius humanitatem et mores et doctrinam ex quo 
+          <lb ed="#P" n="27"/>secundum verum christi sequebatur quod ipsam occiderunt licet hic ignorarent 
+          <lb ed="#P" n="28"/>quia nescierunt quod illa natura quam oderunt esset suppositi divini 
+          <lb ed="#P" n="29"/>nam secundum apostolum si cognovissent etc igitur multo fortius haec si ita 
+          <lb ed="#P" n="30"/>natura odita ydemptitasset sibi realiter illud suppositum qua quis 
+          <lb ed="#P" n="31"/>fruitur cum deo fruitur quae est eadem personis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e922">
+          <pc type="pilcrow"/>7a conclusio quod bene contingit 
+          <lb ed="#P" n="32"/>cognoscere aliquid esse deum vel essentiam divinam non cognoscendo illud esse trinitatem 
+          <lb ed="#P" n="33"/>vel 3s personas sumpto hoc dicto in hoc sensu commune 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e931">
+          <pc type="pilcrow"/> 8a conclusio proportionalis est 
+          <lb ed="#P" n="34"/>7ae quod <unclear>convenit</unclear> aliquem credere se frui divina essentia non credendo se 
+          <lb ed="#P" n="35"/>frui trinitatem vel alia persona huius relativa
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e942">
+          <pc type="pilcrow"/> 7a probatur sic tum quia philosophi 
+          <lb ed="#P" n="36"/>et iudaei et ceteri infideles scioli tenent primum et non 2um <add place="margin-left">cum quia secundum veritatem philophi demonstraverunt primum 2m</add> quod nec de<lb ed="#P" n="37"/>monstraverunt 
+          nec demonstrare potuerunt <pc type="punctus"/> cum 3o quia aliquis est divina 
+          <lb ed="#P" n="38"/>essentia et non est 3 personae igitur et hic cognosci potest cum 4o quia de eodem omnino 
+          <lb ed="#P" n="39"/>contingit scire id est veraciter asserere et indubitabiliter ipsum esse animal 
+          <lb ed="#P" n="40"/>sine hoc quod sciatur ipsum esse hominem ut patet de viso a remo<lb ed="#P" n="41"/>tis 
+          ergo a simili in proposito cum essentialis sit essentia divina 3 personae quam 
+          <lb ed="#P" n="42"/>hoc animal rationale homo in casu proposito vel in casu simili ille color haec 
+          <lb ed="#P" n="43"/>albedo cum quia secundum veritatem licet intellectus sic vere et realiter anima 
+          <lb ed="#P" n="44"/>intellectiva vel substantia spiritualis menti tamen sciunt intellectum esse intellectum et 
+          <lb ed="#P" n="45"/>tamen nesciunt intellectum esse substantiam si credunt quod sic accidens et similiter de 
+          <lb ed="#P" n="46"/>voluntate igitur a simili in proposito tum quia in deo licet paternitas sic realiter 
+          <lb ed="#P" n="47"/>deitas tamen aliqui credunt naturalis <unclear>repugnant</unclear> se scire posito 
+          <lb ed="#P" n="48"/>quod ibi sic deitas et paternitas quod <add place="margin-left">paternitas</add> est paternitas et non credunt 
+          <lb ed="#P" n="49"/>quod paternitas sic deitas ymmo contrarium sicud pigas et <unclear>biensu</unclear> igitur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e990">
+          <lb ed="#P" n="50"/><pc type="pilcrow"/> 8a probatur ex 7a quia ex 7a aliquid potest scire vel credere aliquid esse essentiam divinam 
+          <lb ed="#P" n="51"/>et per consequens esse summum bonum vel summum diligibile non sciendo vel non cre<lb ed="#P" n="52"/>dendo 
+          illud esse trinitatem personarum sed iste <add place="margin-left">qui</add> credit et scit aliquid esse summum 
+          <lb ed="#P" n="53"/>diligibile potest illud summe diligere quia eo ipso dictare potest 
+          <lb ed="#P" n="54"/>illud esse summum diligibile vel diligendum vel colendum et <unclear>huius</unclear> vel 
+          <lb ed="#P" n="55"/>conformare se illi dictamini et exequi diligendo et per consequens potest 
+          <lb ed="#P" n="56"/>frui essentia divina et si potest frui potest hoc advertere et per consequens 
+          <lb ed="#P" n="57"/>potest scire vel credere se frui divina essentia et tamen non cre<lb ed="#P" n="58"/>deret 
+          nec sciret se frui trinitate vel persona
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1018">
+          <pc type="pilcrow"/> 9a conclusio est quod 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>possum velle volitione saltem acceptationis et complacentiae aliquid 
+          <lb ed="#P" n="60"/>esse divinam essentiam non volendo illud esse trinitatem vel personam taliter relativam <pc type="punctus"/> 
+          <lb ed="#P" n="61"/>quia in omni credito quod nihil displicens includit vel habet annexum pos<lb ed="#P" n="62"/>sum 
+          complacere sine hoc quod mihi placeat illud complexe significabile 
+          <lb ed="#P" n="63"/>quod non creditur nec scitur sed magis creditur esse inpossibile sed aliquid esse di<lb ed="#P" n="64"/>vinam 
+          essentiam potest esse creditum absque hoc quod illud credatur esse trini<lb ed="#P" n="65"/>tas 
+          igitur maior patet quia sicut potest dictari a ratione esse <unclear>complaciendum</unclear> 
+          <lb ed="#P" n="66"/>et illud esse bonum placibile etc nec obstat <unclear>quam<!-- possibly correction of quia --></unclear> voluntas non possit conformaliter 
+          <lb ed="#P" n="67"/>re velle tali dictamini
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1054">
+          <pc type="pilcrow"/> 2us articulus est arguere contra praedictas 
+          <lb ed="#P" n="68"/>conclusiones et primo probatur quod contingit et ordinate frui essentia non fru<lb ed="#P" n="69"/>endo 
+          persona et etiam quod absolute hoc contingat primo per rationes <name xml:id="aw98wa-xg1537-Nd1e1062">scoti</name> ubi 
+          <lb ed="#P" n="70"/>primo supra quas recitat <name xml:id="aw98wa-xg1537-Nd1e1067">okam</name> libro 1 distinctione prima quaestio 5 primo quia essentia 
+          <lb ed="#P" n="71"/>divina est aliquid conceptibile in cuius conceptu non includitur <unclear>re?o</unclear> probatur ibi 
+          <lb ed="#P" n="72"/>per augustinum igitur sic potest concipi a viatore sed essentia divina concepta 
+          <lb ed="#P" n="73"/>habet rationem summi boni igitur et perfectam rationem fruibilitatis igitur contingit 
+          <lb ed="#P" n="74"/>ea frui ordinate
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1080">
+          <pc type="pilcrow"/> Confirmatur quia ex personis naturalibus potest con<lb ed="#P" n="75"/>cludi 
+          aliquid esse summum bonum et tamen non esse trinum et unum et circa 
+          <lb ed="#P" n="76"/>summum bonum potest voluntas sic cognitum habere aliquem actum et non necessario 
+          <lb ed="#P" n="77"/>in ordinatum igitur actum fruitionis <add place="margin-right">ordinate</add> circa essentiam sine hoc quod circa personam 
+          <lb ed="#P" n="78"/><add place="margin-left">relativam</add> licet non econtra <pc type="punctus"/> quia pari in ratione sui includit essentiam 2o proabtur quia via<lb ed="#P" n="79"/>tor 
+          ordinate posset frui una persona non fruendo alia quia 
+          <lb ed="#P" n="80"/>respectu talium personarum sunt 3 distincti articuli igitur potest concipi una persona cui 
+          <lb ed="#P" n="81"/>correspondet unus articulus non concepta aliquo et tunc in ita persona concepta potest 
+          <lb ed="#P" n="82"/>concipi ratio summi boni igitur contingit frui illa et non qualibet 
+          <lb ed="#P" n="83"/>alia
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1112">
+          <pc type="pilcrow"/> Item pater prius origine quam genuit filium est perfecte beatus 
+          <lb ed="#P" n="84"/>quia nullam perfectionem sibi intrinsecam habet a persona producta <pc type="punctus"/> beatitudo autem 
+          <lb ed="#P" n="85"/>est perfectio intrinseca <subst><add place="margin-right">personae beatae</add> <del rend="underline">perfecte beatifica</del></subst> sed in illo priori est perfecte beatus 
+          <lb ed="#P" n="86"/>ergo in isto prior perfecte habet obiectum beatificans non autem in illo 
+          <lb ed="#P" n="87"/>priori videtur habere essentiam communictam tribus vel obiectum sed essentiam absolute vel 
+          <lb ed="#P" n="88"/>essentiam ut est in una persona tantum per se igitur non est de ratione 
+          <lb ed="#P" n="89"/>essentiae ut est obiectum beatificum quod ipsa <seg type="correction">beatus<del rend="expunctuation">tudo</del></seg> inquantum communicata 
+          <lb ed="#P" n="90"/>3bus et hoc neque quantum ad visionem neque quantum ad fruitionem igitur simpliciter 
+          <lb ed="#P" n="91"/>primum obiectum beatificum est ipsa essentia divina aboslute igitur non videtur contradictio 
+          <lb ed="#P" n="92"/>aliqua quin intellectus creatus videat vel fruatur essentia non fruendo 
+          <lb ed="#P" n="93"/>persona
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1153">
+ <pc type="pilcrow"/> hoc ultimo arguitur in modo ponendi <name xml:id="aw98wa-xg1537-Nd1e1157">huius doctoris</name> sicut omnis actus 
+          <lb ed="#P" n="94"/>habens obiectum primum a quo essentialiter dependet a secundarium a quo non depen<lb ed="#P" n="95"/>det 
+          essentialiter sed tendit in illud virtute primi obiecti licet non possit ma<lb ed="#P" n="96"/>nere 
+          idem actus nisi habeat habitudinem ad primum obiectum potest tamen manere 
+          <lb ed="#P" n="97"/>idem sine habitudine ad 2m obiectum quia ab eo non dependet exempli<lb ed="#P" n="98"/>ficat 
+          de actu visionis divinae essentiae et aliarum rerum inessentia ubi 
+          <lb ed="#P" n="99"/>essentia est primum obiectum et res aliae visae sunt secundario obiectum ille 
+          <lb ed="#P" n="100"/>enim actus visionis non posset manere idem nisi esset eiusdem essentiae 
+          <lb ed="#P" n="101"/>sed bene posset manere idem absque hoc quod esse rerum visarum in 
+          <lb ed="#P" n="102"/>ea 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1179">
+          <pc type="pilcrow"/> Ex hoc deducitur propositum sit sicut enim deus potest sine 
+          <lb ed="#P" n="103"/>contradictione cooperari ad actum primum inquantum tendit in primum obiectum non 
+          <lb ed="#P" n="104"/>cooperando ad ipsum inquantum tendit in secundum <add>obiectum</add> et tamen erit 
+          <lb ed="#P" n="105"/>idem actus ita sine contradictione potest cooperari ad visionem 
+          <lb ed="#P" n="106"/>essentiae quae habet <unclear>q</unclear> rationem primi obiecti non cooperando eidem actui 
+          <lb ed="#P" n="107"/>visionis vel fruitionis inquantum tendit in personam <subst><add place="margin-right">et pari ratione</add> <del rend="underline">vel cooperari</del></subst> 
+          inquantum tendit in personam unam et non inquantum tendit in aliam
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1206">
+          <pc type="pilcrow"/> Similiter arguitur per <unclear>C</unclear> et primo probatur quo haec opinio non possit salvare 
+          <lb ed="#P" n="108"/>propositiones ad quas compellit fides de personis divinis primo quia ista propositio tenetur 
+          <lb ed="#P" n="109"/>fide <pc type="punctus"/> pater in divinis non est spiritus sanctus <pc type="punctus"/> sed haec salvari non 
+          <lb ed="#P" n="110"/>potest tenendo quod prima persona non potest intelligi alia intentione qua non in<lb ed="#P" n="111"/>telligatur 
+          3a <add place="margin-center">igitur</add> assumptum probatur quia propositio ista mentalis salvanda 
+          <lb ed="#P" n="112"/>pater non est spiritus sanctus componitur ex <unclear>intelligibilibus</unclear> aut igitur intelligo illa 
+          <lb ed="#P" n="113"/>quae est subiectum propositionis istius repraesentat primam personam et non 
+          <lb ed="#P" n="114"/>3um et habetur propositum aut aequaliter repraesentat 3am personam sicud 
+          <pb ed="#P" n="65-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>primam et tunc propositio est aeque falsa sicud vera quia aeque significat quod 3a persona non 
+          <lb ed="#P" n="2"/>sic 3a sicut significat quod prima persona non sit 3a <pc type="punctus"/> Et eodem modo arguitur de in<lb ed="#P" n="3"/>tellectione 
+          quae est praedicatum aut 2o modo illud subiectum propositionis repraesentat primam 
+          <lb ed="#P" n="4"/>personam primo et connotat 2ario 3am et hoc non potest dari quia conceptus 
+          <lb ed="#P" n="5"/>qui subicitur in ista propositione refertur ad 2am personam et non ad 3am sicud 
+          <lb ed="#P" n="6"/>conceptus <unclear>spi?ris</unclear> refertur ad 3am personam etiam non ad <add place="margin-left">vel 2am</add> aliam
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1264">
+          <pc type="pilcrow"/> confirmatur illud 
+          <lb ed="#P" n="7"/>argumentum quia per adversarios una persona potest significari sine alia quamvis non 
+          <lb ed="#P" n="8"/>possit intelligi sine alia sed tunc sic ubi significari est si igitur <unclear>intellecti</unclear>
+          <lb ed="#P" n="9"/>et econtra intelligi est significari quod non <unclear>intelligetur</unclear> non significatur et quod non 
+          <lb ed="#P" n="10"/>significatur non intelligitur sed in mente significari non est nisi intelligi <add place="margin-left">igitur si</add> significet 
+          <lb ed="#P" n="11"/>personam primam praecise prima personae intelligitur per eam ita quod nulla alia quod est 
+          <lb ed="#P" n="12"/>intentum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1289">
+          <pc type="pilcrow"/> Praeterea non est maior contradictio quod una persona cognoscatur 
+          <lb ed="#P" n="13"/>cognitione incomplexa alia non cognita quam de cognitione complexa 
+          <lb ed="#P" n="14"/>quia aeque sequitur eumdem deum esse cognitum et non esse cognitum per illam 
+          <lb ed="#P" n="15"/>cognitionem de cognitione complexa sicud de inconplexa sed nulla 
+          <lb ed="#P" n="16"/>contradictio est quod una persona cognoscatur cognitione complexa alia non cogni<lb ed="#P" n="17"/>ta 
+          per illam cognitionem sicut per istam propositionem in mentem alia persona est in<lb ed="#P" n="18"/>genita 
+          intelligitur prima persona ita quod totalis propositio est cognitio complexa 
+          <lb ed="#P" n="19"/>primae personae et totalis propositio non eset cognitio complexa secundae primae 
+          <lb ed="#P" n="20"/>nec 3ae aliter non plus verificaretur pro persona quam pro alia quia non verifi<lb ed="#P" n="21"/>catur 
+          nisi pro re quae intelligitur per eam
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1313">
+          <pc type="pilcrow"/> Idem est de ista propositione alia persona 
+          <lb ed="#P" n="22"/>divina est genita et de ista aliqua persona divina est spirata 
+          <lb ed="#P" n="23"/>et sic de similibus quae sequuntur ex simbolo respectu unius personae vel plurium 
+          <lb ed="#P" n="24"/>personarum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1324">
+          <pc type="pilcrow"/> Item non apparet maior contradictio quod una persona <unclear>inte?atur</unclear> non 
+          <lb ed="#P" n="25"/>intellecta alia quam quod una incarnetur alia non incarnata sed 
+          <lb ed="#P" n="26"/>nulla contradictio includitur in 2o cum sic articulus fidei igitur saltem 
+          <lb ed="#P" n="27"/>non est nobis certum quod ex alia parte sic repungnatia
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1337">
+          <pc type="pilcrow"/> dicetur 
+          <lb ed="#P" n="28"/>forte quod non est simile de hoc quod una intelligatur alia non intellecta 
+          <lb ed="#P" n="29"/>et quod una incarnetur alia non incarnata <pc type="punctus"/> quia principium quo fit incarnatio 
+          <lb ed="#P" n="30"/>distinguitur ab aliis personis non sic principium quo alia persona est cognos<lb ed="#P" n="31"/>cibilis 
+          vel fruibilis sed bene dicitur quod non dicetur minor repungnantia 
+          <lb ed="#P" n="32"/>quod una non intelligatur alia non intellecta quam quod una causetur 
+          <lb ed="#P" n="33"/>alia non creante quoniam est similis ratio quia ista commune personis est intelligi 
+          <lb ed="#P" n="34"/>sicut creare sed secundum per omnes includit repungnantiam igitur et primum 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1359">
+          <lb ed="#P" n="35"/><pc type="pilcrow"/> Contra duo <unclear>prima homini</unclear> differenti <unclear>sustinenti</unclear> 3a personas esse unum deum 
+          <lb ed="#P" n="36"/>aequaliter apparent includere vel non includere contradictionem sicut aliam quia 
+          <lb ed="#P" n="37"/>uni indifferenti appareret quod si creare esset velle rem esse 
+          <lb ed="#P" n="38"/>non de aliquo et iudicaret quod illud velle esset essentiale et per consequens 
+          <lb ed="#P" n="39"/>necessario conveniens 3bus personis sicut sapere vel velle sic de in<lb ed="#P" n="40"/>carnari 
+          vel intellig quia terminari dependentiam extrinsecam negatur alterius 
+          <lb ed="#P" n="41"/>in visione ypostatica vel intellectionis seu dilectionis non apparet evidenter 
+          <lb ed="#P" n="42"/>non esse essentiale
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1385">
+          <pc type="pilcrow"/> Item nihil debet theologus negare a potentia divina 
+          <lb ed="#P" n="43"/>de quo nullam probat contradictionem posse <unclear>arguitur</unclear> sed extra talem cognitionem 
+          <lb ed="#P" n="44"/>causari qua cognoscatur una persona et non alia theologus nullam 
+          <lb ed="#P" n="45"/>poterit arguere contradictionem quia tenet quod non <unclear>ob?te</unclear> quod 3s personae sint 
+          <lb ed="#P" n="46"/>idem deus essentialiter cum sic distinguitur quod una generat alia non 
+          <lb ed="#P" n="47"/>generante et ipse non poterit probare per aliam viam quod plus 
+          <lb ed="#P" n="48"/>includat contradictionem unam personam cognosci alia non cognita quam 
+          <lb ed="#P" n="49"/>unam generare alia non generante maxime cum ibi sic 
+          <lb ed="#P" n="50"/>denominatio intrinseca et hic extrinseca et sicut tu arguis persona cognos<lb ed="#P" n="51"/>citur 
+          igitur essentia cognoscitur et ultra essentia cognoscitur igitur quaelibet persona igitur ita 
+          <lb ed="#P" n="52"/>arguo cibi persona generat igitur essentia generat quia sunt eadem res vel 
+          <lb ed="#P" n="53"/>quia persona est essentialiter essentia et ultra essentia generat igitur quaelibet persona generat et 
+          <lb ed="#P" n="54"/>sicut tu ex fide negas istas consequentias ita eius negabo 
+          <lb ed="#P" n="55"/>tuas quia non apparet unde magis probes tuas quam ego 
+          <lb ed="#P" n="56"/>istas
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1424">
+          <pc type="pilcrow"/> Ex hiis igitur apparet quod modus tuus dicendi non salvat 
+          <lb ed="#P" n="57"/>propositiones fidei de personis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1431">
+          <pc type="pilcrow"/> Item arguitur quod haec opinio non 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>potest salvare propositiones <pc type="punctus"/> ad quas fides compellit de essentia et persona 
+          <lb ed="#P" n="59"/>quia fides concedit istas propositiones essentia divina est filius pater non est trini<lb ed="#P" n="60"/>tas  
+          et sic de similibus quaero igitur de subiecto huius propositionis in men<lb ed="#P" n="61"/>te 
+          et ex intellectionibus compositae pater non est filius nec 
+          <lb ed="#P" n="62"/>trinitas an subiectum est aequaliter cognitio ipsius essentiae sicud personae vel 
+          <lb ed="#P" n="63"/>non <pc type="punctus"/> si non habetur propositum si sit tunc idem significatur per istam pater 
+          <lb ed="#P" n="64"/>non est filius et per istam essentia non est filius quia omnis termini significant 
+          <lb ed="#P" n="65"/>idem sicut cognosces significant sua obiecta et per consequens sicud ista est vera 
+          <lb ed="#P" n="66"/>pater non est filius et ista essentia non est filius
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1462">
+          <pc type="pilcrow"/> Item ista duo 
+          <lb ed="#P" n="67"/>sunt concedenda esse sapientem seu <unclear>creatum</unclear> primo vere dicitur de 
+          <lb ed="#P" n="68"/>essentia et non primo de persona igitur essentia intelligi potest alia intellectione consequentia 
+          <lb ed="#P" n="69"/>non intelligitur persona primum tu concederes cum <unclear>okam</unclear> probatio consequentiae quia 
+          <lb ed="#P" n="70"/>si esse creatum primo dicatur de essentia et non dicitur primo de persona 
+          <lb ed="#P" n="71"/>non potest intelligi quod primo dicatur de re extra quia res extra non 
+          <lb ed="#P" n="72"/>est pars propositionis in mente igitur dicitur primo de conceptu essentiae ille conceptus 
+          <lb ed="#P" n="73"/>essentiae aut est aequaliter conceptus personae sicut essentiae vel non <pc type="punctus"/> si sit <pc type="punctus"/> igitur esse 
+          <lb ed="#P" n="74"/>creatum non plus dicitur primo de essentia quam de persona quod negas <pc type="punctus"/> si 
+          <lb ed="#P" n="75"/>non tunc habetur propositum quod tunc fides eo ipso compellit concedere 
+          <lb ed="#P" n="76"/>quod aliquis est conceptus et cognitio essentiae qui non est cognitio personae 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1499">
+          Item 
+          <lb ed="#P" n="77"/>ista propositio haec persona est beata esset nata indifferenter esse vera sive 
+          <lb ed="#P" n="78"/>pater praecederet filium sive non duratione igitur suae beatitudini non re<lb ed="#P" n="79"/>pungnaret 
+          post modo dicendi per se quod non haberet filium pro aliquo re<lb ed="#P" n="80"/>pungnaret 
+          autem ei per se primo modo quod non haberet deita<lb ed="#P" n="81"/>te 
+          pro obiecto igitur alia perseitate est dicas obiectum beatitudinis personae primae 
+          <lb ed="#P" n="82"/>qua perseitate 2a persona non est obiectum beatitudinis suae
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1515">
+          <pc type="pilcrow"/> Item arguitur 
+          <lb ed="#P" n="83"/>quod haec opinio tuam ditat repungnatia dicit enim quod philosophi sci<lb ed="#P" n="84"/>verunt 
+          aliquid esse deum sive divinam essentiam non sciendo illud esse trinitatem 
+          <lb ed="#P" n="85"/>ex isto sequitur quod aliquam cognitionem habere poterant cuius obiectum esset 
+          <lb ed="#P" n="86"/>deitas sive distingueretur a persona sive non cum igitur illa cognitio non 
+          <lb ed="#P" n="87"/>requirat quod persona sic eius obiectum igitur sequitur quod aliquo modo personae 
+          <lb ed="#P" n="88"/>sic deitas obiectum illius actus quomodo non persona et sic affirmatio et 
+          <lb ed="#P" n="89"/>negatio sunt hic concedendae de essentia et persona quantum ad scientiam <add place="margin-left">cognitionem<!-- possibly a replacement for scientiam --></add> praehabita 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1540">
+          <lb ed="#P" n="90"/><pc type="pilcrow"/> Praeterea consequentia patet quia ista cognitio per quam scitur ista res <unclear>esse deus<!--possible correction here --></unclear> re<lb ed="#P" n="91"/>praesentat
+          illam rem esse deum et non repraesentat illam rem 
+          <lb ed="#P" n="92"/>esse patrem igitur sive ista res esset pater sive non nihilominus ista 
+          <lb ed="#P" n="93"/>cognitio repraesentaret differentiam illam
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1556">
+          <pc type="pilcrow"/> Item per eos et parte esse crea<lb ed="#P" n="94"/>tum 
+          primo dicitur de conceptu essentiae et non de conceptu personae igitur aliquis conceptus 
+          <lb ed="#P" n="95"/>essentiae est qui non est personae conceptus et ista aliqua est essentiae cognitio 
+          <lb ed="#P" n="96"/>quae non est cognitio personae quod est propositum et obiectum dati
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1567">
+          <pc type="pilcrow"/> Item prima 
+          <lb ed="#P" n="97"/>persona significatur conceptu patris et 2a non ut videtur ista opinio dicere sed conceptus 
+          <lb ed="#P" n="98"/>patris est intellectio igitur prima persona intelligitur illo conceptu et 2a non quod est 
+          <lb ed="#P" n="99"/>obiectum dati
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1578">
+          <pc type="pilcrow"/> Item per te iste conceptus ens nec producens intra 
+          <lb ed="#P" n="100"/>nec productum est proprius essentiae et non convenit personae sed iste conceptus est cognitio 
+          <lb ed="#P" n="101"/>igitur propositum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1587">
+          <pc type="pilcrow"/> Item in ista propositione deus est pater et filius et spiritus 
+          <lb ed="#P" n="102"/>sanctus subiectum supponit pro essentia et non pro aliqua personarum sed conceptus mentis 
+          <lb ed="#P" n="103"/>qui est intellectio non supponit nisi pro illo quod significat et cum sic 
+          <lb ed="#P" n="104"/>intellectio non significat nisi illud quod intelligitur per eam igitur essentia intelligitur 
+          <lb ed="#P" n="105"/>per illum conceptum et non sic persona igitur dicere oppositum huius cum assumpto 
+          <lb ed="#P" n="106"/>dato est dicere repungnantia
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1603">
+          <pc type="pilcrow"/> Item determinatum est quod 3es 
+          <lb ed="#P" n="107"/>sunt personae realiter distincte igitur determinatum est quod sunt 3a cognos<lb ed="#P" n="108"/>cibilia 
+          et hoc est propositum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1613">
+          <pc type="pilcrow"/> Item si non hoc <unclear>praecise<!-- correction here --></unclear> vi<lb ed="#P" n="109"/>deretur 
+          <add place="above-line">quod</add> ex indemptitatem essentiali personarum ita videtur concludi quod u<lb ed="#P" n="110"/>na 
+          persona non potest ostendi alia non ostensa sicut quod una persona 
+          <lb ed="#P" n="111"/>non possit creare alia non terminante quia omnis personae sunt una 
+          <lb ed="#P" n="112"/>creatio quia sunt ita volitio qua deus vult rem capere esse 
+          <lb ed="#P" n="113"/>de nihil et non sunt plures creationes <unclear>vel<!-- corrected somehow --></unclear> plura creantia sed 
+          <pb ed="#P" n="66-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>ad propositum non sic sunt unum cognoscibile quin etiam sint plura cognoscibilia 
+          <lb ed="#P" n="2"/>tum quia primam personam intelligi non intellecta 2a est intellectionem esse in men<lb ed="#P" n="3"/>te 
+          quae repraesentet illam rem esse talem personam et non aliquam ista quod affirmatio 
+          <lb ed="#P" n="4"/>et negatio sunt conditiones notitiae repraesentatis sed si creare et non cre<lb ed="#P" n="5"/>are 
+          convenirent diversis personis tunc volitio quae deus est conveniret uni 
+          <lb ed="#P" n="6"/>personae et non alteri <pc type="punctus"/> tum quia unam personam intelligi puta primam alia 
+          <lb ed="#P" n="7"/>non esse intellecta non est nisi intellectionem esse cuius veritas re<lb ed="#P" n="8"/>quirit 
+          per se quod suum obiectum sic ista prima persona et eius veritas 
+          <lb ed="#P" n="9"/>non requirit quod eius obiectum sic illa alia persona ymo eius veritati non 
+          <lb ed="#P" n="10"/>repungnat personae quod obiectum eius non esset illa alia persona quia actus iste 
+          <lb ed="#P" n="11"/>repraesentans <unclear>illum</unclear> obiectum esse patrem esset indifferenter verus sive suum 
+          <lb ed="#P" n="12"/>obiectum esset filius sive non primam igitur personam intelligi alia non intellecta non 
+          <lb ed="#P" n="13"/>est nisi unam intellectionem esse quae repraesentet illam rem esse <add place="margin-bottom">talem personam non existente alia intellectione alia intellectione quae repraesentet <unclear>t?m</unclear> rem esse personam</add> aliquam personam ista 
+          <lb ed="#P" n="14"/>quod hic conceditur aliquid pro uno actu intelligendi quod negatur pro alio actu 
+          <lb ed="#P" n="15"/>intelligendi non sic autem cum dicitur unam personam creare alia non 
+          <lb ed="#P" n="16"/>creante quia ibi concederentur affirmatio et negatio pro eadem creatione quae est 
+          <lb ed="#P" n="17"/>ipsemet personae
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1691">
+          <pc type="pilcrow"/> Item nihil negandum est a potentia dei de quo non 
+          <lb ed="#P" n="18"/>patet contradictio sed talem actum causari non apparet contradictio qui sit essentiae 
+          <lb ed="#P" n="19"/>et non personae cognitio quia non videtur contradictio deum posse causare 
+          <lb ed="#P" n="20"/>talem visionem suae essentiae qualem causaret de ea si ipsa distin<lb ed="#P" n="21"/>gueretur 
+          a persona vel talem visionem quae sic repraesentari dei<lb ed="#P" n="22"/>tatem 
+          quod eam repraesentaret si distingueretur a persona nec etiam quin 
+          <lb ed="#P" n="23"/>possit causare unam visionem seu aliquam cognitionem quae repraesenta<lb ed="#P" n="24"/>ret 
+          deum ipsum esse deum non repraesentando ipsum esse deum patrem vel 
+          <lb ed="#P" n="25"/>filium vel spiritum sanctum sic intelligendo quod esset talis cognitio illius rei quod intellectus 
+          <lb ed="#P" n="26"/>per eam natus esset asserere se cognoscere deum licet non esset talis 
+          <lb ed="#P" n="27"/>cognitio per quam intellectus natus esset asserere se cognoscere 
+          <lb ed="#P" n="28"/>patrem vel filium vel spiritum sanctum igitur hic non est negandum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1720">
+          <pc type="pilcrow"/> Et confirmatur quia hic 
+          <lb ed="#P" n="29"/>potest homo naturaliter respectu sensibilis habere visionem quae repraesentet rem visam 
+          <lb ed="#P" n="30"/>esse colorem non repraesentando eam esse albedinem vel nigredinem licet ipsa 
+          <lb ed="#P" n="31"/>de facto sic albedo vel nigredo igitur 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1731">
+          Item de qualibet persona potest haberi de<lb ed="#P" n="32"/>scriptio 
+          et notificatio sibi propria igitur ipsa potius repraesentat illam personam 
+          <lb ed="#P" n="33"/>quam aliam assumptum patet quia aliter intellectus non distingueret inter personas 
+          <lb ed="#P" n="34"/>vel proportionaliter argui potest de fruitionibus conformibus notitiis ante dictis 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1740">
+          <lb ed="#P" n="35"/><pc type="pilcrow"/>Item si intellecta una persona oportet eo ipso alia intelligi hoc maxime 
+          <lb ed="#P" n="36"/>videretur quia pater et filius sunt correlativa et ideo non videtur quod alia intellectio 
+          <lb ed="#P" n="37"/>repraesentet primam personam esse patrem quin repraesentet 2am esse filium sed hoc 
+          <lb ed="#P" n="38"/>non oportet quia sicut res <unclear>abstracta</unclear> potest concipi conceptu relativo et describi quandoque 
+          <lb ed="#P" n="39"/>descriptione relativa ita etiam res relativa potest concipi conceptu absoluto 
+          <lb ed="#P" n="40"/>et describi vel saltem conceptu repraesentate ipsam non in ordine 
+          <lb ed="#P" n="41"/>ad rem cuius est ipse conceptus compositus sive sic relativus negativus 
+          <lb ed="#P" n="42"/>sive non repraesentat primam personam quam significat non in ordine ad 
+          <lb ed="#P" n="43"/>finem licet forte concipi non possit conceptu denominante ipsum relative 
+          <lb ed="#P" n="44"/>ad finem nisi concipiatur filius igitur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1767">
+          <pc type="pilcrow"/> Item ad eundem intellectum 
+          <lb ed="#P" n="45"/>ad quem fides expellit concedere istas essentia est filius pater non 
+          <lb ed="#P" n="46"/>est filius sunt istae concedendae essentia videtur hac visione pater non videtur hac 
+          <lb ed="#P" n="47"/>visione probatur quia per illam propositionem pater non est filius aut intelligitur quod pater 
+          <lb ed="#P" n="48"/>non sit ista res quae est filius et hoc est falsum quia secundum fidem pater est 
+          <lb ed="#P" n="49"/>ipsa deitas quae est filius aut intelligitur per eam quod pater non est de se 
+          <lb ed="#P" n="50"/>filius 1a quod sic pater esset deitas sive non adhuc non esset filius isto 
+          <lb ed="#P" n="51"/>modo concedendum est quod pater non sit filius igitur a simili in proposito 
+          <lb ed="#P" n="52"/>cum dicitur pater non videtur hac visione aut intelligitur quod pater 
+          <lb ed="#P" n="53"/>non sit ista res quae videtur per eam et hoc est falsum si essentia 
+          <lb ed="#P" n="54"/>videtur per eam cum ipse sit essentia aut intelligitur quod pater non 
+          <lb ed="#P" n="55"/>sic de se visibilis tali visione id est quod sum pater esset idem 
+          <lb ed="#P" n="56"/>cum deitate sive non nihilominus videretur ista visione et hoc 
+          <lb ed="#P" n="57"/>non est verum igitur negativa sibi opposita vera est sumendo igitur 
+          <lb ed="#P" n="58"/>propositiones istas ad illum intellectum ad quem loquitur fides cum dicitur 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/>essentia est trinitas pater non est trinitas possunt equae ille duae 
+          <lb ed="#P" n="60"/>propositiones concedi essentia videtur pater non videtur sicut ille vel intelligitur forte 3o 
+          <lb ed="#P" n="61"/>per essentiam videri patre non viso quod in patre sic alia entitas a 
+          <lb ed="#P" n="62"/>proprietate personali ita quod in patre sint duae entitates distinctae quantumcumque <unclear>par?net</unclear>
+          <lb ed="#P" n="63"/>quarum una terminet visionem qua dicitur essentia videri alia non terminante 
+          <lb ed="#P" n="64"/>et hoc includit contradictionem et ideo vera est negativa quae intelligeret 
+          <lb ed="#P" n="65"/>essentiam non esse ad hunc intellectum visam pater non viso sed sic nec 
+          <lb ed="#P" n="66"/>intelligis nec illi qui tuam tenent opinionem igitur hic intellectus non est 
+          <lb ed="#P" n="67"/>ad propositum 2us autem intellectus verus est et ad propositum iste igitur 
+          <lb ed="#P" n="68"/>sufficit haec argumenta sumpta sunt a <unclear>cath?cis</unclear>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1831">
+          <pc type="pilcrow"/> Item contra conclusiones 
+          <lb ed="#P" n="69"/>de notitia abstractiva arguo quia abstractiva ideo dicitur quia abstrahit ab a<lb ed="#P" n="70"/>liquo
+          vel aliquibus a quibus non abstrahit intuitiva igitur non oportet quod 
+          <lb ed="#P" n="71"/>omne cognitum per intuitivam cognoscatur per abstractivam igitur 
+          <lb ed="#P" n="72"/>dato quod personae divinae non possunt separatim <unclear>verificari</unclear> nec essentia a persona 
+          <lb ed="#P" n="73"/>videtur tum quia abstractiva cognitione possit maxime cum essentia vere et 
+          <lb ed="#P" n="74"/>realiter sic communis personis et commune cognosci potest proprio non cognito
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1851">
+          <pc type="pilcrow"/> Contra conclusionem primam de fruitione proprietas personalis licet vere sit bonitas 
+          <lb ed="#P" n="75"/>deitatis tamen non est de se ita igitur licet ex hoc quod ipsa est bonitas 
+          <lb ed="#P" n="76"/>essentialis ipsa diligatur si ista bonitas diligatur tamen non 
+          <lb ed="#P" n="77"/>oportet quod voluntas illam secundum se diligat sed solum per accidens propter idemp<lb ed="#P" n="78"/>titatem 
+          cum bonitate communi essentialis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1864">
+          <pc type="pilcrow"/> Item m?tis simul visis non oportet volunta<lb ed="#P" n="79"/>tem 
+          omnia simul visa simul diligere igitur dato quod personae in vi<lb ed="#P" n="80"/>deri 
+          vel cognosci sequestari non possunt non videtur <subst><add place="margin-right">requiri nec oportere</add> <del rend="strikethrough">sequi</del></subst> quin voluntas u<lb ed="#P" n="81"/>nam 
+          simul visam diligere valeat ex quo libere elicit actus 
+          <lb ed="#P" n="82"/>suos saltem elicitivos circa deum etiam parte aliam non diligendo 
+          <lb ed="#P" n="83"/>vel essentiam non diligendo personam omni eodem amore
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1887">
+          <pc type="pilcrow"/> Ad primum istorum 
+          <lb ed="#P" n="84"/>dicendum quod verum est quod divina essentia est aliquod oppositum conceptibile et ista est relatio 
+          <lb ed="#P" n="85"/>divina quia sunt idem conceptibile et tamen dicis quod essentia est conceptibile 
+          <lb ed="#P" n="86"/>in cuius conceptu non includitur relatio quaero quid vocas tu conceptum illius conceptibilis 
+          <lb ed="#P" n="87"/>quia vel illud quod concipitur et tunc verum eset quod relatio non includitur in illo 
+          <lb ed="#P" n="88"/>sed potius est illud etc per se primo modo sicut post dicetur etiam in alia 
+          <lb ed="#P" n="89"/>quaestione et hoc est magis qaum includi in illo et ideo ex hoc 
+          <lb ed="#P" n="90"/>non sequitur quin relatio concipiatur quando essentia concipitur sed magis sequitur contrarium 
+          <lb ed="#P" n="91"/>si intelligas per conceptum intellectionem verum est quia in isto conceptu non in<lb ed="#P" n="92"/>cluditur 
+          relatio certe nec essentia utraque tamen est illud quod per illud intelligitur 
+          <lb ed="#P" n="93"/>et ita non sequitur sit propositum et ideo deficit ad propositum tota 
+          <lb ed="#P" n="94"/>ulterior deductio sicud patet per se
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1916">
+          <pc type="pilcrow"/> Si dicas igitur quid est quod dicit 
+          <lb ed="#P" n="95"/>augustinus et scotus etiam allegat 7 de trinitate capitulo 2 si essentia relative dicitur 
+          <lb ed="#P" n="96"/>non est essentia quia omnis essentia quae relative dicitur est aliquid <unclear>extrinseco</unclear> relativo 
+          <lb ed="#P" n="97"/>ex quo concludit capitulo 3 augustinus qua propter si pater non est aliquid a se 
+          <lb ed="#P" n="98"/>non est aliquid quod ad alterum dicatur haec videntur sonare quod essentia possit 
+          <lb ed="#P" n="99"/>concipit sine hoc quod relatio concipiatur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1934">
+          <pc type="pilcrow"/> dicendum quod si ad vim vocis ex<lb ed="#P" n="100"/>primit 
+          negatur plane enim exprimit contradictoria in <subst><del>cognitionibus</del> <add place="margin-right">conditionali</add></subst> 
+          <lb ed="#P" n="101"/>et eius probatione <pc type="punctus"/> quia consequentia repugnaret medio ideo ad sensum eundo 
+          <lb ed="#P" n="102"/>potius quam ad verba
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1955">
+          <pc type="pilcrow"/> dicendum quod augustinus vult ibi quod si essentia debeat 
+          <lb ed="#P" n="103"/>diffiniri vel describi descriptione correspondente huic nomini essentia 
+          <lb ed="#P" n="104"/>et alteri nomini absoluto conceptus relatus non debeat poni in illa de<lb ed="#P" n="105"/>scriptione 
+          et ideo voluit etiam quod essentia quae relative dicitur potest descriptione 
+          <lb ed="#P" n="106"/>aliqua describi sine hoc quod per conceptum relatum describatur et ideo 
+          <lb ed="#P" n="107"/>dicitur de patre de quo non est dubium quin sit entitas quaedam rela<lb ed="#P" n="108"/>tiva 
+          et parte etiam per se primo modo quia si non esset aliquid ad se non 
+          <lb ed="#P" n="109"/>esset aliquid quod ad alterum diceretur id est si non possit exprimi per conceptum 
+          <lb ed="#P" n="110"/>absolutum non posset exprimi vel describi per conceptum aliquem relatum et 
+          <lb ed="#P" n="111"/>hoc est quod expressum est per <unclear>7am</unclear> conclusionem quod aliquid potest concipi seu 
+          <lb ed="#P" n="112"/>cognosci esse essentia fine hoc quod concipiatur esse relatio vel persona quoed concedo 
+          <lb ed="#P" n="113"/>sed ex hoc non sequitur quod essentia possit concipi absque hoc quod relatio 
+          <lb ed="#P" n="114"/>concipiatur 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e1988">
+          <pc type="pilcrow"/> Exemplum homo concipi non potest sine hoc quod creatura aliqua 
+          <lb ed="#P" n="115"/>concipiatur et tamen aliquid potest concipi esse homo sine hoc quod concipiatur 
+          <pb ed="#P" n="66-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>esse creatura
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2001">
+          <pc type="pilcrow"/> Similiter albedo quae est similitudo concipit non potest hoc remanente 
+          <lb ed="#P" n="2"/>quod ipsa sit similitudo quin concipiatur similitudo sed tamen potest concipi esse 
+          <lb ed="#P" n="3"/>albedo sine hoc quod concipiatur esse similitudo igitur ista in proposito essentia quae est 
+          <lb ed="#P" n="4"/><unclear>re?o</unclear> concipi non potest sine hoc quod relatio concipiatur et tamen ipsa potest 
+          <lb ed="#P" n="5"/>concipi <del rend="expunctuation">essentia</del> esse essentia sine hoc quod concipiatur esse relatio vel persona per idem 
+          <lb ed="#P" n="6"/>penitus patet ad confirmationem
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2021">
+          <pc type="pilcrow"/> ad 2m consequentia neganda est antecedens autem 
+          <lb ed="#P" n="7"/>ideo verum est quod licet nulla persona possit concipi vel intelligi quin quae<lb ed="#P" n="8"/>libet 
+          alia intelligatur quia tamen bene potest secundum 7am conclusionem concipit deum 
+          <lb ed="#P" n="9"/>vel aliam rem esse deum sine hoc quod ista res concipiatur esse trini<lb ed="#P" n="10"/>tas 
+          et posset etiam concipi esse pater sine hoc quod conciperetur esse filius 
+          <lb ed="#P" n="11"/>licet non sine hoc quod aliquid <add place="margin-left">conciperetur</add> antecedenter id est in suo antecedente <seg type="correction">esse<del rend="erasure">t</del></seg> filius vel 
+          <lb ed="#P" n="12"/><seg type="correction">posse<del>t</del></seg> concipi esse filius et eo ipso posset concipi esse pater et filius sine hoc 
+          <lb ed="#P" n="13"/>quod conciperetur esse spiritus sanctus iuxta 7am conclusionem quia igitur ita est <add place="above-line">et</add> cum necessariam 
+          <lb ed="#P" n="14"/>est necessitate divinae legis institute ad salutem scire 
+          <lb ed="#P" n="15"/>vel credere non solum quod deus est deus sed etiam quod deus est deus et pater <add place="margin-center">et filius</add> 
+          <lb ed="#P" n="16"/>et spiritus sanctus ideo necesse fuit est 3s articulos qui habet exprimenter 
+          <lb ed="#P" n="17"/>non autem <add place="above-line">ad</add> per hoc ut per unum articulum una persona conciperetur et non 
+          <lb ed="#P" n="18"/>alia ymmo per quemlibet quaelibet concipitur saltem incomplexe per subiectum 
+          <lb ed="#P" n="19"/>vel praedicatum illius articuli
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2075">
+          <pc type="pilcrow"/> ad 3m respondet <name xml:id="aw98wa-xg1537-Nd1e2079">okam</name> et diffuse et pro 
+          <lb ed="#P" n="20"/>maiori parte saltem ab illo loco in illo priori respondent iuxta 
+          <lb ed="#P" n="21"/>illud quod sentio quare igitur in eo ubi prius quaestione 5 libro 1 distinctione 1 sed 
+          <lb ed="#P" n="22"/>aliter diditur ad vim vocis in principio quod licet pater sic prius origine beatus 
+          <lb ed="#P" n="23"/>quam filius non tamen prius origine est pater quam generat filium
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2091">
+          <pc type="pilcrow"/> Si 
+          <lb ed="#P" n="24"/>dicas si prius origine est beatus quam filius in illo priori etc
+          <lb ed="#P" n="25"/>et tunc respondeo sicut in 6 <add place="margin-left">in substantia</add> sicut <name xml:id="aw98wa-xg1537-Nd1e2102">okam</name> quidquid sit de tuo alio modo 
+          <lb ed="#P" n="26"/>loquendi
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2109">
+          <pc type="pilcrow"/> Ad 4m maior verissima est ad virtutem vocis 
+          <lb ed="#P" n="27"/>eundo exemplum ad hoc albedo est primum obiectum visionis huius qua vi<lb ed="#P" n="28"/>deo 
+          albedinem parietis a quo essentialiter dependet subiectum autem albedinis 
+          <lb ed="#P" n="29"/>est obiectum huius visionis secundarium a quo essentialiter non dependet 
+          <lb ed="#P" n="30"/>et ideo ista visio potest a deo manuteneri sine subiecto huius albedinis 
+          <lb ed="#P" n="31"/>sicut patet in sacramento altaris sed non sine albedine visa quia non sine 
+          <lb ed="#P" n="32"/>hoc quod haec albedo videatur sive sic sive non sit
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2127">
+          <pc type="pilcrow"/> Exemplum sibi doctorum 
+          <lb ed="#P" n="33"/>de visione dei rerum in verbo falsum est sicut inprobat illud <name xml:id="aw98wa-xg1537-Nd1e2133">okam</name> 
+          <lb ed="#P" n="34"/>per regulam istam non est transitus de contradictorio in contradictoriam licet 
+          <lb ed="#P" n="35"/>autem deus possit cooperari ad hoc quod actus sic primi 
+          <lb ed="#P" n="36"/>obiecti et non secundi ubi ipsa separari non possunt non tamen ipsis 
+          <lb ed="#P" n="37"/>uniformiter dispositis persona autem divina est primum oppositum beatificum cuius 
+          <lb ed="#P" n="38"/>oppositum supponitur et dato quod diceretur esse secundarium non tamen diceretur secunda<lb ed="#P" n="39"/>rium 
+          quod difformiter se possit habere ad oppositum parium ut supra 
+          <lb ed="#P" n="40"/>in exemplo de albedine et subiecto eius ideo argumento non procedit 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2151">
+          <pc type="pilcrow"/> Ad 
+          <lb ed="#P" n="41"/>5m dicendum quod haec est vera pater non est spiritus sanctus composita ex intellecto<lb ed="#P" n="42"/>nibus 
+          <pc type="punctus"/> sed minor neganda est et tamen probatur dicendum vel quod fit sermo<lb ed="#P" n="43"/>ne 
+          propositione mentali viatoris vel de propositione propria <unclear>comprehensoris</unclear> 
+          <lb ed="#P" n="44"/>et beati si primo modo tunc dico generaliter quod nullum nomen relatum citius est 
+          <lb ed="#P" n="45"/>hoc nomen pater notabiliter dico nomen relatum habet conceptum viatoris 
+          <lb ed="#P" n="46"/>unicum tantum et simplicem sibi correspondentem significantem omnia quae illud 
+          <lb ed="#P" n="47"/>nomen relatum sed multos simul vel compositum ex multis sicut in proposito 
+          huic voci pater correspondet in mente conceptus compositus cui correspondentem 
+          <lb ed="#P" n="48"/>hoc compositum ex vocibus substantia vel ens quod genuit sibi simile in 
+          <lb ed="#P" n="49"/>nulla viva vel haec substantia viva quae genuit sibi simile licet unde conceptus 
+          <lb ed="#P" n="50"/>vocis patris <add place="margin-left">vel in anglico vel in latino</add> sic conceptus simplex et ex inadvertentia quadam sae<lb ed="#P" n="51"/>pe 
+          creditur esse conceptus cui ita vox pater in significando subor<lb ed="#P" n="52"/>dinatur 
+          sicut est etiam de conceptu subordinato in via quicumque sic 
+          <lb ed="#P" n="53"/>ille secundum <name xml:id="aw98wa-xg1537-Nd1e2191">scotum</name> et aliter <pc type="punctus"/> sed aliquid ad pauca respicientes de 
+          <lb ed="#P" n="54"/>facili <unclear>permintiant</unclear> quod sit simplex ad hoc forte moti ex 
+          <lb ed="#P" n="55"/>inadvertentia quadam qua ymaginatur huius conceptum vocis deus vel 
+          <lb ed="#P" n="56"/>huius vocis <foreign>god</foreign> qui simplex est conceptus dei et ex hoc 
+          <lb ed="#P" n="57"/>ulterius aestimant conceptum dei simplicem esse quem de deo 
+          <lb ed="#P" n="58"/>habet viator <pc type="punctus"/>supponatur igitur ad praesens alibi forsan dis<cb ed="#P" n="b"/><lb ed="#P" n="59"/>cutiendum 
+          quod conceptus mentis correspondens in viatore huic <unclear>voci<!-- possible correction --></unclear> pater 
+          <lb ed="#P" n="60"/>sic conceptus correspondens huic voci substantia viva quae genuit simile in 
+          <lb ed="#P" n="61"/>natura et simul aliquis et adhuc compositor est conceptus correspondens in mente via<lb ed="#P" n="62"/>toris 
+          huic voci pater in divinis sed sicut ex supradictis patet 
+          <lb ed="#P" n="63"/>in probatione conclusionis 5e quidquid significatur vel intelligitur per conceptum aliquem 
+          <lb ed="#P" n="64"/>partialis alicuius conceptus compositi significatur vel intelligitur per illum conceptum 
+          <lb ed="#P" n="65"/>compositum licet non pro quolibet tali supponat conceptus iste compositus sed 
+          <lb ed="#P" n="66"/>nunc est ista quod iste conceptus substantia qui est ibi pars significat deum et qualibet 
+          <lb ed="#P" n="67"/>divinam personam <add place="margin-below">sicud superius ostendi et ideo conceptus patris quem habet viator quamlibet personam divinam</add> significat et quaelibet per istum intelligitur habet iste conceptus non 
+          <lb ed="#P" n="68"/>pro qualibet supponat sed pro solo patre in hac mentali propositione fi<lb ed="#P" n="69"/>dei 
+          pater non est spiritus sanctus et cum quaeritur aut aequaliter significat sit conceptus pri<lb ed="#P" n="70"/>mam 
+          personam et 3am dico quod non quia primam sic significat quia spiritus in subiecto 
+          <lb ed="#P" n="71"/>dictae propositionis pro ista supponat et eius est intellectio <del>et</del> intellectionem autem 
+          <lb ed="#P" n="72"/>pro aliquo supponere est illud aliquo modo significare 3am autem personam 
+          <lb ed="#P" n="73"/>licet significet sit quod sit ipsius intellectio pro ea tamen non supponit sicud 
+          <lb ed="#P" n="74"/>pro prima facit ideo nec dandum est primum membrum nec 2m istius 
+          <lb ed="#P" n="75"/>divisive inquisitionis sed 3m et ille improbatur in hoc sensu sed per 
+          <lb ed="#P" n="76"/>fallaciam consequentis ab insufficienti <pc type="punctus"/> si autem fiat sermo de propositione 
+          <lb ed="#P" n="77"/>illa negativa mentali comprehenditur dici potest quod comprehensor habet 
+          <lb ed="#P" n="78"/>unum conceptum seu intellectionem intuitiva et similiter abstractivam indivisibilem 
+          <lb ed="#P" n="79"/><del rend="underline">sibilem</del> et similiter specificam correspondentes illi intuitive per quarum 
+          <lb ed="#P" n="80"/>trium quamlibet concipitur deitas et quaelibet persona divina seu tota trinitas 
+          <lb ed="#P" n="81"/>et iste conceptus aequaliter est intellectio patris et filii et spiritus sancti qui aeque distincte 
+          <lb ed="#P" n="82"/>intelliguntur per illum sicut si cuilibet suis conceptus proprius qui non esset al<lb ed="#P" n="83"/>terius 
+          corresponderet nec aliquis potest esse conceptus proprius dei et simplex quin 
+          <lb ed="#P" n="84"/>significet deitatem et totam trinitatem personarum et iste unus conceptus est 
+          <lb ed="#P" n="85"/>subiectum et praedicatum etiam illius negative de qua loquitur et hoc unicus 
+          <lb ed="#P" n="86"/>numero existens vel replicatus et hoc dummodo tam pater quam 
+          <lb ed="#P" n="87"/>spiritus sanctus in subiecto et practico concipiatur praecise nominabitur non verbaliter quia 
+          <lb ed="#P" n="88"/>tunc conceptus ille in subiecto vel praedicato conclusio conciperetur pater vel spiritus sanctus verbaliter 
+          <lb ed="#P" n="89"/>non esset conceptus simplex sed compositus proportionaliter conceptui vie ante <unclear>dictae</unclear> 
+          <lb ed="#P" n="90"/>saltem in propositione illa negativa cuius unio dei esset subiectum vel 
+          <lb ed="#P" n="91"/>etiam praedicatum sicut contingere potest quod unicus conceptus numero esset causa subiectum 
+          <lb ed="#P" n="92"/>quam praedicatum nec copula ibi mediat inter subiectum et praedicatum inter<lb ed="#P" n="93"/>reumpendo 
+          istum conceptum sed est conceptus quidam verbalis secundum <unclear>quosdam</unclear> 
+          <lb ed="#P" n="94"/>coadvinctus illi conceptui unico secundum numerum medians secundum du<lb ed="#P" n="95"/>rationem 
+          vel alium ordinem in mente proportionalem quodammodo <unclear>ordini</unclear>
+          <lb ed="#P" n="96"/>rerum extra animam si idem sumatur modo pro uno modo pro alio 
+          <lb ed="#P" n="97"/>unde conceptus idem sumitur primo pro prima persona et 2o pro 3a ad 
+          <lb ed="#P" n="98"/>placitum enim vocis est ut ille conceptus sumatur nunc pro verbo 
+          <lb ed="#P" n="99"/>significatorum seu intellectorum per illum nunc pro alio nunc pro duobus nunc pro 
+          <lb ed="#P" n="100"/>omnibus sicut placet intellectui habenti et propositiones ex illo formanti 
+          <lb ed="#P" n="101"/>secundum exigentia totius complexe significabilis sicut iste terminus vocabulis 
+          <lb ed="#P" n="102"/>animal et omnis conceptus correspondens immo potius iste conceptus licet uniformiter 
+          <lb ed="#P" n="103"/>significaret omne alias in mundo causa existens quam possibile ad li<lb ed="#P" n="104"/>bitum 
+          tamen meum est ut conceptus iste nunc supponat pro homine tantum 
+          <lb ed="#P" n="105"/>ut in ista lias est homo nunc tantum pro isto asino ut in ista 
+          <lb ed="#P" n="106"/>animalis est rudibile et sic de aliis tamen nec in una nec in alia potest 
+          <lb ed="#P" n="107"/>iste conceptus absolvi a significando omnia alia nec mirum quod 
+          <lb ed="#P" n="108"/>quae per ipsum distincte significantur et ordinate ex quo tantum valet in 
+          <lb ed="#P" n="109"/>significando sicud singuli singulorum a tantum et simplicem inessendo habere 
+          <lb ed="#P" n="110"/>valeat qui aequivaleat in significando complexe similiter incomplexe 
+          <lb ed="#P" n="111"/>et etiam in supponendo pro diversis toti propositioni ac eius parti 
+          <lb ed="#P" n="112"/>et cuilibet composito ex subiecto et practico et copula realiter distinctis 
+          <lb ed="#P" n="113"/>sicut est de assensu correspondente huic negative 
+          <lb ed="#P" n="114"/>homo non est asinus et sit de similibus quorum omnia causa est apud 
+          <lb ed="#P" n="115"/>me quia licet intellectus componat propositionem ex intelligentibus nihil tamen ac 
+          <pb ed="#P" n="67-r"/>
+          <cb ed="#P" n="a"/>tendit ex hoc in mente tantam propositionem ad intellectio<lb ed="#P" n="1"/>nes 
+          quibus utitur <unclear>inquantum</unclear> signis sed ad intellecta tantum per illas 
+          <lb ed="#P" n="2"/>et ideo refert quod concipit per subiectum ad illud quod intelligit per praedicatum 
+          <lb ed="#P" n="3"/><seg type="correction"><add place="margin-left">in</add>tantum</seg> ut aliqui dixerent <pc type="punctus"/> quod res ipse quae intelliguntur sunt subiectum 
+          <lb ed="#P" n="4"/>et praedicatum propositionis mentalis seu illa quae intelliguntur sive sint res 
+          <lb ed="#P" n="5"/>sive non res <unclear>secuti</unclear> saepe dixit et scripsit <name xml:id="aw98wa-xg1537-Nd1e2383">okam</name> conformans 
+          <lb ed="#P" n="6"/>se in hoc <name xml:id="aw98wa-xg1537-Nd1e2387">scoto</name> et omnibus antiquis doctoribus qui vocabant 
+          <lb ed="#P" n="7"/>conceptus ex quibus componuntur propositiones mentales ista quae concipiuntur et non ipsas 
+          <lb ed="#P" n="8"/>conceptiones seu intellectiones mentem realiter informantes isto etiam 
+          <lb ed="#P" n="9"/>modo loquebatur magister primo libro distinstinctione 45 capitulo 3 et alibi saepe ibi 
+          <lb ed="#P" n="10"/>enim dicit sic cum dicitur deus scit vel deus vult vel deus 
+          <lb ed="#P" n="11"/>est sciens sive volens essentia divina probatur cum autem additur aliquid 
+          <lb ed="#P" n="12"/>vel omnia et dicitur deus vult omnia vel vult aliquid vel aliqua essentia quidam 
+          <lb ed="#P" n="13"/>divina probatur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2406">
+          <pc type="pilcrow"/> Et propter hoc tantumdem valet menti una intellectio quo 
+          <lb ed="#P" n="14"/>ad propositum respectum <unclear>m?torum</unclear>intellectum sint multae dummodo aeque distincte 
+          <lb ed="#P" n="15"/>et perfecte significaret omnis istas res et singulas sicut singulae 
+          <lb ed="#P" n="16"/>intellectiones proprie significarent quia ut praedixi intellectus accendit quando 
+          <lb ed="#P" n="17"/>utitur intellectionibus complexe vel incomplexe non ad intellectiones quibus 
+          <lb ed="#P" n="18"/>utitur sive multae sive pauce <add place="above-line">vel</add> vita sicut <pc type="punctus"/> sed ad obiecta vel sit 
+          <lb ed="#P" n="19"/>intellecta nisi quando intellectiones sunt ipsa obiecta ymmo quanto pau<lb ed="#P" n="20"/>ciores 
+          essent ceteris paribus ipse intellectiones quae sunt perceptiones 
+          <lb ed="#P" n="21"/>sive apprehensiones obiectorum quibus intellectus absolute apprehendit vel 
+          <lb ed="#P" n="22"/>refert ad invicem illa quae concipit tanto melius et faci<lb ed="#P" n="23"/>lius 
+          esset 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2440">
+          <pc type="pilcrow"/> Ad formam igitur argumenti dicendum quod significari dupliciter sumitur vel 
+          <lb ed="#P" n="24"/>pro repraesentari menti formaliter et sic idem est quod cognosci <pc type="punctus"/> alio modo 
+          <lb ed="#P" n="25"/>pro supponere et significari sic loquendo est esse illud pro quo intellectio 
+          <lb ed="#P" n="26"/>vel aliud supponit habendo igitur affectum praecise ad significare primo 
+          <lb ed="#P" n="27"/>modo tunc intellectio quae est subiectum in ista negativa <unclear>comprehensaliter</unclear> aequaliter 
+          <lb ed="#P" n="28"/>significat 3am personam sicut primam et econtra et aequaliter est intellectio utrius<lb ed="#P" n="29"/>que 
+          <pc type="punctus"/> illa tamen intellectio ex hoc quod est ibi subiectum supponit 
+          <lb ed="#P" n="30"/>pro prima persona et non pro 3a <pc type="punctus"/> et modo opposito ex hoc quod est practicum 
+          <lb ed="#P" n="31"/>et ideo non sequitur quod 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2471">
+          <pc type="pilcrow"/> Aequaliter sic vera sicut falsa nec quod aequaliter significet 
+          <lb ed="#P" n="32"/>3am personam non esse 3am personam quia veritas propositionis non solum ori<lb ed="#P" n="33"/>tur 
+          nec attenditur ex significatione primo modo dicta subiecti et praedicati sed ex signi<lb ed="#P" n="34"/>ficatione 
+          utriusque modo dicta et magis ex suppositione quam significatione 
+          <lb ed="#P" n="35"/>exemplum adhuc de isto termino albedinem nam cum dico albedinem currit non 
+          <lb ed="#P" n="36"/>denominatur quod albedo curat sed quod subiectum albedinis et tamen secundum philosophum albedinem 
+          <lb ed="#P" n="37"/>solam qualitatem significat non tamen sic quod pro albedine supponat sed pro subiecto
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2490">
+          <lb ed="#P" n="38"/><pc type="pilcrow"/> ad confirmationem verum est secundum <unclear>olr<!-- okam? --></unclear> contra quem iste arguit quod una persona potest significa<lb ed="#P" n="39"/>ri 
+          sine alia licet intelligi vel concipi non possit sine alia et hoc probat 
+          <lb ed="#P" n="40"/><unclear>olr</unclear> ex opinone scoti respondendo ad 2m argumentum scoti superpositis 
+          <lb ed="#P" n="41"/>de distinctis articulis respectu distinctarum personarum quam responsionem nota totam quia a scoto 
+          <lb ed="#P" n="42"/>sumit illud per quod sibi respondet scilicet quod correlationes licet realiter distinguantur 
+          <lb ed="#P" n="43"/>unde <!-- possible correction/addition here ?? --> tamen intelligi non potest sine alia intellecta et tamen significari potest alia 
+          <lb ed="#P" n="44"/>non significata et ita in proposito debet scoto sufficere ad distinctione ar<lb ed="#P" n="45"/>ticulorum 
+          distinctio signorum ex quibus articuli componuntur sive conceptuum sive 
+          <lb ed="#P" n="46"/>vocus de 3bus personis ex quo 3 personae sunt realiter distincte 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2521">
+          <pc type="pilcrow"/> Illud 
+          <lb ed="#P" n="47"/>autem dictum commune scoti et <unclear>olr<!-- ockham --></unclear> quod una persona significari potest alia 
+          <lb ed="#P" n="48"/>non significata 3r potest intelligi uno modo de significatione primo modo sumpta 
+          <lb ed="#P" n="49"/>in responsione ad formam argumenti praemissa et iste sensus licet verus di<lb ed="#P" n="50"/>ceretur 
+          apud scotum apud me tamen et <name xml:id="aw98wa-xg1537-Nd1e2538">olr<!-- ockham?--></name> et omnis qui conclusionem meam 
+          <lb ed="#P" n="51"/>tenent negandus est et supra inprobatus <pc type="punctus"/> alio modo potest intelligi de significatione 2o 
+          <lb ed="#P" n="52"/>modo dicta sic est verum quod una potest significari alia non significata nec tamen 
+          <lb ed="#P" n="53"/>ex hoc sequitur quod potest una intelligi alia non intellecta quia intelligi 
+          <lb ed="#P" n="54"/>est in plus quam significari sic per conceptum <pc type="punctus"/> et ideo arguitur ibi inplicite a nega<lb ed="#P" n="55"/>tione 
+          inferioris <unclear><!-- corrected somehow -->proposita</unclear> ad negationem superioris sicut si argueretur pri<lb ed="#P" n="56"/>ma 
+          persona potest esse ens absque hoc quod 2a persona sic ens vel ad 
+          <lb ed="#P" n="57"/>potest esse albedinem absque hoc quod sic coloratum 3o potest intelligi de<lb ed="#P" n="58"/>significari 
+          per signum vocabule vel signum aliud ad placitum in<lb ed="#P" n="59"/>stitutum 
+          et hoc est satis possibile licet una non intelligatur 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="60"/>alia non intellecta <pc type="punctus"/> si tamen mediate intelligantur sicut fuit de facto 
+          <lb ed="#P" n="61"/>vinca intellectione distincte tunc enim ad placitum inponentis nomina 
+          <lb ed="#P" n="62"/>vel intellectis est imponere unum nomen uni illorum et non alteri vel 
+          <lb ed="#P" n="63"/>multis vel paucis sicut sibi placebit et omnia ista nomina si sin<lb ed="#P" n="64"/>gula 
+          inponantur singulis intellectis subordinantur eidem cognitio et 
+          <lb ed="#P" n="65"/>signo mentali eidem illimitato in significando respectu eorumdem
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2588">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#P" n="66"/>verum dicendum quod neque cognitione incomplexa neque complexa potest una persona cognosci alia 
+          <lb ed="#P" n="67"/>non cognita sive non <pc type="punctus"/> aliud est non cognosci cognitione complexa et aliud cognosci 
+          <lb ed="#P" n="68"/>complexe haec enim propositio mentalis <mentioned>animal est risibile</mentioned> quae est cognitio 
+          <lb ed="#P" n="69"/>complexa omne <mentioned>animal</mentioned> significat incomplexe primae persona solum ita quod 
+          <lb ed="#P" n="70"/>non est cognitio complexa alterius personae
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2610">
+          <pc type="pilcrow"/> dicendum quod dato hoc non 
+          <lb ed="#P" n="71"/>sequitur intentum nisi arguendo a negatione inferioris ad negationem superi<lb ed="#P" n="72"/>oris 
+          sequitur enim econverso sic non est cognitio alterius igitur non est notitia 
+          <lb ed="#P" n="73"/>complexa alterius ideo divertitur a conclusione probanda ad aliam inper<lb ed="#P" n="74"/>tinentem 
+          utrum autem hoc dandum sic vel in dic quod respondendum est per 
+          <lb ed="#P" n="75"/>distinctionem nam quod aliquid sic cognitio complexa alicuius puta <c>a</c> vel 
+          quod aliquid puta <c>a</c> cognoscatur complexe per illam cognitionem quae duo 
+          <lb ed="#P" n="76"/>habeo pro eodem potest tripliciter intelligi vel quod <c>a</c> sic oppositum totale 
+          <lb ed="#P" n="77"/>istius notitiae complexe et iste sensus est negandus vel quia a 
+          <lb ed="#P" n="78"/>cognoscatur de aliquo complexe <pc type="punctus"/> vel quod aliquid cognoscatur complexe de a 
+          <lb ed="#P" n="79"/>2o modo et 3o potest concedi quod alia propositio sic cognitio complexa 3ae 
+          <lb ed="#P" n="80"/>personae sicut ista de qua ponitur exemplum quia per istam aliquid cognoscitur de 
+          <lb ed="#P" n="81"/>prima persona quod non de 3a nam subiectum illius propositionis licet sit intellectio 
+          <lb ed="#P" n="82"/>cuius licet personae pro sola tamen prima persona supponit et ideo quod apponitur 
+          <lb ed="#P" n="83"/>tamquam praedicatum mediate copula soli personae prima attribuitur per illam per <add place="margin-right">propositionem</add> 
+          <lb ed="#P" n="84"/><del rend="underline">sonam</del> et nulli alteri licet subiectum ita sit alterius personae sicut et <del rend="expunctuation">ipsa</del> <add place="margin-right">personae</add> 
+          <lb ed="#P" n="85"/>cognitio
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2668">
+          <pc type="pilcrow"/> Ad 7m argumentum dicendum quod assumptum non est verum et quod 
+          <lb ed="#P" n="86"/>instantia ibi posita bona est et similis cuius ratio posita est supra in 
+          <lb ed="#P" n="87"/>2o argumento ad primam quaestionem quia movere active per modum <unclear>obiecti</unclear> est 
+          <lb ed="#P" n="88"/>quodam agere ad extra nihil autem potest deus ad extra agere nisi 
+          <lb ed="#P" n="89"/>voluntarie unde et dicitur obiectum et speculum voluntarium et quod si vult videtur secundum 
+          <lb ed="#P" n="90"/><name xml:id="aw98wa-xg1537-Nd1e2684">augustinus</name> si non vult non videtur igitur sicut ex parte creaturis active ex 
+          <lb ed="#P" n="91"/>veritate voluntatis essentialis tu arguis oportere una persona creante quamlibet 
+          <lb ed="#P" n="92"/>creare ita in proposito oportebit una movente obiective ad 
+          <lb ed="#P" n="93"/>visionem sui active vel ad amorem per modum finis et allective 
+          <lb ed="#P" n="94"/>quamlibet movere sic et ideo quod assumitur ibi de uno homine in<lb ed="#P" n="95"/>differente 
+          negandum est
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2698">
+          <pc type="pilcrow"/> ad 8 patet per idem minor enim neganda 
+          <lb ed="#P" n="96"/>est nam eadem contradictio arguitur ex unam personam intelligi sine alia 
+          <lb ed="#P" n="97"/>sicut ex hoc quod una crearet sine alia ut probatum est <del rend="expunctuation">ex 2a parte</del> <add place="margin-right"><unclear>et 2m parte</unclear></add> 
+          <lb ed="#P" n="98"/>arguit contradictoria igitur et primum <pc type="virgula">/</pc> quod autem additur quod non potest theologus probare ibi 
+          <lb ed="#P" n="99"/>plus <add place="margin-right">includi</add> vel argui contradictoria quam quod una persona generet alia non generan<lb ed="#P" n="100"/>te 
+          patet falsum esse <unclear>exeundum</unclear> istud tamen non est nisi caucela mi<lb ed="#P" n="101"/>sera 
+          declinandi a parte oppositis ad partem <unclear>rnts</unclear> propter de factum 
+          <lb ed="#P" n="102"/>argumenti sicut <name xml:id="aw98wa-xg1537-Nd1e2734">scotus</name> ubique inprobat <name xml:id="aw98wa-xg1537-Nd1e2736">gad</name> ubi circa hac materiam istam 
+          <lb ed="#P" n="103"/>an idem possit movere et moveri a seipso tum dicunt 
+          <lb ed="#P" n="104"/>sibi quod eadem ratione qua intellectus movebat se particulariter ad 
+          <lb ed="#P" n="105"/>intellectionem praesente obiecto et non obiectum tantum dicetur quod lignum 
+          <lb ed="#P" n="106"/>ad praesentiam ignis calefacit se etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2749">
+          <pc type="pilcrow"/> ad 9 dicendum penitus 
+          <lb ed="#P" n="107"/>sicut ad 5 adde tamen ibi si vis quod significare 2o modo ibi supposito 
+          <lb ed="#P" n="108"/>id est supponere totaliter contingenter convenit termino mentali simplici in significan<lb ed="#P" n="109"/>do 
+          quod ad placitum potest supponere nunc pro uno nunc pro alio 
+          <lb ed="#P" n="110"/>nunc pro nullo sicut iste terminus mentalis alias quo ad duo persona<lb ed="#P" n="111"/>nam 
+          pro alio et alio supponit cum dicitur alias est homo et cum dicitur alias 
+          <lb ed="#P" n="112"/>est asinus volendo haec supponere pro aliquo illud aliquid esse pro quo convenit 
+          <lb ed="#P" n="113"/>praedicatum vere subiecto et pro nullo supponit quantum ad 3m quando non est subiectum 
+          <lb ed="#P" n="114"/>nec praedicatum alicuius propositionis in mente
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2771">
+          <pc type="pilcrow"/> Ad 10 dicendum quod antecedens est verum 
+          <lb ed="#P" n="115"/>ad bonum intellectum licet enim ut dicit <name xml:id="aw98wa-xg1537-Nd1e2777"><unclear>okam<!-- olr--></unclear></name> contra quem arguit ad illud 
+          <lb ed="#P" n="116"/>argumentum et bene in hoc dicit dummodo bene intelligatur omnis conceptus 
+          <lb ed="#P" n="117"/>essentiae sic conceptus personae et econtra tamen aliquis conceptus primo dicitur de essentia et non 
+          <pb ed="#P" n="67-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>primo de persona cuius relatio est quia aliquis est conceptus qui vere dicitur de omni illo 
+          <lb ed="#P" n="2"/>de quo dicitur essentia divina et de nullo alio et tamen non sit respicit 
+          <lb ed="#P" n="3"/>aliquam personam divinam quod dicitur de aliquo de quo non dicitur ista persona sicud 
+          <lb ed="#P" n="4"/>esse sapiens et esse creatum et huius primo competunt divinae essentiae et 
+          <lb ed="#P" n="5"/>non alicui personae primo non enim esse creatum primo competit patri quia competit 
+          <lb ed="#P" n="6"/>filio qui non est pater haec ille et haec intelligenda sunt de conceptu essentiae pro 
+          <lb ed="#P" n="7"/>essentia et non pro persona aliqua secundum superius declarata dato aut 
+          <lb ed="#P" n="8"/>isto antecedente ad intellectum bonum consequentia neganda est et ad probationem 
+          <lb ed="#P" n="9"/>consequentiae dicendum quod esse creatum dicitur primo convenire essentiae et non primo personae non 
+          <lb ed="#P" n="10"/>quia res quae est essentia componat propositionem quae subiective est in mente 
+          <lb ed="#P" n="11"/>sed quia primo dicitur de conceptu communi essentiae et personarum supposite pro directe et non 
+          <lb ed="#P" n="12"/>primo convenit eidem supponente pro alia determinata persona
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2818">
+          <pc type="pilcrow"/> Ad 11 quaeren<lb ed="#P" n="13"/>dum
+          est quid demonstratur per ly haec quia ista vocabulis verificari 
+          <lb ed="#P" n="14"/>posset pro rege vel pro prima intelligentia sublato deo ymaginarie per 
+          <lb ed="#P" n="15"/>inpossibile sed si subiectum propositionis huius haec persona 3 beata componitur de 
+          <lb ed="#P" n="16"/>aliquo proprio et simplici intuitivo vel abstractivo proportionaliter conceptu illius primae personae 
+          <lb ed="#P" n="17"/>sive cathegorico sive demonstrativo cui <unclear>iha?to</unclear> licet <unclear>cinchategoricus</unclear> proprius for<lb ed="#P" n="18"/>te 
+          haberi non possit nisi habeatur proprius cathegoricus intuitivus vel 
+          <lb ed="#P" n="19"/>abstractivus indivisibilis vel specificius ymmo specificus non sufficit 
+          <lb ed="#P" n="20"/>forte <add place="margin-left">nisi habeatur</add> licet fingi possit haberi sine tali si inquam ex tali 
+          <lb ed="#P" n="21"/>conceptu componatur ista propositio tunc falsum est quod ista esset indifferenter vera pater est 
+          <lb ed="#P" n="22"/>beatus quia si pater praecederet filium duratione pater et filius non essent alia 
+          <lb ed="#P" n="23"/>eadem entitas nec pater esset entitias <add place="margin-left"><unclear>illa<!-- 1a? --></unclear></add> cuius est esse tres il<lb ed="#P" n="24"/>las 
+          res et si hic pater non esset eiusdem speciei specialissime cuius modo sed 
+          <lb ed="#P" n="25"/>entitas alterius rationis quam sic modo de facto et ista non esset natus 
+          <lb ed="#P" n="26"/>concipi conceptu isto individuali vel specifico quo vel <unclear>quali</unclear> nunc de 
+          <lb ed="#P" n="27"/>facto concipitur quia istis conceptibus repugnat significare nisi illud vel tale <add place="margin-left">quod vel</add> quale 
+          <lb ed="#P" n="28"/><del rend="underline">vel quod</del> modo de facto significat <pc type="punctus"/> tunc autem prima persona non esset haec quae modo nec 
+          <lb ed="#P" n="29"/>talis qualis modo igitur etc et ista deficit ex <add place="margin-left">falso</add> primo <unclear>fini?to</unclear> tota <unclear>ulteri <add place="above-line">que</add></unclear> de<lb ed="#P" n="30"/>ductio
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2895">
+          advertendum tamen est quod conclusio ad quam deducitur est impertinens 
+          <lb ed="#P" n="31"/>ad propositum et ad opinionem contra quam ille arguit quia nec supra ponente 
+          <lb ed="#P" n="32"/>quaestiones nec opinio <name xml:id="aw98wa-xg1537-Nd1e2901">okam<!-- olr --></name> dicit quod omnes cognitio quae est personae essentiae est per se 
+          <lb ed="#P" n="33"/>personae nec oppositum sed quod omnis cognitio quae est huius est illius et econtra absolute sed 
+          <lb ed="#P" n="34"/>iste hic ut alibi communiter ubi directe obviare dictis <name xml:id="aw98wa-xg1537-Nd1e2910">okam<!-- olrsi --></name> 
+          <lb ed="#P" n="35"/>non potest fingit se posse et transit iuxta
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2917">
+          <pc type="pilcrow"/> ad 12m dicendum eo<lb ed="#P" n="36"/>dem 
+          modo quod laborat probandum unum inpertinens et ista non 
+          <lb ed="#P" n="37"/>obviat licet obviare se similet sed sine lesione aliquo illius consequentiae im<lb ed="#P" n="38"/>pugnante 
+          transit iuxta sed nec hic probat quod intendit licet im<lb ed="#P" n="39"/>pertinens 
+          et licet prima consequentia sua non valeat <add place="margin-left">detur</add> <del rend="expunctuation">dicitur</del> tamen quod philosophi 
+          <lb ed="#P" n="40"/>habuerunt aliquam cognitionem quae significaret aliquid esse deum et si deus vel deitas 
+          <lb ed="#P" n="41"/>non esset trinitas ymmo si deus esset una musca per inpossibile 
+          <lb ed="#P" n="42"/>ad hoc significaretur per conceptum entis et per conceptum substantiae et alios multos si essent 
+          <lb ed="#P" n="43"/>quia conceptus tales simplices quales habuerunt philosophi de deo 
+          <lb ed="#P" n="44"/>non erant conceptus eius specifici nec individuales sed generales 
+          <lb ed="#P" n="45"/>vel transcendentes genus aut et multo fortius conceptus transcendens 
+          <lb ed="#P" n="46"/>non requirit per se quodcumuqe sumi significatum esse tale quale est quia ista significat 
+          <lb ed="#P" n="47"/>et ita salvatur eius naturalis significatio circa naturam alterius rationis sicut 
+          <lb ed="#P" n="48"/>circa naturam aliam datam de naturis per ipsum significatis et idem forte 
+          <lb ed="#P" n="49"/>dici posset de conceptibus philosophorum compositis pro magna parte sicud
+          <lb ed="#P" n="50"/>sunt primum ens et huius et ratio nec valet <seg type="correction">ulti<subst><del rend="expunctuation">ate</del><add>or</add></subst></seg> deductio 
+          <lb ed="#P" n="51"/>quia ista cognitio communis quam habet philosophus non plus requirit deitatem 
+          <lb ed="#P" n="52"/>esse deitatem talem vel talem naturam qualis de facto est quam 
+          <lb ed="#P" n="53"/>deitatem esse personam quia ita salvaretur sua significatio id est quod deus 
+          <lb ed="#P" n="54"/>significaretur per ipsum conceptum praehabitum de deo si deus esset entitas 
+          <lb ed="#P" n="55"/>alterius rationis sicut modo cognitio inquam incomplexa in<lb ed="#P" n="56"/>esendo 
+          et in significando cognitio autem complexa praehabita bene 
+          <lb ed="#P" n="57"/>significat aliquid esse deum et non significat illud esse trinitatem sicud superius concessis
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>est et cum etiam assumis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2987">
+          <pc type="pilcrow"/> Ad 13m detur antecedens in intellectu dato ad 10m 
+          <lb ed="#P" n="59"/>argumentum sed consequentia ulterior est neganda patet ex praehabitis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e2995">
+          <pc type="pilcrow"/> ad 14 dicendum sicud 
+          <lb ed="#P" n="60"/> ad confirmationem 5
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3002">
+          <pc type="pilcrow"/> ad 15 iste conceptus est proprius in supponendo non in 
+          <lb ed="#P" n="61"/>repraesentando sine in repraesentative significando 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3009">
+          <pc type="pilcrow"/> ad 16 antecedens concedo sed 
+          <lb ed="#P" n="62"/>ulterior deductio non valet sicut patet ad <unclear>confere</unclear> ad 5am
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3018">
+          <pc type="pilcrow"/> ad 17 
+          <lb ed="#P" n="63"/>concedo quod tres personae sunt 3a distincta intelligibilia sed non separati in<lb ed="#P" n="64"/>telligibilia 
+          unum sine alio ut ostensum est ideo non habetur intentum
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3027">
+          <pc type="pilcrow"/> Ad 18 concedo primum acceptum sed minor neganda est ad primam 
+          <lb ed="#P" n="65"/>probationem dicendum est quod licet tres personae sint tria distincta cognoscibilia sicud sunt 3s
+          <lb ed="#P" n="66"/>res et 3a entia secundum sanctos <pc type="punctus"/> tamen sicut sunt una volitio increata ita 
+          <lb ed="#P" n="67"/>sunt una volitio obiective motiva active respectu cognitionis et per 
+          <lb ed="#P" n="68"/>modum finis respectu amoris <pc type="punctus"/> tamen non sunt creatio una nec mo<lb ed="#P" n="69"/>tio 
+          una <pc type="punctus"/> quia ista sunt producta ipsa vel in producto aut in<lb ed="#P" n="70"/>passo 
+          et non productor ut alibi declaravi 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3051">
+          <pc type="pilcrow"/> De 2a propositione 
+          <lb ed="#P" n="71"/>negatio assumptum cuius ratio patet ex conclusionibus in primo articulo positis ad 
+          <lb ed="#P" n="72"/>3am probationem per idem assumit enim falsum sicud 2a ad non est unam 
+          <lb ed="#P" n="73"/>intelligi alia non intellecta quam quod aliquod significetur esse una persona et 
+          <lb ed="#P" n="74"/>non significaretur esse alia ut similiter patet ex dictis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3065">
+          <pc type="pilcrow"/> Ad 19 neganda 
+          <lb ed="#P" n="75"/>est minor et prima eius probatio assumit falsum cuius ratio assignata est respondendo 
+          <lb ed="#P" n="76"/>ad nullum et propter eandem causam 2a eius probatio assumit falsum 3a etiam probatio 
+          <lb ed="#P" n="77"/>si intelligat quod alia visio ex hoc quod est visio repraesentet vel repraesentare 
+          <lb ed="#P" n="78"/>possit deum esse vel deum esse patrem falsum est quod omnis visio est notitia 
+          <lb ed="#P" n="79"/>incomplexa in essendo et significando aliam intellectionem et visionem quae simul aequivalat 
+          <lb ed="#P" n="80"/>simplici visioni et componi potest deus causare quae sic repraesentet sicud 
+          <lb ed="#P" n="81"/>patet ex alia conclusione quae proposito non obviat sed ista erit una propositio 
+          <lb ed="#P" n="82"/>et aequivalebit in significando propositioni verum est autem quod ille supponit cognitionem 
+          <lb ed="#P" n="83"/>simplicem immediate causabilem a re extra sicut intuitivam vel abstractivam 
+          <lb ed="#P" n="84"/>sib correspondentem significare rem illam esse talem vel talem sicud quod visio dei significat 
+          <lb ed="#P" n="85"/>illud visum esse deum et sic de similibus et in hoc fundat se in 
+          <lb ed="#P" n="86"/>multis materiis sed fundatum hoc debile est et infirmium et ideo 
+          <lb ed="#P" n="87"/>fallit operatio nulla enim visio creata nec intuitiva nec abstractiva cor<lb ed="#P" n="88"/>respondens 
+          habens praecise pro obiecto idem vel simile cum visione naturaliter causabi<lb ed="#P" n="89"/>li 
+          a re cuius est visio talis est realiter vel formaliter in significando una propositio 
+          <lb ed="#P" n="90"/>sed omne signum significans formaliter aliquid esse deum vel deitatem est propositio 
+          <lb ed="#P" n="91"/>realiter vel aequivalenter nam secundum <ref xml:id="aw98wa-xg1537-Rd1e3106">philosophum in pery</ref> esse significat quamdam compositionem et 
+          <lb ed="#P" n="92"/>alibi hoc probavi hic diffuse
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3111">
+          <pc type="pilcrow"/> dices non dico ad praesens 
+          <lb ed="#P" n="93"/>quod illa cognitio significaret aliquid esse deum sed quod sic talis qua mediate in<lb ed="#P" n="94"/>tellectus 
+          natus est assentire se cognoscere deum vel non se cognoscere 
+          <lb ed="#P" n="95"/>patrem dico quod haec est satis possibile in via nulli dubium est et forte 
+          <lb ed="#P" n="96"/>etiam in patria posset haberi ita debilis visio quod propositio composita ex illa 
+          <lb ed="#P" n="97"/>significans illam rem esse patrem vel filium vel spiritus sanctus non esset evidens 
+          <lb ed="#P" n="98"/>huius enim oppositum posset evidenter probari <subst><add>ut</add> <del rend="expunctuation">non</del></subst> reputo et ideo talem 
+          <lb ed="#P" n="99"/>videt posset deum causare <add place="margin-right"><unclear>negar?s</unclear></add> <unclear>nolo<!-- possibly deleted--></unclear> huius exemplum habetur in <unclear>confirmatione</unclear> <unclear>apparentia</unclear> 
+          <lb ed="#P" n="100"/>huic argumento 19 quia nunc in via albedo ita debiliter et ista 
+          <lb ed="#P" n="101"/>a remotis videri poterit quod virtute illius ille qui ex ista vi<lb ed="#P" n="102"/>sione 
+          <unclear>tamquam</unclear> subiecto componeret has duas propositiones haec res quam 
+          <lb ed="#P" n="103"/>videro est color haec res quam video est albedo assen<lb ed="#P" n="104"/>tires 
+          uni et de veritate alterius dubitaret sicut quilibet de 
+          <lb ed="#P" n="105"/>aliquo a remotis viso in simili experitur sed sine dubio hoc non 
+          <lb ed="#P" n="106"/>facit contra conclusionem datam pro arguentem sed plane probat contrarium ista 
+          <lb ed="#P" n="107"/>enim visio per quam non iudico nec indicare clare vale 
+          <lb ed="#P" n="108"/>o istam rem esse albedinem est visio praecise albedinis et nullius 
+          <lb ed="#P" n="109"/>alterius coloris nec in communi nec in particulari nec per se nec per ac<lb ed="#P" n="110"/>cidens 
+          unde totum falsum est et fictum quod iste ymaginatur proepr hoc 
+          <lb ed="#P" n="111"/>sequitur scilicet quod haec visio esset per se visio coloris et non albedinis ista 
+          <lb ed="#P" n="112"/>etiam ex parte alia nam quare non cum hoc exemplum <unclear>tantum</unclear> sit
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3181">
+          <pc type="pilcrow"/> Ex 
+          <lb ed="#P" n="113"/>hiis ad confirmationem istam dico quod falsum assumit cum dicit quod 
+          <lb ed="#P" n="114"/>ista visio significat istam rem esse colorum etc formaliter loquendo 
+          <pb ed="#P" n="68-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>licet bene sic virtute cuius iudicari possit formatis complexis quibusdam 
+          <lb ed="#P" n="2"/>quod illa sic color et non quod sic albedo formaliter addidi quia forte 
+          <lb ed="#P" n="3"/>virtualiter et accidentaliter aliquo modo significat illam esse colorem ista recte et esse al<lb ed="#P" n="4"/>bedinem 
+          cuius ratio est quia haec visio ex natura visionis aliquid significat vel 
+          <lb ed="#P" n="5"/>quod potest esse aliquid quia quod inpossibile est esse videri non potest et simili 
+          <lb ed="#P" n="6"/>visio aliquid naturaliter significat igitur est illud quod per eam videtur si nullum mi<lb ed="#P" n="7"/>raculum 
+          circa eam fiat et si est <sic>est</sic> color et est albedo quia ipsum 
+          <lb ed="#P" n="8"/>aliud esse non potest sed de tali significare quomodo effectus omnis virtualiter 
+          <lb ed="#P" n="9"/>et antecedentis significat suam causam esse et non minus in proposito quam <unclear>ambi</unclear> 
+          <lb ed="#P" n="10"/>non est hic sermo sed de significare formaliter sic autem visio 
+          <lb ed="#P" n="11"/>albedinis nec significat quod videtur esse colorem nec esse albedinem nec esse aliquid 
+          <lb ed="#P" n="12"/>quia solum incomplexe significat illud
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3225">
+          <pc type="pilcrow"/> ad 2o dicendum quod huius notificatio 
+          <lb ed="#P" n="13"/>non erit propria in significando primo modo superius <unclear>io?co</unclear> in responsione 
+          <lb ed="#P" n="14"/>ad 5 sed solum 2o modo
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3236">
+          <pc type="pilcrow"/> ad 21 illud inprobat scotum non me 
+          <lb ed="#P" n="15"/>nec <name xml:id="aw98wa-xg1537-Nd1e3242">okham<!-- olr --></name> quia secundum veritatem correlativa saltem in creaturis vel respectu 
+          <lb ed="#P" n="16"/>creaturarum sunt signa ipsa quae relative significant aliam ad invicem 
+          <lb ed="#P" n="17"/>sicut ista nomina nominalia pater et filius dominus et servus et sic de 
+          <lb ed="#P" n="18"/>similibus vel nomina mentalia illis correspondentia sive simplicia sive 
+          <lb ed="#P" n="19"/>nomina composita ex diversis intelligibilibus et omnia talia relativa ad vim 
+          <lb ed="#P" n="20"/>vocis eundo sunt talia quod optime potest unum illorum et in<lb ed="#P" n="21"/>telligi 
+          et esse sine reliquo quia tamen aristoteli videtur quod relativa id est correlativa 
+          <lb ed="#P" n="22"/>sunt simul natura et intellectu oporteret habere aliquem verum sensum quem inten<lb ed="#P" n="23"/>debat 
+          per verba illa et intellectus ille verus est quod nullus potest scire 
+          <lb ed="#P" n="24"/>nec opinari aliquem esse patrem nisi sciat vel opinetur eum habere alium 
+          <lb ed="#P" n="25"/>nec eum esse dominum quin sciat eum habere servum eo ipso <subst><add place="margin-center">antecedenter</add> <del>intelli<lb ed="#P" n="26"/>git</del></subst> 
+          quod nullus concipitur esse pater nisi ad filium nec dominus nisi ad secundum 
+          <lb ed="#P" n="27"/><unclear>vum</unclear> vel ad possesionem <subst><add place="margin-below">sed sic non loquuntur philosophi de domino in communi exemplificatione scilicet de domino possesionis nisi quae servus</add> <del>sed hic non loquitur de domino rei pos<lb ed="#P" n="28"/>sesse 
+          nisi quae est hoc non de domino communi</del></subst> sed cum hoc stat 
+          <lb ed="#P" n="29"/>quod bene aliquis potest cognoscere patrem aliquem non cognoscendo eius filium 
+          <lb ed="#P" n="30"/>nec cognoscendo eum habere filium ita quod causa res quam signa et ipsa 
+          <lb ed="#P" n="31"/>sunt invicem et esse possunt et cognosci absolute et complexe et multipliciter etc complexe 
+          <lb ed="#P" n="32"/>de patre tamen et filio in divinis sicut sunt in re se ipsis correla<lb ed="#P" n="33"/>tiva 
+          sicut communiter tenetur et verum est ad mentem eorum loquendo tunc 
+          <lb ed="#P" n="34"/>istorum correlativorum neutrorum potest intelligi sine alio non quia <add place="above-line">cor</add> relata 
+          <lb ed="#P" n="35"/>sunt quia tunc omnia correlativa sic se haberent sed quia talia correlata 
+          <lb ed="#P" n="36"/>sunt quae sunt idem penitus essentialiter licet distinguitur personaliter ex quo sequitur 
+          <lb ed="#P" n="37"/>ut supra deductum est quod nulla motio causalis effectiva vel 
+          <lb ed="#P" n="38"/>finalis competere potest uni sine altero pater autem nec intelligi potest 
+          <lb ed="#P" n="39"/>nec diligi quin active per modum oppositi vel per modum finis allective 
+          <lb ed="#P" n="40"/>filius ad talem moveat intentionem seu intentionem et hoc nec 
+          <lb ed="#P" n="41"/>intentione vel cognitione absoluta vel relativa et sic patet ad argumentum 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3322">
+          <pc type="pilcrow"/> ad 22m negandum est quod assumitur et ad probationem dico quod fides nec ideo 
+          <lb ed="#P" n="42"/>praecise negat istam pater est filius quia pater non sic illa res quae est 
+          <lb ed="#P" n="43"/>filius quia hoc falsum <add place="margin-left">esset</add> cum pater si aliqua res quae est filius et alia res 
+          <lb ed="#P" n="44"/>quae non est filius negatio autem praeposita negat universaliter nec iterum 
+          <lb ed="#P" n="45"/>ideo praecise quia pater non sit de se filius sed quia pater nullo modo 
+          <lb ed="#P" n="46"/>de mundo est filius nec de se nec non de se unde dare praecise 
+          <lb ed="#P" n="47"/>illum secundum veritatem vel tantum illum huic negative quam iste fidem 
+          <lb ed="#P" n="48"/>habere dicit et quem dicit esse intellectum fidei in ipsa esset periculo sive et 
+          <lb ed="#P" n="49"/>erroneum circa fidem clarum est mihi quia cum illo sensu optime 
+          <lb ed="#P" n="50"/>staret affirmative quod pater est filius quod tamen sicut venenum 
+          <lb ed="#P" n="51"/>negat fides et horret ad <add place="margin-left">quaecumque</add> sensum ibi secundum principia fidei intellectum 
+          <lb ed="#P" n="52"/>simul enim stant quod homo non sic de se albus et tamen quod sic 
+          <lb ed="#P" n="53"/>albus et sic de aliis infinitis ultra tamen ad propositum sumitur aliud 
+          <lb ed="#P" n="54"/>falsum scilicet quod pater videri possit aliqua visione qua posita 
+          <lb ed="#P" n="55"/>posset ista visione videri dato per inpossibile quod pater non esset 
+          <lb ed="#P" n="56"/>deitas hoc enim aliud falsissimum cuius causa assignata est in respon<lb ed="#P" n="57"/>dendo 
+          ad 11
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3369">
+          <pc type="pilcrow"/> dicendum 23m dictum quod omne illud quod intelligitur per 
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>intuitivam intelligitur etiam per abstractivam indivisibilem et specificam sibi conformem 
+          <lb ed="#P" n="59"/>iste tamen abstrahunt sic quod non requiritur generaliter ex hoc quod aliquid 
+          <lb ed="#P" n="60"/>cognoscitur abstractive quod ipsum sic praesens et etiam quod sic sicud requiritur naturaliter 
+          <lb ed="#P" n="61"/>si cognoscitur intuitive et ideo abstrahit adhuc et tunc ad hunc 
+          <lb ed="#P" n="62"/>sensum quod non requirit ex hoc quod est notitia abstractiva specifica 
+          <lb ed="#P" n="63"/>vel indivisibili quod eius obiectum nunc sit vel quod sic praesens licet 
+          <lb ed="#P" n="64"/>abstractiva de deo hoc requirat sicut etiam omnis effectus 
+          <lb ed="#P" n="65"/>dei 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3393">
+          <pc type="pilcrow"/> ad 24m dicendum quod assumit falsum quia pater etc paternitas 
+          <lb ed="#P" n="66"/>divina ita de se est deitas sicut homo de se est alias 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3400">
+          <pc type="pilcrow"/> Et 
+          <lb ed="#P" n="67"/>prima illud de per se est impertinens ad rem ut supra tactum est 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3407">
+          <pc type="pilcrow"/> Ad 
+          <lb ed="#P" n="68"/>25m licet maior vera sit ubi obiecta alliciunt obiective per 
+          <lb ed="#P" n="69"/>modum finis inseparabili finali motione sed sic non est 
+          <lb ed="#P" n="70"/>in proposito quia omnis causatio ad extra conveniens uni personae eo ipso 
+          <lb ed="#P" n="71"/>convenit cuilibet ut prius dictum est
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3420">
+          <pc type="pilcrow"/> 3us articulus est movere dubia 
+          <lb ed="#P" n="72"/>et solvere primo videtur quod 2a praedicatio primae communis non procedat quia 
+          <lb ed="#P" n="73"/>licet una persona non possit movere active aliud intellectionem 
+          <lb ed="#P" n="74"/>causandam respectu dei nisi quaelibet moveat sicud nec creare nisi quaelibet 
+          <lb ed="#P" n="75"/>creat tamen videtur quod bene posset una persona terminare illam intellectionem quam 
+          <lb ed="#P" n="76"/>quaelibet causat sine hoc quod quaelibet <unclear>creet<!-- corrected somehow --></unclear> sicud patet de incarnatione 
+          <lb ed="#P" n="77"/>quaelibet enim persona divina causat incarnationem active et tamen solus filius 
+          <lb ed="#P" n="78"/>incarnatur et terminat incarnationem
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3444">
+          <pc type="pilcrow"/> dicendum sicut ad argumentum acceptum 
+          <lb ed="#P" n="79"/>est quod ad omnem visionem oportet concurrere obiectivam motionem illius ad 
+          <lb ed="#P" n="80"/>videtur vel alterius potenter supplere vicem illius in movendo loco talis 
+          <lb ed="#P" n="81"/>obiecti solus autem deus respectu cuiuscumque actus intuitiv supplere 
+          <lb ed="#P" n="82"/>potest in augmentando vicem obiecti primo visibilis illa visione licet enim aliquis 
+          <lb ed="#P" n="83"/>credere posit per illuminationem quae sit in potestate creaturae se videre 
+          <lb ed="#P" n="84"/>aliquid quod non videlicet vel se non videre quale videt inpossibile 
+          <lb ed="#P" n="85"/>tamen est quod per actionem creatur aliquis videat aliquid illo non 
+          <lb ed="#P" n="86"/>agente active ad causationem istius visionis nisi deo supplen<lb ed="#P" n="87"/>te 
+          vicem eius in agendo multo igitur fortius de deo nisi aliquid 
+          <lb ed="#P" n="88"/>suppleat vicem eius sed hoc est inpossibile si enim nulla creatura 
+          <lb ed="#P" n="89"/>potest supplere vice obiecti creati in agendo visionem istius obiecti multo 
+          <lb ed="#P" n="90"/>fortius nec respectu dei igitur si deus videbitur oportet necessario quod vere 
+          <lb ed="#P" n="91"/>agat actione obiectiva sed nulla actione agere potest una persona 
+          <lb ed="#P" n="92"/>ad extra sine alia igitur nec obiective creare quia quidquid tunc causat obiective 
+          <lb ed="#P" n="93"/>sive per modum obiecti cognitionem aliquam obiectum est istius cognitionis igitur 
+          <lb ed="#P" n="94"/>etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3484">
+          <pc type="pilcrow"/>ad argumentum igitur dicendcum quod non est simile de incarnari et 
+          <lb ed="#P" n="95"/>videri quia personam aliquam incarnari non est nisi <add place="margin-right">aliquid</add> constitui ex illo <add place="margin-right">et</add>
+          <lb ed="#P" n="96"/><seg type="correction"><del>in</del>carne</seg> assumpta sicut deaurari nihil est nixi unum fieri 
+          <lb ed="#P" n="97"/>aliquo determinato modo ex isto quod dicitur deaurari et auro 
+          <lb ed="#P" n="98"/>et similiter dealbari et sic de aliis <pc type="punctus"/> hic autem in istis nulla 
+          <lb ed="#P" n="99"/>requiritur actio ex hoc in illo quod deauratur vel dealbatur 
+          <lb ed="#P" n="100"/>sed <unclear>ubique</unclear> in omnibus ad visionem requiritur actio <unclear>vera<!-- possible delition --></unclear> <unclear><add place="margin-right">obiectio vera</add></unclear> obiecta illius quod 
+          <lb ed="#P" n="101"/>videtur ad hoc ut videatur vel alterius scilicet dei solius quod eius ac<lb ed="#P" n="102"/>tivitatem 
+          supplere dpossit ideo non est simile unde si incarnari re<lb ed="#P" n="103"/>quireret 
+          specialem activitatem ipsius incarnabilis <add place="margin-right">per modum incarnabilis</add> vel aliquam potenter eius 
+          <lb ed="#P" n="104"/>vicem supplere sicut est de visibili respectu visionis quod falsum 
+          <lb ed="#P" n="105"/>est uniformiter tunc natura persona incarnari posset sine alia sicud 
+          <lb ed="#P" n="106"/>nec <unclear>vi?ri</unclear> potest sine alia
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3542">
+          <pc type="pilcrow"/> Contra solutionem istius dubii arguitur cum 
+          <lb ed="#P" n="107"/>dictis quod una persona non potest efficere visionem sui efficacia obiecti 
+          <lb ed="#P" n="108"/>obiectum visionis effecte quin etiam quaelibet agat efficacia obiectiva 
+          <lb ed="#P" n="109"/>et per consequens quin quaelibet videatur cum nullius personae divinae actio 
+          <lb ed="#P" n="110"/>sic supplebilis arguitur inquam sic vel haec ratio intendit illam 
+          <lb ed="#P" n="111"/>consequentiam si una efficit visionem igitur omnes efficiunt eam et ul<lb ed="#P" n="112"/>tra 
+          igitur una non potest videri ista visione nisi qualibet vis 
+          <lb ed="#P" n="113"/>et planum est quod tunc ratio non concludit quia non plus valet 
+          <lb ed="#P" n="114"/>ista consequentia quam ista si una efficit incarnationem omnes 
+          <lb ed="#P" n="115"/>efficiunt eam igitur una non potest incarnari nisi qualibet incarnata 
+          <pb ed="#P" n="68-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>forma enim est eadem utrobique et ista respondebitur ex una parte sicud ex 
+          <lb ed="#P" n="2"/>alia 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3575">
+          <pc type="pilcrow"/> vel 2o intelligitur ratio sic una non potest movere obiective alia 
+          <lb ed="#P" n="3"/>non movente obiective id est una non potest efficere visionem et terminare illam 
+          <lb ed="#P" n="4"/>nisi alia efficiet eam et terminet et tunc est petitio principii hic enim ab 
+          <lb ed="#P" n="5"/>aliis negatur et haberet hoc probari quod non sic si sic intelligitur ratio 
+          <lb ed="#P" n="6"/>ergo 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3588">
+          <pc type="pilcrow"/> Item personae divinae possunt distinctive cognosci sic quod una 
+          <lb ed="#P" n="7"/>discernatur ab alia igitur de potentia dei poterit una cognosci alia 
+          <lb ed="#P" n="8"/>non cognita consequentia probatur quia si naturaliter unus conclusio supponit pro una 
+          <lb ed="#P" n="9"/>persona qui non pro alia poterit supernaturaliter unus significare unam personam non significando 
+          <lb ed="#P" n="10"/>aliam alia multa addita sunt et soluta in 2o articulo nec 
+          <lb ed="#P" n="11"/>reducta contra meas responsiones contra quem tamen a proposito singulariter 
+          <lb ed="#P" n="12"/>arguebat ideo <unclear>dimittantur<!-- possibly corrected --></unclear>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3610">
+          <pc type="pilcrow"/> ad primum istorum dicendum quod respectu 
+          <lb ed="#P" n="13"/>visionis causandae multiplex concurrit efficacia communiter vel alia supplens 
+          <lb ed="#P" n="14"/>eas vel aliquas illarum primo generalis dei efficacia sine qua nihil causari 
+          <lb ed="#P" n="15"/>potest a creatura aliqua 2o efficacia propria intellectus vel vitalis principii 
+          <lb ed="#P" n="16"/>3o secundum multos efficacia habitus vel speciei 4o secundum veritatem efficacia 
+          <lb ed="#P" n="17"/>propria obiecti visionis 2a et 4a sunt ita necesse quod sine illis non potest 
+          <lb ed="#P" n="18"/>visio alia causari sensitiva vel intellectualis quam salvemus vocare no<lb ed="#P" n="19"/>titiam 
+          intuitivam nisi miraculose non supplendo igitur talem vel 
+          <lb ed="#P" n="20"/>talem activitatem tunc intelligit ratio praedicta sit quod si essentia divina 
+          <lb ed="#P" n="21"/>vel alia personarum agat visionem sui actione propria efficacie debi<lb ed="#P" n="22"/>te 
+          obiecto visionis omnes agunt et quaelibet actione debita efficaciae 
+          <lb ed="#P" n="23"/>visionis obiecti quia omnis actio et operatio seu opera trinitatis sunt 
+          <lb ed="#P" n="24"/>indivisa et si quaelibet agit visionem actione propriam efficacie obiecti quaelibet 
+          <lb ed="#P" n="25"/>videtur inpossibile enim est quod aliquid tenet visionem aliquam efficaciam propria 
+          <lb ed="#P" n="26"/>obiecto illi quin per illam videatur igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3645">
+          <pc type="pilcrow"/> Dices albedine causan<lb ed="#P" n="27"/>te 
+          visionem sui efficacia propria obiecto deus poterit manente vi<lb ed="#P" n="28"/>sione 
+          illa supplere activitatem albedinis respectu eiusdem et tamen deus 
+          <lb ed="#P" n="29"/>non videbitur propter hoc ista visione igitur non sequitur deus vel persona divi<lb ed="#P" n="30"/>na 
+          agit actione debita obiecto visionis igitur <unclear>vim</unclear> ista visione
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3662">
+          <pc type="pilcrow"/> Responsio 
+          <lb ed="#P" n="31"/>si inpossibile esset per deum suppleri efficaciam albedinis respectu suae visio<lb ed="#P" n="32"/>nis 
+          sicut inpossibile est eam aliund suppleri tunc inpossibile 
+          <lb ed="#P" n="33"/>esset aliquid agere visionem albedinis efficacia propria albedinis vel aequivalenti 
+          <lb ed="#P" n="34"/>quin videretur illa visione sed efficaciam propriam requisutam ex parte obiecti 
+          <lb ed="#P" n="35"/>visionis dei et alicuius personae divinae nihil in mundo supplere potest 
+          <lb ed="#P" n="36"/>igitur si deus vle persona divina alia tali efficacia efficit visionem aliquam ipsa 
+          <lb ed="#P" n="37"/>videbitur ista visione sed tali sicut nec alia efficacia non potest 
+          <lb ed="#P" n="38"/>una persona divina agere nisi quaelibet agente tali efficacia ymmo 
+          <lb ed="#P" n="39"/>qualibet agente eadem efficacia igitur nulla poterit agere visionem 
+          <lb ed="#P" n="40"/>sui actione propria obiecto quin quaelibet agat visionem eiusdem actione 
+          <lb ed="#P" n="41"/>propria obiecto et si haec igitur nulla potest videri quin quaelibet videatur qia a<lb ed="#P" n="42"/>gere 
+          visionem actione propria obiecti illius visionis est per <unclear>concomitantiam</unclear> beati<lb ed="#P" n="43"/>ficari 
+          igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3697">
+          <pc type="pilcrow"/> Istum autem sensum qui in argumento satis est expres<lb ed="#P" n="44"/>sus 
+          iste non tangit ideo ab insufficienti procedit et cum se 
+          <lb ed="#P" n="45"/>in terminis generalibus in suis consequentiis ubi ego in efficentia spirituali 
+          <lb ed="#P" n="46"/>procedo ideo in argumento suo est fallacia consequentis et si enim non sequatur 
+          <lb ed="#P" n="47"/>animal currit igitur homo currit tamen bene sequitur hoc animal currit demonstrato sortes 
+          <lb ed="#P" n="48"/>igitur homo currit similiter in proposito licet non sequatur quaelibet persona facit aliquid 
+          <lb ed="#P" n="49"/>igitur si una aliqualiter denominatur ab illo sit reliqua de<lb ed="#P" n="50"/>nominabitur 
+          ab eodem tamen bene sequitur quaelibet agit visionem dei vel 
+          <lb ed="#P" n="51"/>personae divinae efficacia propria obiecto vel tali efficacia in genere qualem 
+          <lb ed="#P" n="52"/>habet albedo si videtur naturaliter respectu suae visionis igitur quaelibet persona divina 
+          <lb ed="#P" n="53"/>videtur nulla enim specie <add place="margin-below">acctionis potest una persona agere nisi qualibet</add> agente consimiliter 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3727">
+          <pc type="pilcrow"/> Sed hic posset esse verum 
+          <lb ed="#P" n="54"/>dubium utrum pater agat visionem sui solum per hoc quod <unclear><!-- correction here somewhere --> ipse est</unclear> 
+          <lb ed="#P" n="55"/>deitas vel in eo etiam quod pater et videtur quod etiam in eo quod haec persona quia sit 
+          <lb ed="#P" n="56"/>distincte videtur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3742">
+          <pc type="pilcrow"/> alioquin per nullam videt dei quantumcumque claram 
+          <lb ed="#P" n="57"/>et perfectam in creatura posset ipsa habere iudicium evidens quod
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="58"/>visum <add place="above-line">ab ea</add> esset pater vel haec persona cum igitur nihil distinctissime intuitive videatur 
+          <lb ed="#P" n="59"/>secundum propriam realitatem suam quin secundum eam moveat et <add place="above-line">per</add> modum 
+          <lb ed="#P" n="60"/>obiecto <seg type="correction"><add place="margin-left">ef</add>ficiat</seg> suam visionem videtur quod pater secundum paternitatem et non solum 
+          <lb ed="#P" n="61"/>secundum deitatem sibi et omnibus divinis personis communem causet causalitate propria 
+          <lb ed="#P" n="62"/>obiecti visionem sui si in oppositum videretur esse quod 3s personae sunt 
+          <lb ed="#P" n="63"/>unicum principium creaturae cuiuscumque non plura principia <add place="margin-below">sicud pater et filius sunt unicum principium spiritus sancti non plura principia</add> secundum 
+          <lb ed="#P" n="64"/><name xml:id="aw98wa-xg1537-Nd1e3779">augustinus</name> et decretales quasdam et <unclear>m</unclear> li 1 distinctione 29 pater ergo 
+          <lb ed="#P" n="65"/>non efficit visionem sui efficacia propria obiecto ex hoc quod est pater 
+          <lb ed="#P" n="66"/>sed solum ex hoc quod est deus vel divina voluntas communis tribus 
+          <lb ed="#P" n="67"/>Credo quod securius est dicere quod quaelibet persona agit visionem sui per hoc 
+          <lb ed="#P" n="68"/>quod ipsemet est deus ita quod 3s personae sint unicum efficiens et 
+          <lb ed="#P" n="69"/>unicum principium et non plura principia illius visionis quam quod una persona agat 
+          <lb ed="#P" n="70"/>eam per hoc quod distinguitur ab alia ut ista ymaginentur <pc type="virgula">/</pc> tria propria 
+          <lb ed="#P" n="71"/>principia illius visionis sicut sunt tria supposita distinctissime cogni<lb ed="#P" n="72"/>ta 
+          verum est tamen et concedendum quod pater agit illam sua propra personalitate et 
+          <lb ed="#P" n="73"/>similiter filius et spiritus sanctus sicut agit eam se ipso quia pater in ullo distinguatur 
+          <lb ed="#P" n="74"/>quando tractabitur haec materia distinctionis et veritatis in divinis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3809">
+          ad argumentum in contra<lb ed="#P" n="75"/>rium 
+          bene volo quod quaelibet persona agit sui secundum propriam personali<lb ed="#P" n="76"/>tatem 
+          quia cuiuslibet personae propria personalitas est essentialiter deitas ipsa et 
+          <lb ed="#P" n="77"/>illud quod est principium operandi ad extra et ideo nihil potest deitas agere vel 
+          <lb ed="#P" n="78"/>producere quin omnis divina personaliter idem agat et producat quamvis 
+          <lb ed="#P" n="79"/>econverso non oporteat ad intra saltem et hoc sufficit ad propositum 
+          <lb ed="#P" n="80"/>licet ex hoc non sequitur quod una persona agat visionem sui inquantum 
+          <lb ed="#P" n="81"/>distinguitur ab alia nec ut una persona distinguitur ab alia vel aliquid simile 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3827">
+          <lb ed="#P" n="82"/><pc type="pilcrow"/> ad 2m argumentum quod vadit contra conclusionem principalem dico sicud prius quod conclusio contra 
+          <lb ed="#P" n="83"/>quam sit vera est quae <unclear>iterum<!-- possible correction --></unclear> probari potest quia anima facta est ad fruendum 
+          <lb ed="#P" n="84"/>trinitate cum sic ymago eius ergo nec potest quietari nisi quietetur 
+          <lb ed="#P" n="85"/>et quiescat in trinitate sicut arguit <name xml:id="aw98wa-xg1537-Nd1e3843">augustinus</name> primo confessionum capitulo 1 <quote xml:id="aw98wa-xg1537-Qd1e3845" source="http://scta.info/resource/aconf-l1-d1e102@55-59">quia fecisti 
+          <lb ed="#P" n="86"/>nos domine ad te</quote> etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3852">
+          <pc type="pilcrow"/> Similiter arguam de trinitate quia facti su<lb ed="#P" n="87"/>mus 
+          ad fruendum ea quia secundum <name xml:id="aw98wa-xg1537-Nd1e3858">augustinus</name> res quibus fruendum est etc 
+          <lb ed="#P" n="88"/>non quiescabimur donec fruamur illa sed si mens posset 
+          <lb ed="#P" n="89"/>frui essentia absque persona vel una persona absque alia tunc beatifica<lb ed="#P" n="90"/>retur 
+          et per consequens quietaretur non in trinitate et hoc qua posset <add place="margin-right">in remississimo</add> 
+          <lb ed="#P" n="91"/><del rend="expunctuation">intentissimo</del> actu fruitionis vel visionis naturaliter in ea sine mi<lb ed="#P" n="92"/>raculo 
+          speciali receptabili habere pro obiecto nihil essentia divina vel 
+          <lb ed="#P" n="93"/>unam personam non habendo aliam pro obiecto quod non videtur dandum 
+          <lb ed="#P" n="94"/>et contra patet quia idem penitus habet pro obiecto actus remissus alicuius 
+          <lb ed="#P" n="95"/>speciei quod et intensus eiusdem speciei in tali casu et tamen talis beati<lb ed="#P" n="96"/>tudo 
+          non <seg type="correction">esse<del rend="expunctuation">n</del>t</seg> eiusdem speciei cum illa quae haberet 3s personas pro obiecto 
+          <lb ed="#P" n="97"/>sequitur quod aliquis posset simul habere 3s visiones intensissimas 
+          <lb ed="#P" n="98"/>modo praedicto et 3 etiam fruitiones proportionales quarum singula singule 
+          <lb ed="#P" n="99"/>personae proprie conveniret et per consequens sic visa posset aliicere ad sui 
+          <lb ed="#P" n="100"/>amorem per modum finis sine hoc quod alia per modum finis al<lb ed="#P" n="101"/>liceret 
+          quia quod non apprehenditur non movet nec allicit ad amorem 
+          <lb ed="#P" n="102"/>per modum finis consequens videtur mihi inconveniens sequeretur etiam ut patet de se 
+          <lb ed="#P" n="103"/>quod plenus posset quis beatificari in duabus personis quam in una 
+          <lb ed="#P" n="104"/>et in tribus quam in duabus
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3909">
+          <pc type="pilcrow"/> Praeterea quod hoc includat contradictionem 
+          <lb ed="#P" n="105"/>arguit doctor quidem modernus sic quia si aliquis videat 
+          <lb ed="#P" n="106"/>unam personam aut igitur videt illam ut essentiam et tunc simili modo 
+          <lb ed="#P" n="107"/>videt omnes personas aut videt eam ut personam et tunc necessario 
+          <lb ed="#P" n="108"/>videt illam ut relativam quia non distinguitur ab alia nis 
+          <lb ed="#P" n="109"/>ut relativa est igitur videt suum <unclear>corrollarium</unclear> sed persona quaelibet 
+          <lb ed="#P" n="110"/>equaliter refertur ex se ad duas personas igitur videns aliquam de 
+          <lb ed="#P" n="111"/>personis ut relativa necessaria eo ipso videt omnes et 
+          <lb ed="#P" n="112"/>ultra igitur fruitur illa pari ratione si fruitur <unclear>alia<!-- corrected from aliter ?? --></unclear> earumdem et 
+          <lb ed="#P" n="113"/>haec ratio probabilius est in suo modo loquendi tali quali 
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3940">
+          Item 
+          <lb ed="#P" n="114"/>secundum eundem essentia et persona sunt idem quia essentia et persona sunt una 
+          <pb ed="#P" n="69-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>res simplicissima apud intellectum ita quod intellectus maiorem simplicitatem 
+          <lb ed="#P" n="2"/>et indistincte nequit intelligere igitur essentia visa clare videtur quaelibet persona sed haec 
+          <lb ed="#P" n="3"/>rem quae ex simplicitate procedit non est ita efficax sicud prio quia 
+          <lb ed="#P" n="4"/>secundum veritatem ista essentia sive deitas et persona sunt simplices et in<lb ed="#P" n="5"/>divisibiles 
+          apud naturam sicut apud intellectum et tamen deitas realiter uni<lb ed="#P" n="6"/>tur 
+          humanitati et non quaelibet persona apud naturam aliquam igitur causam ponere 
+          <lb ed="#P" n="7"/>oportebit
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3964">
+          <pc type="pilcrow"/> Ideo ad argumentum in se responsio quod discretiva notitia et etiam 
+          <lb ed="#P" n="8"/>incomplexa non requirit semper diversa<del rend="expunctuation">s</del> notitias aliquin nec 
+          <lb ed="#P" n="9"/>deus ipse discretive cognosceret 3s <add place="margin-below">personas vel creaturas sine distinctis notitiis quod falsum est</add>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e3979">
+          <pc type="pilcrow"/> dicendum <unclear>est <!-- possible correction --> quod</unclear> <del rend="underline">sicut</del> una 
+          <lb ed="#P" n="10"/>notitia sufficit quae sit distinctissime respectu cuius licet personae sicut credo quod erit 
+          <lb ed="#P" n="11"/>fruitio beatifica et beatifica visio aliquin oporteret ibi plures beati<lb ed="#P" n="12"/>tudines 
+          cognitivas ac fruitivas ponere si ad hoc quod personae secundum 
+          <lb ed="#P" n="13"/>proprias personalitates distinctissime cognoscerentur <add place="margin-left">et diligerentur</add> oporteret haec habere 
+          <lb ed="#P" n="14"/>respectu singulae singulam et distincta cognitionem a cognitione alterius 
+          <lb ed="#P" n="15"/>persone quod non videtur concedendum et concedendum est ultra quod sicut iste unus 
+          <lb ed="#P" n="16"/>actus quamlibet personam significat ita pro qualibet potest supponere cuius oppositum 
+          <lb ed="#P" n="17"/>falso ymaginatur argumentum verum est tamen quod aliquis haberi potest conceptus compositus 
+          <lb ed="#P" n="18"/>ibi et etiam in via qui pro una persona potest supponere non supponendo 
+          <lb ed="#P" n="19"/>pro alia sicud spiratum genitum vel aliquis pro essentia qui non pro persona sicud 
+          <lb ed="#P" n="20"/>iste res nec generans nec genita nec spirata ut 
+          <lb ed="#P" n="21"/>prius dictum est
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4021">
+          <pc type="pilcrow"/> 2m dubium est an conclusio principalis probari possit 
+          <lb ed="#P" n="22"/><del rend="underline">et</del> per hoc quod intelligitur et non intelligitur videtur et non videtur fruetur et non 
+          <lb ed="#P" n="23"/>fruitur <unclear>sine</unclear> contradictoria et ideo verficari non possint de eadem 
+          <lb ed="#P" n="24"/>re videtur quod sit <pc type="punctus"/> quia ex quo diffisivum est sustinere et salvare alia 
+          <lb ed="#P" n="25"/>contradictoria verificari de eadem re et maxime dissonum naturali rationi 
+          <lb ed="#P" n="26"/>et scandializare potest infideles numquam debet hoc concedi 
+          <lb ed="#P" n="27"/>nisi ubi fides ad hoc compellit id est nisi hoc habeatur ex scrip<lb ed="#P" n="28"/>tura 
+          sacra vel ex determinatione ecclesiae vel evidenter <!-- possible addition here --> ex talibus 
+          <lb ed="#P" n="29"/>sequatur igitur hoc fieri debet de frui et intelligi
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4053">
+          <pc type="pilcrow"/> Contra quidem 
+          <lb ed="#P" n="30"/>intelligi per contradictoria aut propositiones contradictoriae tales quarum si una 
+          <lb ed="#P" n="31"/>sit vera reliqua est falsa et econtra et tales non obligat fides 
+          <lb ed="#P" n="32"/>tenere quia oblivio huius rationalis non esset sed contra raitonem et in subversi<lb ed="#P" n="33"/>onem 
+          scandalosam fidei au intelligitur de contradictoriis in complex<lb ed="#P" n="34"/>is 
+          citius sunt homo et non homo vel potius cuiusmodi sunt esse hominem 
+          <lb ed="#P" n="35"/>et non esse hominem et si hoc cum fides talia contradictoria intelligat 
+          <lb ed="#P" n="36"/>verificari de personis diversis in divinis sicut de essentia et persona non videtur <unclear>quia</unclear> 
+          <lb ed="#P" n="37"/>alia debent ibi negare de talibus <unclear>praeci<del rend="expunctuation">se</del></unclear> quae fidei et scripturae non 
+          <lb ed="#P" n="38"/>repugnant citius sunt intelligi et non intelligi et diligi et non dili<lb ed="#P" n="39"/>gi 
+          etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4087">
+          <pc type="pilcrow"/> Item ex quo contradictoria quaedam verificantur de paris 
+          <lb ed="#P" n="40"/>vel de essentia et persona propositiones aliquas in quibus affirmatio et negatio probantur de 
+          <lb ed="#P" n="41"/>essentia vel persona vel de distinctis personis non est ponendum nisi 
+          <lb ed="#P" n="42"/>alia probatione probetur earum repungnantia ne ad hoc quod concedantur 
+          <lb ed="#P" n="43"/>esse possibiles de potentia dei requiritur quod habeantur ex scriptura vel
+          <lb ed="#P" n="44"/>determinatione ecclesiae mediate vel immediate sed sufficit quod non appareat 
+          <lb ed="#P" n="45"/>quare debeant repungnare dicere enim hoc propter naturam contradictionis 
+          <lb ed="#P" n="46"/>cum alia concessa de personis et de persona et essentia aequaliter contradicant 
+          <lb ed="#P" n="47"/>esset dare minima occasionem subvertendi fidem
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4109">
+          <pc type="pilcrow"/> praeterea determinatum 
+          <lb ed="#P" n="48"/>est ab <unclear>ecci?a</unclear> ab deus est talis res de cuius diversis conceptibus veri<lb ed="#P" n="49"/>ficantur 
+          affirmatio et negatio sicut quod pater generat et essentia non generat igitur 
+          <lb ed="#P" n="50"/>in proposito ex hoc quod cognosci et non cognosci sunt contradictoria non sufficienter 
+          <lb ed="#P" n="51"/>arguitur quin concedi possit de personis et de diversis conceptibus 
+          <lb ed="#P" n="52"/>rei quae deus est
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4127">
+          <pc type="pilcrow"/> praeterea falsum est quin contradictoria vocando contradictoria 
+          <lb ed="#P" n="53"/>affirmationem et negationem praedicentur vere de diversis conceptibus eiusdem 
+          <lb ed="#P" n="54"/>rei ut in proposito exemplo igitur ad hoc quod tales concedantur posse 
+          <lb ed="#P" n="55"/>verificari de potentia dei sufficit quod non appareat quia debent poni 
+          <lb ed="#P" n="56"/>repugnare vel sufficit quod aliquem aliquae propositiones sint simul vere 
+          <lb ed="#P" n="57"/>quae ita se habent inter se sicut ille de quibus est sermo 
+          <lb ed="#P" n="58"/>sed sic est in proposito haec est contra <name xml:id="aw98wa-xg1537-Nd1e4144">okam</name> et ideo concedit <unclear>consequentiam</unclear>
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4149">
+          <cb ed="#P" n="b"/>
+          <lb ed="#P" n="59"/><pc type="pilcrow"/> apparet mihi quod uterque deviat a veritate in parte ex primo argumento teneo 
+          <lb ed="#P" n="60"/>hanc conclusionem quod nulla affirmatio et negatio concedi debet de diversis personis seu 
+          <lb ed="#P" n="61"/>pro diversis personis nec pro essentia et persona nisi quae habentur isto modo ex fi<lb ed="#P" n="62"/>de 
+          id est ex scriptura vel determinatione ecclesiae nisi hoc sequatur evidenter 
+          <lb ed="#P" n="63"/>ex talibus tamen hoc sustinere est multum difficile et contra naturale 
+          <lb ed="#P" n="64"/>iudicium correspondens dispositionibus creaturam cum quia <add place="margin-right">nullus debet</add> <del rend="underline">respondet</del> sibi ignotum 
+          <lb ed="#P" n="65"/>vel dubium affirmare contradictoria autem quae divinis personis vel personae et essentiae 
+          <lb ed="#P" n="66"/>non tribuuntur ex scriptura vel determinatione ecclesiae nec in quibus evi<lb ed="#P" n="67"/>dens 
+          ratio habetur quae nos circa hoc sufficienter dirigat dubium 
+          <lb ed="#P" n="68"/>est et ignotum an ipsis conveniat maxime tum quaedam talia 
+          <lb ed="#P" n="69"/>doceantur ipsis convenire et quaedam repungnare et ideo de ipsis 
+          <lb ed="#P" n="70"/>quibus nulla <del rend="expunctuation">tria</del> certitudo habetur modo praedicto dubium potest esse rationabiliter 
+          <lb ed="#P" n="71"/>cuilibet an sint de genere conventium vel de genere repugnantium
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4192">
+          <lb ed="#P" n="72"/><pc type="pilcrow"/> praeterea illa quae exprimentur in scriptura vel ex determinatione ecclesiae non 
+          <lb ed="#P" n="73"/>ideo sunt vera quia exprimuntur sed ideo exprimuntur quia sunt vera et 
+          <lb ed="#P" n="74"/>si non exprimerentur nihil minus essent vera quia locus ab 
+          <lb ed="#P" n="75"/>auctoritate non tenet negative arguendo cum igitur constet talia 
+          <lb ed="#P" n="76"/>prius fuisse vera quam expressa non oportebat omnia 
+          <lb ed="#P" n="77"/>vera exprimi dubilie est de non expressis utrum sicut 
+          <lb ed="#P" n="78"/>concedenda et propter hoc sicut non est dicendum quod sint vera nisi habe<lb ed="#P" n="79"/>atur 
+          hoc ex scriptura ita nec est dicendum contrarium nisi appareat eviden<lb ed="#P" n="80"/>tia 
+          ad hoc dicendum alia quam ex hoc quod sint talia incom<lb ed="#P" n="81"/>plexa 
+          contradictoria
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4218">
+          <pc type="pilcrow"/> 3o dico quod nec in divinis nec in creaturis 
+          <lb ed="#P" n="82"/>debent contradictoria huius verificari de eadem re quae non est signum sed 
+          <lb ed="#P" n="83"/>singuilis nec pro eadem re tali <pc type="punctus"/> quod non de eadem re patet quia 
+          <lb ed="#P" n="84"/>res pro qua fit praedicatio non est subiectum propositionis sed signum illius 
+          <lb ed="#P" n="85"/>nec pro eadem re quia hoc est oppositum primi principii de qulibet esse 
+          <lb ed="#P" n="86"/>vel non esse etc ita de esse <c>a</c> et non esse <c>a</c> et de omnibus simili<lb ed="#P" n="87"/>bus 
+          sed de nullo eodem igitur de nulla eadem re ambo <pc type="punctus"/> tamen 
+          <lb ed="#P" n="88"/>quia inponere fidei tale inconveniens est exponere fidem deri<lb ed="#P" n="89"/>sioni 
+          omnium infidelium intelligentium et scandolose subversi<lb ed="#P" n="90"/>oni 
+          cum omnis evidentissime asserant illud principium verum esse cum 
+          <lb ed="#P" n="91"/>quia illud esse non ponitur nisi in divinis secundum illos sed ibi evidenter patet 
+          <lb ed="#P" n="92"/>quod dici non debeat ista absurditas igitur quia de nulla re in
+          <lb ed="#P" n="93"/>divinis verificantur contradictoria igitur de nulla vel pro nulla eadem re in 
+          <lb ed="#P" n="94"/>divinis verificantur contradictoria contra patet de se probatio antecedentis quia dentur 
+          <lb ed="#P" n="95"/>contradictoria illa utpote generare quod convenit patri et non generare 
+          <lb ed="#P" n="96"/>quod verificatur de essentia probatio quia de nulla re divina verificantur contradictoria 
+          <lb ed="#P" n="97"/>haec quia omnis res in divinis est deitas vel pater vel filius vel spiritus spiritus vel 
+          <lb ed="#P" n="98"/>alia proprietas personalis sed pro nulla de istis verificantur contradictoria haec 
+          <lb ed="#P" n="99"/>quia nec deitas generat vel non generat nec pater generat vel non 
+          <lb ed="#P" n="100"/>generat et sic de aliis igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4273">
+          <pc type="pilcrow"/> 3o dico quod illa contradictoria 
+          <lb ed="#P" n="101"/>et quoddam alia verificantur de eodem conceptu dei pro alio tamen et 
+          <lb ed="#P" n="102"/>alio supponente quia de conceptu essentiae et de conceptu patris verificantur ita contra<lb ed="#P" n="103"/>dictoria 
+          sed idem est conceptus essentiae et patris ex priori articulo in praecedenti 
+          <lb ed="#P" n="104"/>dubio igitur etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4286">
+          <pc type="pilcrow"/> Dices quod tunc primum principium falsum erit quia tunc dicit 
+          <lb ed="#P" n="105"/>de nullo eodem ambo
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4293">
+          dicendum quod non ad intellectum debitum 
+          <lb ed="#P" n="106"/>de nullo id est de nulla eadem re mediate conceptu suo vel de 
+          <lb ed="#P" n="107"/>nullo eodem conceptu pro eodem sed quin de eodem conceptu pro alio 
+          <lb ed="#P" n="108"/>tamen et alio ambo negari tamen non debet circa deum cum quia contradictoria 
+          <lb ed="#P" n="109"/>illa verificantur pro essentia et patre sed ex praedictis nullus est conceptus 
+          <lb ed="#P" n="110"/>patris quin iste conceptus sit essentiae nec econtra igitur ista contradictoria verifi<lb ed="#P" n="111"/>cantur 
+          deo eodem conceptu licet non pro eodem igitur hoc non est vitandum 
+          ac est homo animal non est homo et tamen utrobique idem 
+          <lb ed="#P" n="112"/>aequivalenter subicitur licet non pro eodem igitur
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4311">
+          <pc type="pilcrow"/> ad rationem pro prima 
+          <lb ed="#P" n="113"/>parte huius dubii dico quod conclusio negativa quam infert 
+          <lb ed="#P" n="114"/>vera est sed affirmativa quae non probat sine evidentia alia infertur et
+          <pb ed="#P" n="69-v"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1"/>praeter haec ratio inplicat falsum ut iam ostensum est scilicet quod fides 
+          <lb ed="#P" n="2"/>contradictoria concedat ubi tamen de eadem re vel pro eadem re 
+          <lb ed="#P" n="3"/>quod idem est ad mentem loquentis licet non ad proprietatem sermonis
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4331">
+          <lb ed="#P" n="4"/><pc type="pilcrow"/> ad primum in oppositum concedo quod ex hoc quod intelligi et non intelligi 
+          <lb ed="#P" n="5"/>sunt contradictoria non possunt nec debent affirmari nec negari posse 
+          <lb ed="#P" n="6"/>convenire patri et essentiae sed in dubio debet homo remanere 
+          <lb ed="#P" n="7"/>nisi aliunde hoc pateat sed in proposito aliunde certifica<lb ed="#P" n="8"/>mur 
+          sicut patet ex ratione et auctoritatibus positis ad primam conclusionem 
+          <lb ed="#P" n="9"/>primi articuli et scriptura igitur et ratio ad hoc necessitat tantumdem 
+          <lb ed="#P" n="10"/>quod teneo <pc type="punctus"/> sed non natural contradictionis absolute loquendo
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4353">
+          <pc type="pilcrow"/> ad 2m per idem 
+          <lb ed="#P" n="11"/>et similiter ad 3m 4a ratio nimis concludit scilicet quod non solum non 
+          <lb ed="#P" n="12"/>debent negari posse convenire sed et concedi cuius oppositum concedendum est Sed 
+          <lb ed="#P" n="13"/>contradicta videtur quod contradictoria alia verificentur pro eodem omnino in divinis 
+          <lb ed="#P" n="14"/>et per eadem re quia hoc dietas est pater haec deitas est 
+          <lb ed="#P" n="15"/>non pater
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4369">
+          <pc type="pilcrow"/> dicendum quod ad hoc quod contradictoria haberentur quae verifica<lb ed="#P" n="16"/>rentur 
+          pro eodem oporteret negationem praecedere verum illo modo 
+          <lb ed="#P" n="17"/>haec deitas est pater haec deitas non est pater quia sicut 
+          <lb ed="#P" n="18"/>dicit quidem magister et mihi videtur probabiliter in hoc ad hoc 
+          <lb ed="#P" n="19"/>quod haec sic congrua essentia est non pater et intelligibilis oportet quod negatio 
+          <lb ed="#P" n="20"/>sic infinitans vel quod intelligatur praecedere verbum et si sic 
+          <lb ed="#P" n="21"/>infinitans non sunt praedicata illa contradictoria sed pravatiae opposita 
+          <lb ed="#P" n="22"/>et depraevatiae oppositis satis est possibile quod simul verificentur 
+          <lb ed="#P" n="23"/>alia pro eodem in divinis quia essentia divina est nascibilitas et in<lb ed="#P" n="24"/>nascibilitas 
+          et si hoc sic verum sive non regula tamen aristoteles quod 
+          <lb ed="#P" n="25"/>contradictoria non verificantur de eodem intelligi deo contradictoriis 
+          <lb ed="#P" n="26"/>in quorum altero negatio praeponitur verbo sicud et ipsemet exprimit 
+          <lb ed="#P" n="27"/>quod de quolibet esse vel non esse etc
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4400">
+          <pc type="pilcrow"/> 3m dubium an ex hoc quod 
+          <lb ed="#P" n="28"/>in divinis secundum principium anselmi omnia sunt unum ubi non ob<lb ed="#P" n="29"/>viaret 
+          relationis oppositio debeat dici contradictionem includere 
+          <lb ed="#P" n="30"/>quod una persona intelligatur vel diligatur sine alia vel essentia sine persona 
+          <lb ed="#P" n="31"/>videtur quod sic quia nullam aliam habemus a sanctis regulam quid intelligi 
+          <lb ed="#P" n="32"/>debeat de omnibus in divinis et quid de uno ita quod non de alio 
+          <lb ed="#P" n="33"/>nisi istam si ista frusteretur omnis ars nobis tollitur sed secundum hanc 
+          <lb ed="#P" n="34"/>regulam cum relativa oppositio abstet de intellectu vel diligi 
+          <lb ed="#P" n="35"/>nullo modo debet concedi esse possibile quod pater intelligatur essentia non in<lb ed="#P" n="36"/>tellecta 
+          vel econverso
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4424">
+          <pc type="pilcrow"/> Contra si ista ars sufficeret pater incarna<lb ed="#P" n="37"/>retur 
+          non igitur isto modo potest propositum sufficienter probari dicendum quod non 
+          <lb ed="#P" n="38"/>quia regula illa non regulat nos immediate nisi circa essentia et per<lb ed="#P" n="39"/>sonas 
+          ad intra quidem cui convenit ibidem et quid non ad intra 
+          <lb ed="#P" n="40"/>ideo significanter dicit in divinis omnia sunt unum etc non autem 
+          <lb ed="#P" n="41"/>regulat in positionibus sumptis ad extra nisi mediate vel remo<lb ed="#P" n="42"/>te 
+          et insufficienter sicud plane docet instantia de <unclear>incarnatione</unclear> fi<lb ed="#P" n="43"/>lii 
+          sine patre nec tamen tollitur omnis ars probandi inten<lb ed="#P" n="44"/>tum 
+          quia ex evangelio et per artem in 2o articulo arguendo ad primam conclusionem 
+          <lb ed="#P" n="45"/>primi articuli positam
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4450">
+          <pc type="pilcrow"/> ad primum argumentum principale antecedens negandum est et 
+          <lb ed="#P" n="46"/>ad probationem dicendum quod antecedens falsum est
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4457">
+          <pc type="pilcrow"/> ad primam probationem posset supra ad 
+          <lb ed="#P" n="47"/>2am probationem dicendum quod assumit falsum de priori <unclear>m?r</unclear> prioritate communi<lb ed="#P" n="48"/>catis 
+          solum licet de priori distincto respectu verum est sic non est sic 
+          <lb ed="#P" n="49"/>hic 3a probatio assumit falsum ut patet prius
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4471">
+          <pc type="pilcrow"/>ad 2am rationem 
+          <lb ed="#P" n="50"/>maior neganda est de illis quae non possunt seorsum movere ac<lb ed="#P" n="51"/>tive 
+          nec causare et sic est hic et ad probationem dicendum quod possunt distincte 
+          <lb ed="#P" n="52"/>cognosci sed non seorsum esse
+        </p>
+        <p xml:id="aw98wa-xg1537-d1e4482">
+          <pc type="pilcrow"/> Ad 3m et 4m patet per prius dicta
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
