@@ -1,0 +1,1111 @@
+{
+  "principles": {
+    "p1": "The majority (plurality) of witnesses have the variant.",
+    "p2.1": "The rejected reading is clearly wrong in the context.",
+    "p2.2": "The rejected reading is not as fitting in the context.",
+    "p3": "We have defaulted to the main (Sorbonne) witness.",
+    "p4": "We choose the more explicit reading; gives more information",
+    "p5": "Weight obvious later scribal interventions lower in our consideration, especially if they deviate from the majority of witnesses",
+    "i1": "variation is insubstantial", 
+    "i2": "difference caused by normalization in critical text"
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e125": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Aasdfdd"
+      },
+      {
+        "status": "not-yet-added",
+        "appId": "aw98wa-xg1657-d1e125-Aasdfdd",
+        "note": "2ae vs 3ae; requires checking on acccuracy of reference to previous questions"
+      },
+      {
+        "status": "not-yet-added",
+        "appId": "aw98wa-xg1657-d1e125-A4dajvd",
+        "note": "12 vs 11; requires checking on acccuracy of reference to previous questions"
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Ac8dana",
+        "note": "filio vs filium"
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e156": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Ac94had",
+        "reasons": [
+          "p1",
+          "p3"
+        ]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Axxxaa3",
+        "note": "majority of witnesses have primo rather probo and probo seem as correct",
+        "reasons": [
+          "p1",
+          "p2.2",
+          "p3"
+        ]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Ayu787d",
+        "note": "",
+        "reasons": [
+          "p2.1",
+          "p3"
+        ]
+      },
+      {
+        "status": "ignored",
+        "appId": "aw98wa-xg1657-d1e125-Au7y6td",
+        "note": "same id as below because it is part of the same larger variation",
+        "reasons": ["i1"]
+      },
+      {
+        "status": "ignored",
+        "appId": "aw98wa-xg1657-d1e125-Au7y6td",
+        "note": "same id as above because it is part of the same larger variation",
+        "reasons": ["i1"]
+      },
+      {
+        "status": "not-yet-added",
+        "appId": "aw98wa-xg1657-d1e125-Axc83ad",
+        "note": "",
+        "reasons": ["p4"],
+        "opposes": [
+          "p1",
+          "p3"
+        ]
+      },
+      {
+        "status": "ignored",
+        "certainty": "medium",
+        "appId": "aw98wa-xg1657-d1e125-Aa3da38",
+        "note": "sorbonne seems to correct from nec to non, but it still seems insubstantial",
+        "reasons": ["i1"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e125-Ax48haaa",
+        "note": "the addition of the holy spirit seems like semi-irrelevant add on since the major premise only discusses the Son and the Father; it might be tempting to see this as more explicit, but we see rather as distracting and surplus",
+        "reasons": [
+          "p2.2",
+          "p3"
+        ],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e137": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Aasdss1",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p3",
+          "p2.2"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Aasdss2",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.2"
+        ],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Aasdss3",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Aasdss4",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.2",
+          "p3"
+        ],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1eXXX": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Ac82na1",
+        "note": "",
+        "reasons": ["p2"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e137-Ac82na2",
+        "note": "This is tricky because while S does contain this more explicit reading, it contains it as a correction which is in a different hand and therefore is likely a scribal intervention not original to the Sorbonne witness. Thus in this case we only appear to oppose p3 and p4, but if we think of the intervention as not part of the original sorbonne witness, then in actuality there is not real variation and no opposition to p3 and p4.",
+        "reasons": [
+          "p1",
+          "p5"
+        ],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e140": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e140-Axcvnej",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "ignored and chosen",
+        "appId": "aw98wa-xg1657-d1e140-Ay76t5x",
+        "note": "this is really just a transposition related to the segment below, but we followed this segment in the main text",
+        "reasons": [
+          "i1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "ignored and not chosen",
+        "appId": "aw98wa-xg1657-d1e140-Ay76t5x",
+        "note": "this is really just a transposition related to the segment above, but we DID NOT followed this segment in the main text",
+        "reasons": [
+          "i1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e140-A3vn3vn",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e140-AcyX76y",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.1",
+          "p3"
+        ],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e140-AcyX76y",
+        "note": "",
+        "reasons": [
+          "p1",
+          "p2.1",
+          "p3"
+        ],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e143": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e143-Acdjds2",
+        "note": "",
+        "reasons": ["p1", "p2.1"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e143-Acdjds1",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e143-Acdjds3",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e146": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe1",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe2",
+        "note": "",
+        "reasons": ["p3", "p4"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe3",
+        "note": "",
+        "reasons": ["p1","p4"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe4",
+        "note": "part of the same app as below; although V omits the 'fuit' we see this a tacit agreement with the Sorbonne reading; therefore the decision does not violate p1",
+        "reasons": ["p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe4",
+        "note": "part of the same as above",
+        "reasons": ["p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe5",
+        "note": "",
+        "reasons": ["p2.1", "p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "",
+        "reasons": ["i2"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe7",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "",
+        "reasons": ["i1"],
+        "opposes": []
+      },
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "",
+        "reasons": ["i1"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe8",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e147-AnvhZe9",
+        "note": "",
+        "reasons": ["p4"],
+        "opposes": ["p3"]
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e159": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a1",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a2",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a3",
+        "note": "pairs with below",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a3",
+        "note": "paris with above",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      }, 
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "",
+        "reasons": ["i1"],
+        "opposes": [""]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a4",
+        "note": "pairs with the segment below",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e159-Aa31a4",
+        "note": "paris with the segment below",
+        "reasons": ["p3"],
+        "opposes": []
+      }
+      
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e162": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx1",
+        "note": "not included because doesn't seem as accurate, but also seems like an addition from another hand",
+        "reasons": ["p1", "p2.2"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx2",
+        "note": "seems like a clear homeoteluton and EXCELLENT example/evidence of M and T's reliance on a common ancestor, since both make this same mistake",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx3",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx4",
+        "note": "part of inversion in following segment",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx4",
+        "note": "part of inverstion in previous segment",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx5",
+        "note": "",
+        "reasons": ["p2.1"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx6",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx7",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e162-Acaxx8",
+        "note": "",
+        "reasons": ["p2.1", "p3"],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e165": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j1",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j2",
+        "note": "",
+        "reasons": ["p1", "p2.2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j3",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j4",
+        "note": "not included because doesn't seem as accurate, but also seems like an addition from another hand",
+        "reasons": ["p1"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j5",
+        "note": "inverstion connected to following segment",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j5",
+        "note": "inversion connected to above segment",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e165-Acj8j6",
+        "note": "",
+        "reasons": ["p2.1"],
+        "opposes": ["p3","p1"]
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e168": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd1",
+        "note": "ad argument in sorb seems like something that would previously be found in the margin, which erroneously found its way into the main text",
+        "reasons": ["p1", "p2.2"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd2",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd3",
+        "note": "",
+        "reasons": ["p1", "p2.2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd4",
+        "note": "",
+        "reasons": ["p2.1", "p3"],
+        "opposes": ["p1", "p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd5",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd6",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd7",
+        "note": "",
+        "reasons": ["p2.2", "p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e168-Anvbd8",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      }
+     ]
+    },
+   "http://scta.info/resource/aw98wa-xg1657-d1e177": {
+    "segments": [
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "",
+        "reasons": ["i1"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd1",
+        "note": "",
+        "reasons": ["p1", "p2.2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd2",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd3",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": ["p4"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd4",
+        "note": "related immediate segment below as part of inversion variant",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd4",
+        "note": "related immediate segment above as part of inversion variant",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd5",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd7",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd8",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd9",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh10",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdhd6",
+        "note": "",
+        "reasons": ["p2.2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh11",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh12",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh13",
+        "note": "",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh14",
+        "note": "",
+        "reasons": ["p1", "p2.2"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh15",
+        "note": "",
+        "reasons": ["p1", "p4"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh16",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh18",
+        "note": "",
+        "reasons": ["p1","p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh17",
+        "note": "the scribal addition is clearly later, doesn't make a lot of sense, and is not supported by any other witness",
+        "reasons": ["p5"],
+        "opposes": []
+      },
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "this is minor orthograph difference between illa and ista; we just silently folowed the S reading",
+        "reasons": ["i1", "p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh19",
+        "note": "sorbonne has the reading in the margin as a scribal addition; its not clear how late this addition; by treating it more less as an original part of S (which sort of opposed p5) it allows us to justify this reading with p3; extra support comes from the fact that V contains this reading in the main text ",
+        "reasons": ["p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh20",
+        "note": "",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh37",
+        "note": "secunda missing in vat",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh21",
+        "note": "",
+        "reasons": ["p3", "p4"],
+        "opposes": ["p1", "p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh21",
+        "note": "",
+        "reasons": ["p3", "p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh22",
+        "note": "candidate to ignore isto/illo variations",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh23",
+        "note": "",
+        "reasons": ["p1", "p2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh25",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh26",
+        "note": "",
+        "reasons": ["p1", "p2", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "ignored",
+        "appId": "",
+        "note": "ignore orthographic diff between diarii and dyarii",
+        "reasons": ["i1"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh27",
+        "note": "",
+        "reasons": ["p3", "p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh28",
+        "note": "et vs ut",
+        "reasons": ["p1", "p2"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh29",
+        "note": "visionem added in T",
+        "reasons": ["p1", "p3"],
+        "opposes": ["p4"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh30",
+        "note": "sed vs si",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh31",
+        "note": "videbatur vs videbitur",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh32",
+        "note": "vat has tunc instead of tum which is not wronng, but tum is the majority",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh33",
+        "note": "a post vs apud",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh34",
+        "note": "inversion of omnino and idem; continued in next segment",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh34",
+        "note": "inversion of omnino and idem; continues previous segment",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh35",
+        "note": "",
+        "reasons": ["p3", "p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e177-Axdh36",
+        "note": "",
+        "reasons": ["p3"],
+        "opposes": ["p5"]
+      }
+    ]
+   },
+   "http://scta.info/resource/aw98wa-xg1657-d1e187": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah1",
+        "note": "missing videretur",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah2",
+        "note": "esse instead of essentiae",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah3",
+        "note": "evidenter in vat and added into sorb; another example of sorb seemingly corrected against Vat",
+        "reasons": ["p1","p3", "p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah4",
+        "note": "inversion; related to segment below",
+        "reasons": ["p2.1"],
+        "opposes": ["p1", "p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah4",
+        "note": "inversion; related to segment above",
+        "reasons": ["p2.1"],
+        "opposes": ["p1", "p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah5",
+        "note": "personarum vs personaliter",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah6",
+        "note": "qualis vs quare",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah7",
+        "note": "de vs in; another example of sorb seemingly corrected against Vat",
+        "reasons": ["p1","p3", "p4"],
+        "opposes": ["p5"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah8",
+        "note": "praedicamenta vs praedicata",
+        "reasons": ["p2.2"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah9",
+        "note": "absolutus/relativus inversion; continued below",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah9",
+        "note": "continues above; continued below;s dbcheck to see if this is needed after algorithm performs next collation",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah9",
+        "note": "continues above; dbcheck to see if this is needed after algorithm performs next collation",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah10",
+        "note": "et vs quia; et in V is pretty unclear but this is our best guess",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah11",
+        "note": "substantia vs subiecti",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah12",
+        "note": "id est ommission",
+        "reasons": ["p1", "p2.1"],
+        "opposes": ["p3"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah13",
+        "note": "quando vs quoniam",
+        "reasons": ["p3", "p2.2"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah14",
+        "note": "ille vs iste",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah15",
+        "note": "ille vs iste vs illa",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah16",
+        "note": "addition of vel spiritum sanctum esse filium; continues below",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah16",
+        "note": "addition of vel spiritum sanctum esse filium; continues above",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e187-Aixah17",
+        "note": "igitur etc",
+        "reasons": ["p3"],
+        "opposes": []
+      }
+    ]
+  },
+  "http://scta.info/resource/aw98wa-xg1657-d1e190": {
+    "segments": [
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn1",
+        "note": "ille vs iste",
+        "reasons": ["p3"],
+        "opposes": ["p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn2",
+        "note": "secundo vs. filio",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn3",
+        "note": "omission of first utramque non; start of homotelueton; also covered in app: aw98wa-xg1657-d1e190-Accjn4",
+        "reasons": ["p1", "p2.1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn5",
+        "note": "omission of 'aeque primo', continuation of homotelueton",
+        "reasons": ["p4"],
+        "opposes": ["p3", "p1"]
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn6",
+        "note": "distincte vs distincta",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn7",
+        "note": "ratio maior inversion; continued below",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn7",
+        "note": "ratio maior inversion; continuation of above",
+        "reasons": ["p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn8",
+        "note": "omitted tunc",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn9",
+        "note": "una vs illa",
+        "reasons": ["p1", "p3"],
+        "opposes": []
+      },
+      {
+        "status": "added",
+        "appId": "aw98wa-xg1657-d1e190-Accjn10",
+        "note": "quam alia",
+        "reasons": ["p4"],
+        "opposes": ["p3"]
+      }
+    ]
+  }
+}
