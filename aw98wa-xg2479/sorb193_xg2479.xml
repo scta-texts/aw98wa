@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3 [Sorb193 Transcription]</title>
+          <date when="2013-11-27">November 27, 2013</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2013-11-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="102-v"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg2479"><!-- b1-d17-q3-->
+        <head xml:id="aw98wa-xg2479-Hd1e101">Quaestio 3 [Sorbonne Transcription]</head>
+        <p xml:id="aw98wa-xg2479-d1e103">
+          <lb ed="#S" n="72"/>Tertio circa distinctione 17 quaero utrum de peccatore possit 
+          <lb ed="#S" n="73"/>fieri non peccator et acceptatus deo sine tali habitu sibi 
+          <lb ed="#S" n="74"/>infuso per gratiam increatam
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e112">
+          videtur quod non primo de quacumque 
+          <lb ed="#S" n="75"/>etiam potentia <g ref="#dot"/> quia nullus de peccatore potest fieri non peccator per quam<lb ed="#S" break="no" n="76"/>cumque 
+          potentiam nisi sibi <choice><orig>remictatur</orig><reg>remittatur</reg></choice> culpa apparet culpa non potest peccato<lb ed="#S" break="no" n="77"/>ri 
+          <choice><orig>remicti</orig><reg>remitti</reg></choice> sine omni dono sive[?] collato igitur probo minoris quia 
+          <lb ed="#S" n="78"/>expulsio culpae et infusio gratiae sunt eadem mutatio nam 
+          <lb ed="#S" n="79"/>si alia aut erit expulsio sive remissio culpae mutatio ac<lb ed="#S" break="no" n="80"/>quisitiva 
+          et hoc non nisi detur intentum quia mutationis acquisi<lb ed="#S" break="no" n="81"/>tive 
+          sive positive trinus[?] ad quem est aliquid positum istius autem ex<lb ed="#S" break="no" n="82"/>pulsionis 
+          non est terminus ad quem positivus alius a gratia igitur aut erit 
+          <lb ed="#S" n="83"/>mutatio privativa sine deperditiva et hoc non quia tunc trinus 
+          <lb ed="#S" n="84"/>a quo esset positivus sed culpa non semper est aliquid positivum etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e147">
+          <lb ed="#S" n="85"/>Contra non minus posset deus alicui cui offenditur <choice><orig>remictere</orig><reg>remittere</reg></choice> of<lb ed="#S" break="no" n="86"/>fensam 
+          sine illius mutatione ad instantiam alterius quam homo 
+          <lb ed="#S" n="87"/>possit facere sed homines frequenter ad preces aliorum remit<lb ed="#S" break="no" n="88"/>tunt 
+          offensas etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e162">
+          <g ref="#pilcrow"/>Item non est idem esse amtum et non esse 
+          <lb ed="#S" n="89"/>inimicum ergo alicui posset deus offensam sine culpam <choice><orig>re<lb ed="#S" break="no" n="90"/>mictere</orig><reg>re<lb ed="#S" break="no" n="90"/>mittere</reg></choice> 
+          ita quod iam non haberet eum pro inimico absque hoc quod re<lb ed="#S" break="no" n="91"/>ciperet 
+          eum ad gratiam amicitiae quae est acceptatio ad vitam aeter<lb ed="#S" break="no" n="92"/>nam 
+          et ita posset de peccatore fieri non peccator sine gratiae infusione
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e184">
+          <lb ed="#S" n="93"/><g ref="#pilcrow"/>hic primo ponenda sunt <choice><orig>alica</orig><reg>aliqua</reg></choice> argumenta quibus videretur quod non <choice><orig>2o</orig><reg>secundo</reg></choice> tenebitur 
+          <lb ed="#S" n="94"/>conclusio opposita <g ref="#dot"/>et <choice><orig>3o</orig><reg>tertio</reg></choice> solventur rationes in contrarium <g ref="#dot"/> <choice><orig>4o</orig><reg>quarto</reg></choice> movebuntur 
+          <lb ed="#S" n="95"/>dubia
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e215">
+          <g ref="#pilcrow"/>ad primum arguitur primo sit non est transitus a contradictorio 
+          <lb ed="#S" n="96"/>in contradictorium sine mutatione quia si nulla sit mutatio non est ratio quare 
+          <lb ed="#S" n="97"/>nunc una pars contradictionis est vera plus vel prius quam altera sed quando 
+          <lb ed="#S" n="98"/>isti <choice><orig>remictitur</orig><reg>remittitur</reg></choice> culpa est transitus talis quia antequam culpa 
+          <lb ed="#S" n="99"/><choice><orig>remictatur</orig><reg>remittatur</reg></choice> est dignus <choice><orig>pena</orig><reg>poena</reg></choice> aeterna postea non igitur talis transitus 
+          <lb ed="#S" n="100"/>esse non poterit sine mutatione reali <g ref="#slash"/> quia mutatio rationis si quae sit or[?] 
+          <lb ed="#S" n="101"/>quod reducatur ad mutationem realem cum igitur ista mutatio non sit 
+          <lb ed="#S" n="102"/>in voluntate divina nec in actu eius igitur erit in <choice><orig>alico</orig><reg>aliquo</reg></choice> cui culpa <choice><orig>re<lb ed="#S" break="no" n="103"/>mictitur</orig><reg>re<lb ed="#S" break="no" n="103"/>mittitur</reg></choice> 
+          et per consequens remissio culpae in illo est alia eius mutatio 
+          <lb ed="#S" n="104"/>realis et ita habebit terminum realem ad quem cum non habeat t?m[?] 
+          <lb ed="#S" n="105"/>realem a quo vel saltem non or[?] quod habeat et iste terminus vocatur 
+          <lb ed="#S" n="106"/>gratia
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e269">
+          <g ref="#pilcrow"/>Item peccator ante p?am[?] est iustus post <choice><orig>penitentiam</orig><reg>poenitentiam</reg></choice> 
+          <lb ed="#S" n="107"/>est iustus sicut communiter scriptura peccatorem vocat iniustum et libera 
+          <lb ed="#S" n="108"/>cum a peccato istum
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e282">
+          <g ref="#pilcrow"/>Ex hoc arguitur sic iniustitia cum sit formaliter privatio 
+          <lb ed="#S" n="109"/>non potest auferri ab aliquo nisi detur eius habitus oppositus 
+          <lb ed="#S" n="110"/>quia privare privationem est ponere habitum quia sunt immediate opposita 
+          <lb ed="#S" n="111"/>tunc subiectum aptum natum <g ref="#carrot"/><add place="marginLeft">ex X <title>metaphysicae</title></add> anima autem est apta nata recipere 
+          <lb ed="#S" n="112"/>iustitiam igitur iste qui iustificatus factus est de iniusto ius<lb ed="#S" break="no" n="113"/>tus 
+          recipit habitum oppositum illi privationi si enim nihil in esset sibi 
+          <lb ed="#S" n="114"/>formaliter plus nunc quam prius non plus careret nunc priva?e[?] quam prius 
+          <lb ed="#S" n="115"/>caruit
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e307">
+          <g ref="#pilcrow"/>praeterea peccator dum est peccator non est dignus vita aeterna 
+          <lb ed="#S" n="116"/>igitur cum de peccatore fit acceptus aliquid formaliter recipit probatio consequentiae 
+          <lb ed="#S" n="117"/>quia ipse nunc est dignus vita aeterna et nihil tale prius habuit dum 
+          <lb ed="#S" n="118"/>erat peccator igitur
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e318">
+          <g ref="#pilcrow"/>praeterea deus non acceptat peccatorem ad vitam 
+          <lb ed="#S" n="119"/>aeternam institutam acceptat quaero quid est acceptare istum ad 
+          <lb ed="#S" n="120"/>vitam aeternam hoc <seg type="correction">est non<!--<desc>lines over the top perhaps suggesting a reverse order of words</desc>--></seg> velle voluntate bene placiti beati<lb ed="#S" break="no" n="121"/>ficare 
+          pro tunc quia tunc statim beatificaret <seg type="correction">hoc igitur<!--<desc>marks over the top perhaps suggesting a reverse order</desc>--></seg> est velle illum 
+          <pb ed="#S" n="103-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>secundum dispositionem quam nunc habet esse dignum tali praemio quam prius non habuit 
+          <lb ed="#S" n="2"/>esse dignum tali praemio ita diversitas ut videtur non potest poni in voluntate 
+          <lb ed="#S" n="3"/>divina quia est immutabilis igitur propter diversitatem ex parte illius quia isto omni modo 
+          <lb ed="#S" n="4"/>eodem se habente voluntas divina vult ipsum eodem modo se habere
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e352">
+          <g ref="#pilcrow"/>Con<lb ed="#S" break="no" n="5"/>firmatur 
+          ita ratio quia volitio divina quae est unus actus in se non habet rationem 
+          <lb ed="#S" n="6"/>oppositorum seu distinctorum actuum ut velle et nollet absque omni dis<lb ed="#S" break="no" n="7"/>tinctione 
+          obiectorum contrariorum haec enim velle divinum non est vellet quod de 
+          <lb ed="#S" n="8"/>beneplaciti et nolle super respectu <choice><orig>alicorum</orig><reg>aliquorum</reg></choice> nisi ista opposita distinguantur alioquin 
+          <lb ed="#S" n="9"/>contradictoria erunt vera absque omni distinctione causante illam veritatem igitur cum 
+          <lb ed="#S" n="10"/>deus velit illum iustificatum ad aliquid ad quod non vult peccatorem 
+          <lb ed="#S" n="11"/>propter quam diversificatem dicitur diligere istos et odire peccatores in 
+          <lb ed="#S" n="12"/>scriptura sequitur enim quod illa distinctio secundum rationem ex parte volitionis 
+          <lb ed="#S" n="13"/>divinae <choice><orig>neccessario</orig><reg>necessario</reg></choice> requirit <subst><add place="margin-left">distinctionem</add> <del rend="expunctuated">volitionem</del></subst> accidentalem ex parte ipsorum obiectorum 
+          <lb ed="#S" n="14"/>igitur aliter se habet in se quando dicitur dilectus deo et aliter quando oditus
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e394">
+          <g ref="#pilcrow"/>Item 
+          <lb ed="#S" n="15"/>si nihil aliud esset in anima istius quando est acceptatus quam quando erit peccator 
+          <lb ed="#S" n="16"/>non videtur quod <choice><orig>alico</orig><reg>aliquo</reg></choice> modo se habeat aliter ad deum nec deus ad ipsum 
+          <lb ed="#S" n="17"/>quam priu quia non videtur quod esset illa alietas propter mutationem aliquam factam 
+          <lb ed="#S" n="18"/>ex parte dei igitur si concedatur <choice><orig>sicud</orig><reg>sicut</reg></choice> videtur <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> quod alio modo se habeat 
+          <lb ed="#S" n="19"/>ad deum et econverso hoc erit propter mutationem ipsius et ita aliquid infiet sibi 
+          <lb ed="#S" n="20"/>de novo formaliter non autem infuit ei de novo fides et spes 
+          <lb ed="#S" n="21"/>quia iste manserunt in peccatore igitur caritas haec <name xml:id="aw98wa-xg2479-Nd1e426">scotus[?]</name> <g ref="#dot"/> in summa 
+          <lb ed="#S" n="22"/>et se[?] in verbis eisdem
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e433">
+          <g ref="#pilcrow"/>Item quod contradictio sit quod deus tollat peccatum 
+          <lb ed="#S" n="23"/>quod modo de facto est peccatum secundum leges nunc statutas sine collatione 
+          <lb ed="#S" n="24"/>gratiae licet via opposita esset probabilis non loquendo de isto peccato quod modo 
+          <lb ed="#S" n="25"/>de facto secundum <seg type="correction">lege<del>n<!--<desc>line above "e" is scratched out</desc>--></del>s</seg> statutas est peccatum sed quod esset peccatum si deus alias 
+          <lb ed="#S" n="26"/>leges ordinaret quod u?que[?] non esset contradictio videtur <seg type="correction">quod<!--<desc>possible "et" added here</desc>--></seg> tenetur primo quia peccatum 
+          <lb ed="#S" n="27"/>quod modo de facto est peccatum mortale formaliter includit privationem habitus 
+          <lb ed="#S" n="28"/>infusi igitur non tollitur sine infusione habitus consequentia patet quia privatio 
+          <lb ed="#S" n="29"/>no tollitur nisi per habitum antecedens probatur quia nisi peccatum includeret privationem 
+          <lb ed="#S" n="30"/>gratiae nullus teneretur de facto habere caritatem et gratiam quia nullus tenetur nisi vita<lb ed="#S" break="no" n="31"/>re 
+          omne peccatum commissionis et omissionis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e469">
+          <g ref="#pilcrow"/>Item <choice><orig>2o</orig><reg>secundo</reg></choice> sit homo non 
+          <lb ed="#S" n="32"/>potest ex naturalibus vitare peccatum omne igitur peccatum privat aliquam formam 
+          <lb ed="#S" n="33"/>quae non est in potestate naturali hominis quia tunc haberet ex naturalibus omne posi<lb ed="#S" break="no" n="34"/>tivum[?] 
+          requisitum ad hoc quod vitetur omne peccatum quod est error <name xml:id="aw98wa-xg2479-Nd1e484">pe<lb ed="#S" break="no" n="35"/>lagii</name>
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e490">
+          <g ref="#pilcrow"/>Item omne peccatum privat actum bonum igitur gratiam 2a[?] 
+          <lb ed="#S" n="36"/>patet quia actus bonus requirit aliquam circumstantiam requisitam gratiam in<lb ed="#S" break="no" n="37"/>haerere  
+          eliciti actum bonum antecedens patet quia peccatum <choice><orig>repungnat</orig><reg>repugnat</reg></choice> praeceptio 
+          <lb ed="#S" n="38"/>quo obligamur ad <choice><orig>inplendum</orig><reg>implendum</reg></choice> mana?ta[?] ex caritate et ideo eo ipso 
+          <lb ed="#S" n="39"/>conclusio ponitur peccatum <choice><orig>commictitur</orig><reg>committitur</reg></choice> et <choice><orig>omictitur</orig><reg>omittitur</reg></choice> aliquid cuius oppositum requirit actus 
+          <lb ed="#S" n="40"/>bonus bonitate requisita ad <choice><orig>inpletionem</orig><reg>impletionem</reg></choice> praecepti
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e526">
+          <g ref="#pilcrow"/>Item via<lb ed="#S" break="no" n="41"/>tor 
+          meretur quod deus iuste praemiet eum aliter deus esset acceptor 
+          <lb ed="#S" n="42"/>personarum sed sit mereri non potest homo ex puris naturalibus quod est error <name xml:id="aw98wa-xg2479-Nd1e534">pe<lb ed="#S" break="no" n="43"/>lagii</name> 
+          de quo habetur diffuse quo ad omnes articulos sui erroris 
+          <lb ed="#S" n="44"/>in <ref xml:id="aw98wa-xg2479-Rd1e544">2o libro <title>sententiarum</title> distinctione 28</ref> nota ibi sed peccatum privat meritam igitur or[?] 
+          <lb ed="#S" n="45"/>quod privet aliquid supernaturale
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e548">
+          <g ref="#pilcrow"/>Item ubi est deno?torio[?] intrinseca <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> 
+          <lb ed="#S" n="46"/>est transire de contradictorio in contradictorium sine mutatione subiecti illius de quo 
+          <lb ed="#S" n="47"/>vel pro quo verificantur contradictorio successive sed cum de peccatore et non ac<lb ed="#S" break="no" n="48"/>cepto 
+          fit acceptatus ibi est transitus de contradictorio et in contradictorium secundum de<lb ed="#S" break="no" n="49"/>nominationem 
+          intrinsecam igitur maior patet in ex?is[?] quia quod aliquid fiat album 
+          <lb ed="#S" n="50"/>de non albo sine mutatione eius subiectiva et intrinseca est contradictio quia 
+          <lb ed="#S" n="51"/>hic est denominatio intrinseca igitur eodem modo etiam quod de non habente gratiam 
+          <lb ed="#S" n="52"/>fiat habens gratiam sine forma gratiae in ipso recepta <g ref="#dot"/> minor patet quia 
+          <lb ed="#S" n="53"/>peccatum quod modo est peccatum privat gratiam et ideo peccator non fit non 
+          <lb ed="#S" n="54"/>peccator sine collatione gratiae quidquid enim feceris si non <choice><orig>inpleas</orig><reg>impleas</reg></choice> prae<lb ed="#S" break="no" n="55"/>cepta 
+          ex gratia est peccatum aliter posset homo vitare omne peccatum 
+          <lb ed="#S" n="56"/>ex naturalibus et etiam <choice><orig>inplere</orig><reg>implere</reg></choice> omnia praecepta ex naturalibus iste igitur transitus 
+          <lb ed="#S" n="57"/>sine infusione gratiae est <choice><orig>inpossibilis</orig><reg>impossibilis</reg></choice> quia gratia seu caritas quam pri<cb ed="#S" n="b"/><!--103rb--><lb ed="#S" break="no" n="58"/>vat 
+          peccatum et cetera huius dona sunt formae realiter infusae 
+          <lb ed="#S" n="59"/>animae in baptismo ex consilio vien[?] 7 decreta et qui aliter sen<lb ed="#S" break="no" n="60"/>tit 
+          de sacris ecclesiae quam sancta romana ecclesia etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e606">
+          <g ref="#pilcrow"/>Sed quamvis 
+          <lb ed="#S" n="61"/>de facto et de potentia dei ordinata nullius de peccatore fiat non peccator 
+          <lb ed="#S" n="62"/>et quatenus argumenta ad hic deducta et quae duci possunt et auctoritates mul<lb ed="#S" break="no" n="63"/>tae 
+          etiam valeant et verum concludant <g ref="#dot"/> tamen quin de dei potentia absoluta aliter 
+          <lb ed="#S" n="64"/>valeat fieri non video nec credo <g ref="#slash"/> sed firmiter oppositum teneo <g ref="#dot"/> opinando 
+          <lb ed="#S" n="65"/>tam de isto peccato loquendo quod de facto peccatum est <g ref="#dot"/> tam de illo quod 
+          <lb ed="#S" n="66"/>esset peccatum hodie[?] non obligato ad habendum donum supernaturale caritatis 
+          <lb ed="#S" n="67"/>quod scilicet talis posset esse vel fieri carus et acceptatus deo sine infusione 
+          <lb ed="#S" n="68"/>alicuius doni supernaturalis etiam ad statutum de certo tempore secundum quod supra 
+          <lb ed="#S" n="69"/>expositum erat <g ref="#dot"/> tamen ad novitatem b?torum[?] motuum quos voluntas 
+          <lb ed="#S" n="70"/>elicere posset ex naturalibus <g ref="#dot"/> cum <choice><orig>3o</orig><reg>tertio</reg></choice> quia ad preces vel mutationem in alio 
+          <lb ed="#S" n="71"/>posset deus originale vel actuale peccatum alicui <choice><orig>remictere</orig><reg>remittere</reg></choice> et ad 
+          <lb ed="#S" n="72"/>vitam aeternam ordinare quod licet illorum posset deus ordinare hodie 
+          <lb ed="#S" n="73"/>vel cras certa quemcumque peccatorem et tenere cum omnibus posset 
+          <lb ed="#S" n="74"/>quae de facto sunt peccata vel fuerint <choice><orig>ymo</orig><reg>immo</reg></choice> quod plus est dico quod 
+          <lb ed="#S" n="75"/>nec de possibili posset homo tantum peccare quin deus posset <choice><orig>remictere</orig><reg>remittere</reg></choice> 
+          <lb ed="#S" n="76"/>totum sibi sine omni dono supernaturaliter inhaerente sibi deus enim 
+          <lb ed="#S" n="77"/>per nullas leges ordinatas privait se sua pussima[?] misericordia[?] 
+          <lb ed="#S" n="78"/>et omnipotentia quin plene et liberrime posset ad huc de quibus continet 
+          <lb ed="#S" n="79"/>futuris ita ad omnem partem contradictionis ordinatae sicut 
+          <lb ed="#S" n="80"/>potuit ab aeterno licet non valeat incipere ordinare sed 
+          <lb ed="#S" n="81"/>potest modo contingentissime et liberrime  ordinasse de qualibet parte contra<lb ed="#S" break="no" n="82"/>dictionis 
+          futurorum causabilium <choice><orig>sicud</orig><reg>sicut</reg></choice> sibi placet licet hoc solo privetur deus 
+          <lb ed="#S" n="83"/>sicut recte dixit agaton secundum <ref xml:id="aw98wa-xg2479-Rd1e694"><name xml:id="aw98wa-xg2479-Nd1e695">philosophum</name> 6 <title>ethicorum</title></ref> ingenita posse <!-- another example of in text citation --> 
+          <lb ed="#S" n="84"/>facere quae utique sunt iam facta Et praeter istas <choice><orig>3</orig><reg>tres</reg></choice> vias et 
+          <lb ed="#S" n="85"/>media ex prioribus plenius patentia articulo aliter sic sicut arguit 
+          <lb ed="#S" n="86"/><ref xml:id="aw98wa-xg2479-Rd1e711"><name xml:id="aw98wa-xg2479-Nd1e712">scotus</name> 4 libro distinctione 16 quaestione 2</ref> remissio culpae et infusio gratiae non 
+          <lb ed="#S" n="87"/>sunt eadem mutatio et hoc probat <choice><orig>4r</orig><reg>quattuor</reg></choice> ubi ad levius loquendum et expressius 
+          <lb ed="#S" n="88"/>accipio quod remissio culpae <add place="margin-bottom">non est realiter idem cum infusione gratiae nec includit eam formaliter igitur culpa</add> posset <choice><orig>remicti</orig><reg>remitti</reg></choice> absque infusione 
+          <lb ed="#S" n="89"/>gratiae
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e734">
+          <g ref="#pilcrow"/>Praeterea bono assumpti quia <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> est idem plurificari <subst><add place="margin-right">vero esse conum</add><del rend="underline">plura</del></subst> sed remissiones cul<lb ed="#S" break="no" n="90"/>parum 
+          sunt multae quando infusio gratiae non est nisi una eo modo 
+          <lb ed="#S" n="91"/>quo aliquis dicitur peccator propter actum peccati transeuntem et dicitur peccator 
+          <lb ed="#S" n="92"/>a multis culpis postquam multas commisit et illarum quaelibet habet 
+          <lb ed="#S" n="93"/>propriam remissionem et quaelibet remissio posset esse sine alia si tantum 
+          <lb ed="#S" n="94"/>illam culpam commisisset et non aliam
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e760">
+          <g ref="#pilcrow"/>Item idem non potest 
+          <lb ed="#S" n="95"/>separari ab eodem uniformaliter accipiendo <choice><orig>ydemptitatem</orig><reg>identitatem</reg></choice> et separationem 
+          <lb ed="#S" n="96"/>quia hoc includit compositum primi principii scilicet quod idem ut est idem sit simul 
+          <lb ed="#S" n="97"/>et non sit sed remissio culpae et infusio gratiae posset separari quod 
+          <lb ed="#S" n="98"/>patet tam cooperando primum ad <choice><orig>2m</orig><reg>secundum</reg></choice> quam econverso posset enim in statu inno<lb ed="#S" break="no" n="99"/>centiae 
+          in genere humano et ita factum est angelis qui non 
+          <lb ed="#S" n="100"/>peccaverunt gratia infundi sine remissione alicuius culpae quia 
+          <lb ed="#S" n="101"/>nulla culpa infuit similiter potest culpa <choice><orig>remicti</orig><reg>remitti</reg></choice> absque hoc quod 
+          <lb ed="#S" n="102"/>infundatur gratia
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e795">
+          <g ref="#pilcrow"/><sic>probatio</sic> deus potest de potentia absoluta creare hominem 
+          <lb ed="#S" n="103"/>in puris naturalibus sine culpa et sine gratia igitur et post lapsum ta<lb ed="#S" break="no" n="104"/>lem 
+          reparare et ita <choice><orig>remictere</orig><reg>remittere</reg></choice> culpam sine infusione gratiae 
+          <lb ed="#S" n="105"/>sed quemcumque qui esset sine culpa posset deus ulterius de potentia absoluta 
+          <lb ed="#S" n="106"/>immediate acceptare ad vitam aeternam igitur
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e814">
+          <g ref="#pilcrow"/>Item culpa et supra[?] 
+          <lb ed="#S" n="107"/>non sunt formaliter opposita nec formaliter <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> igitur tollere culpam non 
+          <lb ed="#S" n="108"/>est idem quod ponere gratiam nec econtra igitur posset de dei omnipotentia cul<lb ed="#S" break="no" n="109"/>pa 
+          tolli absque hoc quod poneretur gratia <add place="margin-right">et hoc est propositum</add>
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e834">
+          probatio assumpti quia tunc 
+          <lb ed="#S" n="110"/>omne agens effective vel defective potens super esse unus oppositorum 
+          <lb ed="#S" n="111"/>posset effective vel defective super esse alterius sicut patet <seg type="correction">ve<add place="aboveLine">r</add>um<del rend="expunctuated">formaliter</del><desc>uniformaliter is corrected to verum</desc> <del rend="expunctuated">de</del><add place="marginRight">in incompossibilibus</add> 
+            <lb ed="#S" n="112"/><del rend="underline">omnibus</del></seg> voluntas aut creata potest effective vel defective super esse al<lb ed="#S" break="no" n="113"/>terius 
+          culpae scilicet quia ab ipsa est culpa igitur ipsa posset effective vel 
+          <lb ed="#S" n="114"/>defective super non esse gratiae quod falsum est <g ref="#dot"/> quia gratia non destruitur nisi 
+          <pb ed="#S" n="103-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>adnihiletur creatura autem non potest aliquid praecise per creationem producibile ad<lb ed="#S" break="no" n="2"/>nihilare 
+          quidquid sic de aliis patet igitur prima propositio quod non est <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> 
+          <lb ed="#S" n="3"/>inter culpam et gratiam sed non est praecise unica mutatio ab <choice><orig>alico</orig><reg>aliquo</reg></choice> 
+          <lb ed="#S" n="4"/>ut a termino vel aliud ut ad terminum ad quem nisi sint formaliter <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> 
+          <lb ed="#S" n="5"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e893">
+          <g ref="#pilcrow"/>Istud potest confirmari quia deus non <choice><orig>neccessario</orig><reg>necessario</reg></choice> <choice><orig>neccessitate</orig><reg>necessitate</reg></choice> absoluta 
+          <lb ed="#S" n="6"/>quando ille vult furari vel fornicari destruit donum positivum quod 
+          <lb ed="#S" n="7"/>ipse solus potest destruere vel creare ergo Item ubi termino a quo 
+          <lb ed="#S" n="8"/>privationis est mutatio unica talis mutatio non est ad formam 
+          <lb ed="#S" n="9"/>nisi a propria privatione eius sed culpa qua post actum aliquis dicitur peccator 
+          <lb ed="#S" n="10"/>non est propria privatio gratiae sed habitio potius non gratiae in apto na<lb ed="#S" break="no" n="11"/>to 
+          cui accidit totaliter omnis talis culpa quia unica gratia non habet 
+          <lb ed="#S" n="12"/>nisi unicam privationem propriam multae autem sunt culpae
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e921">
+          <g ref="#pilcrow"/>Isto modo <g ref="#dot"/> 
+          <lb ed="#S" n="13"/>secus esset de culpa qua aliquas dicitur peccator non ab actu praevio 
+          <lb ed="#S" n="14"/>sed eo praecise quod non haberet gratiam quam teneretur habere ex praecep<lb ed="#S" break="no" n="15"/>to 
+          etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e934">
+          <g ref="#pilcrow"/>Tamen diceretur leviter forte ad illud quod omnis culpae ta<lb ed="#S" break="no" n="16"/>les 
+          etiam privant formas eiusdem rationis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e941">
+          <g ref="#pilcrow"/>contra licet ita sic de facto non 
+          <lb ed="#S" n="17"/>tamen ex natura rei nec <choice><orig>neccessario</orig><reg>necessario</reg></choice> sed ad ordinationem contingentem quia aliter or<lb ed="#S" break="no" n="18"/>dinare 
+          posset tamen et gratia possit poni sine remissione cuiuscumque 
+          <lb ed="#S" n="19"/>culpae ut praeostensum est et econverso de quacumque culpa a qua sicut ab 
+          <lb ed="#S" n="20"/>actu transeunte communis dicitur peccator <choice><orig>ymmo</orig><reg>ymo</reg></choice> et culpa quae est carentia 
+          <lb ed="#S" n="21"/>gratiae quae praecipitur haberi quia posset aliquis absolvi ab <choice><orig>alico</orig><reg>aliquo</reg></choice> peccato sive 
+          <lb ed="#S" n="22"/>ab isto debito et tunc esset carus ad vitam aeternam sine infu<lb ed="#S" break="no" n="23"/>sione 
+          gratiae vel esse posset
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e973">
+          <g ref="#pilcrow"/>Item omnibus illis privationibus correspon<lb ed="#S" break="no" n="24"/>debant 
+          proprii habitus vel rectitudines vel circumstantiae quas privabant 
+          <lb ed="#S" n="25"/>vel privant praeter gratiam quam communiter ex sta?to[?] dei hoc et oc?tei[?] 
+          <lb ed="#S" n="26"/>privant <choice><orig>sicud</orig><reg>sicut</reg></choice> patuit praecedenti quaestione Item illa forma quae gratia vocatur et 
+          <lb ed="#S" n="27"/>est de facto gratia posset manere in anima de potentia absoluta dei absque 
+          <lb ed="#S" n="28"/>hoc quod culpa quaecumque commissa <choice><orig>remicteretur</orig><reg>remitteretur</reg></choice> vel absque hoc quod 
+          <lb ed="#S" n="29"/>unquam infuturm daretur gloria nulla enim forma creabilis in anima via<lb ed="#S" break="no" n="30"/>torum 
+          potest <choice><orig>neccessitare</orig><reg>necessitare</reg></choice> deum ad beatitudinem conferendam vel <del>cum</del> culpam 
+          <lb ed="#S" n="31"/>dimissam <choice><orig>remictendam</orig><reg>remittendam</reg></choice> et sicut non <choice><orig>neccessitatur</orig><reg>necessitatur</reg></choice> ad positionem gratiae id est 
+          <lb ed="#S" n="32"/>istius qualitas ad cuius positionem non <choice><orig>remicteret</orig><reg>remitteret</reg></choice> culpam nec obli<lb ed="#S" break="no" n="33"/>gationem 
+          ad <choice><orig>penam</orig><reg>poenam</reg></choice> perpetuam nisi vellet ex mera liberalitate 
+          <lb ed="#S" n="34"/>sua ita posset <choice><orig>remictere</orig><reg>remittere</reg></choice> culpam sine ulteriori gratia infundenda 
+          <lb ed="#S" n="35"/>quia aliter processus in infinitum cum ita arguerem de illa <choice><orig>sicud</orig><reg>sicut</reg></choice> 
+          <lb ed="#S" n="36"/>de deata ista poterit si sibi placebit primam culpam transe<lb ed="#S" break="no" n="37"/>untem 
+          actu <choice><orig>remicteret</orig><reg>remitteret</reg></choice> aut gratiam actualiter <choice><orig>remictere</orig><reg>remittere</reg></choice> nullam gratiam 
+          <lb ed="#S" n="38"/><del rend="underline">qualitatem</del> quae fit <g ref="#carrot"/><add><g ref="#carrot"/>qualitas</add> infundendo non dico absque omni gratia quia <choice><orig>re<lb ed="#S" break="no" n="39"/>mictere</orig><reg>re<lb ed="#S" break="no" n="39"/>mittere</reg></choice> 
+          culpam vel acceptare ad beatitudinem est gratia magna 
+          <lb ed="#S" n="40"/>de sed ista nullius qualitatis vel formae supernaturalis praevie[?] 
+          <lb ed="#S" n="41"/>beatitudini <choice><orig>inpressionis</orig><reg>impressionis</reg></choice> animae ipsa requirit de potentia dei 
+          <lb ed="#S" n="42"/>absoluta
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1088">
+          <g ref="#pilcrow"/>Item sicut ostendi <name xml:id="aw98wa-xg2479-Nd1e1092">scotus</name> libro 4 post actum culpae tran<lb ed="#S" break="no" n="43"/>seuntem 
+          interiorem et exteriorem praeter iniustitiam habitualem quae 
+          <lb ed="#S" n="44"/>est carentia gratiae quam teneretur quis habere non remanet 
+          <lb ed="#S" n="45"/>aliqua iniustitia actualis propria[?] a qua dicatur peccator tali peccato 
+          <lb ed="#S" n="46"/>quia anima non est immediate receptiva illius obliquitatis quae nata 
+          <lb ed="#S" n="47"/>est esse in peccato actuali vel non est nata esse ipsum met peccatum 
+          <lb ed="#S" n="48"/>actuale secundum diversas via<del rend="blackout">s</del> loquendo sed tantum mediante actu proximo 
+          <lb ed="#S" n="49"/>in quo sic ista obliquitas vel qui sit eius obliquitas 
+          <lb ed="#S" n="50"/>ad modum quo poneretur albedo esse similitudo igitur post actum tran<lb ed="#S" break="no" n="51"/>seuntem 
+          tantum remanet anima obligata ad positionem propriam 
+          <lb ed="#S" n="52"/>correspondentem illi culpae remissae et illa obligo dicitur reatus 
+          <lb ed="#S" n="53"/>qui manet in anima post actum transeuntem intrinsece sed istam 
+          <lb ed="#S" n="54"/>obligationem posset deus de omnipotentia sua tollere seu <choice><orig>remic<lb ed="#S" break="no" n="55"/>tere</orig><reg>remit<lb ed="#S" break="no" n="55"/>tere</reg></choice> 
+          sine gratiae infusione et <choice><orig>remictere</orig><reg>remittere</reg></choice> <choice><orig>penam</orig><reg>poenam</reg></choice> debitam et etiam 
+          <lb ed="#S" n="56"/>statuere quod non teneretur habere grataim et ita sine infusione gratiae 
+          <lb ed="#S" n="57"/>posset de omnipotentia sua tollere tam iniustitiam habitualem 
+          <lb ed="#S" n="58"/>quam istum reatum sine gratiae collatione inhaerentis igitur et ad 
+          <cb ed="#S" n="b"/><!-- 103vb -->
+          <lb ed="#S" n="59"/>vitam aeternam acceptare quia non est dubium quin illum qui 
+          <lb ed="#S" n="60"/>esset sine omni culpa posset de omnipotentia sua fre[?] de peccatore 
+          <lb ed="#S" n="61"/>non peccatorem sine infusione cuiuscumque doni formaliter inhaerentis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1159">
+          <lb ed="#S" n="62"/><g ref="#pilcrow"/>Et haec omnia ultimo confirmo quia nisi hic posset deus de omnipotentia 
+          <lb ed="#S" n="63"/>sua cum nulla videantur iam dicta contradictionem includere 
+          <lb ed="#S" n="64"/>frustramen videtur distinguunt doctores de potentia dei absoluta 
+          <lb ed="#S" n="65"/>ordinata nisi scilicet aliter posset facere et disponere de rebus qua 
+          <lb ed="#S" n="66"/>faciet vel facere disposuerit de facto <g ref="#slash"/> motus quo praedicta fieri 
+          <lb ed="#S" n="67"/>possint p?bit[?] post ex solutione rationum contrariorum ad quarum primam 
+          <lb ed="#S" n="68"/>solvendo laborat et subicitis et <seg type="correction">diff<del rend="expunctuated">i</del><add place="aboveLine">u</add>use</seg> <ref xml:id="aw98wa-xg2479-Rd1e1187"><name xml:id="aw98wa-xg2479-Nd1e1188">scotus</name> libro 4 distinctione 16 
+            <lb ed="#S" n="69"/>quaestione 2</ref> et ibi habetur plene illud quod tenet <name xml:id="aw98wa-xg2479-Nd1e1193">okam</name> de solo transitu 
+          <lb ed="#S" n="70"/>temporis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1199">
+          <g ref="#pilcrow"/>Respondendum est hic igitur sicut supra praecedenti quaestione quod c?r[?] potest 
+          <lb ed="#S" n="71"/>esse transitus de contradictorio ad contradictorium vel propter mutationem in illo 
+          <lb ed="#S" n="72"/>de quo successive verificantur contradictoria et ita posset si placeret 
+          <lb ed="#S" n="73"/>deo esse indiferrener ad formam naturalem scilicet actum <choice><orig>penitendi</orig><reg>poenitendi</reg></choice> et dolen<lb ed="#S" break="no" n="74"/>di 
+          de omisso vel commisso vel ad formam supernaturalem vel ad 
+          <lb ed="#S" n="75"/>mutationem in alio vel ad successionem temporis praesupposito statuto 
+          <lb ed="#S" n="76"/>conditionali de tempore utpote si iste qui peccavit decedat 
+          <lb ed="#S" n="77"/>citra tale vel tantum tempus punietur <choice><orig>pena</orig><reg>poena</reg></choice> perpetua ita quod per tantum 
+          <lb ed="#S" n="78"/>tempus remanebit obligatus et dignus <del>pnae</del> <add place="margin-bottom">tali pena et quod ex tunc non puniretur pena perpetua si discederet si sit statueret d?6[?] iste primo quam peccavit usque ad a erat dignus praevisione[?]</add> secundum legem 
+          <lb ed="#S" n="79"/>dei ex tunc non nec propter istam successivam verificaitonem istorum contradictorum 
+          <lb ed="#S" n="80"/>in complexorum de isto oportet[?or?] ponere mutationem in deo quantumque 
+          <lb ed="#S" n="81"/>certum est quod ab aeterno simul potuisse et semper voluisse 
+          <lb ed="#S" n="82"/>utrumque istorum scilicet punire istum pena perpetua si decederet 
+          <lb ed="#S" n="83"/>in <c>a</c><g ref="#dot"/> vel post <c>a</c> nec etiam or[?oportet?] propter hoc mutationem in isto ponere 
+          <lb ed="#S" n="84"/>nec inquocumque alio sed tantum modo quod tempus transeat nam et homo of<lb ed="#S" break="no" n="85"/>fensus 
+          homini vult ad hominem[?] istum esse dignum priviatione alitus bo<lb ed="#S" break="no" n="86"/>ni 
+          vel <choice><orig>pena</orig><reg>poena</reg></choice> aliqua ita quod si citra tamen tempus posset eum pro<lb ed="#S" break="no" n="87"/>movere 
+          per tota vita non vaceret vel si posset eum liberare ab <choice><orig>alico</orig><reg>aliquo</reg></choice> 
+          <lb ed="#S" n="88"/>infortunio non faceret et hoc ad <choice><orig>penam</orig><reg>poenam</reg></choice> tempus 
+          <lb ed="#S" n="89"/>certum quare non ita poterit deus cum eodem actum posset hoc homo <g ref="#dot"/>
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1279">
+          <lb ed="#S" n="90"/><g ref="#pilcrow"/>dices dum iste erat peccator nec remissum sibi peccatum deus 
+          <lb ed="#S" n="91"/>praescivit <g ref="#carrot"/><add place="margin-center">sit<g ref="#carrot"/></add> ita quod alteram partem absolute scivit quod scilicet fa<lb ed="#S" break="no" n="92"/>ceret 
+          vel non faceret determinate praescivit in quam quod proce[?] l[?] aue?tur[?] 
+          <lb ed="#S" n="93"/>vta illius ultra <c>a</c> et per consequens quod actus peccati praeteritus non <choice><orig>in<lb ed="#S" break="no" n="94"/>putatur</orig><reg>im<lb ed="#S" break="no" n="94"/>putatur</reg></choice> 
+          sibi finaliter sed ex tunc si superviveret foret carus vel 
+          <lb ed="#S" n="95"/>non inimicus quia ad propositum de hiis duobus est eadem difficultas 
+          <lb ed="#S" n="96"/>sed deus hic non praescivit nisi et hic praevoluerit et si hic igitur semper prae<lb ed="#S" break="no" n="97"/>ordinavit 
+          eum ad vitam aeternam igitur semper fuit carus et ac<lb ed="#S" break="no" n="98"/>ceptus 
+          deo ergo non transivit de non accepto ad acceptum
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1318">
+          <g ref="#pilcrow"/>Item in <c>a</c> instanti et deinceps iste est carus et acceptus et non 
+          <lb ed="#S" n="99"/>ante quare modo et non ante ex quo nihil habet quod non ante habuit 
+          <lb ed="#S" n="100"/>Item aut isit <choice><orig>remicti</orig><reg>remitti</reg></choice> poeccatum et ipsum non esse inimicum est esse 
+          <lb ed="#S" n="101"/>causarum et praeparatum ad vitam aeternam aut non si sic igitur non est 
+          <lb ed="#S" n="102"/>medium inter esse carum amicum et esse inimicum si non
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1338">
+          <g ref="#pilcrow"/>praeterea ponatur 
+          <lb ed="#S" n="103"/>ergo quod iste decedat in illo statu quem ponis mediare 
+          <lb ed="#S" n="104"/>inter statum amicitiae et inimicitiae iste statim erit extra 
+          <lb ed="#S" n="105"/>statum viae et meriti igitur carebit vita aeterna et hoc praesci<lb ed="#S" break="no" n="106"/>vit 
+          et voluit per consequens igitur voluit eum carere vita aeterna sed 
+          <lb ed="#S" n="107"/>hoc est eum habere inimicum aliter parvulis decedens in o<lb ed="#S" break="no" n="108"/>riginali 
+          non esset inimicus quia tamen puniretur <choice><orig>sicud</orig><reg>sicut</reg></choice> ille <choice><orig>pena</orig><reg>poena</reg></choice> <choice><orig>damp<lb ed="#S" break="no" n="109"/>ni</orig><reg>dam<lb ed="#S" break="no" n="109"/>ni</reg></choice> 
+          perpetui igitur iste nunc scivit scilicet ante decessum in isto quem 
+          <lb ed="#S" n="110"/>ponis medium
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1377">
+          <g ref="#pilcrow"/>ad primum dicendum quod idem argumentum est de peccatore 
+          <lb ed="#S" n="111"/><subst><del rend="underline">et de actum peccati et de omni universaliter in peccato perseverante tunc</del> <add place="bottom">dum actu peccat et actu vult in peccato perseverare</add></subst> 
+          <lb ed="#S" n="112"/>enim scit determinate utrum dabit sibi gratiam suam in qua de<lb ed="#S" break="no" n="113"/>buit 
+          ille finaliter <seg type="correction">confirmari[?]</seg> aut non et si scit se finaliter da<lb ed="#S" break="no" n="114"/>turum 
+          vult hic determinate igitur et vult isti vitam igitur dum iste 
+          <pb ed="#S" n="104-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>actu peccatu est carus et acceptus ad vitam aeternam
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1406">
+          <g ref="#pilcrow"/>dicendum igitur 
+          <lb ed="#S" n="2"/>ad utrumque quod iste consequentiae deus novit finaliter <g ref="#carrot"/><add place="margin-center"><g ref="#carrot"/>istum</add> habiturum vitam 
+          <lb ed="#S" n="3"/>aeternam igitur sive dum actum peccat sive postquam peccat et manet 
+          <lb ed="#S" n="4"/>reus ipsum determinate acceptat deus ad vitam aeternam sed 
+          <lb ed="#S" n="5"/>non secundum statum praesentem <g ref="#dot"/>quia non secundum istum est dignus gloria 
+          <lb ed="#S" n="6"/>aeterna et si in isto actu moritur quod non esset <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> <choice><orig>pena</orig><reg>poena</reg></choice> per<lb ed="#S" break="no" n="7"/>petua 
+          plecteretur sed deus praescit et praeordinavit quod iste 
+          <lb ed="#S" n="8"/>mutabitur et <subst><del rend="expunctuated">et</del><add place="aboveLine">vel</add></subst> subiective mutatus vel secundum statutum de transitu temporis 
+          <lb ed="#S" n="9"/>reconciliatus vel ad preces aliorum et hoc est quod antiqui dice<lb ed="#S" break="no" n="10"/>bant 
+          de actu <del rend="expunctuated">penitentiae</del> etiam quod scilicet est acceptatus et praedes<lb ed="#S" break="no" n="11"/>tinatus 
+          ad vitam aeternam secundum praescientiam sed non secundum praesentem iustitiam
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1457">
+          <lb ed="#S" n="12"/><g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> q?ar[?] est modo carus et non ante quia placet deo libere 
+          <lb ed="#S" n="13"/>et <del rend="expunctuated">non</del> semper <add place="margin-left">quia</add> <del rend="expunctuated">pro tunc</del> placuit quod si modo decederet haberet beatitudinem 
+          <lb ed="#S" n="14"/>et non si ante et hco vel mediante mutatione illius vel alterius vel secundum 
+          <lb ed="#S" n="15"/>statutum cadens super tempus ut praedictum est et non est hoc propter <choice><orig>alicam</orig><reg>aliquam</reg></choice> 
+          <lb ed="#S" n="16"/>mutationem quae modo contingeret et prius non contigisset et quare hoc quia ita simul 
+          <lb ed="#S" n="17"/>semper placuit deo ita quod non est variatio aliqua ex 
+          <lb ed="#S" n="18"/>parte actus divini nec etiam in isto de facto sed tantum de possibili quae 
+          <lb ed="#S" n="19"/>scilicet nunc continget et prius non contigisset et hic et nihil aliud explicant 
+          <lb ed="#S" n="20"/>contradictoria quorum unum prius verificabatur et modo reliquum
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1498">
+          <g ref="#pilcrow"/>ad <choice><orig>3m</orig><reg>tertium</reg></choice> dico 
+          <lb ed="#S" n="21"/>quod si ille nec amicus nec inimicus secundum statum praesentem sive[?] <del rend="expunctuated">i</del> iustitiam praesen<lb ed="#S" break="no" n="22"/>tem 
+          sic morietur s?na[?] nulla lata esset contra eum de <choice><orig>pena</orig><reg>poena</reg></choice> propterea <choice><orig>dap<lb ed="#S" break="no" n="23"/>ni</orig><reg>dam<lb ed="#S" break="no" n="23"/>ni</reg></choice> 
+          et ideo nihil alius posset semper post mortem sibi mereri vitam aeter<lb ed="#S" break="no" n="24"/>nam 
+          vel ipsemet ex quo sententia[?] non est latat contra eum vel ipse 
+          <lb ed="#S" n="25"/>maneret sub pendulo in differentes gratiae divinae it quod clara 
+          <lb ed="#S" n="26"/>differentia est inter statum ipsius et parvuli decedentis in originali sic 
+          <lb ed="#S" n="27"/>igitur patet quod non est absolute <choice><orig>neccesse</orig><reg>necesse</reg></choice> quod ille ad hoc quod de peccatore fi<lb ed="#S" break="no" n="28"/>at 
+          acceptatus recipiat donum supernaturale de facto aliter tamen stat de 
+          <lb ed="#S" n="29"/>potentia dei ordinata
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1546">
+          <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> principale illud procedit de facto quia scrip<lb ed="#S" break="no" n="30"/>tura 
+          loquitur sicut congruit divinae potentiae et legibus dei ordinatis et ideo 
+          <lb ed="#S" n="31"/>verum est quod de iniustitia quae est privatio cuiusdam qualitas in mente secundum 
+          <lb ed="#S" n="32"/>veritatem de facto quod ita privatio non tollitur sine positione iustitiae 
+          <lb ed="#S" n="33"/>quae sit illa qualitas et eodem modo nec privatio <del rend="expunctuated">qualitatis quae est</del> 
+          caritas quae est qualitas potest tolli per quamcumque potentiam in <choice><orig>alico</orig><reg>aliquo</reg></choice> ap<lb ed="#S" break="no" n="34"/>to 
+          nato recipere sine positione illius qualitatis nisi plus inalli<lb ed="#S" break="no" n="35"/>gamus 
+          per privationem huius quam carentiam formae huius in apto nato 
+          <lb ed="#S" n="36"/>recipere eam quod addo propter hoc quod privatio caritatis vel iustitiae dupliciter 
+          <lb ed="#S" n="37"/>potest accipi vero modo praecise pro carentia talis formae in subiecto nato eam 
+          <lb ed="#S" n="38"/>recipere et sicut dixi <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> est tollere privationem iustitiae vel 
+          <lb ed="#S" n="39"/>caritatis in <choice><orig>alico</orig><reg>aliquo</reg></choice> subiecto apto nato talem recipere sine hoc quod 
+          <lb ed="#S" n="40"/>subiectum recipiat formam qua caruit et hoc idem dico generaliter 
+          <lb ed="#S" n="41"/>de quacumque privatione sic dicta
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1597">
+          <g ref="#pilcrow"/>alio modo potest vocari privatio iustitiae 
+          <lb ed="#S" n="42"/>non hoc sive addito sed carentia iustitiae sive caritatis in apto 
+          <lb ed="#S" n="43"/>nato illam recipere quando tenetur istam habere iuxta modum etiam philosophi 
+          <lb ed="#S" n="44"/>etiam in <title>praedicamentis</title> et <choice><orig>5o</orig><reg>Vo</reg></choice> <title>metaphysicae</title> et isto modo iustitia et privatio iustitiae 
+          <lb ed="#S" n="45"/>non sunt immediata circa idem subiectum <choice><orig>ymmo</orig><reg>immo</reg></choice> posset aliquis non habere iustitia 
+          <lb ed="#S" n="46"/>nec obligari ad habendum eam et tunc nec esset privatus iustitia 
+          <lb ed="#S" n="47"/>nec haberet iustitia sic sumpta privatione iustitiae isto modo fu<lb ed="#S" break="no" n="48"/>isset 
+          de homine in puris naturalibus
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1631">
+          <g ref="#pilcrow"/>Ad formam igitur argumenti dicendum 
+          <lb ed="#S" n="49"/>de loquendo de iustitiae privatione primo modo maior vera est sed non 
+          <lb ed="#S" n="50"/>talis praecise est illa iustitia se privatio iustitiae aliqua peccator actu 
+          <lb ed="#S" n="51"/>praeterito denominatur in iustus sed est privatio iustitiae ad quam 
+          <lb ed="#S" n="52"/>obligatur et tenetur habere quia igitur potest iste de potentia dei absoluta 
+          <lb ed="#S" n="53"/>liberari ab ista obligatione <del rend="expunctuated">hoc</del> absque hoc quod aliquid sibi in<lb ed="#S" break="no" n="54"/>primatur 
+          ideo hic transibitur a privari iustitia ad non privari 
+          <lb ed="#S" n="55"/>sine positione cuiuscumque habitus sequitur enim tunc sic sumpta privatione 
+          <cb ed="#S" n="b"/><!--104rb-->
+          <lb ed="#S" n="56"/>iustitiae iste est iniustus sive privatus iustitia igitur tenetur habere iustitiam 
+          <lb ed="#S" n="57"/>et non habet eam igitur ex opposito consequentis sequitur oppositum antecedentis sed 
+          <lb ed="#S" n="58"/>oppositum consequentis habetur vel ad negationem primae partis istius copulative vel 
+          <lb ed="#S" n="59"/>ad sublationem negationis secundae igitur etc igitur sic loquendo de privatione 
+          <lb ed="#S" n="60"/>iustitiae sine positione cuiuscumque habitus potest tolli et privatio sit 
+          <lb ed="#S" n="61"/>dicta et habitus non sunt immediate opposita tunc idem et ideo sicut 
+          <lb ed="#S" n="62"/>patet ex dictis iste poterit carere privatione iustitiae sine positione 
+          <lb ed="#S" n="63"/>cuiuscumque habitus
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1675">
+          <g ref="#pilcrow"/>ad <choice><orig>3m</orig><reg>tertium</reg></choice> primam consequentiam concedo si procedat <choice><orig>ymmo</orig><reg>immo</reg></choice> 
+          <lb ed="#S" n="64"/>quia procedit de facto sed non or[?] quod aliquid formaliter reciperet ad probationem 
+          <lb ed="#S" n="65"/>quia ipse non est dignus etc <g ref="#dot"/> primum est de facto sed aliter posset deus 
+          <lb ed="#S" n="66"/>ordinare
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1697">
+          <g ref="#pilcrow"/>ad <choice><orig>4m</orig><reg>quartum</reg></choice> dicendum quod licet ista diversitas quae posset sine <choice><orig>inpres<lb ed="#S" break="no" n="67"/>sione</orig><reg>impres<lb ed="#S" break="no" n="67"/>sione</reg></choice> 
+          in eo quae non si prius <g ref="#dot"/>tamen a voluntate divina oritur illa diver<lb ed="#S" break="no" n="68"/>sitas <g ref="#dot"/> 
+          et hoc per istum modum quia ex quo deus aeternaliter 
+          <lb ed="#S" n="69"/>praeordinavit sic ita quod non loquar nunc absolute de isto 
+          <lb ed="#S" n="70"/>quod sic <g ref="#dot"/> sed quod fieri posset quod iste si moretur citra <c/><g ref="#dot"/> puniretur 
+          <lb ed="#S" n="71"/>perpetuo et privaretur vita aeterna et ita de <c>a</c><g ref="#dot"/> et deinceps 
+          <lb ed="#S" n="72"/>non sequitur quod iste pro toto tempore citra <g ref="#dot"/><c>a</c><g ref="#dot"/> est dignus punitione 
+          <lb ed="#S" n="73"/>aeterna et indignus vita aeterna secundum praesentem statum nisi forte 
+          <lb ed="#S" n="74"/><choice><orig>actingat</orig><reg>attingat</reg></choice> <g ref="#dot"/> et hoc non propter variationem vel diversitatem in actum 
+          <lb ed="#S" n="75"/>dei nec in isto de facto sed propter solum transitu cuius ratio patet 
+          <lb ed="#S" n="76"/>quia sequitur <g ref="#dot"/> deus ab aeterno disposuit quod iste qui omisit vel 
+          <lb ed="#S" n="77"/>commisit quod non debuit non foret citra <c>a</c> absolutus tunc absol<lb ed="#S" break="no" n="78"/>veretur 
+          et foret dignus et iste ad hoc sit citra <c>a</c><g ref="#dot"/> igitur non est dignus 
+          <lb ed="#S" n="79"/>sed adveniente <g ref="#dot"/><c>a</c><g ref="#dot"/> igitur accipiatur eadem praemissa deus ab 
+          <lb ed="#S" n="80"/>aeterno disposuit etc sed iste <choice><orig>actigit </orig><reg>attigit</reg></choice> <add place="margin-right">a vel transit igitur est dignus vita aeterna</add> sit igitur patet quomodo ex 
+          <lb ed="#S" n="81"/>eodem divino actu dispositionis omnino uniformi et uniformiter se 
+          <lb ed="#S" n="82"/>habente cum solo transitu temporis vel cum obiectis contradictionis de t?[e] 
+          <lb ed="#S" n="83"/>scilicet ille <choice><orig>actingit</orig><reg>attingit</reg></choice> <c>a</c><g ref="#dot"/> et iste non attigit <c>a</c><g ref="#dot"/> quae duo ad so<lb ed="#S" break="no" n="84"/>lum 
+          transitum temporis absque mutatione quacumque subiectam istius de facto 
+          <lb ed="#S" n="85"/>succedunt sibi in veritate sequitur istum de peccatore fieri non peccato<lb ed="#S" break="no" n="86"/>rem 
+          et acceptum
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1810">
+          <g ref="#pilcrow"/>Ex hac declaratione potest evidenter in<lb ed="#S" break="no" n="87"/>ferri 
+          propositum principale de potentia dei absoluta quod unitus actus 
+          <lb ed="#S" n="88"/>divinus immutatus omnino cum illis <add place="margin-right">appositis prius infert dictas oppositas contradictiones se iste prae[?]se[?] possunt successive verificari</add><del rend="expunctuated">contradictoris</del> absque hoc quod ille peccator 
+          <lb ed="#S" n="89"/>illam formam supernaturalem vel naturalem ad hoc recipiat igitur absque hoc 
+          <lb ed="#S" n="90"/>quod iste de facto mutetur ad hoc potuerunt conclusiones ille successive 
+          <lb ed="#S" n="91"/>verificari sed conclusiones sunt iste <g ref="#carrot"/><add><g ref="#carrot"/>iste est peccator igitur non est peccator vel non</add> est dignus vita aeterna etc
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1836">
+          <g ref="#pilcrow"/>Ad 
+          <lb ed="#S" n="92"/><choice><orig>5m</orig><reg>quintum</reg></choice> dicendum quod hic est ut tangit argumentum alietas et diversitas 
+          <lb ed="#S" n="93"/>ex parte oppositorum quia actus iste divinus est collatus illius peccato<lb ed="#S" break="no" n="94"/>ris 
+          ad diversa tempora et dispositis de eo aliter et aliter secundum alie<lb ed="#S" break="no" n="95"/>tatem 
+          unius temporis et alterius ideo ad successionem alium temporem circa 
+          <lb ed="#S" n="96"/>istum ille absque omni mutatione facta circa eum sed non sine mutatione 
+          <lb ed="#S" n="97"/>quae fieret si decederet aliter si habet et aliter quo ad non acceptari <g ref="#dot"/>
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1859">
+          <lb ed="#S" n="98"/><g ref="#pilcrow"/>ad <choice><orig>6m</orig><reg>sextum</reg></choice> per idem
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1870">
+          <g ref="#pilcrow"/>ad <choice><orig>7m</orig><reg>septimum</reg></choice> concedo quod peccatum quod de facto est peccatum 
+          <lb ed="#S" n="99"/>includit privationem alicuius habitus supernaturalis quia includit 
+          <lb ed="#S" n="100"/>carentiam gratiae quam iste tenetur habere qua per omissum vel commissum 
+          <lb ed="#S" n="101"/>demeritorie se privavit loquendo de peccatore a peccato actuali 
+          <lb ed="#S" n="102"/>denominatio et ideo verum est quod peccatum quod modo de facto est peccatum 
+          <lb ed="#S" n="103"/>non tollitur sine infusione gratiae sine tamen illa infusio est tolli 
+          <lb ed="#S" n="104"/>posset de potentia dei absoluta quod si fieret licet ille non haberet caritatem 
+          <lb ed="#S" n="105"/>quia tamen non teneretur eam habere non <choice><orig>inputaretur</orig><reg>imputaretur</reg></choice> sibi ad peccatum 
+          <lb ed="#S" n="106"/>non includeretur in peccato suo ideo posset sine infusione gratiae 
+          <lb ed="#S" n="107"/>de peccatore fieri non peccator
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1903">
+          <g ref="#pilcrow"/>dices si dui eum absolveret 
+          <lb ed="#S" n="108"/>ab obligatione habendi caritatem cum peccatum quod modo est peccatum 
+          <pb ed="#S" n="104-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>de facto includat non habere caritatem quam tenetur habere et per consequens in<lb ed="#S" break="no" n="2"/>cludat 
+          contradictionem istam igitur non maneret peccatum quod modo de 
+          <lb ed="#S" n="3"/>facto est peccatum et ideo nec loquendo de tali peccato per quod posset 
+          <lb ed="#S" n="4"/>fieri de peccatore non peccator sine infusione gratiae <choice><orig>ymmo</orig><reg>immo</reg></choice> hoc videtur inclu<lb ed="#S" break="no" n="5"/>dere 
+          contradictionem
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1929">
+          <g ref="#pilcrow"/>Respondeo argumentum solvit seipsum quia <choice><orig>sicud</orig><reg>sicut</reg></choice> ostensus est et 
+          <lb ed="#S" n="6"/>argumentum sumit peccatum quod modo de facto est peccatum posset cessa<lb ed="#S" break="no" n="7"/>re 
+          esse peccatum vel esse quod modo de facto est peccatum ad solam in axa?om[?] 
+          <lb ed="#S" n="8"/>obligationis absque cuiuslibet doni infusione hoc est plene et 
+          <lb ed="#S" n="9"/>plane intentum quod scilicet peccatum quod modo de facto est peccatum posset 
+          <lb ed="#S" n="10"/>a deo <choice><orig>remicti</orig><reg>remitti</reg></choice> absque infusione gratiae et ita hoc non includit 
+          <lb ed="#S" n="11"/>contradictionem aliquam <subst><add place="marginLeft"><g ref="#carrot"/>tenuis multum est illa deductio</add> <del rend="expunctuated">vel est contradictio</del></subst> ad contradictoria inferenda
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1963">
+          <g ref="#pilcrow"/>ad formam 
+          <lb ed="#S" n="12"/>etiam consequentiam nulla est si inferat quod sic oporteat esse sed opteret ipsum 
+          <lb ed="#S" n="13"/>inferre ex quo deberet probare propositum includere contradictionem secundum eum 
+          <lb ed="#S" n="14"/>Et ad probationem consequentiae privatio non tollitur nisi per habitum illud declaratum 
+          <lb ed="#S" n="15"/>est quo debeat intelligi et veritatem habere et quomodo non respondeo 
+          <lb ed="#S" n="16"/>ad <choice><orig>2m</orig><reg>secundo</reg></choice> principale
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e1983">
+          <g ref="#pilcrow"/>ad <choice><orig>8m</orig><reg>octavum</reg></choice> dicendum quod licet non subsit possibilitati hominis 
+          <lb ed="#S" n="17"/>ex puris naturalibus sine gratia infusa vitare omne peccatum cuius oppositum 
+          <lb ed="#S" n="18"/>dicit <name xml:id="aw98wa-xg2479-Nd1e1995">pelagius</name> quia non est in potestate naturali hominum obligari ad 
+          <lb ed="#S" n="19"/>habendum huiusmodi gratiam tamen in potestate dei est hominem in puris natura<lb ed="#S" break="no" n="20"/>libus <g ref="#carrot"/><add place="marginLeft"><g ref="#carrot"/>acce[?]</add> parare[?] non plus igitur probat argumentum nisi quod peccatum privat gratiam 
+          <lb ed="#S" n="21"/>sed hoc non obstante remicti posset de potentia dei sine in<lb ed="#S" break="no" n="22"/>fusione 
+          gratiae quia sine ista potest tolli obiecto de habendo caritatem 
+          <lb ed="#S" n="23"/>ut dictum est et ideo posset tolli ista privatio scilicet non habere caritatem 
+          <lb ed="#S" n="24"/>quam tenetur habere absque infusione caritatis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e2017">
+          ad nonum per idem omnino 
+          <lb ed="#S" n="25"/>vel circa aliter potest dici quod maior est falsa cum dicitur quod omne peccatum 
+          <lb ed="#S" n="26"/>privat actum bonum si intelligatur de actu distincto contra habi<lb ed="#S" break="no" n="27"/>tum 
+          quia aliquod est peccatum positio actus prohibiti et hoc forte videtur[?] homo 
+          <lb ed="#S" n="28"/>non tenebatur ponere actum bonum pro illo tunc sed abstine 
+          <lb ed="#S" n="29"/>a malo actu nisi dicatur quod peccatum potest esse peccatum commissionis 
+          <lb ed="#S" n="30"/>sine peccato omissionis sicut est valde probabile et tunc posset 
+          <lb ed="#S" n="31"/>et tunc posset maior ita collerari[?] ad hunc sensum omne peccatum pri<lb ed="#S" break="no" n="32"/>vat 
+          actum bonum id est habet annexam privationem actus boni quo de<lb ed="#S" break="no" n="33"/>beret 
+          cavere istam prohibitam commissionem actualem
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e2040">
+          <g ref="#pilcrow"/><ref xml:id="aw98wa-xg2479-Rd1e2043">ad <choice><orig>10m</orig><reg>decimum</reg></choice></ref>  
+          <lb ed="#S" n="34"/>etiam per idem et praeter hic accipit falsum quia aliter deus esset acceptor personarum nisi 
+          <lb ed="#S" n="35"/>viator meretur quod deus iuste praemiaret enim <g ref="#dot"/>Instantia est 
+          <lb ed="#S" n="36"/>enim de parvulis quibus absque eorum merito confert viam aeterna 
+          <lb ed="#S" n="37"/>nec propter hoc est acceptor personarum <choice><orig>ymo</orig><reg>immo</reg></choice> et facit hoc de communi lege 
+          <lb ed="#S" n="38"/>omnibus parvulis baptizatis
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e2067">
+          <g ref="#pilcrow"/><ref xml:id="aw98wa-xg2479-Rd1e2070">ad <choice><orig>11m</orig><reg>undecimum</reg></choice></ref> minor est falsa si in<lb ed="#S" break="no" n="39"/>telligat 
+          quod secundum istam contradictorio quae exprimit sit transitus de contradictorio in 
+          <lb ed="#S" n="40"/>contradictorium secundum denominationem intrinseca quia carus vel acceptus et ita significativa ista 
+          <lb ed="#S" n="41"/>important relative vel consignative aliquid extrinsecum scilicet acceptantem et ac<lb ed="#S" break="no" n="42"/>ceptionem 
+          et ita de potentia dei absoluta fieri posset respectu personae huius absque hoc 
+          <lb ed="#S" n="43"/>quod illi <choice><orig>inprimeretur</orig><reg>imprimeretur</reg></choice> aliqua qualitas supernaturalis verum est tamen quod de facto 
+          <lb ed="#S" n="44"/>transitu istum de non aceptari ad acceptari concomitatur sed 
+          <lb ed="#S" n="45"/>non <choice><orig>neccessario</orig><reg>necessario</reg></choice> secundum potentiam dei absolutam transitus a non qualificari 
+          <lb ed="#S" n="46"/>ad qualificari ubi est denominatio intrinseca a forma inhaerente et ideo 
+          <lb ed="#S" n="47"/>bene concedo et volo quod <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> et contradictio esset quod manente subiecto 
+          <lb ed="#S" n="48"/>qualificali[?] transiretur a non qualificari ad qualificari ubi est denominatio 
+          <lb ed="#S" n="49"/>formalis et intrinseca ad modum quo denominatio subiecti ab albedine sibi in<lb ed="#S" break="no" n="50"/>harente 
+          est formalis et intrinseca sine mutatione subiecti qualificalis cum 
+          <lb ed="#S" n="51"/>igitur iste <choice><orig>2us</orig><reg>secundus</reg></choice> transitus scilicet a non qualificari ad qualificari non contingenter 
+          <lb ed="#S" n="52"/>et non absolute <choice><orig>neccessario</orig><reg>necessario</reg></choice> concomicetur[?] priorem transitum qui est a non acceptari 
+          <lb ed="#S" n="53"/>ad acceptari
+        </p>
+        <p xml:id="aw98wa-xg2479-d1e2130">
+          <g ref="#pilcrow"/>hinc est quod illum transitum qui posset de potentia dei 
+          <lb ed="#S" n="54"/>absoluta fieri sine mutatione subiectiva absque conditione ita tamen concomitantia[?] 
+          <lb ed="#S" n="55"/>istorum transituum est tantum de facto et de potentia dei ordinata 
+          <lb ed="#S" n="56"/>non de potentia dei absoluta prior transitus posset esse sine <choice><orig>2o</orig><reg>secundo</reg></choice> et ideo 
+          <lb ed="#S" n="57"/>verum est quod accipit minor et quod tamen de peccatore et non accepto 
+          <lb ed="#S" n="58"/>fit <g ref="#carrot"/><add place="above-line">non</add> peccator et acceptus ibi fit concomitanter[?] transitus de contradictione 
+          <cb ed="#S" n="b"/><!--104vb-->
+          <lb ed="#S" n="59"/>ad contradictorium secundum denominationem extrinsecam sed iste non exprimitur per se per 
+          <lb ed="#S" n="60"/>ita contradictoria peccator non peccator acceptus non acceptus et ideo minor ad 
+          <lb ed="#S" n="61"/>intellectum quo accipitur falsa est ut praedixi pro quo advertendum est quod 
+          <lb ed="#S" n="62"/>causare gratia non est eo ipso sine pluri peccare sed oportet[?] addi 
+          <lb ed="#S" n="63"/>debitum habendi eam ad istam carentiam et cum probatur minor quia 
+          <lb ed="#S" n="64"/>peccatum quod modo est peccatum privat gratiam verum est modo supra ex 
+          <lb ed="#S" n="65"/>posito quia tamen gratia volendo gratiam istam caritatem quae communiter infun<lb ed="#S" break="no" n="66"/>ditur 
+          a deo in iustificatione peccatorum et caritas sic absolute dicta et ita 
+          <lb ed="#S" n="67"/>privatio non sunt in mediata opposita tunc idem ut superius circa idem ut superius est satis de<lb ed="#S" break="no" n="68"/>claratum 
+          ideo posset tolli ista privatio quae est non sola carentia istius 
+          <lb ed="#S" n="69"/>qualitatis sed carentia cum debito habendi vel carentia illius pro tempore pro 
+          <lb ed="#S" n="70"/>quo teneretur[?] habere eam absque positione istius qualitatis per sublationem 
+          <lb ed="#S" n="71"/>obligationis de habendo istam qualitatem et ita esset transitus ab esse 
+          <lb ed="#S" n="72"/>peccatorem peccato quod modo de facto est peccatum ad non esse peccatorem 
+          <lb ed="#S" n="73"/>absque positione illius quantitatis quod est propositum sed non abque transitu a priva<lb ed="#S" break="no" n="74"/>ri 
+          sic ad non sic privari sed iste transitus a privari sit ad 
+          <lb ed="#S" n="75"/>non sic privari potest esse basque positione illius qualitatis ut declaratum est quia scilicet 
+          <lb ed="#S" n="76"/>inter non habere cum intentione habendi et habere mediat simpliciter non 
+          <lb ed="#S" n="77"/>habere sine intentione habendi immo quod plus est quod posset esse econtra quod ita 
+          <lb ed="#S" n="78"/>qualitas poneretur et tamen quod iste maneret peccator et non acceptus deo 
+          <lb ed="#S" n="79"/>de potentia dei absoluta ideo posset esset transitus de non qualificari ita qualitate quam 
+          <lb ed="#S" n="80"/>vocamus gratiam ad sic qualificari absque hoc quod iste peccator fieret non 
+          <lb ed="#S" n="81"/>peccator quia nulla forma actualis est in anima qua posita deus 
+          <lb ed="#S" n="82"/><choice><orig>neccessitetur</orig><reg>necessitetur</reg></choice> ipsum acceptare ad vitam aeternam
+        </p><!--</div>
+          <div>
+          <head>Articulus quartus</head>-->
+        <p xml:id="aw98wa-xg2479-d1e2213">
+          <g ref="#pilcrow"/><choice><orig>4us</orig><reg>quartus</reg></choice> articulus est mo<lb ed="#S" break="no" n="83"/>vere 
+          dubia et solvere <g ref="#dot"/>
+        </p> 
+        <div xml:id="aw98wa-xg2479-Dd1e2225">
+          <head xml:id="aw98wa-xg2479-Hd1e2227">Dubium 1</head>
+          <p xml:id="aw98wa-xg2479-d1e2229">
+            primum dubium est si peccatum mortale et gratia in<lb ed="#S" break="no" n="84"/>formans 
+            non habent ex naturis suis formalem respectu gratiam ut prae<lb ed="#S" break="no" n="85"/>dixisti 
+            igitur pari ratione posset de potentia absoluta sua acceptare 
+            <lb ed="#S" n="86"/>aliquem actum bonum ex genere illius qui remaneret in culpa mortali 
+            <lb ed="#S" n="87"/>ad vitam consequens falsum consequentia patet quia omnem habentem talem gratiam potest deus 
+            <lb ed="#S" n="88"/>de potentia absoluta acceptare ad praemium aeternum pro actu bono ex genere 
+            <lb ed="#S" n="89"/>a voluntate et caritate proveniente non obstante quocumque quod stare posset per 
+            <lb ed="#S" n="90"/>eandem absoluta dei potentiam cum illa caritate maxime quia non plus repung<lb ed="#S" break="no" n="91"/>naret 
+            formaliter visio dei ac beatifica fruitio peccato ut videtur qua ipsa 
+            <lb ed="#S" n="92"/>gratia non saltem tali peccato mortali quo quis est debitor <choice><orig>penae</orig><reg>poenae</reg></choice> 
+            <lb ed="#S" n="93"/>aeternae pro actu practico solum modo non dum remisso <g ref="#dot"/> falsas probatur quia 
+            <lb ed="#S" n="94"/>susce[?] est in peccato mortali propositio[?] et accidentali distincto contra originale 
+            <lb ed="#S" n="95"/>ipse erit debitor <choice><orig>penae</orig><reg>poenae</reg></choice> aeternae tam sensus quam <choice><orig>dampni</orig><reg>damni</reg></choice> sed si 
+            <lb ed="#S" n="96"/>aliquis bonus actus <subst><add place="margin-right">i?tius[?]</add> <del rend="expunctuated">intellectus</del></subst> est a deo secundum praesentem statum acceptatus 
+            <lb ed="#S" n="97"/>ad praemium aeternum sibi debetur praemium aeternum <g ref="#carrot"/><add place="margin-right"><g ref="#carrot"/>igitur sibi debetur praemium aeternum</add> et habiturus est 
+            <lb ed="#S" n="98"/>aeternam beatitudinem si non recedat a praesenti iustitia etiam si est debitor <choice><orig>penae</orig><reg>poenae</reg></choice> 
+            <lb ed="#S" n="99"/>aeternae sensus et <choice><orig>dampni</orig><reg>damni</reg></choice> secundum praesentem valorem seu iniustitiam suam igitur 
+            <lb ed="#S" n="100"/>nisi <choice><orig>peniteat</orig><reg>poeniteat</reg></choice> et recedat a praesenti statu carit?us[?] esset <choice><orig>pena</orig><reg>poena</reg></choice> aeterna 
+            <lb ed="#S" n="101"/>quia aliter non esset habiturus <choice><orig>penam</orig><reg>poenam</reg></choice> <choice><orig>dampni</orig><reg>damni</reg></choice> ita sunt <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> igitur et culpa 
+            <lb ed="#S" n="102"/>mortalis et gratia cuius oppositum cum <name xml:id="aw98wa-xg2479-Nd1e2328">scoto</name> et <name xml:id="aw98wa-xg2479-Nd1e2330">okam</name> dixisti
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2333">
+            <g ref="#pilcrow"/>ad illud respondeo 
+            <lb ed="#S" n="103"/>quod non praedixi quod aliquis habens gratiam increatam et quem deus secundum praesentem va<lb ed="#S" break="no" n="104"/>lorem 
+            acceptat ad beatitudinem aeternam posset simul cum hoc esse in 
+            <lb ed="#S" n="105"/>culpa mortali de dei potentia absoluta sed est dictum quod gratia infor<lb ed="#S" break="no" n="106"/>mans 
+            id est ista qualitas quae infunditur in baptismo non habet formalem contra<lb ed="#S" break="no" n="107"/>rietatem 
+            ex natura sui ad culpam mortalem et ideo dicendum est consequenter quod si deus 
+            <lb ed="#S" n="108"/>peccatori mortaliter etc per consequens nisi <choice><orig>peniteat</orig><reg>poeniteat</reg></choice> vel donec <choice><orig>peniteat</orig><reg>poeniteat</reg></choice> debetur 
+            <lb ed="#S" n="109"/><choice><orig>pena</orig><reg>poena</reg></choice> aeterna tam sensus quam <choice><orig>dampni</orig><reg>damni</reg></choice> non subtraheret istam gratiam quod 
+            <lb ed="#S" n="110"/>ipsa remaneret sed desineret esse gratia manens tamen eadem qualitas 
+            <lb ed="#S" n="111"/>quia ipsa non est gratia nisiex dei acceptatione in homine viatore et 
+            <lb ed="#S" n="112"/>non ex naturali proprietate eiusdem qualitatis qualiter albedo et omnis bonus 
+            <lb ed="#S" n="113"/>actus vel habitus naturaliter causabilis posset de dei omnipotentia esse gratia et 
+            <lb ed="#S" n="114"/>ideo dicendum est etiam quod non stant simul haec duo ille habet gratiam 
+            <lb ed="#S" n="115"/>creatam et ille peccat mortaliter nec hic repungnat huic quod praedixi quod scilicet 
+            <lb ed="#S" n="116"/>gratia creata non <choice><orig>repungnat</orig><reg>repugnat</reg></choice> ex natura sui culpae mortalis vel potest 
+            <lb ed="#S" n="117"/>simul stare de potentia de absoluta cum culpa mortali quia per illud 
+            <lb ed="#S" n="118"/>non plus significatur nisi quod ita qualitas quae de facto est gratia potest 
+            <pb ed="#S" n="105-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>secum compati sine <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> ex natura talis qualitas culpam mortalem sed si 
+            <lb ed="#S" n="2"/>haberet secum culpam mortalem ipsa non esset gratia sed veni?te[?] tali culpa 
+            <lb ed="#S" n="3"/>desineret esse gratia et ideo dubio hic has conclusiones primam superius probatam quod 
+            <lb ed="#S" n="4"/>gratia creata de dei omnipotentia stare potest tamen culpa mortali <choice><orig>2a</orig><reg>secunda</reg></choice> quod 
+            <lb ed="#S" n="5"/>non est possibile quod aliquis simul sic in gratia et in mortali culpa quia tunc 
+            <lb ed="#S" n="6"/>esset possibile quod esset carus et acceptatus secundum praesentem iustitiam ad vitam aeternam 
+            <lb ed="#S" n="7"/>semper tamen creaturus vita aeterna nisi em[?]det se
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2420">
+            <g ref="#pilcrow"/>Iste conclusiones patent in extremis 
+            <lb ed="#S" n="8"/>mani?tis[?] album potest naturaliter esse ingenium[?] quia ita res quae est alba potest desinere esse 
+            <lb ed="#S" n="9"/>alba[?] et fieri ing?a[?] et tamen non est possibile quod aliquis sit simul albus et ingi[?]
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2429">
+            <g ref="#pilcrow"/>Aliud 
+            <lb ed="#S" n="10"/>exemplum peccatum in spiritum sanctum quod est simul inp?n[?]a est remissibile quod potest <choice><orig>re<lb ed="#S" break="no" n="11"/>micti</orig><reg>re<lb ed="#S" break="no" n="11"/>mitti</reg></choice> 
+            sed si <choice><orig>remictetur</orig><reg>remittetur</reg></choice> non erat finalis inp?a[?] et ideo non stant 
+            <lb ed="#S" n="12"/>simul quod aliquis habeat finalem inpuniam[?] et quod <choice><orig>penitebit</orig><reg>poenitebit</reg></choice> et quod <choice><orig>remic<lb ed="#S" break="no" n="13"/>tetur</orig><reg>remit<lb ed="#S" break="no" n="13"/>tetur</reg></choice> 
+            ei et quia si est peccatum tale in spiritu sancto est peccatum quod non <choice><orig>remictetur</orig><reg>remittetur</reg></choice> 
+            <lb ed="#S" n="14"/>nec hic nec in futuro ex <choice><orig>euvangelio</orig><reg>evangelio</reg></choice> et tam est quia finalis inpin[?]a potest 
+            <lb ed="#S" n="15"/>non esse finalis inpni?a[?] ipsa manifest ita gratia poteat numquam fuisse 
+            <lb ed="#S" n="16"/>ergo ut quaestione praecedenti probavi quod deus posset istam in aliquo causare non 
+            <lb ed="#S" n="17"/>volens illum aeternaliter praemiare
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2485">
+            <g ref="#pilcrow"/>Et tunc ulterius ad dubium iam prae<lb ed="#S" break="no" n="18"/>tactum 
+            ante actum bonum ex genere illius qui est in culpa morta<lb ed="#S" break="no" n="19"/>li 
+            posset deus ad vitam aeternam acceptare illo remanente in cul<lb ed="#S" break="no" n="20"/>pa 
+            mortali ita quod simul sit inculpa mortali et in gratia id est g?rosus[?] 
+            <lb ed="#S" n="21"/>deo
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2498">
+            <g ref="#pilcrow"/>dicendum quod non volendo sicut omnis vocant culpam actualem 
+            <lb ed="#S" n="22"/>mortalem pro qua dabitur isti mors aeterna sensus et <choice><orig>dampni</orig><reg>damni</reg></choice> nisi se e<lb ed="#S" break="no" n="23"/>vi?det[?] 
+            et ideo si deus actum bonum ex genere illius qui immediate ante fuit in 
+            <lb ed="#S" n="24"/>sic in culpa mortali acceptet ad vitam aeternam sicut et potest de 
+            <lb ed="#S" n="25"/>sua potentia bsoulta et forte etiam de ordinata tunc <choice><orig>remictit</orig><reg>remittit</reg></choice> sibi cul<lb ed="#S" break="no" n="26"/>pam 
+            mortalem pro qua nisi peniteat dabitur mors gehene[?] ig<lb ed="#S" break="no" n="27"/>nis 
+            id est <choice><orig>pena</orig><reg>poena</reg></choice> sensus ab extra sine pluris tunc non video quin 
+            <lb ed="#S" n="28"/>sicut anima christi pro hora passionis habuit de dei omnipotentia et visionem 
+            <lb ed="#S" n="29"/>et fruitionem beatificam et tamen maximam <choice><orig>penam</orig><reg>poenam</reg></choice> ita posset unus 
+            <lb ed="#S" n="30"/>alius per totum tempus futurum simul habere beatitudinem et talem <choice><orig>penam</orig><reg>poenam</reg></choice> et per consequens 
+            <lb ed="#S" n="31"/>simul de dei omnipotentia esset dignus aeterno tali praemio beatifico et tamen habitu<lb ed="#S" break="no" n="32"/>rus 
+            sine termino <choice><orig>pena</orig><reg>poena</reg></choice> sensus
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2552">
+            <g ref="#pilcrow"/>Contra tamen ita potest obici probando quod simul stant 
+            <lb ed="#S" n="33"/>quod aliquis permaneat carus dicendum et tamen quod pro culpa sua simul secundum praesentem 
+            <lb ed="#S" n="34"/>iniustitiam naturale eui?det[?] sit puniendus aeternaliter tam <choice><orig>pena</orig><reg>poena</reg></choice> sensus 
+            <lb ed="#S" n="35"/>quam <choice><orig>dampni</orig><reg>damni</reg></choice> quia damp[?] vocatur aeternaliter carentia fruitionis et visionis 
+            <lb ed="#S" n="36"/>beatificae hanc enim carentiam voco et vocavi supra <choice><orig>sicud</orig><reg>sicut</reg></choice> et omnes faciunt 
+            <lb ed="#S" n="37"/><choice><orig>pena</orig><reg>poena</reg></choice> <choice><orig>dampni</orig><reg>damni</reg></choice> debitam pro mortali
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2587">
+            <g ref="#pilcrow"/>Istud arguo supposito illo casu 
+            <lb ed="#S" n="38"/>possibili quod deus praecipiat alicui sub <choice><orig>pena</orig><reg>poena</reg></choice> unius diei in igne purgatorio 
+            <lb ed="#S" n="39"/>quod non permaneat in a culpa veniali per totam primam partem 
+            <lb ed="#S" n="40"/>proportionalem crastine diei quae pars sit illius mediatas diei persona vel persona 
+            <lb ed="#S" n="41"/>eius <choice><orig>3a</orig><reg>tertia</reg></choice> vel persona eius <choice><orig>4a</orig><reg>quarta</reg></choice> vel <choice><orig>sicud</orig><reg>sicut</reg></choice> placebit capere et sub <choice><orig>pena</orig><reg>poena</reg></choice> du<lb ed="#S" break="no" n="42"/>orum 
+            ainerum[?] in purgatorio quod non permaneat in <c>a</c><g ref="#dot"/> per duas personas partes 
+            <lb ed="#S" n="43"/>proportionales diei crastine et sub <choice><orig>pena</orig><reg>poena</reg></choice> trium quod non per est et sit sine 
+            <lb ed="#S" n="44"/>fine[?] consequenter et de aliis omnibus posterioribus infinitis et tamen in contrarium 
+            <lb ed="#S" n="45"/>perserveret iste per totum die crastinam in culpa illa veni<lb ed="#S" break="no" n="46"/>ali 
+            tunc arguitur iste habebit tam <choice><orig>penari</orig><reg>poenari</reg></choice> sensus quam <choice><orig>dampni</orig><reg>damni</reg></choice> ponatur casus 
+            <lb ed="#S" n="47"/>de utraque per infinitos dies et percabit[?] utrumque <choice><orig>penam</orig><reg>poenam</reg></choice> et pro consequens 
+            <lb ed="#S" n="48"/>sine fine et tamen ille non desiit habere gratiam culpa sua per casum 
+            <lb ed="#S" n="49"/>erit solum venialis ergo exposito simul habet iste gratiam et tamen eset 
+            <lb ed="#S" n="50"/>dignus <choice><orig>pena</orig><reg>poena</reg></choice> aeterna tam sensus quam <choice><orig>dampni</orig><reg>damni</reg></choice> <g ref="#dot"/> est dicendum quod ille peccavit 
+            <lb ed="#S" n="51"/>mortaliter <g ref="#dot"/> icet solum venialiter peccavit usque ad finem diei illius vel 
+            <lb ed="#S" n="52"/>usque ad instans praecedentis finem illius diei per minimum tempus ab eo per<lb ed="#S" break="no" n="53"/>ceptibile 
+            vel maximum ab eo non perceptibile secundum circumstantias tunc praesen<lb ed="#S" break="no" n="54"/>tes 
+            tamen ex tunc est culpabilis mortaliter quia non cessavit in falsa[?] tempus quod 
+            <lb ed="#S" n="55"/>sibi praecipiatur sub incinatione[?] <choice><orig>penae</orig><reg>poenae</reg></choice> aeternae quod cessaret et talem praecep<lb ed="#S" break="no" n="56"/>tum 
+            <subst><add place="margin-left"><g ref="#carrot"/>de liberetate</add> <del rend="expunctuated">tale</del></subst> per trig?di[?] est mortaliter peccare ii[?] sic autem peccavit quam <add place="margin-right"><g ref="#carrot"/>diu</add> plene[?] 
+            <lb ed="#S" n="57"/>potuit <del rend="expunctuated">dui</del> scienter et de liberate in partibus futuri temporis sibi prae<lb ed="#S" break="no" n="58"/>sciti 
+            actum illum <choice><orig>dimictere</orig><reg>dimittere</reg></choice> venialem et consequenter dicendum est ulterius praeterea per 
+            <lb ed="#S" n="59"/>omnia <choice><orig>sicud</orig><reg>sicut</reg></choice> ad illud <g ref="#carrot"/><add place="margin-left"><g ref="#carrot"/>de peccato</add> anna dictum est prius loco suo
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e2728">
+          <head xml:id="aw98wa-xg2479-Hd1e2730">Dubium 2</head>
+          <p xml:id="aw98wa-xg2479-d1e2732">
+            <g ref="#pilcrow"/><choice><orig>2m</orig><reg>secundum</reg></choice> dubium 
+            <lb ed="#S" n="60"/>principale sic utrum in baptismo cum de peccatore sic iustus et de non 
+            <cb ed="#S" n="b"/><!--105rb -->
+            <lb ed="#S" n="61"/>caro et accepto ad vitam aeternam carus et acceptus de facto in<lb ed="#S" break="no" n="62"/>fundatur 
+            gratia creata quod sic videtur quia tam adulti quam parvulit reci<lb ed="#S" break="no" n="63"/>piunt 
+            in baptismo informantem gratiam et virtutes <choice><orig>sicud</orig><reg>sicut</reg></choice> dicit <ref xml:id="aw98wa-xg2479-Rd1e2755" type="citation"><title>decretalis</title> 7i</ref> <!-- another example of using ref --> 
+            <lb ed="#S" n="64"/>praeallegata
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2764">
+            <g ref="#pilcrow"/>praeterea ut supra nullus transit de privatione iustitiae ad 
+            <lb ed="#S" n="65"/>iustitiam sine iustitia inhaerente quia spiritus sanctus non inhaeret animae formaliter igitur 
+            <lb ed="#S" n="66"/>iustificatus recipit aliquem habitum iustitiae vel gratiae informantis
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2773">
+            <g ref="#pilcrow"/>ad 
+            <lb ed="#S" n="67"/>oppositum quod gratia informans poni debeat hoc praecise argueret <ref xml:id="aw98wa-xg2479-Rd1e2779"><title>decreta<lb ed="#S" break="no" n="68"/>lis</title> 
+            7i</ref> saepius allegata sed ita hic ponere non cogit quia ita non as<lb ed="#S" break="no" n="69"/>serit 
+            gratiam in baptismo creari sed approbat opinionem quae ponit quod in baptismo vir<lb ed="#S" break="no" n="70"/>tutes 
+            et informans gratia infunduntur et quod non solum sed ibi remit<lb ed="#S" break="no" n="71"/>titur 
+            peccatum sed haec possunt salvari sine gratia creata quia ipsemet 
+            <lb ed="#S" n="72"/>spiritus sanctus ut videtur est gratia informans quaelibet fidelem deo causarum et spiritus sanctus est 
+            <lb ed="#S" n="73"/>caritas sua et ipse est templum spiritus sancti et habitulum[?] eius ut docet scriptura
+          </p> 
+          <p xml:id="aw98wa-xg2479-d1e2798">
+            <lb ed="#S" n="74"/><g ref="#pilcrow"/>Et per hoc respondetur ad argumenta praetacta quae concludent verum requiri scilicet gratiam 
+            <lb ed="#S" n="75"/>informantem et ipsa informans gratia est ipse spiritus sanctus et hoc tenet <name xml:id="aw98wa-xg2479-Nd1e2805" ref="#RichardFitzRalph">firanfi[s]</name>
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2810">
+            <lb ed="#S" n="76"/><g ref="#pilcrow"/>In contrarium tamen movet me quod omnes antiqui scribentes posuerunt 
+            <lb ed="#S" n="77"/>deum nec compositum secundum se nec alteri compossibilem vel materiam vel formam informantem 
+            <lb ed="#S" n="78"/>nec ab <choice><orig>alico</orig><reg>aliquo</reg></choice> audivi contrarium praeter quam ab uno qui a suis com<lb ed="#S" break="no" n="79"/>pulsus 
+            est istam sententiam retractare cuius motum fuit quia dare 
+            <lb ed="#S" n="80"/>perfectionem non arguit imperfectionem in dante sed formam informare materiam 
+            <lb ed="#S" n="81"/>non est nisi sibi dare perfectionem igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2831">
+            <g ref="#pilcrow"/>??[?] potest dici quod esse partem 
+            <lb ed="#S" n="82"/>essentialem arguit <choice><orig>inperfectionem</orig><reg>imperfectionem</reg></choice> etc
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2842">
+            <g ref="#pilcrow"/>Item tunc quia ex deo et homine per ipsum 
+            <lb ed="#S" n="83"/>informali fieret per se unum sicut ex materia et sua forma et per consequens cum omne 
+            <lb ed="#S" n="84"/>per se unum sic vera entitatis <add place="margin-right">per se una vel per partes eius <choice><orig>alica</orig><reg>aliqua</reg></choice> entitas</add> per se una esset melior deo quia in 
+            <lb ed="#S" n="85"/>bonis commune totum est melius sua parte
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2860">
+            <g ref="#pilcrow"/>Item tunc cum operationem 
+            <lb ed="#S" n="86"/>formae verae licet mediante et quasi per accidens communicant informato <choice><orig>sicud</orig><reg>sicut</reg></choice> disgre<lb ed="#S" break="no" n="87"/>gari 
+            vel vi?ri[?] convenit subiecto albedinis sequitur quod quaelibet fidelis iustus licet non per se 
+            <lb ed="#S" n="88"/>sed per spiritum sanctum formam suam creet mundum vel gubernet et conservet et 
+            <lb ed="#S" n="89"/>faciet omnia quae et deus consequens non est dandum
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2878">
+            <g ref="#pilcrow"/>Item si deus posset 
+            <lb ed="#S" n="90"/>esse forma informans intellectum creatum igitur potest esse intellectio qua formaliter 
+            <lb ed="#S" n="91"/>talis intellectus intelligat et dilectio qua diligat et delectatio qua forma<lb ed="#S" break="no" n="92"/>liter 
+            delectentur nam ideo per creatam intellectionem creatura intelligit quia ipsa cum 
+            <lb ed="#S" n="93"/>hoc <del rend="expunctuated">est</del> quod est intellectio est forma intellectus
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2895">
+            <g ref="#pilcrow"/>Et si dicas quod 
+            <lb ed="#S" n="94"/>conclusio huius rationis vera est secundum illum quia in quaestio qua quaerit an sic ponenda in anima 
+            <lb ed="#S" n="95"/>alia creatura quam spiritus sanctus <subst><add place="marginRight">ubi respondens</add> <del rend="expunctuated">dicens</del></subst> in opere correctio argumento <name xml:id="aw98wa-xg2479-Nd1e2910">scoti</name> de transitu 
+            <lb ed="#S" n="96"/>a contradictorio ad contradictorium supra tracto dicit quod contradictorio possint successive 
+            <lb ed="#S" n="97"/>esse vera sine nova igitur quod patet inquit in exemplo manifeste ponatur quod deus 
+            <lb ed="#S" n="98"/>faciat aliequem cognoscere scilicet deum postquam non cognovit nihil in ipso 
+            <lb ed="#S" n="99"/>causando sed solum sibi illabendo tunc enim inquit est haec vera iste cognos<lb ed="#S" break="no" n="100"/>cit 
+            deum et tamen <choice><orig>nichil</orig><reg>nihil</reg></choice> est de novo causatum haec illae
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2929">
+            <g ref="#pilcrow"/>Si responsio haec 
+            <lb ed="#S" n="101"/>quo ad exemplum quod foret haec ad propositum tamen non est vera <choice><orig>sicud</orig><reg>sicut</reg></choice> ostendi distinctione 
+            <lb ed="#S" n="102"/>prima et ostendam alias suo loco licet bene ista responsio evacuaret argumentum 
+            <lb ed="#S" n="103"/>hic
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2944">
+            <g ref="#pilcrow"/>Item etiam contra istum in materia de revelationibus futurorum intrando 
+            <lb ed="#S" n="104"/>ad beatificam[?] et etiam <subst><del>magister</del> <add place="margin-right">lectura</add></subst> sententiarum tenet contrarium et bene ut alias recita<lb ed="#S" break="no" n="105"/>bo
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2959">
+            <g ref="#pilcrow"/>Item etiam in quaestione an accidentalis cogitatio distinguatur realiter 
+            <lb ed="#S" n="106"/>a speciei in memoria tenet quod verbum divinum non est cogitatio angeli unde si 
+            <lb ed="#S" n="107"/>non esset in angelo aliquid praeter verbum <choice><orig>nichil</orig><reg>nihil</reg></choice> cogitaret neque intelligeret 
+            <lb ed="#S" n="108"/>in actum <choice><orig>2o</orig><reg>secundo</reg></choice> sicut consequenter intendit ibi probare et alias saepe superius su<lb ed="#S" break="no" n="109"/>is 
+            locis recitavi tenet idem haec omnia in opere correcto igitur haec 
+            <lb ed="#S" n="110"/>est responsio et licet hic ponat et dicat hic esse manifeste verum cum tamen aliquali 
+            <lb ed="#S" n="111"/>teneat contrarium quasi ubique nec sit verum quod hic dicit propter argumenta  distinctione 
+            <lb ed="#S" n="112"/>prima per me posita et alia multa per eum contra hic suis locis reci<lb ed="#S" break="no" n="113"/>tata 
+            et recitanda non <choice><orig>inpeditur</orig><reg>impeditur</reg></choice> in aliquo ratio iam praefata quia 
+            <lb ed="#S" n="114"/>si esset deus forma animae per ipsum formaliter posset anima intelligere 
+            <lb ed="#S" n="115"/>quod verum non est
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e2998">
+            <g ref="#pilcrow"/><choice><orig>6o</orig><reg>sexto</reg></choice> sequitur quod anima tais vel angelis eset deus vel dei<lb ed="#S" break="no" n="116"/>tas 
+            omnis enim forma nata est dare denominationem secundum suam entitatem 
+            <lb ed="#S" n="117"/>suo perfectionali sicut corpus ab anima animatur vel est animatum et 
+            <lb ed="#S" n="118"/>superficies per albedinem alba etc
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3012">
+            <g ref="#pilcrow"/>praeterea tunc anima talis non minus in<lb ed="#S" break="no" n="119"/>formaretur 
+            patre et filio quam spiritus sanctus et per consequens tum actio formae tribuatur mediante 
+            <lb ed="#S" n="120"/>illi quod informat sequitur non solum quod anima talis operetur mediante ad extra 
+            <lb ed="#S" n="121"/>quidquid ageret deus <choice><orig>ymo</orig><reg>immo</reg></choice> et quod generet filium et spiraret spiritum sanctum nec plus 
+            <pb ed="#S" n="105-v"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>scirem rationabiliter hoc vitare quam quod subiectum albedinis videatur Et si 
+            <lb ed="#S" n="2"/>dicatur secundum eum quod aequivoce est forma talis cum aliis formis illud 
+            <lb ed="#S" n="3"/>non valet quia non potest istam aequivocator[?] ponere nisi in hoc quod non depen<lb ed="#S" break="no" n="4"/>det 
+            a sua forma materia <choice><orig>sicud</orig><reg>sicut</reg></choice> multae aliae formae faciunt ita certe nec anima 
+            <lb ed="#S" n="5"/>intuitiva dependet tamen per naturam possit manere sine subiecto ut patet in 
+            <lb ed="#S" n="6"/>morte naturali et cum anima est sic forma quod est pars essentialis hominis 
+            <lb ed="#S" n="7"/>componens cum corpore sicut forma inhaerens subiective et si ex hoc quod 
+            <lb ed="#S" n="8"/>taliter informet deus animam sequuntur omnia inconvenientia praeillata 
+            <lb ed="#S" n="9"/>igitur vel <choice><orig>2o</orig><reg>secundo</reg></choice> est falsa vel ista omnia essent vera
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3060">
+            <g ref="carrot"/><add place="margin-left" hand="different"><g ref="#pilcrow"/>Contra tamen ista pro <unclear>op[?]</unclear> <unclear>trina[?]</unclear></add> <del rend="expunctuated">sicud</del> arguit doctor iste certum 
+            <lb ed="#S" n="10"/>est enim inquit quod deus et nobis et angelis inhaeret formaliter licet aequivo<lb ed="#S" break="no" n="11"/>ce 
+            cum dependentia a subiecto hic enim ait manifestum est ex theologia et 
+            <lb ed="#S" n="12"/>philosophia
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3081">
+            <g ref="#pilcrow"/>Ex theologia patet hic dicit enim <ref xml:id="aw98wa-xg2479-Rd1e3085"><name xml:id="aw98wa-xg2479-Nd1e3086" ref="#Augustine">augustinus</name> 2 libro <title>de libro arbitrio</title> capitulo 28</ref> 
+            <lb ed="#S" n="13"/>conferetur itaque ut et corpus et animus forma quadam incommunicabili et semper ma<lb ed="#S" break="no" n="14"/>nente 
+            formentur cui formae dictum est mutabis ea et mutabuntur tu aut[?] 
+            <lb ed="#S" n="15"/>idem ipse es etc Ecce quod deus non solum est forma ante sed corporis
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3099">
+            <g ref="#pilcrow"/>Item 
+            <lb ed="#S" n="16"/><ref xml:id="aw98wa-xg2479-Rd1e3104"><name xml:id="aw98wa-xg2479-Nd1e3105">linco[?]</name> super 3 c <title>caelestis Iearchiae</title> parte 3</ref> pulchre et ex intn?one[?] de 
+            <lb ed="#S" n="17"/>cla?c[?] quod deitas est esset existentium et virtus vivifica viventium et sensi<lb ed="#S" break="no" n="18"/>tiva 
+            sensentium et sapientia sapientium
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3115">
+            Item <ref xml:id="aw98wa-xg2479-Rd1e3117"><name xml:id="aw98wa-xg2479-Nd1e3118">commentator</name> est[?] <title>de anima</title> commeto 
+            <lb ed="#S" n="19"/>5</ref> versus finem dicit quod quemadmodum[?] esse sensibile dividitur in formam et 
+            <lb ed="#S" n="20"/>materiam sic ens intelligibile oportet dividi in similia hiis duobus scilicet in aliquid similem 
+            <lb ed="#S" n="21"/>materiae et in aliquid simile formae et alico 14 intelligentiae abstracte perfici<lb ed="#S" break="no" n="22"/>untur 
+            per se invicem et recipiunt se praeter[?] pm[?] quae linea est ab hac nulla 
+            <lb ed="#S" n="23"/>et quia negant p?a?m[?] formam informare alias <choice><orig>remicto</orig><reg>remitto</reg></choice> eos ad 12 
+            <lb ed="#S" n="24"/><title>metaphysicae</title> ut addiscant in <ref xml:id="aw98wa-xg2479-Rd1e3141">commento 45</ref> quomodo unusquisque motorum 
+            <lb ed="#S" n="25"/>orbium centium[?] perficiter per primum motiorem et ut addiscant in <choice><orig>alico</orig><reg>aliquo</reg></choice> 52 
+            quomodo ostensis praeter primam formam componitur[?] est potentia et actum nec est 
+            <lb ed="#S" n="26"/>alia causa nisi quia superior informat inferiorem et praeterea a nulla informatur
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3153">
+            <lb ed="#S" n="27"/><g ref="#pilcrow"/>ad ista omnia dico quod deus est forma abstracta quae formantur omnia 
+            <lb ed="#S" n="28"/>active et qua sentimus et movemur et summus secundum <name xml:id="aw98wa-xg2479-Nd1e3160">apostolum</name> ipso 
+            <lb ed="#S" n="29"/>active nos formante et nobis cooperante et cum omnibus et quia formae 
+            <lb ed="#S" n="30"/>solent dare esse specificum informando et operationem etiam ideo quia haec propri<lb ed="#S" break="no" n="31"/>etas 
+            formae qua forma dicitur alicui pn?im[?] operandet active arguit[?] deo 
+            <lb ed="#S" n="32"/>dicitur deus forma omnium aliorum agentium non autem ab informando 
+            <lb ed="#S" n="33"/>ea
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3174">
+            <g ref="#pilcrow"/>Quia autem allegatur de arguere[?] quod omnes intelligentiae[?] informantur ab aliis 
+            <lb ed="#S" n="34"/>praeter primam quae sola secundum eum libera est ab hac nulla acceptionis ul<lb ed="#S" break="no" n="35"/>terioris 
+            verum est quod omnis sunt receptive cognitionum[?] et amororum ab 
+            <lb ed="#S" n="36"/>aliis praeter primam vel ut ita loquar recipiunt ipsum suum esse si ipsum 
+            <lb ed="#S" n="37"/>sic cognitio et amore prima non sic nec est verisimile licet <name xml:id="aw98wa-xg2479-Nd1e3187">commentor</name> po<lb ed="#S" break="no" n="38"/>nat 
+            intellectum materialem perfici in esse per agentem quod ille intellectus agens posset 
+            <lb ed="#S" n="39"/>secundum eum perfici per aliam et sic usque ad primam alioquin ex omni<lb ed="#S" break="no" n="40"/>bus 
+            intelligentiis posset componi ex se unum <choice><orig>sicud</orig><reg>sicut</reg></choice> ex perfectionibus et perfecti<lb ed="#S" break="no" n="41"/>bilibus 
+            nec etiam illud quod perficiunt se invicem et recipiunt se circulatio 
+            <lb ed="#S" n="42"/>enim huius est in hoc impossibilis haec igitur non possunt habere veritatem nisi de 
+            <lb ed="#S" n="43"/>receptione mutua in ratione obiectorum et cognoscibilium et amabilium et haec 
+            <lb ed="#S" n="44"/>videtur si se intelligit mutuo per accidentia superaddita vel receptione 
+            <lb ed="#S" n="45"/>sola methaphysica si una per se ipsam intelligit aliam sibi praesentem 
+            <lb ed="#S" n="46"/>sine verba receptione accidentis
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3213">
+            <g ref="#pilcrow"/>Eodem modo intelligendum est illud dictum contraris[?] quod 
+            <lb ed="#S" n="47"/>omnis perficiuntur per p?am[?] obiective scilicet et per illius activam etiam manu[?] te<lb ed="#S" break="no" n="48"/>nentiam 
+            conservantur et active perficiuntur si quas secundum eum recipiunt 
+            <lb ed="#S" n="49"/>inhaerentes actiones quorumcumque
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e3225">
+          <head xml:id="aw98wa-xg2479-Hd1e3227">Dubium 3</head>
+          <p xml:id="aw98wa-xg2479-d1e3229">
+            <g ref="#pilcrow"/><choice><orig>3m</orig><reg>tertium</reg></choice> dubium est quod si de peccato 
+            <lb ed="#S" n="50"/>re et indigno vita aeterna secundum legem dei ordinatam non fiat 
+            <lb ed="#S" n="51"/>dignus sine mutatione ad formam supernaturalem in eo positam contra quia 
+            <lb ed="#S" n="52"/>si haec propositio fuisset ab aeterno si peccatus mortaliter peccaturus iustifi<lb ed="#S" break="no" n="53"/>cabitur 
+            sibi infundetur in vita gratia informans tunc ipsa ab aeterno fu<lb ed="#S" break="no" n="54"/>isset 
+            <lb ed="#S" n="55"/>vera igitur per nullam dei potentiam poterit esse falsa igitur de nulla potentia 
+            <lb ed="#S" n="56"/>poterit iustificari sine infusione gratiae si enim per aliquam potentiam 
+            <lb ed="#S" n="57"/>poterit illa propositio esse falsa vel igitur ab aeterno et tunc simul vera et falsa quia 
+            <lb ed="#S" n="58"/>ponatur in esse cum igitur per te ab aeterno fuerit vera ab aeterno fuis<lb ed="#S" break="no" n="59"/>set 
+            simul vera et falsa et si ex tempore vel in <choice><orig>alico</orig><reg>aliquo</reg></choice> instanti primo poterit incipere 
+            <lb ed="#S" n="60"/>esset falsa igitur usque tunc semper fuisset vera nunc primo falsa sed non est transitus 
+            <cb ed="#S" n="b"/><!-- 105vb -->
+            <lb ed="#S" n="61"/>talis sine novitate et non est novitas aliqua vel mutatio ibi ex parte 
+            <lb ed="#S" n="62"/>creaturae possibilitate igitur ex parte dei sed hoc falsum et impossibile quia secundum <ref xml:id="aw98wa-xg2479-Rd1e3272"><name xml:id="aw98wa-xg2479-Nd1e3273">augustinum</name> 12 
+            <lb ed="#S" n="63"/><title>confessionum</title></ref> deus non potest modo velle unum et modo velle aliud <choice><orig>sicud</orig><reg>sicut</reg></choice> et crea<lb ed="#S" break="no" n="64"/>tura
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3285">
+            <g ref="#pilcrow"/>ad illud dicendum quod ista propositio si ab aeterno fuisset ab aeterno 
+            <lb ed="#S" n="65"/>fuisset vera contingenter tamen et non absolute <choice><orig>neccessario</orig><reg>necessario</reg></choice> fuisset vera et ideo potuis<lb ed="#S" break="no" n="66"/>set 
+            esset falsa <add place="margin-bottom">et potest et ab aeterno et ex tempore primum tamen non infert quod simul fuerit vera et falsa sed quod simul fuerit nota[?] et potuerit esse falsa</add> et si <choice><orig>2a</orig><reg>secunda2a</reg></choice> pars ponatur in esse ante peccatum respectu futurae de qua est 
+            <lb ed="#S" n="67"/>sermo eo ipso numquam fuit ita propositio vera cum ista fortissime re<lb ed="#S" break="no" n="68"/>pungnent 
+            scilicet quod ab aeterno fuerit vera et ponatur in esse quod ab aeterno fuerit 
+            <lb ed="#S" n="69"/>falsa et ideo positio huius <g ref="#carrot"/><add place="above-line">in esse</add> quod ab aeterno fuerit falsa est positio quod ipsa nunquam fu<lb ed="#S" break="no" n="70"/>erit 
+            ante positionem sui in esse vera sed cum positione in esse quod ab aeterno 
+            <lb ed="#S" n="71"/>fuerit falsa stat bene quod ab aeterno potuit esse vera et ex tempore etiam potest 
+            <lb ed="#S" n="72"/>incipere esse falsa per potentiam rei significatae in esse sicut dato quod deus ab 
+            <lb ed="#S" n="73"/>aeterno scivit me esse sessiorum[?] in <c>a</c> instanti <g ref="#carrot"/><add place="margin-right"><g ref="#carrot"/>tamen veniente <c>a</c> instanti[?]</add> haec propositio incipit esse falsa deus 
+            <lb ed="#S" n="74"/>scit me sessiorum[?] in <c>a</c> quae ante <c>a</c> ab aeterno semper fuisset vera si sed?o[?] 
+            <lb ed="#S" n="75"/>in <c>a</c> si ab aeterno fuisset scripta vel formata
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3345">
+            <g ref="#pilcrow"/>dices contra hoc est dictum 
+            <lb ed="#S" n="76"/><name xml:id="aw98wa-xg2479-Nd1e3350" ref="#Augustine">augustinus</name> quod deus non vult modo unum et modo aliud etc dicendum quod hoc est 
+            <lb ed="#S" n="77"/>sic introducendum quod non vult modo per unam volitionem modo per aliam <choice><orig>sicud</orig><reg>sicut</reg></choice> 
+            <lb ed="#S" n="78"/>nos sed semper eadem quia non est in deo successio aliqua volu?num[?] 
+            <lb ed="#S" n="79"/>sicut est in nobis in quibus volutiones sunt inhaerentes qualitates 
+            <lb ed="#S" n="80"/>diversae numero
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3367">
+            <g ref="#pilcrow"/>dicendum est etiam quod ante positionem rei novae vel des<lb ed="#S" break="no" n="81"/>tructionem 
+            praeexistentis vel transmutationem temporis ubi iste sufficit et requiritur 
+            <lb ed="#S" n="82"/>non est possibile quod deus velit sic fore nec etiam econverso sed per potentiam 
+            <lb ed="#S" n="83"/>rei bene potest esset talis transitus sicut patuit in exemplo
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e3379">
+          <head xml:id="aw98wa-xg2479-Hd1e3381">Dubium 4</head>
+          <p xml:id="aw98wa-xg2479-d1e3383">
+            <g ref="#pilcrow"/><choice><orig>4um</orig><reg>quartum</reg></choice> dubium 
+            <lb ed="#S" n="84"/>quia si gratia requiritur ad iustificationem peccatoris de communi lege requiretur 
+            <lb ed="#S" n="85"/>ad meriotire operandum antecedens falsum quia sine talis potest quis reddere deo 
+            <lb ed="#S" n="86"/>omnem horem debitum et per consequens mereri probatur assumptum alioquin 
+            <lb ed="#S" n="87"/>habens gratiam et carens gratia tenerentur ad omnia paria quod videtur ab<lb ed="#S" break="no" n="88"/>surdum 
+            patet contra quia capio <seg type="correction">duo<add place="above-line">s</add></seg> pares innatrualiber[?] unum habentem 
+            <lb ed="#S" n="89"/>gratiam alium carentem ea si ervus teneretur ad meritorie operandum 
+            <lb ed="#S" n="90"/>et non ad plus tenetur prius nisi ad meritorie operandum igitur ad paria 
+            <lb ed="#S" n="91"/>tenentur scilicet meritorie operari
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3413">
+            <g ref="#pilcrow"/>alius autem potest ex puris naturalibus <choice><orig>sicud</orig><reg>sicut</reg></choice> et 
+            <lb ed="#S" n="92"/>primus igitur potest deo reddere omnem horem a se deo debitum sicut 
+            <lb ed="#S" n="93"/>potest primus ex quo non tenetur meritorie operari igitur <add place="margin-right">tenetur ad paria<!-- dbcheck this --></add>
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3430">
+            <g ref="#pilcrow"/>ad illud negandum 
+            <lb ed="#S" n="94"/>est assumptum scilicet sine gratia potest quis reddere etc Et ad probationem 
+            <lb ed="#S" n="95"/>neganda est consequentia et ad probationem omnem dicendum quod licet utrique teneatur ad 
+            <lb ed="#S" n="96"/>meritorie operandum tamen unus immediate ex hiis quae habet alii teneretur la<lb ed="#S" break="no" n="97"/>borare 
+            ad apprehendendum <g ref="#slash"/>gratiam quam non habet et in multis similibus posset 
+            <lb ed="#S" n="98"/>excogitari differentia
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3448">
+            <g ref="#pilcrow"/>Dubitari tamen posse hic ad quid tenetur ille quid numquam 
+            <lb ed="#S" n="99"/>habuit caritatem et ad quid minus unum tamen certum est quod tenetur habere <g ref="#slash"/> op<lb ed="#S" break="no" n="100"/>tare 
+            eam ea ad hoc inti[?] <g ref="#dot"/> non tenetur autem regratiari deo de gratia 
+            <lb ed="#S" n="101"/>praehabita sint alter non tenetur deo regratiari de hoc quod incepit eam de<lb ed="#S" break="no" n="102"/>siderare 
+            et sit de similibus
+          </p></div>
+        <div xml:id="aw98wa-xg2479-Dd1e3466">
+          <head xml:id="aw98wa-xg2479-Hd1e3468">Dubium 5</head>
+          <p xml:id="aw98wa-xg2479-d1e3470">
+            <g ref="#pilcrow"/><choice><orig>5m</orig><reg>quintum</reg></choice> dubium quia si nullus iustificatur nisi per 
+            <lb ed="#S" n="103"/>gratiam habitam igitur pari ratione econtra de iusto non fit iniustus nisi per<lb ed="#S" break="no" n="104"/>dendo 
+            gratiam et tunc tamen gratia non perdatur nisi propter peccatum mortale 
+            <lb ed="#S" n="105"/>et ita non nisi propter demeritum personale istius cui tollitur tunc quaero aut 
+            <lb ed="#S" n="106"/>deus aufert gratiam propter demeritum ab habente gratiam aut a non haben<lb ed="#S" break="no" n="107"/>te 
+            eam quia tunc simul in eodem essent mortale peccatum et gratia de le<lb ed="#S" break="no" n="108"/>ge 
+            communi dei praeconcessa nec tollit a non habente edam quia hoc est oppositum 
+            <lb ed="#S" n="109"/>inaddito ut videtur
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3493">
+            <g ref="#pilcrow"/>praeterea deus scit distincte in quo instanti est ultimo gratia 
+            <lb ed="#S" n="110"/>in isto cui propter demeritum aufert gratiam aut igitur illud instantiis est primum instans 
+            <lb ed="#S" n="111"/>demeriti et tunc simul gratia et mortale peccatum saltem per instans vel ul<lb ed="#S" break="no" n="112"/>timum 
+            instans gratiae sicut primum instans culpae et ad huc sequitur idem vel praecedit 
+            <lb ed="#S" n="113"/>et tunc est tempus medium inter ista duo <choice><orig>instancia</orig><reg>instantia</reg></choice> nisi ita ponantur im<lb ed="#S" break="no" n="114"/>mediata 
+            in quo nec erit iste in peccato nec in gratia et tunc etiam ante de<lb ed="#S" break="no" n="115"/>meritum 
+            per tempus per debet gratiam et ita non propter demeritum
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3515">
+            <g ref="#pilcrow"/>ad primum illorum 
+            <lb ed="#S" n="116"/>dicendum quod deus primo aufert gratiam praexuntem[?] quando ipsa potentia non est quia 
+            <lb ed="#S" n="117"/>non est aliud deum eam auferre nisi praexistentem gratiam immediate tunc 
+            <lb ed="#S" n="118"/>non consecare
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3526">
+            <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> dicendum quod non est aliquod ultimum instans esse gratiae quae 
+            <lb ed="#S" n="119"/>propter culpam perditur sed primum non esse eius post eius esset et ideo ratio non 
+            <pb ed="#S" n="106-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>procedit que oppositum supponebat nec hoc est hic speciale sed commune in omnibus 
+            <lb ed="#S" n="2"/>ubi est primum esse formae sequentis cuius introductio est formae prioris con<lb ed="#S" break="no" n="3"/>comitantis 
+            expulsio formae inquam <choice><orig>repungnantis</orig><reg>repugnantis</reg></choice> formaliter priori <choice><orig>sicud</orig><reg>sicut</reg></choice> ex 
+            <lb ed="#S" n="4"/>statuto est <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> mutua in proposito sed in contrarium quod possit de 
+            <lb ed="#S" n="5"/>communi lege etiam poni ultimum instans gratiae praehabitae arguitur quia dato quod aliquis habe<lb ed="#S" break="no" n="6"/>at 
+            gratiam in hoc instanti sicut possibile talis potest peccare immediate post 
+            <lb ed="#S" n="7"/>hoc instans quia immediate post hoc instans potest aliquid velle et non plus potest im<lb ed="#S" break="no" n="8"/>mediate 
+            post velle bene quam velle male <subst><add place="margin-left">poterit</add> <del rend="expunctuated">potest</del></subst> igitur potest immediate <add place="margin-center">poterit</add> 
+            <lb ed="#S" n="9"/>male velle et ita peccare et per cuius gratiam non habere et ita hoc instans 
+            <lb ed="#S" n="10"/>potest de communi lege esse ultimum instans gratiae in isto
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3587">
+            <g ref="#pilcrow"/>dicendum mihi videtur quod ha<lb ed="#S" break="no" n="11"/>bens 
+            nunc gratiam non potest immediate post hoc peccare mortaliter nisi forsan 
+            <lb ed="#S" n="12"/>venialiter nisi et modo sic peccet sed <choice><orig>2m</orig><reg>secundum</reg></choice> non es ad propositum discutire 
+            <lb ed="#S" n="13"/>quia veniale non facti per dei gratiam praehabitam et tamen probas quod sic quia 
+            <lb ed="#S" n="14"/>immediate post potest male velle nam voluntas potest immediate post 
+            <lb ed="#S" n="15"/>hoc movere se localiter etiam dato quod nunc non moveat se lo<lb ed="#S" break="no" n="16"/>caliter 
+            vel aliquid aliud igitur multo fortius velle licet non velit quia nihil 
+            <lb ed="#S" n="17"/>tam <choice><orig>inpossibilitate</orig><reg>impossibilitate</reg></choice> voluntatis etc
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3615">
+            <g ref="#pilcrow"/>dicendum quod hoc est falsum scilicet quod voluntas potest 
+            <lb ed="#S" n="18"/>immediate post hoc male velle si ly male notet maliti<lb ed="#S" break="no" n="19"/>am 
+            criminalem rarus etiam esset carus ubi posset naturaliter contingere ubi 
+            <lb ed="#S" n="20"/>voluntas nunc non volens possit in mediate velle intelligendo quod 
+            <lb ed="#S" n="21"/>per aliquod totum tempus inchoandae ab hoc instanti velit et tamen quod 
+            <lb ed="#S" n="22"/>modo non velit quia fere semper est primum instans quo vult voluntas postquam non 
+            <lb ed="#S" n="23"/>voluit volitione deliberata maxime tamen bene concedo hoc esset 
+            <lb ed="#S" n="24"/>possibile sicut declaratum est in prima distinctione
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3635">
+            <g ref="#pilcrow"/>dico tamen quod in omni casu 
+            <lb ed="#S" n="25"/>illo in quod voluntas in hoc instanti <add place="margin-bottom">non volens est immediate post hoc instans</add> <seg type="correction">volitu<add>m<!--<desc>line is added over "u" to indicate addtion of "m"</desc>--></add><del rend="expunctuated">ra</del></seg> non est dare aliquod vel<lb ed="#S" break="no" n="26"/>le 
+            quo immediate post volet nam si aliqua volitio nunc non est et im<lb ed="#S" break="no" n="27"/>mediate 
+            post per aliquod tempus totum ipsa esset ipsa simul caperet esse seu instantiae 
+            <lb ed="#S" n="28"/>producere iuxta alias declarata et ita foret instans instanti immediatum 
+            <lb ed="#S" n="29"/>quod est impossibile sed in tali casu immediate post volet et tamen non 
+            <lb ed="#S" n="30"/>erit alia volitio qua immediate volet sed fiet in ea aliquod velle 
+            <lb ed="#S" n="31"/>crescendo et intendendo ita quod non erit aliquod velle remissimum 
+            <lb ed="#S" n="32"/>quo volet post hoc instans et quia non volet male <choice><orig>malicia</orig><reg>malitia</reg></choice> 
+            <lb ed="#S" n="33"/>mortali donec huic actum alicuius determinate incen?ois[?] ita enim 
+            <lb ed="#S" n="34"/>remissus esse poterit ut videtur actus quod non esset peccatum mortale ideo et con<lb ed="#S" break="no" n="35"/>cedendum 
+            <lb ed="#S" n="36"/>videtur quod et si immediate post hoc volet nun non volens tamen 
+            <lb ed="#S" n="37"/>non immediate post volet volitione quae fit peccatum mortale 
+            <lb ed="#S" n="38"/>sed erit tempus antequam peccet mortaliter etiam dato quod aliquis actus talis secundum 
+            <lb ed="#S" n="39"/>speciem sic peccatum mortale secus est quando vult in instanti primo quia tunc 
+            <lb ed="#S" n="40"/>simul et subito produci poterit in ipso volitio in gradu in quo 
+            <lb ed="#S" n="41"/>velle huius sic peccatum mortale
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3692">
+            <g ref="#pilcrow"/>ad argumentum informa non est simile ibi 
+            <lb ed="#S" n="42"/>per volitionem praetestatem potest incipere aliquid localiter movere nec iste 
+            <lb ed="#S" n="43"/>modus est <choice><orig>inpossibilitate</orig><reg>impossibilitate</reg></choice> voluntatis nisi quia et ipsa volitio <unclear>immixit[?]</unclear> illum <choice><orig>sicud</orig><reg>sicut</reg></choice> 
+            <lb ed="#S" n="44"/>alias est ostensum per <name xml:id="aw98wa-xg2479-Nd1e3713">augustinum</name> praecipit voluntas in actu et <unclear>exetur[?]</unclear> etc 
+            <lb ed="#S" n="45"/>praecipit sibi et non <unclear>exetur[?]</unclear> quia non <unclear>efficaciter</unclear> praecipit sibi nam si efficaciter 
+            <lb ed="#S" n="46"/>modo pro futuro sed pro praesenti praeciperet a actualiter per consequens vellet quia 
+            <lb ed="#S" n="47"/>potest simul velle non autem potest simul movere eam nam ad 
+            <lb ed="#S" n="48"/>hoc nulla est potentia nec ad hic etiam ut individuali mus[?]ti[?]o sine tempore sine 
+            <lb ed="#S" n="49"/>motu succedat ndivisibile non potest aut voluntas in hoc instanti fa<lb ed="#S" break="no" n="50"/>cere 
+            aliquid moveri primo post commento sicut potest facere primo se nunc velle 
+            <lb ed="#S" n="51"/><c>a</c> postquam non voluit <c>a</c> et ita facit si cum effectum vult hoc velle 
+            <lb ed="#S" n="52"/>et habeat nunc alia requisita quia velle prius positum est causa natura<lb ed="#S" break="no" n="53"/>lis 
+            mere respectu motus causandi
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3745">
+            <g ref="#pilcrow"/>Contra tamen istam responsionem potest obi<lb ed="#S" break="no" n="54"/>ci 
+            quia cum actu volendi est possibile dare remissiorem qui sit vel 
+            <lb ed="#S" n="55"/>esse possit culpa moralis igitur responsio nulla assumptum probatur quia detur prae<lb ed="#S" break="no" n="56"/>ceptum 
+            illi quod post hoc instans nec simul nec successive causet volitionem <c>a</c> 
+            <lb ed="#S" n="57"/>et tamen scient contrarium solum causando in se volitionem sibi pro habita 
+            <lb ed="#S" n="58"/>sicut concedit voluntatem posset immediate post hoc instans velle <c>a</c> licet 
+            <lb ed="#S" n="59"/>non modo velit per successivam cau[?]com[?] talis volitionis non 
+            <lb ed="#S" n="60"/>autem per subitam
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3769">
+            <g ref="#pilcrow"/>Respondeo quod omnis deliberate vel per deliberationem 
+            <cb ed="#S" n="b"/><!--106rb -->
+            <lb ed="#S" n="61"/>causans volitionem causat simul et subito istam vel aliquam eius partem illa 
+            <lb ed="#S" n="62"/>autem possibilis pro causari totaliter succesive est volitio consequens naturaliter 
+            <lb ed="#S" n="63"/>cogitationem quae similiter successive causabitur in talibus quod prima distinctione probavi esse 
+            <lb ed="#S" n="64"/>possibiles et certe nec talis congrtio nec talis amore est perceptibilis deo 
+            <lb ed="#S" n="65"/>nec venerit ad gradum bene notabilem et per consequens enim  <choice><orig>inputabiles</orig><reg>imputabiles</reg></choice> ante 
+            <lb ed="#S" n="66"/>eorum <subst><add place="marginRight">habitiones</add><del rend="expunctuated">habitudines</del></subst> rationabiliter vel si sic hoc erit quia non cauentur per rem[?] entia 
+            <lb ed="#S" n="67"/>quae sub sunt dmo[?] voluntatis et tunc peccatur primo pro omissione remedii 
+            <lb ed="#S" n="68"/>in contrarium ad habendi semper quod reme?m[?] vel non[?] est vel nunc ponitur voluntas 
+            <lb ed="#S" n="69"/>in culpa et ita instantia non procedit
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e3808">
+          <head xml:id="aw98wa-xg2479-Hd1e3810">Dubium 6</head>
+          <p xml:id="aw98wa-xg2479-d1e3812">
+            <g ref="#pilcrow"/><choice><orig>6m</orig><reg>sextum</reg></choice> dubium est quia si gratia 
+            <lb ed="#S" n="70"/>sit <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> modo dicto iniustificato a peccato mortali videretur ad hoc 
+            <lb ed="#S" n="71"/>esse <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> ut mediate ipsa meritorie resistatur temptationi acci<lb ed="#S" break="no" n="72"/>piatur 
+            ergo gratia minima quam solet dos[?] creare et quaero utrum ista 
+            <lb ed="#S" n="73"/>sufficiat cum naturalibus ut ista mediate resisti valeat maxime 
+            <lb ed="#S" n="74"/>temptationi vel non si non igitur saltem in hoc casu aliquis esset in 
+            <lb ed="#S" n="75"/>gratia et tamen non posset meritorie per eam vitare peccatum si sic igitur frus<lb ed="#S" break="no" n="76"/>tra 
+            auget deus in miribus[?] et aliis sacntis gratiam quia frustra sic 
+            <lb ed="#S" n="77"/>per maius quod potest fieri per minus
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3845">
+            <g ref="#pilcrow"/>dicendum etiam quod propter causam illam <g ref="#carrot"/><add place="marginRight">non</add> est <choice><orig>neccessaria</orig><reg>necessaria</reg></choice> gratia 
+            <lb ed="#S" n="78"/>et concedo quod minima gratia quam deus solet dare baptismum[?] cuius est 
+            <lb ed="#S" n="79"/>gratia parvulorum non utentium libro arbitrio licet maiore sic illorum gratia 
+            <lb ed="#S" n="80"/>quam erat parvulorum circumscisorum solum sufficeret cum naturalibus ad 
+            <lb ed="#S" n="81"/>resistendum fortissime temptationi utpote ubi mors imminet ne 
+            <lb ed="#S" n="82"/>peccetur tamen nec sequitur quod mairo gratia superfluat cum quia facilius per eam 
+            <lb ed="#S" n="83"/>resistitur tamen quia magis meritorie et fruentius per maiorem gratiam re<lb ed="#S" break="no" n="84"/>sisci 
+            potest si naturalia sint paria
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e3874">
+          <head xml:id="aw98wa-xg2479-Hd1e3876">Dubium 7</head>
+          <p xml:id="aw98wa-xg2479-d1e3878">
+            <g ref="#pilcrow"/>Item 7 dubium quod gratia non requiratur 
+            <lb ed="#S" n="85"/>quia in potentia rationali ita sunt de lege communi post mortem imme?ta[?] habere 
+            <lb ed="#S" n="86"/>gloriam vel habere penam sed <del rend="expunctuated">vita</del> viator potest ex solis naturalibus 
+            <lb ed="#S" n="87"/>vitare omnem poenam[?] post mortem etiam sine gratia quia ex solis 
+            <lb ed="#S" n="88"/>naturalibus potest homo vitare omem culpam per <name xml:id="aw98wa-xg2479-Nd1e3894" ref="#Lombard">magistrum</name> libro 2 distinctioni 24 
+            <lb ed="#S" n="89"/>c 1 sequitur enim iste vitat omne peccatum igitur omnem poenam[?] et ultra 
+            <lb ed="#S" n="90"/>pertinget igitur ad gloriam quia lqiui sunt in poena qui non sunt in gloria et 
+            <lb ed="#S" n="91"/>primum antecedens potest homo sine gratia tali informante igitur et ultimum consequens sine 
+            <lb ed="#S" n="92"/>tali gratia informante
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e3906">
+            <g ref="#pilcrow"/>dicendum quod pro tempore nulla lapsae sunt ita immediata 
+            <lb ed="#S" n="93"/>post mortem poena vel gloria et hoc sub poena concipiendo causa poena 
+            <lb ed="#S" n="94"/>sensus quam poena dampni tamen pro statu innocentiae non erat sit quia homo 
+            <lb ed="#S" n="95"/>pro statu pure creationis in solis naturalibus non erant dignus pena 
+            <lb ed="#S" n="96"/>nec gloria ideo si mortuus tunc fuisset neutra fuisset sibi debita 
+            <lb ed="#S" n="97"/>pro isto igitur statu primo et si non potuit meritorie proficere potuit tamen 
+            <lb ed="#S" n="98"/>omne peccatum vitare et si intelligit <name xml:id="aw98wa-xg2479-Nd1e3923" ref="#Lombard">magister</name> pro illo autem statu nullae lap<lb ed="#S" break="no" n="99"/>sae 
+            non est ita et ita sancti tenet <ref xml:id="aw98wa-xg2479-Rd1e3928"><name xml:id="aw98wa-xg2479-Nd1e3929" ref="#Anselm">anselmus</name> etiam valde plane vult 
+              <lb ed="#S" n="100"/>hoc libro <title>de concordia gratiae</title></ref> et <ref xml:id="aw98wa-xg2479-Rd1e3936"><title>liberi arbitrii</title> c 17</ref> ubi dicit sic cum pau<lb ed="#S" break="no" n="101"/>lus 
+            inquit de illis qui cranem id est concupias sentiunt <g ref="#corr"/><add place="margin-right"/>nolentes ait nihil 
+            <lb ed="#S" n="102"/>dampnationis et hiis qui sunt in christo ihesu qui non secundum cranem am<lb ed="#S" break="no" n="103"/>bulant 
+            hoc est non volente conservit sine dubio significat eos qui non sunt 
+            <lb ed="#S" n="104"/>in christo sequi dampnationem quotiens sentiunt cranem etc si non secundum istam am<lb ed="#S" break="no" n="105"/>bulant 
+            etc et certe istos motus cranis non est secundum <name xml:id="aw98wa-xg2479-Nd1e3955" ref="#Paul">apostolum</name> in 
+            <lb ed="#S" n="106"/>nobis id est nostra littera potestate non sentire igitur
+          </p>
+        </div>
+        <div xml:id="aw98wa-xg2479-Dd1e3963">
+          <head xml:id="aw98wa-xg2479-Hd1e3965">Dubium 8</head>
+          <p xml:id="aw98wa-xg2479-d1e3967">
+            <g ref="#pilcrow"/><choice><orig>8m</orig><reg>octavum</reg></choice> dubium quod gratia 
+            <lb ed="#S" n="107"/>non requiratur de lege communi ad iustitiam et rectitudinem vo<lb ed="#S" break="no" n="108"/>luntatis 
+            quia hanc non potest sibi auferre deus de lege ordinata 
+            <lb ed="#S" n="109"/>ipsa etiam vita secundum <name xml:id="aw98wa-xg2479-Nd1e3980" ref="#Anselm">anselmum</name> ut supra habitum 9 id est huius distinctionem 17 Sed 
+            <lb ed="#S" n="110"/>deus potest de potentia sua ordinata auferre voluntati gratiam et per consequens ac<lb ed="#S" break="no" n="111"/>tualem 
+            rectitudinem si ista includit gratiam ipsa in vita igitur gratia ad recti<lb ed="#S" break="no" n="112"/>tudinem 
+            de commune lege dei non requitur minor probatur quia pono quod deus prae<lb ed="#S" break="no" n="113"/>cipiat 
+            alicui pro <choice><orig>alica</orig><reg>aliqua</reg></choice> mensura utpotest quod per unam horam[?] nullaum ac<lb ed="#S" break="no" n="114"/>tum 
+            volendi vel nolendi causet non abstante isto praecept volo quod 
+            <lb ed="#S" n="115"/>voluntas cui illud praecipitur habeat in hora illa volitionem servandi rectitudinem 
+            <lb ed="#S" n="116"/>et non servat rectitudinem igitur ipsa in vita caret rectitudine vel au<lb ed="#S" break="no" n="117"/>fertur 
+            sibi rectitudo seu caritas
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e4006">
+            <g ref="#pilcrow"/>dicendum quod non ipsa in vita simpliciter 
+            <lb ed="#S" n="118"/>nego enim <name xml:id="aw98wa-xg2479-Nd1e4012" ref="#Anselm">anselmum</name> ut allegavi in vice vult quia libere et 
+            <lb ed="#S" n="119"/>voluntarie demeretur demerito a quo aufertur gratia libere 
+            <pb ed="#S" n="106-v"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>enim et scienter agit vel elicit actum sibi prohabitum pro hora pro qua sibi in[?] 
+            <lb ed="#S" n="2"/>tridicitur[?] actus iste dices vult servare rectitudinem et tamen rectitudo 
+            <lb ed="#S" n="3"/>sibi aufertur igitur ipsa in vita sibi aufertur Et est dicendum quod in hoc volendo libere 
+            <lb ed="#S" n="4"/>male vult quia tunc velle non deberet ideo libere demeren<lb ed="#S" break="no" n="5"/>te 
+            et male voluntate perdit rectitudinem et ita antecedentis voluntarie 
+            <lb ed="#S" n="6"/>licet formaliter et actu elicito et voluntarie hoc est contra inclinationem actus 
+            <lb ed="#S" n="7"/>quam habet actualiter sed male quia tenetur istum non habere unde antecedentis vel 
+            <lb ed="#S" n="8"/>virtualiter voluntarie formaliter et consequenter involuntarie
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e4040">
+            <g ref="#pilcrow"/>ad argumentum principalem minor 
+            <lb ed="#S" n="9"/>neganda est si intelligatur de dono quod informet voluntatem ad 
+            <lb ed="#S" n="10"/>probationem assumptum est negandum quamquam de facto secundum leges potentiae dei 
+            <lb ed="#S" n="11"/>ordinate concomitentur se remissio culpae et infusio gratiae et cum 
+            <lb ed="#S" n="12"/>probas quod sic quia si est alia mutatio aut deperditiva[?] aut acqui<lb ed="#S" break="no" n="13"/>sitiva
+          </p>
+          <p xml:id="aw98wa-xg2479-d1e4056">
+            <g ref="#pilcrow"/>dicendum qudo licet de facto concomitetur remissionem culpae mutatio 
+            <lb ed="#S" n="14"/>subiectiva quam iste de non habente caritatem seu gratiam qualificatur tamen 
+            <lb ed="#S" n="15"/>de possibili nec remissio culpae esset mutatio acquisitiva nec concomi<lb ed="#S" break="no" n="16"/>taretur 
+            eam mutatio subiectiva in peccatore posita sed ita remissio non 
+            <lb ed="#S" n="17"/>esset isto casu posito nisi deum ab aeterno sic ordinasse quod si 
+            <lb ed="#S" n="18"/>iste <choice><orig>actingeret</orig><reg>attingeret</reg></choice> <c>a</c> instans iste deinceps non obligaretur ad potentiam 
+            <lb ed="#S" n="19"/>perpetuam <seg type="correction">n<subst><add place="above-line">ec</add><del rend="expunctuated">on</del></subst></seg> ad habendum caritatem quae est qualitas modo de facto 
+            <lb ed="#S" n="20"/>requisita ad gratificationem peccatorum et simul cum hoc <choice><orig>actingere</orig><reg>attingere</reg></choice> ipsum <c>a</c> 
+            <lb ed="#S" n="21"/>unde novitas ipsius <c>a</c> vel quod <c>a</c> iam poneretur si tempus esset suffi<lb ed="#S" break="no" n="22"/>cit 
+            ad istam remissionem de potentia dei absoluta faciendam ab aeter<lb ed="#S" break="no" n="23"/>na 
+            dei ordinatione praedicta cum si quis velit vocare illud ab 
+            <lb ed="#S" n="24"/>solvi ab ita duplici obligatione mutari deperditive et ita uti 
+            <lb ed="#S" n="25"/>extensive vocabuli signficato mutationis deperdite <choice><orig>sicud</orig><reg>sicut</reg></choice> facit <name xml:id="aw98wa-xg2479-Nd1e4115" ref="#Scotus">scotus</name> non 
+            <lb ed="#S" n="26"/>iusto cum voces sint signficative ad placitum
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

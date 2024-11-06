@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Sorb193 Transcription]</title>
+          <date when="2024-11-05">November 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="116-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg2828">
+        <p>
+          <lb ed="#S"/>Circa distinctionem 33am primi ubi inquiritur utrum proprietates personarum 
+          <lb ed="#S"/>divinarum sint ipsae personae et sint etiam divina essentia 
+          <lb ed="#S"/>Quaero primo pro hac materia et pro 2a distinctione primi et pro multis
+          <lb ed="#S"/>distinctionibus 3ii in quibus agitur de incarnatione
+          <lb ed="#S"/>personae unius sive alterius incarnatione utrum deus essentialiter unus sit personaliter trinus
+          <lb ed="#S"/>quod non <pc type="punctus"/> quia tunc viderentur contradictoria verificari pro eadem re si enim 
+          <lb ed="#S"/>deus est trinus personaliter <pc type="punctus"/> et pater non est trinus personaliter tunc ista contradictoria esse 
+          <lb ed="#S"/>trinum personaliter <add place="margin-right">et non esse trinum personaliter</add> verificarentur pro deo et patre sed deus et pater sunt una 
+          <lb ed="#S"/>res igitur pro eadem re verificarentur contradictoria
+        </p>
+        <p>
+          <pc type="virgula">//</pc> Item tunc nulla 
+          <lb ed="#S"/>persona divina esset summe simplex consequens falsum et contra <name>magistrum</name> et sanctos ut 
+          <lb ed="#S"/>patet <ref>distinctione 3a primi libri</ref> consequentia probatur quia persona <del rend="underline">personalitate sua convenit tum aliis</del> <add place="margin-right">prima <unclear>dicente</unclear> sua convenit cum aliis personis et <unclear>dicente</unclear> non distinguitur ab eis</add>
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
