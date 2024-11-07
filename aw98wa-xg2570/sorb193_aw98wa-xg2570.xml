@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4 [Sorb193 Transcription]</title>
+          <date when="2014-01-02">January 02, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2014-01-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="106-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg2570"><!-- b1-d17-q4-->
+        <head xml:id="aw98wa-xg2570-Hd1e101">Quaestio 4 [Sorbonne Transcription]</head>
+        <p xml:id="aw98wa-xg2570-d1e103">
+          <lb ed="#S" n="27"/><subst><del rend="expunctuated">Secundo</del><add place="above-line">4o</add></subst> principaliter inquiram in hac distinctione 17 de augmen<lb ed="#S" break="no" n="28"/>to 
+          caritas vel alia forma augmentabilis augmentetur per 
+          <lb ed="#S" n="29"/>diminuationem[?] sui contarii <g ref="#dot"/>
+        </p>
+        <p xml:id="aw98wa-xg2570-d1e119">
+          et videtur quod non <g ref="#dot"/> quia si sic tunc contraria 
+          <lb ed="#S" n="30"/>possent simul esse in eodem subiecto saltem in gradibus remissis et tunc non 
+          <lb ed="#S" n="31"/>videretur naturalis <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> quin in gradibus intensis cum gradus in<lb ed="#S" break="no" n="32"/>tensi 
+          et remissi eiusdem sint speciei et per consequens contriantur adinvicem 
+          <lb ed="#S" n="33"/>consequens contra philosophiam planum est et etiam contra sanctos dicit enim <ref xml:id="aw98wa-xg2570-Rd1e136"><name xml:id="aw98wa-xg2570-Nd1e137" ref="#Augustine">augustinus</name> <title>euchi[?]</title> 
+          <lb ed="#S" n="34"/>c 17</ref> et ponitur <ref xml:id="aw98wa-xg2570-Rd1e145">3o sent distinctione 34 c 6</ref> ubi inquit cibus aut 
+          <lb ed="#S" n="35"/>potius simul dulcis est et amarus nullum simul ubi album ibi et nigrum 
+          <lb ed="#S" n="36"/>et in multis ac pene omnibus hoc reperitur contrariis ut in una 
+          <lb ed="#S" n="37"/>re simul esse non possint
+        </p>
+        <p xml:id="aw98wa-xg2570-d1e154">
+          <g ref="#pilcrow"/>ad oppositum 3o copi?orum[?] dicit <name xml:id="aw98wa-xg2570-Nd1e158" ref="#Aristotle">philosophus</name> 
+          <lb ed="#S" n="38"/>quod illud est albius quod est ing?o[?] in permixtius et 5 philosophorum habetur 
+          <lb ed="#S" n="39"/>quod medium inter contraria potest <subst><add>respectu[?]</add> <del rend="expunctuated">fieri</del></subst> unius ex?mi[?] nominari nomine alicuius 
+          <lb ed="#S" n="40"/>et econverso hoc non videretur nisi in remisso alto miscerentur extrema 
+          <lb ed="#S" n="41"/>illius contrarietatis in gradibus saltem remissis etc
+        </p>
+        <p xml:id="aw98wa-xg2570-d1e177">
+          <g ref="#pilcrow"/>praeterea quod ita sit 
+          <lb ed="#S" n="42"/>etiam in proposito de augmento caritatis videtur quia secundum <ref xml:id="aw98wa-xg2570-Rd1e183"><name xml:id="aw98wa-xg2570-Nd1e184" ref="#Augustine">augustinus</name> in <title>euth</title> 
+          <lb ed="#S" n="43"/>capitulo ultimo vel penultimo</ref> secundum alium modum <seg type="correction">quo<del rend="expunctuated">d</del>tandi</seg> crescente 
+          <lb ed="#S" n="44"/>caritate minuitur cupiditas
+        </p>
+        <p xml:id="aw98wa-xg2570-d1e202">
+          <g ref="#pilcrow"/>In ita conclusione primo videndum est pro hiis 
+          <lb ed="#S" n="45"/>quae tangunt argumenta utriusque partis utrum contrariae qualitates in remissis 
+          <lb ed="#S" n="46"/>gradibus se compati possunt in eadem parte adaequata subiectiva 
+          <lb ed="#S" n="47"/><choice><orig>2o</orig><reg>secundo</reg></choice> solventur argumenta multa contra tendentia <choice><orig>3o</orig><reg>tertio</reg></choice> ponam conclusiones 
+          <lb ed="#S" n="48"/>ad quaestionem
+        </p>
+        <div xml:id="aw98wa-xg2570-Dd1e223">
+          <head xml:id="aw98wa-xg2570-Hd1e225">Primus articulus</head>
+          <p xml:id="aw98wa-xg2570-d1e227">
+            <g ref="#pilcrow"/>De primo articulo ponam duas conclusiones prima est quod sic 
+            <lb ed="#S" n="49"/>de potentia dei etiam in gradibus intensis <g ref="#dot"/><choice><orig>2a</orig><reg>secunda</reg></choice> quod non de potentia agentium 
+            <lb ed="#S" n="50"/>naturalium naturaliter
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e241">
+            <g ref="#pilcrow"/>primam suadeo quia non est maior <choice><orig>repugnatia</orig><reg>repugnatia</reg></choice> quod 
+            <lb ed="#S" n="51"/>idem per deum simul sit album et nigrum quam quod <del rend="scratchedout">per</del> aliquid per naturam 
+            <lb ed="#S" n="52"/>simul <seg type="correction">inco?at</seg> localiter et quiescat localiter sed secundum non includit 
+            <lb ed="#S" n="53"/>repungnantiam quia naturaliter et sine miraculo potest <g ref="#carrot"/><add place="marginLeft">anima<g ref="#carrot"/></add> intensiva ad 
+            <lb ed="#S" n="54"/>mot[?] manus dexcre moveri de situ ad situm et tamen 
+            <lb ed="#S" n="55"/>simul adquietem leve quiescere ubi situaliter quiescit leva 
+            <lb ed="#S" n="56"/>hic est secundum philosophiam et secundum theologiam patet hoc de corpore christi in caelo 
+            <lb ed="#S" n="57"/>vel in una hostia quiescente et tamen simul ad infimos aliqui[?] 
+            <lb ed="#S" n="58"/>per presbyteros departato igitur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e279">
+            <g ref="#pilcrow"/>praeterea si non hoc potissime vi<cb ed="#S" n="b"/><!--106vb--><lb ed="#S" break="no" n="59"/>deretur 
+            propter accidentem invicem corruptivam vel expulsivam unius ab 
+            <lb ed="#S" n="60"/>alio sed illud movere non debet quia quaedam <del rend="expunctuated">in</del> contraria sunt quae non sunt na<lb ed="#S" break="no" n="61"/>ta 
+            mutuo se corrumpere <choice><orig>sicud</orig><reg>sicut</reg></choice> patet de albedine et ingratione[?] quae in m?ldo?s[?] 
+            <lb ed="#S" n="62"/>et in multis aliis in infinitum <seg type="correction">quae<del rend="expunctuated">m</del></seg> possent iuxta se poni abs<lb ed="#S" break="no" n="63"/>que 
+            hoc quod destruerent se mutuo nisi aliud esset in tam et etiam quia 
+            <lb ed="#S" n="64"/>activitatem istam ad mutuam corruptionem posset deus suspendere ipsis 
+            <lb ed="#S" n="65"/>non coagendo etc ista causa non obstaret quin comparaterentur se 
+            <lb ed="#S" n="66"/>in eodem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e316">
+            <g ref="#pilcrow"/><choice><orig>3o</orig><reg>tertio</reg></choice> probo quod nihil omnino obstet quin possint a deo 
+            <lb ed="#S" n="67"/>subiective simul fieri in eodem quia deus secundum veritatem simul facere potest <g ref="#carrot"/><add place="margin-bottom"><g ref="#carrot"/>quod idem corpus sit in diversis locis simul et potest ferre[?]</add> de 
+            <lb ed="#S" n="68"/>sua potentia absoluta quod istud in uno illorum locorum haberet aliquam  
+            <lb ed="#S" n="69"/>formam informantem et in alio istorum locorum careret illa forma et 
+            <lb ed="#S" n="70"/>tunc non apparet quare non possit in loco ubi caret ista forma inpri<lb ed="#S" break="no" n="71"/>mere 
+            sibi contrariam immo et actum naturale sufficienter in loco isto 
+            <lb ed="#S" n="72"/>et non in alio sibi approximatam hoc facere poterit etiam non corrumpen<lb ed="#S" break="no" n="73"/>do 
+            formam contrariam sibi alibi inhaerentem quia iste alius locus 
+            <lb ed="#S" n="74"/>poterit ab eo inproportionaliter distare ad corrumpendum ibi talem 
+            <lb ed="#S" n="75"/>formam
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e350">
+            <g ref="#pilcrow"/>Sed contra hoc tamen tunc restat dubium <g ref="#dot"/> utrum repungnatia 
+            <lb ed="#S" n="76"/><unclear>formalis</unclear> <choice><orig>inpediat</orig><reg>impediat</reg></choice> ita quod idem in eodem loco adaequeto esset 
+            <lb ed="#S" n="77"/>simul album et nigrum <unclear>quoniam[?]</unclear> <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> formalis non <choice><orig>inpedit</orig><reg>impedit</reg></choice> ut dictum 
+            <lb ed="#S" n="78"/>est in diversis locis videtur quod sic <g ref="#dot"/> quia alioquin idem posset de facto 
+            <lb ed="#S" n="79"/>simul esset album et nigrum idem in quam non existens simul in pluribus lo<lb ed="#S" break="no" n="80"/>cis 
+            nec secundum se totum nec secundum aliquam partem sui <g ref="#dot"/> contra quia nec albedo 
+            <lb ed="#S" n="81"/>nata est corrumpere active nigredinem nec econverso ut visum est et dato 
+            <lb ed="#S" n="82"/>quod sic adhuc posset suspendi eorum activitas ut videtur quia 
+            <lb ed="#S" n="83"/>ut iam visum est idem potest esse simul in uno loco album et in alio 
+            <lb ed="#S" n="84"/>loco per potentiam dei nigrum sed deus nulla destructa entitate absoluta 
+            <lb ed="#S" n="85"/>potest facere quod cesset esse in alio loco de illis duobus igitur retinebit ambo 
+            <lb ed="#S" n="86"/>contraria in uno loco
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e401">
+            <g ref="#pilcrow"/>hic apparet mihi dicendum quod <choice><orig>idemptitas</orig><reg>identitas</reg></choice> loci non impe<lb ed="#S" break="no" n="87"/>dit  
+            quia non est maior ratio quod deus posset haec duo corpora facere 
+            <lb ed="#S" n="88"/>simul aliquibus dematis[?] in eodem loco quam ista duo corpora et ita 
+            <lb ed="#S" n="89"/>corpus album et corpus nigrum et per consequens albedinem et nigredinem poterit ad 
+            <lb ed="#S" n="90"/>hoc activitas corruptiva posset a deo suspendi nec etiam <choice><orig>ydemptitas</orig><reg>identitas</reg></choice> 
+            <lb ed="#S" n="91"/>subiecti <choice><orig>inpedit</orig><reg>impedit</reg></choice> ut patet prius igitur nulla videtur tam quin a deo possint simul 
+            <lb ed="#S" n="92"/>fieri in eodem subiecto adaequato quod concedo et licet possit cavillari quod ambo 
+            <lb ed="#S" n="93"/>simul <choice><orig>repungnat</orig><reg>repugnat</reg></choice> et tamen neutrorum per se quia pro hanc cavillatione non 
+            <lb ed="#S" n="94"/>est evidentia ideo apparet quod non deberet negari de potentia dei quin possunt 
+            <lb ed="#S" n="95"/>esse de facto simul contraria in eodem subiecto et hoc in eodem loco vel parte <subst><del rend="expunctuated">omnino</del> <add place="marginRight">ipsius</add></subst> 
+            <lb ed="#S" n="96"/>totius et secundum totum et secundum quamlibet partem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e451">
+            <g ref="#pilcrow"/>Dico tamen ultimo quod non est mihi 
+            <lb ed="#S" n="97"/>evidens quod hoc possit fieri quia multae possent esset mihi <unclear>occul<lb ed="#S" break="no" n="98"/>te[?]</unclear> 
+            tales repungnantiae sed probabilius est mihi quod sic quia aliquae probabiles 
+            <lb ed="#S" n="99"/>coniecturae sunt ad hoc et nulla potens in contrarium et tamen probas 
+            <lb ed="#S" n="100"/>quod sic <g ref="#dot"/> et quod non
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e470">
+            <g ref="#pilcrow"/>dico quod neutra ratio habet plenam evidentiam non enim 
+            <lb ed="#S" n="101"/>convincti quod earum causae contrariantur active et virtualiter licet enim albedo non 
+            <lb ed="#S" n="102"/>sit accidentia ad corruptionem nigredinis nec econverso eo quod neutra est 
+            <lb ed="#S" n="103"/>quantitas activa nisi respectu specierum et cognitionum et huiusmodi immo forte pauce 
+            <lb ed="#S" n="104"/>sunt qualitates corpore active generative similium et corruptive contrariarum 
+            <lb ed="#S" n="105"/>nisi primae <choice><orig>4or</orig><reg>quattuor</reg></choice> qualitates et ideo forsan nulla est repugnantia ex earum propria[?] 
+            <lb ed="#S" n="106"/>activitate quin species contrariorum possint simul esse in medio etiam dato 
+            <lb ed="#S" n="107"/>quod essent eiusdem speciei cum illis a quibus causantur etiam in potentiis 
+            <lb ed="#S" n="108"/>cognitiviis si ibi reciperentur species nisis quod contraria tunc essent simul 
+            <lb ed="#S" n="109"/>naturaliter in eodem quod glossari posset per oppositum causae iam dandae licet inquam 
+            <lb ed="#S" n="110"/>neutra sit corruptiva alterius procedunt tamen a causis virtualiter contra<lb ed="#S" break="no" n="111"/>riis 
+            unde idem <unclear>i?dium[?]</unclear>sicut patet in agnis <g ref="#carrot"/><add place="above-line">et</add> in multis aliis 
+            <lb ed="#S" n="112"/>animalibus est primo unius coloris et postea alterius propter variationem complex<lb ed="#S" break="no" n="113"/>ionis <g ref="#dot"/> 
+            augmentum vel detrimentum humorum naturalium quibus appropriantur 
+            <lb ed="#S" n="114"/>qualitates primae vel in quibus dominantur inter quas pars qualitates est vera 
+            <pb ed="#S" n="107-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>activitas seu virtualis contrarietas et non formalis tamen et forsan secundum 
+            <lb ed="#S" n="2"/>veritatem albedo et nigredo et sic de aliis multis qualitatibus non sunt quali<lb ed="#S" break="no" n="3"/>tates 
+            natae primo causari in alico ab extrinseco quin scilicet simul tenetur in 
+            <lb ed="#S" n="4"/>eo causa partialis et totalis et haec est causa quare album <unclear>diu[?]</unclear> poni potest iuxta 
+            <lb ed="#S" n="5"/>nigrum absque hoc quod albedo vel nigredo corrumpatur quia isti colores 
+            <lb ed="#S" n="6"/>fiunt a principiis subiecti vel qualitatis prioris in subiecto et non ab extra 
+            <lb ed="#S" n="7"/>nis maneat ibi alia contrarietas prior virtute cuius album et ni<lb ed="#S" break="no" n="8"/>grum 
+            iuxta se posita mutuo agant et patiantur ab invicem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e542">
+            <lb ed="#S" n="9"/><g ref="#pilcrow"/>Sed cum isto dicto non potest teneri primum dictum de <choice><orig>ydemptitate</orig><reg>identitate</reg></choice> specifica 
+            experientia est in contrariam quia multa alba videmus ab extra denigrari 
+            <lb ed="#S" n="10"/>et nigra dealbari utpote nigredo per calorem et albedo per frigiditatem <add place="margin-bottom">quare in primo folio ad signum tale [?] illud ad tale signum</add> 
+            <lb ed="#S" n="11"/>cum frigidum natum sit agere inca?dum[?] sequitur quod non diu possent iuxta 
+            <lb ed="#S" n="12"/>se poni sine corruptione causarum albedinis et nigredinis vel alterius earum <g ref="#dbslash"/> dicendum 
+            <lb ed="#S" n="13"/>quod albedo et nigredo sunt formae permanere in absentia natae causae earum 
+            <lb ed="#S" n="14"/>primo productive vel causarum suarum talius dummodo per causam contrariam non 
+            <lb ed="#S" n="15"/>corrpantur ad productionem contrarii quia nulla raro corrumpit nisi producat 
+            <lb ed="#S" n="16"/>et hic est quod si causae productive earum cessent esse et ille permaneant 
+            <lb ed="#S" n="17"/>non oportet quod una earum corrumpat reliquam nec econtra
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e575">
+            <g ref="#pilcrow"/>ad rationem pro 
+            <lb ed="#S" n="18"/>parte composita huius dubii diceretur ab eo a quo contrarium teneretur quia <add><unclear>??</unclear></add> 
+            <lb ed="#S" n="19"/><seg type="correction">corpus[?]</seg> illud simul desineret esse vel <seg type="correction">transfertur<add place="aboveLine">cat</add></seg> ad locum alium ubi est <g ref="#dot"/> vel 
+            <lb ed="#S" n="20"/>aliam ubi non erat <g ref="#carrot"/><add place="aboveLine">et</add> quod quolibet istorum modorum aliqua entitas destrueretur 
+            <lb ed="#S" n="21"/>scilicet accidens vel compositum ex accidente et illo subiecto per istum modum quo 
+            <lb ed="#S" n="22"/>transferetur ad situm alium in quo prius erat et in quo uniformiter 
+            <lb ed="#S" n="23"/>informaretur ipsum <choice><orig>sicud</orig><reg>sicut</reg></choice> in priori loco informabatur quod forsan sine mi<lb ed="#S" break="no" n="24"/>raculo 
+            speciali fieri non posset etiam si non informaretur ibi forma contraria 
+            <lb ed="#S" n="25"/>et modo non propter <choice><orig>repungnantiam</orig><reg>repugnantiam</reg></choice> ad simul essendum communia in eodem subiecto 
+            <lb ed="#S" n="26"/>et in eodem situ secundum hanc <subst><del rend="expunctuated">pterva</del> <add place="in-line">proterviam</add></subst>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e633">
+            <g ref="#pilcrow"/><choice><orig>2a</orig><reg>secunda</reg></choice> conclusio probatur quia qualitates 
+            <lb ed="#S" n="27"/>contrariae non compatiuntur se naturaliter in gradibus intensis igitur nec in re<lb ed="#S" break="no" n="28"/>missis 
+            antecedens datur ab omnibus contra probari potest quia gradus remissus 
+            ita est talis natura vel talis sicut gradus intensus et per consequens si al<lb ed="#S" break="no" n="29"/>bedo 
+            ex natura albedinis <choice><orig>repungnaret</orig><reg>repugnaret</reg></choice> nigredini ita habebitur <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> 
+            <lb ed="#S" n="30"/>in remissa albedine respectu nigredinis sicut intenta <g ref="#dot"/> si autem non <choice><orig>re<lb ed="#S" break="no" n="31"/>pungnat</orig><reg>re<lb ed="#S" break="no" n="31"/>pugnat</reg></choice> 
+            nigredi quia albedo est sed quia albedo tanta <g ref="#dot"/> hoc erit 
+            <lb ed="#S" n="32"/>dictum voluntarium et sine ratione quia sumpto isto gradu nigredinis qui stat 
+            <lb ed="#S" n="33"/>in soto[?] eodem cum albedine tanta volo quod iste gradus perfici<lb ed="#S" break="no" n="34"/>at 
+            subiectum illud sine omni gradu albedinis si igitur post ili subiecto approximatur 
+            <lb ed="#S" n="35"/>dealbatum quod possit introducere gradi albedinis praehabitum illud non 
+            <lb ed="#S" n="36"/>corrumperet aliquid nigredinis ad hoc quod introducat albedinem istam in isto 
+            <lb ed="#S" n="37"/>gradu quia nulla est <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> inter istos gradus albedinis et ni<lb ed="#S" break="no" n="38"/>gredinis 
+            hoc dato igitur pari ratione fortius dealbatum[?] posset per<lb ed="#S" break="no" n="39"/>manente 
+            ista nigredine inducere albedine maiorem nam dicere 
+            <lb ed="#S" n="40"/>oppositum est fictio sine <seg type="correction">r<del rend="expunctuated">n</del>atione</seg>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e702">
+            <g ref="#pilcrow"/>item repugnantia quae est inter gradus 
+            <lb ed="#S" n="41"/><seg type="correction">intens<del rend="expunctuated">i</del>o<del rend="expunctuated">i</del>s</seg> aut est formalis aut virtualis formalis in qua <choice><orig>sicut</orig><reg>sicud</reg></choice> esse 
+            <lb ed="#S" n="42"/>album et non est nigrum formaliter <choice><orig>repungnat</orig><reg>repugnat</reg></choice> respectu albedinis et esse caecum et <subst><add place="margin-center">esse</add> 
+              <lb ed="#S" n="43"/><del rend="expunctuated">non</del></subst> videns virtualis est quandouna est forma corruptiva alterius 
+            <lb ed="#S" n="44"/>si primo modo tunc sicut prius cum albedo in minori gradu non minus sit 
+            <lb ed="#S" n="45"/>albedo quam albedo in maiori gradu ita <choice><orig>repungnabit</orig><reg>repugnabit</reg></choice> parvus gradus 
+            <lb ed="#S" n="46"/>gradui alterius sicut magnus <g ref="#dot"/> si est <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> virtualis solum hoc 
+            <lb ed="#S" n="47"/>est irrationabile secundum hanc viam quia ista fictio ponit quod magnus 
+            <lb ed="#S" n="48"/>gradus valde dummodo non intensissimus unius contrarii stabit 
+            <lb ed="#S" n="49"/>bene cum parvo alterius et cum si esset virtualis <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> in causa quare 
+            <lb ed="#S" n="50"/>gradus intensi non compati?m[?] se multo fortius magnus gradus 
+            <lb ed="#S" n="51"/>unius contrarii non compateretur secum parvum alterius et haec ratio potissime 
+            <lb ed="#S" n="52"/>probat quod possunt se siul compati in esse permansive et quiete <g ref="#dot"/> et hoc 
+            <lb ed="#S" n="53"/>potest confirmari nam si in gradu remisso posit stare naturaliter 
+            <lb ed="#S" n="54"/>cum albedine <g ref="#carrot"/><add place="belowLine">aut</add> igitur eo quod nigredo est et tunc omnis nigredo et per consequens 
+            <cb ed="#S" n="b"/><!-- 107rb-->
+            <lb ed="#S" n="55"/>nigredo intensa quod est contra protervum vel quia haec nigredo praecise et 
+            <lb ed="#S" n="56"/>tunc nulla alia nigredo stare posset cum albedine quod iterum est contra 
+            <lb ed="#S" n="57"/>protervum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e790">
+            <g ref="#pilcrow"/>vel quia nigredo in tali <sic>graudu</sic> et hoc dari non potest <g ref="#dot"/> quia 
+            <lb ed="#S" n="58"/>tunc vel <choice><orig>repungnaret</orig><reg>repugnaret</reg></choice> maiori nigredini stare cum albedine quod falsum est 
+            <lb ed="#S" n="59"/>quia cum data nigredo non sit maxima intendi posset et tamen albedo 
+            <lb ed="#S" n="60"/>secum stans non subito corrumperetur sed maneret minor cum 
+            <lb ed="#S" n="61"/>maiori nigredine igitur et cum minori <g ref="#dot"/> quia si cum maiori et cum 
+            <lb ed="#S" n="62"/>minori et iterum albedo cum contra stat gradus datus posset intendi 
+            <lb ed="#S" n="63"/>igitur secundum illam fictionem nigredo data posset <choice><orig>remicti</orig><reg>remitti</reg></choice> usque quo 
+            <lb ed="#S" n="64"/>minor haberetur nigredo et maior albedo et sit non videtur quod possit 
+            <lb ed="#S" n="65"/>dari pro causa quare remissi stent simul quin intensiores stare 
+            <lb ed="#S" n="66"/>possint
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e829">
+            <g ref="#pilcrow"/>Dices forte quod tantus gradus unus contrarii potest 
+            <lb ed="#S" n="67"/>stare cum tanto alterius contrarii gradu dato <choice><orig>alico</orig><reg>aliquo</reg></choice> maximo cum 
+            <lb ed="#S" n="68"/>quo stare possit naturaliter sed non cum maiori
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e842">
+            <g ref="#pilcrow"/>Contra si talis 
+            <lb ed="#S" n="69"/>et tantus gradus potest stare cum tanto et non <g ref="#carrot"/><add place="above-line">cum</add> maiore igitur oportet <g ref="#dot"/> proportionaliter 
+            <lb ed="#S" n="70"/>quod sicut una qualitas crescit ita illa contraria decrescit <g ref="#dot"/> et per consequens in 
+            <lb ed="#S" n="71"/><choice><orig>alico</orig><reg>aliquo</reg></choice> instanti essent aequales et si possent se compati in talibus gradibus 
+            <lb ed="#S" n="72"/>aequalibus non apparet ratio quare non possint intendi et aequaliter compati 
+            <lb ed="#S" n="73"/>se in gradibus maioribus aequalibus ad invicem et in manibus[?] et sic 
+            <lb ed="#S" n="74"/>usque ad summum et ita <add place="inLine">in</add> intensissimis gradibus <add place="margin-right">compaterentur se vi aliquibus ponantur intensivum[?]</add> contra patet si deus approxima<lb ed="#S" break="no" n="75"/>ret 
+            activa contraria vel unum causam[?] <g ref="#dot"/> et ex alia parte conservaret formam 
+            <lb ed="#S" n="76"/>et istam proportionaliter intenderet actum alterius acti[?] approximati[?] et tunc 
+            <lb ed="#S" n="77"/>formas illas naturis suis relinqueret aut enim in simul permanent 
+            <lb ed="#S" n="78"/>postea sibi relicte tunc naturaliter se compatiuntur ex parte sua et habetur 
+            <lb ed="#S" n="79"/>intentum <g ref="#dot"/> vel una aget in aliam cum tamen sint aequales et ita non 
+            <lb ed="#S" n="80"/>obstante aequalitate semper ad invicem agunt <g ref="#dot"/> et ita finaliter destrueret 
+            <lb ed="#S" n="81"/>se et non compatiuntur se etiam in gradibus aequalibus remissis datis non 
+            <lb ed="#S" n="82"/>plus quam in aliis gradibus aequalibus et ad hoc possent multa obiective semper 
+            <lb ed="#S" n="83"/>argui quidquid daretur tale
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e904">
+            Item argui <ref xml:id="aw98wa-xg2570-Rd1e906"><name xml:id="aw98wa-xg2570-Nd1e907" ref="#Ockham">okam</name> in quaestione quadam de virtuti<lb ed="#S" break="no" n="84"/>bus 
+              com s[?] 7a 3ii</ref> ab omni forma inhaerente subiecto alicui demato[?] 
+            <lb ed="#S" n="85"/>vere denominari potest tale subiectum tale quale potest esse aliquid per inhaerentiam 
+            <lb ed="#S" n="86"/>talis formae licet hoc verum non sit de subiecto non adaequato nam e<lb ed="#S" break="no" n="87"/>thiops 
+            non est albus licet sit albus secundum decens <g ref="#dot"/> ita quod si forma sit 
+            <lb ed="#S" n="88"/>perfecta perfecte denominare potest subiectum huiusmodi esse tale si <choice><orig>inperfecta</orig><reg>imperfecta</reg></choice> imperfecte 
+            <lb ed="#S" n="89"/>si igitur calor et figurus sint simul in gradibus remissis in eodem subiecto 
+            <lb ed="#S" n="90"/>adaequato illud simul erit causandum et figi?dum[?] licet non in summo <g ref="#slash"/> Item tunc 
+            <lb ed="#S" n="91"/>odium dei in gradu remisso eadem ratione staret posset cum dei amo<lb ed="#S" break="no" n="92"/>re 
+            quod videtur in conveniens
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e941">
+            <g ref="#pilcrow"/>praeterea si dati gradus naturaliter se compatiantur ad 
+            <lb ed="#S" n="93"/>datur igitur alteri pars similis vel maior sicut probatur posse deum in 
+            <lb ed="#S" n="94"/>priore conclusione et postea relinquat illas formas naturis suis aut 
+            <lb ed="#S" n="95"/>igitur permanebit utraque in habito gradu vel non <g ref="#dot"/> si sit igitur non 
+            <lb ed="#S" n="96"/>erit naturalis <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> inter tales formas ex natura formarum talium nec 
+            <lb ed="#S" n="97"/>etiam causatarum <g ref="#dot"/> si non oportet <g ref="#dot"/> quod una istarum destruat vel diminuat 
+            <lb ed="#S" n="98"/>aliam <g ref="#dot"/> et si hoc multo fortius ageret ad corruptionem alterius postea 
+            <lb ed="#S" n="99"/>minoris quod ex directissime contra protervitatem talem <g ref="#dot"/> patet quia si forma ma<lb ed="#S" break="no" n="100"/>ior 
+            illius speciei non potest resistere et defendere se contra formam causa<lb ed="#S" break="no" n="101"/>tam 
+            contrare[?] speciei m?to[?] minus forma minor poterit defendere et re<lb ed="#S" break="no" n="102"/>sisteret 
+            tantae formae contrarie <g ref="#dot"/> vel igitur in nullo gradu compatiuntur se vel 
+            <lb ed="#S" n="103"/>in quolibet
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e987">
+            <g ref="#pilcrow"/>Sed contra ista potest argui materialiter primo sic quia secundum <ref xml:id="aw98wa-xg2570-Rd1e991"><name xml:id="aw98wa-xg2570-Nd1e992" ref="#Aristotle">philosophum</name> 6 <g ref="#dot"/> <title ref="#Physics">physicorum</title></ref> 
+            <lb ed="#S" n="104"/>omne quod movetur est partim in termino a quo et partim in termino ad quem 
+            <lb ed="#S" n="105"/>igitur si aliquid moveatur ab albedine in nigredinem partim est sub albedine et partim 
+            <lb ed="#S" n="106"/>sub nigredine
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1007">
+            <g ref="#pilcrow"/>Praeterea aliter sequeretur quod tum primo in <choice><orig>alico</orig><reg>aliquo</reg></choice> per motum conti?m[?] 
+            <lb ed="#S" n="107"/>destrueretur unum contrariorum et postea induceretur reliquum ex quo non 
+            <lb ed="#S" n="108"/>compatiuntur se in quibuscumque gradibus quod esset dare secundum formae 
+            <lb ed="#S" n="109"/>succedentes priori introductae cum per motum contra <ref xml:id="aw98wa-xg2570-Rd1e1022"><name xml:id="aw98wa-xg2570-Nd1e1023" ref="#Aristotle">philosophum</name> 6 <title ref="#Physics">physicorum</title></ref> 
+            <lb ed="#S" n="110"/>contra patet quia aliter esset dare mensuram in qua tale subiectum nec esset 
+            <lb ed="#S" n="111"/>sub uno contrariorum nec sub altero et ita esset dare tunc colo?alem[?] 
+            <lb ed="#S" n="112"/>superficiem nullo colore coloratam quia in instanti medio nisi hoc detur nullo colore
+            <pb ed="#S" n="107-v"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>colorabitur seu neutro contrariorum informabitur quod videtur inconveniens magnum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1043">
+            <lb ed="#S" n="2"/><g ref="#pilcrow"/>Item agens naturale non destruit ut videtur nec <choice><orig>remictit</orig><reg>remittit</reg></choice> <choice><orig>caliditatem</orig><reg>calliditatem</reg></choice> 
+            <lb ed="#S" n="3"/>nisi causando in tali subiecto aliquod imcompossibile calori et tale non est 
+            <lb ed="#S" n="4"/>possibile ibi assignare nisi frigus in gradu remisso igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1061">
+            <g ref="#pilcrow"/>Praeterea 
+            <lb ed="#S" n="5"/>ad sensum patet quod a qua calefit quia ibi inducitur calore non dum 
+            <lb ed="#S" n="6"/>ex pulsa tota frigiditate quia quando aliqua est tepida <add place="marginLeft">homo potest ibi simul et semel sentire[?] <choice><orig>caliditatem</orig><reg>calliditatem</reg></choice> et frigiditatem igitur haec compatiuntur se <g ref="#dot"/></add></p> 
+          
+          <p xml:id="aw98wa-xg2570-d1e1077">
+            <g ref="#pilcrow"/>praeterea <ref xml:id="aw98wa-xg2570-Rd1e1081"><name xml:id="aw98wa-xg2570-Nd1e1082" ref="#Aristotle">philosophus</name> 
+              <lb ed="#S" n="7"/>dicit 5o <title ref="#Title">physicorum</title></ref> et multis aliis ocis album et nigrum dicuntur contraria et 
+            <lb ed="#S" n="8"/>medium utrique est et hoc non per mediationem ab negativa utriusque 
+            <lb ed="#S" n="9"/>extremi <g ref="#slash"/>Item saepe innuit quod colores medii componatur ex extre<lb ed="#S" break="no" n="10"/>mis
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1101">
+            <g ref="#pilcrow"/>Item per rationes c[?] <g ref="#dot"/> qui primo arguit sic <g ref="#dot"/> quia quaero quando unde 
+            <lb ed="#S" n="11"/>contrariorum est agens in reliquum seu in subiectum receptum u<lb ed="#S" break="no" n="12"/>triusque 
+            quare forma producibilis a tali contrario in tali subiecto non intro<lb ed="#S" break="no" n="13"/>ducitur 
+            subito in principio actionis <g ref="#dot"/> aut enim hoc proventi ex incompossibilitate 
+            <lb ed="#S" n="14"/>istarum formarum inter se per motum introducendarum et hoc non est 
+            <lb ed="#S" n="15"/>verum etiam parte qui positionis quod omnes partes eiusdem formae totalis compo<lb ed="#S" break="no" n="16"/>nunt 
+            unam perfectorem et bene compa?nr[?] se simul praecise tamen ut te<lb ed="#S" break="no" n="17"/>nes 
+            sint eiusdem specie specialissime aut hic est peropter insufficientiam 
+            <lb ed="#S" n="18"/>accidentis agentiset hoc non est verum quia ponamus agens sufficientissimum 
+            <lb ed="#S" n="19"/>naturale et perfectissimum <g ref="#dbslash"/>Et prima ita potest agens naturale imperfectum in sus<lb ed="#S" break="no" n="20"/>ceptio 
+            disposito nisi aliquid obstet inducere effectum suae accidenti 
+            <lb ed="#S" n="21"/><seg type="correction"><del rend="expunctuated">in</del>proportionatum</seg> inperfectione nam quare non si nihil obstet nec <choice><orig>3o</orig><reg>tertio</reg></choice> propter hic 
+            <lb ed="#S" n="22"/>quod subiectum non potest eas simul recipere quia simul sibi inhaerent infine mo<lb ed="#S" break="no" n="23"/>tus 
+            illae partes successive individuales
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1151">
+            <g ref="#pilcrow"/>aut[?] <choice><orig>4o</orig><reg>quarto</reg></choice> propter qualitates a<lb ed="#S" break="no" n="24"/>liquas 
+            seu dispositiones contrarias in passo <choice><orig>repungnantes</orig><reg>repugnantes</reg></choice> formae intro<lb ed="#S" break="no" n="25"/>ducendae 
+            et hoc est propositum ideo oportet diceret quod ideo non inducitur tota 
+            <lb ed="#S" n="26"/>forma simul in principio motus sed successive qui in passo est a<lb ed="#S" break="no" n="27"/>liqua 
+            <lb ed="#S" n="28"/>dispositio praete?tis[?] formae et incompossibilis formae futurae et imme<lb ed="#S" break="no" n="29"/>diate 
+            post habendae quam dispositionem incompossibilem oportet <choice><orig>remicti</orig><reg>remitti</reg></choice> continue 
+            <lb ed="#S" n="30"/>igitur stant simul in gradibus remissis
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1183">
+            <g ref="#pilcrow"/>Item agens naturale 
+            <lb ed="#S" n="31"/>non <choice><orig>remictit</orig><reg>remittit</reg></choice> frigidus in <choice><orig>alico</orig><reg>aliquo</reg></choice> nisi per hoc quod introducit formam incom<lb ed="#S" break="no" n="32"/>possibilem 
+            gradibus figoris prioribus et per consequens aliqua pars firgoris et 
+            <lb ed="#S" n="33"/>alia caloris possunt se compati simul in eodem subiecto <g ref="#dot"/> probatio assumpti 
+            <lb ed="#S" n="34"/>quia calidum et frigidum non simul compatiuntur se in sitibus pro<lb ed="#S" break="no" n="35"/>pinquis 
+            quin agant in se in remissionem qualitatum suarum <del rend="expunctuated">tunc</del> hinc 
+            <lb ed="#S" n="36"/>inde et hoc non <seg type="correction">repunga<del rend="expunctuated">n</del>t</seg> eis scilicet diu compati se vel situari 
+            <lb ed="#S" n="37"/>in sitibus propinquis ex hoc quod contraria <subst><add place="marginBottom">sunt secundum naturas suas circumscribendo actionem quia contradictio non minus repugnant formaliter quam contraria et tamen contradictoria</add> <del rend="underline">cum contraria</del></subst> satis bene simul 
+            <lb ed="#S" n="38"/>dius communicant diversis tam in sitibus propinquis quam in eodem 
+            <lb ed="#S" n="39"/>situ
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1234">
+            <g ref="#pilcrow"/>Et praeterea posset dictum istius C[?] confirmari per hoc quod album 
+            <lb ed="#S" n="40"/>et nigrum compatiuntur se diutissime in sitibus immediatis sine 
+            <lb ed="#S" n="41"/>mutua[?] corruptione amborum aut alterius eorumdem <choice><orig>sicud</orig><reg>sicut</reg></choice> et testantur 
+            <lb ed="#S" n="42"/>libri nostri igitur quod calidum et frigidum in gradibus intensis non diu compa<lb ed="#S" break="no" n="43"/>tiuntur 
+            se hoc erit propter <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> virtualem quia scilicet unum illo<lb ed="#S" break="no" n="44"/>rum 
+            introducit effectum in alterum qui non est naturaliter diu compossibilis 
+            <lb ed="#S" n="45"/>in eodem cum forma praeco?te[?] igitur simul stabunt licet non diu quod 
+            <lb ed="#S" n="46"/>est intentum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1262">
+            <g ref="#pilcrow"/>Item ut supra si non tunc prius totaliter terminaretur 
+            <lb ed="#S" n="47"/>corruptio caloris quam inciperet introductio figoris et quaero 
+            <lb ed="#S" n="48"/>de instanti copulanti ista duo tempora aut in isto in tali subiecto 
+            <lb ed="#S" n="49"/>est calor <g ref="#dot"/> vel frigus <g ref="#dot"/> vel neutrum <g ref="#dot"/> <choice><orig>3m</orig><reg>tertium</reg></choice> non quia tunc incorrumperetur 
+            <lb ed="#S" n="50"/>motus per quietem medium quod non oportet et prater hoc accipio contrario 
+            <lb ed="#S" n="51"/>immediate ubi illa eva?o[?] non valet
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1288">
+            <g ref="#pilcrow"/>Si vero in instanti isto est subiectum 
+            <lb ed="#S" n="52"/>sub calore corrumpendo et iste non est in divisibilis cum sit eius<lb ed="#S" break="no" n="53"/>dem 
+            rationis cum praetesti[?] et per consequens habeat latitudinem igitur ad hoc res<lb ed="#S" break="no" n="54"/>tat 
+            pars corrumpenda post illud instans et tamen immediate post illud instans est fri<lb ed="#S" break="no" n="55"/>gus 
+            per ta?m[?] igitur simul calor et frigus alioquin etiam potest cum isto 
+            <lb ed="#S" n="56"/>argui quod esset dare ultimum rei permanentis in esse contra <ref xml:id="aw98wa-xg2570-Rd1e1303"><name xml:id="aw98wa-xg2570-Nd1e1304" ref="#Augustine">philosophus</name> 8 
+              <lb ed="#S" n="57"/><title ref="#Physics">physicorum</title></ref> et contra te qui credis contradictionem includere <g ref="#dot"/> si vero in instanti illo 
+            <lb ed="#S" n="58"/>est subiectum illud sub frigore idem argumentum est quia illud non est in<lb ed="#S" break="no" n="59"/>divisibile 
+            nec simul introducuntur suae partes ex quo sunt 
+            <lb ed="#S" n="60"/>introducibiles per motum igitur.
+          </p>
+          
+          <p xml:id="aw98wa-xg2570-d1e1321">
+            <g ref="#pilcrow"/>Item si ex aere generetur 
+            <lb ed="#S" n="61"/>ignis quaero in quo instanti corrumpatur aer non in principio corrup<cb ed="#S" n="b"/><!-- 107vb--><lb ed="#S" break="no" n="62"/>tionis 
+            qualitatum aeris certum est nec in fine quando sunt in maxima 
+            <lb ed="#S" n="63"/>remissione quia tunc ad hoc nulla dispositio ad formam ignis est 
+            <lb ed="#S" n="64"/>introducta ergo et materia remanebit sine utroque quod est impossibile 
+            <lb ed="#S" n="65"/>vel dispositio ad formam ignis stabit simul cum forma praetestate[?] re<lb ed="#S" break="no" n="66"/>missa
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1341">
+            <g ref="#pilcrow"/>Item non est magis inconveniens apud n?am[?] vel agens naturale 
+            <lb ed="#S" n="67"/>in motu ad formam quam apud violentum passum in motu locali 
+            <lb ed="#S" n="68"/>sed motus violentus non erit nisi per <choice><orig>inpressionem</orig><reg>impressionem</reg></choice> alicuius formae quae 
+            <lb ed="#S" n="69"/>non dius potest naturaliter stare cum alia
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1356">
+            <g ref="#pilcrow"/>Item materia quando disponitur ad 
+            <lb ed="#S" n="70"/>formam mixti disponitur per multas qualitates diversorum elementorum 
+            <lb ed="#S" n="71"/>alias tunc materia non aliter disponeretur ad formam mixti quam[?] ad for<lb ed="#S" break="no" n="72"/>mam 
+            elementi[?] igitur cum in tali casu qualitatis introducibilis a diversis 
+            <lb ed="#S" n="73"/>elementis sint contrariae in gradibus remissis vel saltem aliquae earumdem 
+            <lb ed="#S" n="74"/>sequitur quod in tali casu habetur intentum <g ref="#dbslash"/>Item hic non negaretur nisi quia contra<lb ed="#S" break="no" n="75"/>rietas 
+            est passio specifica sed hoc movere non debet quia eodem modo 
+            <lb ed="#S" n="76"/>non diu compati se in sitibus propri communis est passio specifica si igitur 
+            <lb ed="#S" n="77"/>contraria remissa dius compacerentur se in sitibus propinquis igitur et inten<lb ed="#S" break="no" n="78"/>sa 
+            si illud motum[?] sufficeret
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1382">
+            <g ref="#pilcrow"/>dices forte quod contrarietas est 
+            <lb ed="#S" n="79"/>in causa vel <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> sicut dictum <name xml:id="aw98wa-xg2570-Nd1e1392" ref="#Ockham">okam</name> et ex hoc arguit compositionem im<lb ed="#S" break="no" n="80"/>mediate 
+            consequi entitatem rei sed hoc non obstat quia ex hoc 
+            <lb ed="#S" n="81"/>non plus potest argui nisi quod secundum proportionem entitatis debet esse proportio contrarietatis 
+            <lb ed="#S" n="82"/>sed ex hoc non habetur quin agens fortius possit ad ho?am[?] vio<lb ed="#S" break="no" n="83"/>lentare 
+            passum ad formam suae disponi contrariam licet non diu simul 
+            <lb ed="#S" n="84"/>naturaliter permaneant tales formae nam ultra deduci posset vel vi<lb ed="#S" break="no" n="85"/>olentans 
+            dominabitur et tunc tico[?] corrumpetur dispositio prior passi vel 
+            <lb ed="#S" n="86"/>aufertur aut superabitur violentans et tunc fiet econtra propter has ratio<lb ed="#S" break="no" n="87"/>nes 
+            C<g ref="#dot"/> tenet?co?om[?] illatam
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1416">
+            <g ref="#pilcrow"/>Sed istis non obstantibus dico ut supra 
+            <lb ed="#S" n="88"/>quod non et huic sme[?] iam non pauci contra morem solitum inci<lb ed="#S" break="no" n="89"/>piunt 
+            concordare licet <ref xml:id="aw98wa-xg2570-Rd1e1424"><name xml:id="aw98wa-xg2570-Nd1e1425" ref="#Averroes">commentor</name> 5 <title ref="#PhysicsCommentary">physicorum</title></ref> multis commentis dicat quod qualitas 
+            <lb ed="#S" n="90"/>sic suscipit magis et minus per admixtionem contrarii et <seg type="correction">experientia<del rend="expunctuated">i</del></seg> videtur ad 
+            <lb ed="#S" n="91"/>hoc sensibilis de pictoribus qui de extremis coloribus per admix<lb ed="#S" break="no" n="92"/>tionem 
+            ad invicem faciunt colores medios et hoc alios et alios secundum 
+            <lb ed="#S" n="93"/>mixtionem aliam et aliam colorum quod miscent alioquin etiam nullus vi<lb ed="#S" break="no" n="94"/>deretur 
+            esse color medius possibilis sed quilibet esset albedo inten<lb ed="#S" break="no" n="95"/>sa 
+            vel remissa <g ref="#dot"/> cuius oppositum apparet ad sensum talibus inquam non 
+            <lb ed="#S" n="96"/>obstantibus dicunt aliqui quod nulla contraria simul coextenduntur in eodem 
+            <lb ed="#S" n="97"/>quod suadent <name xml:id="aw98wa-xg2570-Nd1e1456" ref="#Aristotle">philosophus</name> p[?] 2 <title ref="#deGenerationeEtCorruptione">de generatione</title> ubi declerat numerum elementorum 
+            <lb ed="#S" n="98"/>per numerum combinatarum qualitatum primarum et dicit quod caliditas et frigidi<lb ed="#S" break="no" n="99"/>tas 
+            non sunt combinationes ad invicem <g ref="#slash"/>praeterea <ref xml:id="aw98wa-xg2570-Rd1e1469"><title ref="#Averroes">commentator</title> 7 <title ref="#Metaphysics">metaphysicae</title> commento</ref> 
+            <lb ed="#S" n="100"/>dicit quod contraria non congregantur in anima sicut nec in re extra <g ref="#dbslash"/> Item tunc 
+            <lb ed="#S" n="101"/>idem simul esse calidum et frigidum vel non secundum qualitatem quales diceremur 
+            <lb ed="#S" n="102"/>contra <name xml:id="aw98wa-xg2570-Nd1e1486" ref="#Aristotle">philosophus</name> in <title ref="#Categories">praedicamentis</title>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1493">
+            <g ref="#pilcrow"/>Item albedo et nigredo non possunt per naturam simul 
+            <lb ed="#S" n="103"/>coextendi quia tunc <add place="aboveLine">cum</add> neutra sit productiva similis nec corruptiva 
+            <lb ed="#S" n="104"/>contrarii simul manerent quiete et fixe duo et contrarie in eodem quod pro 
+            <lb ed="#S" n="105"/>inconventi habetur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1508">
+            <g ref="#pilcrow"/>Item in <ref xml:id="aw98wa-xg2570-Rd1e1512"><title>de sensu et sensato</title></ref> et <ref xml:id="aw98wa-xg2570-Rd1e1515">2o <title>de anima</title> commento 67 
+              <lb ed="#S" n="106"/>vult <name xml:id="aw98wa-xg2570-Nd1e1521" ref="#Averroes">commentator</name></ref> quod color non est aliud quam admixto lucidi tum opa<lb ed="#S" break="no" n="107"/>co 
+            sed non in eodem secundum idem subiecto adaequato sunt duae tales ad 
+            <lb ed="#S" n="108"/>mixtiones igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1529">
+            <g ref="#pilcrow"/>Item si calor et frigus simul coextenduntur 
+            <lb ed="#S" n="109"/>igitur si quando unum istorum intenditur reliquum <choice><orig>remictitur</orig><reg>remittitur</reg></choice> et econtra igitur esset 
+            <lb ed="#S" n="110"/>dare instans medium in quo subiectum illud aequaliter informaretur formis 
+            <lb ed="#S" n="111"/>contrariis et in quo per consequens secundum opinionem contrariam aliquid aequaliter componeretur ex contrariis 
+            <lb ed="#S" n="112"/>puta coloribus contra <ref xml:id="aw98wa-xg2570-Rd1e1546"><title ref="#Averroes">commentatorem</title> 10 <title ref="#MetaphysicsCommentary">metaphysicae</title> commento 23</ref> et <ref xml:id="aw98wa-xg2570-Rd1e1554">primo <title ref="#deCaeloCommentary">de caelo</title> 
+              <lb ed="#S" n="113"/>commento 7</ref>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1563">
+            Item si contraria coextendantur sit <g ref="#dot"/> sequitur quod aliquis sit ca<lb ed="#S" break="no" n="114"/>lor 
+            in centuplo maioris virtutis quam frigiditas data et tamen 
+            <lb ed="#S" n="115"/>quod nec iste calor nec aliquid istum habens potest agere inhaerens frigi<lb ed="#S" break="no" n="116"/>ditatem 
+            datam nisi intendendo eam quod videtur inconveniens manifestum probo 
+            <lb ed="#S" n="117"/>conclusionem sic calor iste a et frigiditas data in <choice><orig>alico</orig><reg>aliquo</reg></choice> alio 
+            <lb ed="#S" n="118"/>subiecto <c>b</c><g ref="#dot"/> volo quod habens calorem <c>a</c><g ref="#dot"/> sic unum calidum re<lb ed="#S" break="no" n="119"/>missum 
+            in quo tu adversarie ponis calorem et frigus sic 
+            <lb ed="#S" n="120"/>extendi tunc sic <g ref="#dot"/> calor in hoc <g ref="#carrot"/><add place="margin-right"><g ref="#carrot"/><g ref="#dot"/><c>a</c><g ref="#dot"/></add> gradu conpatitur secum in 
+            <lb ed="#S" n="121"/>eodem subiecto frigus ex quo poneres quod compatiuntur se <g ref="#dot"/> ponit 
+            <pb ed="#S" n="108-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>enim opinionem[?] <add place="aboveLine">haec</add> certum gradum frigoris et possibilem gradui <c>a</c><g ref="#dot"/> caloris in e<lb ed="#S" break="no" n="2"/>odem 
+            subiecto adaequato
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1623">
+            Et <g ref="#carrot"/><add place="marginLeft"><g ref="#carrot"/>quod</add> si iste deberet crescere oporteret calorem mi<lb ed="#S" break="no" n="3"/>nui 
+            et si calor in isto subiecto deberet crescere oporteret frigus minui 
+            <lb ed="#S" n="4"/>secundum <choice><orig>ymaginationem</orig><reg>imaginationem</reg></choice> illius opinionis contrariae <g ref="#dot"/> capiatur igitur aliquod frigus aliquid in centuplo 
+            <lb ed="#S" n="5"/>remissius frigore quod per te stat cum calore <g ref="#dot"/><c>a</c><g ref="#dot"/> et illud frigus in alio 
+            <lb ed="#S" n="6"/>subiecto per causam debet vocari <c>b</c><g ref="#dot"/> igitur secundum hanc possent <c>b</c><g ref="#dot"/> conclusio extenditur cum 
+            <lb ed="#S" n="7"/>caliditatem intensione quam <g ref="#dot"/><c>a</c><g ref="#dot"/> et haec positio habet sustinere quod <choice><orig>sicud</orig><reg>sicut</reg></choice> de<lb ed="#S" break="no" n="8"/>crescit 
+            frigus proportionaliter crescat caliditas sic igitur <c>c</c><g ref="#dot"/> corpus habens fri<lb ed="#S" break="no" n="9"/>gus 
+            <c>b</c><g ref="#dot"/> et sit <c>d</c> primum calidum cuius calor est minor <g ref="#carrot"/><add place="margin-left">etiam frigiditas maior</add> tunc arguo sic <g ref="#dot"/><c>d</c> 
+            <lb ed="#S" n="10"/>est minus calidum quam <c>c</c><g ref="#dot"/> igitur calor in <c>d</c><g ref="#dot"/> non <choice><orig>remictatur</orig><reg>remittatur</reg></choice> frigus 
+            <lb ed="#S" n="11"/>in <c>c</c><g ref="#dot"/> quia tunc intenderet calorem suum et hoc non cum calor in <c>c</c> 
+            <lb ed="#S" n="12"/>sit intensior igitur vel non aget in <c>c</c><g ref="#dot"/> vel in eo intedet frigus 
+            <lb ed="#S" n="13"/><c>b</c><g ref="#dot"/> et per consequens non poterit in <c>c</c><g ref="#dot"/> agere <seg type="correction">n<add place="aboveLine">isi</add><del rend="expunctuated">on</del></seg> intendo frigus ipsius 
+            <lb ed="#S" n="14"/>quod erat probandum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1731">
+            <g ref="#pilcrow"/>Ista ultima <g ref="#carrot"/><add place="above-line">consequentia[?]</add> patet quia si <g ref="#dot"/><c>d</c> sit minus calidum quam 
+            <lb ed="#S" n="15"/><c>c</c><g ref="#dot"/> et <c>d</c> in agendo per suum calorem in <c>c</c><g ref="#dot"/>nititur ipsum sibi <seg type="correction">assi<subst><add place="margin-bottom">milare <g ref="#dot"/><c>b</c><g ref="#dot"/> ipsis <g ref="#dot"/><c>d</c><g ref="#dot"/> et hoc non potest nisi vel remittendo calorem ipsius et tunc intenderet frigus ex positione tali et hoc esset intentum vel intendo frigus illius</add> 
+            <lb ed="#S" n="16"/><del rend="va-cat">et hoc non potest nisi remictendo calorem ipsius</del></subst></seg> <g ref="#slash"/>et hoc 
+            <lb ed="#S" n="17"/>est illud quod erat probandum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1776">
+            <g ref="#pilcrow"/>hic posset ut videtur dici secundum istam s?am[?] 
+            <lb ed="#S" n="18"/>opinionem et leviter <c>d</c><g ref="#dot"/> minus calidum et magis frigidum quam <c>c</c><g ref="#dot"/> per frigus 
+            <lb ed="#S" n="19"/>suum per se intendit frigus <c>c</c><g ref="#dot"/> et per accidens <choice><orig>remictit</orig><reg>remittit</reg></choice> <g ref="#dot"/> calorem 
+            <lb ed="#S" n="20"/>vero suum per se <choice><orig>remictit</orig><reg>remittit</reg></choice> frigus <c>c</c><g ref="#dot"/> et per accidens intendit calorem 
+            <lb ed="#S" n="21"/>eius et leviter satis evaderetur prima facie argumentum suum et diceretur 
+            <lb ed="#S" n="22"/>quod duraret talis actio forsan donec etiam omnibus illis qualitatibus <c>d</c> et 
+            <lb ed="#S" n="23"/><c>c</c><g ref="#dot"/> aequalerentur[?] et tunc cessarent ad aequalitatem iam reducat <g ref="#dot"/> tota tamen 
+            <lb ed="#S" n="24"/>responsio fictio est a praeme[?] ideo non oportet per plus eam prosequi 
+            <lb ed="#S" n="25"/>nec contra eam aliter quam supra frustra conari
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1829">
+            <g ref="#pilcrow"/>haec tamen evasio 
+            <lb ed="#S" n="26"/>non sufficeret quia non videtur rationabilius quod calor qui ibi praevalebat 
+            <lb ed="#S" n="27"/><choice><orig>remictatur</orig><reg>remittatur</reg></choice> isto modo ad aequalitatem qua quod ducatur isto modo ad 
+            <lb ed="#S" n="28"/>summum alio proportionaliter defi?te[?] etc et praeter hoc haec responsio solum est voluntaria
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1843">
+            <lb ed="#S" n="29"/><g ref="#pilcrow"/>Item arguitur sic licet non ab isto quia <ref xml:id="aw98wa-xg2570-Rd1e1848"><choice><orig>4o</orig><reg>quarto</reg></choice> <title>metaphysicae</title> contra negantes primum 
+              <lb ed="#S" n="30"/>principium deducit <name xml:id="aw98wa-xg2570-Nd1e1857" ref="#Aristotle">philosophus</name></ref> ad hoc inconveniens quod scientiae contrariae simul essent in 
+            <lb ed="#S" n="31"/>eodem intellectu et hoc sequitur nisi detur incentum etc.
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1863">
+            <g ref="#pilcrow"/>ad primum in contrarium 
+            <lb ed="#S" n="32"/>respondet <name xml:id="aw98wa-xg2570-Nd1e1869" ref="#Ockham">okam</name> et b[?]n[?] quod <name xml:id="aw98wa-xg2570-Nd1e1872" ref="#Aristotle">philosophus</name> loquitur de motu locali de quo verum est <add place="margin-bottom">quod omne quod movetur naturaliter partum habet de spatio quod per modum debuit acquiri et partim caret id est alica parte caret spatii praehabiti sed</add> dico 
+            <lb ed="#S" n="33"/>etiam in motu naturali ad formam dictum illud veritatem habet si bene intelli<lb ed="#S" break="no" n="34"/>gatur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1884">
+            <g ref="#pilcrow"/>Et ad propositum intelligo sic subiectum quod per modum alterationis 
+            <lb ed="#S" n="35"/>acquirit formam aliquando caruit totaliter ista forma et modo non caret 
+            <lb ed="#S" n="36"/>tota sed caret parte acquirenda ita quod adhuc parte caret et partem 
+            <lb ed="#S" n="37"/>habet
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1895">
+            <g ref="#pilcrow"/>Ista autem carentia qua primo totaliter caruit huius forma 
+            <lb ed="#S" n="38"/>vocatur terminus a quo et quieta processio vel habitio istius formae 
+            <lb ed="#S" n="39"/>est terminus ad quem vel expressius potius loquendo forma iam habita 
+            <lb ed="#S" n="40"/>in fine et possessa est trinus ad quem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e1906">
+            <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> respondet <name xml:id="aw98wa-xg2570-Nd1e1914" ref="#Ockham">okam</name> 
+            <lb ed="#S" n="41"/>quod est dare primum formae posterioris non ultimum prioris secundum <ref xml:id="aw98wa-xg2570-Rd1e1919"><name xml:id="aw98wa-xg2570-Nd1e1920" ref="#Aristotle">philosophus</name> 8 
+              <lb ed="#S" n="42"/><title ref="#Physics">physicorum</title></ref> dicentem quod est dare primum permanentis in esse sed non ultimum 
+            <lb ed="#S" n="43"/>sine dubio hoc mihi non sufficienter apparet <g ref="#dot"/> quia tamen non in infinitum minus formae 
+            <lb ed="#S" n="44"/>alteratum seu productum huius formae sic <g ref="#carrot"/><add place="margin-left">ac</add> vigorius in quolibet instanti 
+            <lb ed="#S" n="45"/>posteriori motus quam in primo sequitur quod forma in fine introducta 
+            <lb ed="#S" n="46"/>erit infinita quia instantia infinita fuerit in quorum quolibet aequa<lb ed="#S" break="no" n="47"/>le 
+            vel magis adquisitum est aliquid istius formae datae sive crescat 
+            <lb ed="#S" n="48"/>intensio augmentionis[?] sive decrescat <choice><orig>sicud</orig><reg>sicut</reg></choice> patet <del rend="expunctuated">t? consequentia et patet etiam</del> cuilibet 
+            <lb ed="#S" n="49"/>voluntati <choice><orig>actendere</orig><reg>attendere</reg></choice> quia si itur <choice><orig>remictendo</orig><reg>remittendo</reg></choice> capietur productum in 
+            <lb ed="#S" n="50"/><choice><orig>alico</orig><reg>aliquo</reg></choice> posteriori et tunc in quolibet priori produceretur gradus perfectior 
+            <lb ed="#S" n="51"/>si itur intendo fiert econverso igitur <g ref="#dbslash"/>Ideo pater[?] hic quod alias probabo instans 
+            <lb ed="#S" n="52"/>non esse mensuram aliquam indivisibile distinctam contra omnem rem 
+            <lb ed="#S" n="53"/>natam permanere in essendo dico quod unum contrariorum totaliter corrum<lb ed="#S" break="no" n="54"/>pi 
+            ante introductionem alterius potest dicitur quis <choice><orig>ymaginare</orig><reg>imaginare</reg></choice> vel secundum extensionem 
+            <lb ed="#S" n="55"/>passi <g ref="#dot"/> vel secundum remissionem et destructionem formae in eadem parte ad<lb ed="#S" break="no" n="56"/>aequata 
+            passi primo modo dico quod non oportet hic docet sensus in combustione 
+            <lb ed="#S" n="57"/>ligni et breviter in omni actione naturali successiva nam pars passi 
+            <lb ed="#S" n="58"/>propinquior activo prius et intesius alteratur quam remotior et 
+            <lb ed="#S" n="59"/>prius per partem ante partem in infinitum disponitur ad corruptionem et 
+            <lb ed="#S" n="60"/>corrumpitur in <choice><orig>accione</orig><reg>actione</reg></choice> corruptiva ex illa parte quam ex parte opposita 
+            <cb ed="#S" n="b"/><!--108rb -->
+            <lb ed="#S" n="61"/>igitur non prius illo modo corrumpitur totum in quovis subiecto huius divisibili extensive 
+            <lb ed="#S" n="62"/>quam aliquod contrarium inducatur <choice><orig>ymmo</orig><reg>immo</reg></choice> procedunt alia ??a[?] simul corruptio unius 
+            <lb ed="#S" n="63"/>et generatio contrarii secundum aliam et aliam partem <unclear>passi[?]</unclear>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2023">
+            <g ref="#pilcrow"/><choice><orig>2o</orig><reg>secundo</reg></choice> dico quod immo in nulla enim 
+            <lb ed="#S" n="64"/>parte subiecti adaequate iam tali per sequens contrarium remanet aliquid de contrario prio<lb ed="#S" break="no" n="65"/>ri 
+            quia ut probatum est non compatiuntur se in gradibus quibuscumque naturaliter nec 
+            <lb ed="#S" n="66"/>tamen sequitur propter hoc quod sit dare primam partem formae succedentis licet in 
+            <lb ed="#S" n="67"/>casu bene posset ita esse sed tunc illa pars per motum non introduceretur 
+            <lb ed="#S" n="68"/>sed per subitam mutationem casus vero in quo hoc poset contingere esset ille 
+            <lb ed="#S" n="69"/>in quo subiectum nullam haberet ibi[?] inclinationem naturalem contra receptionem formae 
+            <lb ed="#S" n="70"/>inducendae in ea Et simul cum hoc agens successive ab <del rend="expunctuated">in</del> instanti 
+            <lb ed="#S" n="71"/>primo quo introduxit partem primam talis formae subito successive 
+            <lb ed="#S" n="72"/>solum vel successive intenderetur in ipso forma qua ageret vel per similem 
+            <lb ed="#S" n="73"/>modum et si in hoc casu intellexit <name xml:id="aw98wa-xg2570-Nd1e2055" ref="#Ockham">okam</name> dictum suum de parte subiecto 
+            <lb ed="#S" n="74"/>introducta concedatur sibi sed tunc demisit argumentum in multis ca<lb ed="#S" break="no" n="75"/>sibus 
+            insolutum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2063">
+            <g ref="#pilcrow"/>Exempla huius possent poni in hiis quae in differentiam quan<lb ed="#S" break="no" n="76"/>dam 
+            naturalem hanc ad recipiendum scientiam et errorem et odium et a<lb ed="#S" break="no" n="77"/>morem 
+            vel ubi non sunt plures partes subiecti de quibus processit prima pars 
+            <lb ed="#S" n="78"/>solutionis Casus etiam ille esset in productione formarum quae non habent 
+            <lb ed="#S" n="79"/>contrarium de productione luminis in medio a sole quia intensius illuminat 
+            <lb ed="#S" n="80"/>eos in medie[?] existens quam in ortu et tamen in ortu subito <choice><orig>sicud</orig><reg>sicut</reg></choice> probat 
+            <lb ed="#S" n="81"/><ref xml:id="aw98wa-xg2570-Rd1e2083"><name xml:id="aw98wa-xg2570-Nd1e2084" ref="#Aristotle">philosophus</name> 2 <title ref="#deAnima">de anima</title></ref>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2091">
+            <g ref="#pilcrow"/>Casus etiam iste esset secundum opinionem quae ponit elementa 
+            <lb ed="#S" n="82"/>suscipere magis et minus quando elementum generans esset remissum tunc uti<lb ed="#S" break="no" n="83"/>que 
+            generaret elementum in forma non intensiari[?] sua et si tunc postea agens 
+            <lb ed="#S" n="84"/>fortius suae speciei approximaretur elemento genito intenderet ipsum 
+            <lb ed="#S" n="85"/>et continue et successive si motus approximationis vel vigorationis suae 
+            <lb ed="#S" n="86"/>formam substantialem nisi aliud impediet[?] et hoc vel ab elemento intent?te[?] formam 
+            <lb ed="#S" n="87"/>elementarem alterius vel a forma rei quae intenditur vel ab utraque
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2109">
+            <g ref="#pilcrow"/>dices 
+            <lb ed="#S" n="88"/>pro <name xml:id="aw98wa-xg2570-Nd1e2115" ref="#Ockham">okam</name> sicut ipse allegat pro se quia secundum <ref xml:id="aw98wa-xg2570-Rd1e2118"><name xml:id="aw98wa-xg2570-Nd1e2119" ref="#Aristotle">philosophus</name> 8 <title ref="#Physics">physicarum</title></ref> est dare primum rei 
+            <lb ed="#S" n="89"/>permanentis in esse dubio[?] quod verum est in hiis quae producuntur subito sed in 
+            <lb ed="#S" n="90"/>acquisitis tamen successive et per modum est hoc <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> nec hoc vult 
+            <lb ed="#S" n="91"/><name xml:id="aw98wa-xg2570-Nd1e2135" ref="#Aristotle">aristoteles</name> quia tunc sibi ipsi contradiceret ibi et <ref xml:id="aw98wa-xg2570-Rd1e2138">in 6 libro</ref> sicut in argumento isto 
+            <lb ed="#S" n="92"/>principali allegatum est
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2143">
+            <g ref="#pilcrow"/>Et tamen dicitur quod tunc in instanti medio non esset sub 
+            <lb ed="#S" n="93"/>uno contrariorum nec sub alio dubio quod vix inveniret causam ubi hoc 
+            <lb ed="#S" n="94"/>oporteret quia communiter simul concurrunt divisibilitas et latitudo exten<lb ed="#S" break="no" n="95"/>siva 
+            passi et intensibilis latitudo ipsius formae producente et ideo 
+            <lb ed="#S" n="96"/>verum est communiter in quolibet instanti quod una pars assignabilis passi est 
+            <lb ed="#S" n="97"/>sub forma quae est inferi et totum residum sub forma corrumpenda 
+            <lb ed="#S" n="98"/>quarum una nunc est et numquam ante fuit licet multae eius partes ante 
+            <lb ed="#S" n="99"/>fuerint et altera nunc est et immediate post non erit quavis multae 
+            <lb ed="#S" n="100"/>illius partes debeant postea remanere et eodem modo de partibus subiecti 
+            <lb ed="#S" n="101"/>quarum una esset tali qualitate talis et non ante et alia pars contraria quali<lb ed="#S" break="no" n="102"/>tate 
+            et non post immediate actum ne fugiatur argumentum dico quod saltem 
+            <lb ed="#S" n="103"/>a deo esset casus possibilis qui successive posset et uniformaliter in uno t[?]e[?] 
+            <lb ed="#S" n="104"/><choice><orig>remictere</orig><reg>remittere</reg></choice> formam in <choice><orig>alico</orig><reg>aliquo</reg></choice> subiecto divisibili vel indivisibili sicut sibi 
+            <lb ed="#S" n="105"/>placeret et immediate post formam contrariam successive introducere et in 
+            <lb ed="#S" n="106"/>tali casu darem quod infertur quod scilicet in instanti copulante ad invicem illa 
+            <lb ed="#S" n="107"/>duo tempora nec esset subiectum calidum nec frigidum et sit de aliis contra<lb ed="#S" break="no" n="108"/>riis 
+            sive essent contraria mediata sive immediata Et tamen <name xml:id="aw98wa-xg2570-Nd1e2189" ref="#Chatton">cathon</name> <choice><orig>inprobat</orig><reg>improbat</reg></choice> 
+            <lb ed="#S" n="109"/>tunc hic ultra quia motus non esset continuus sed incorruptus per quietem 
+            <lb ed="#S" n="110"/>mediam
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2201">
+            <g ref="#pilcrow"/>dicendum primo quod non deberet sibi videri inconveniens quod inter 
+            <lb ed="#S" n="111"/>modus contrarios possit vel debeat quies media cadere cum 
+            <lb ed="#S" n="112"/>philosophia clamet et bene scit quod hoc oporteat Inproposito autem 
+            <lb ed="#S" n="113"/>posset de potentia dei aeque poni casus ubi <del rend="expunctuated">prius</del> post crementum[?] continuum 
+            <lb ed="#S" n="114"/>unius formae quae tamen sic a deo destrueretur quod non haberet ultimum 
+            <lb ed="#S" n="115"/>sui esse successive produceretur in tali subiecto forma contraria priori <choice><orig>sicud</orig><reg>sicut</reg></choice> potest 
+            <lb ed="#S" n="116"/>hoc facere post remissionem alterius et ita argumentum non plus de<lb ed="#S" break="no" n="117"/>beret 
+            hoc habere[?] pro in convenienti in proposito quam in illo casu
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2229">
+            <g ref="#pilcrow"/><choice><orig>2o</orig><reg>secundo</reg></choice> dico 
+            <lb ed="#S" n="118"/>quod contra non valet quia nihil quiescit propter hoc praecise quod non movetur in instanti 
+            <lb ed="#S" n="119"/>quia tunc caelum et omnia quiescerent quoniam constat quod in instanti non movetur id est[?] 
+            <lb ed="#S" n="120"/>quia tunc simul et indivisibiliter haberent alia et non haberent ita deberet igitur 
+            <pb ed="#S" n="108-v"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>ex philosophia sua recolere quia ita requirit moram et tempus quies 
+            <lb ed="#S" n="2"/>sicut motus et tunc sibi pateret quod sua consequentia <g ref="#carrot"/><add place="margin-left">non</add> valet
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2256">
+            <g ref="#pilcrow"/>ad <choice><orig>3m</orig><reg>tertium</reg></choice> patet 
+            <lb ed="#S" n="3"/>ex iam dictis qualiter et quare simul concurrunt saepe saltem ab instanti quo 
+            <lb ed="#S" n="4"/>materia est disposita ad receptionem formae causandae remissio unius 
+            <lb ed="#S" n="5"/>formae et introductio alterius successiva in alia tamen et alia parte subiecti ut 
+            <lb ed="#S" n="6"/>visum est dico tamen quod remissio non est per hoc quod in eadem parte 
+            <lb ed="#S" n="7"/>adaequata ante plenam expulsionem unius contrariorum materiae incipiat 
+            <lb ed="#S" n="8"/>productio alterius contrarii et tamen dicis quod agens naturale non remit<lb ed="#S" break="no" n="9"/>tit 
+            calorem nisi introducendo aliquid incompossibile calori scilicet aliquam 
+            <lb ed="#S" n="10"/>partem frigiditatis nego quia saepe bene diu <choice><orig>remictitur</orig><reg>remittitur</reg></choice> caliditas ante 
+            <lb ed="#S" n="11"/>quam in alia parte magna vel parva eiusdem subiecti totalis introducatur 
+            <lb ed="#S" n="12"/>aliquis gradus frigiditas et saepe quando nullus unquam gradus frigiditatis in<lb ed="#S" break="no" n="13"/>ducitur 
+            permanente forma substantiali eiusdem passi sicut calor 
+            <lb ed="#S" n="14"/>ignis remissibilis est et tamen numquam est ignis per nauram fri<lb ed="#S" break="no" n="15"/>gidus 
+            in quocumque differre[?] aliquid ibi contrarium calori introduci certe 
+            <lb ed="#S" n="16"/>assignabile non est in a protervo
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2299">
+            <g ref="#slash"/>dico igitur quod sicut agens naturale potest 
+            <lb ed="#S" n="17"/>aliquando intendere formam aliquam sine corruptione alicuius contrarii quia nullum tale in<lb ed="#S" break="no" n="18"/>venitur 
+            in subiecto sicut patet de lumine in medio et similibus ita potest quandoque 
+            <lb ed="#S" n="19"/>formam aliquam corrumpere sine introductione formae contrarie in subiecto saltem 
+            <lb ed="#S" n="20"/>indivisibile secundum extensionem sicut est anima intellectiva vel angelus[?] indivisibili 
+            <lb ed="#S" n="21"/>autem secus est aliquando quia nisi facta uniformi approximatione et ceteris pari<lb ed="#S" break="no" n="22"/>bus 
+            si subito non inducat formam ab eo causabile hoc est propter contra<lb ed="#S" break="no" n="23"/>rietatem 
+            vel <choice><orig>repungnantiam</orig><reg>repugnantiam</reg></choice> inventam formalem vel virtualem et licet ibi 
+            <lb ed="#S" n="24"/>prius successive <choice><orig>remicti</orig><reg>remitti</reg></choice> formam oporteat quam aliquid in se formae 
+            <lb ed="#S" n="25"/>contrariae inducatur tamen postquam alia incipit introduci vel ita dis<lb ed="#S" break="no" n="26"/>ponitur 
+            passum quod in <choice><orig>alico</orig><reg>aliquo</reg></choice> instanti sit verum dicere[?] nunc non est aliquid huius 
+            <lb ed="#S" n="27"/>formae et immediate post erit simul et tunc currunt intensio unius et 
+            <lb ed="#S" n="28"/>remissio alterius modo iam dicto in solutione argumenti praete?tis[?]
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2342">
+            <lb ed="#S" n="29"/><g ref="#pilcrow"/>dices secundum <name xml:id="aw98wa-xg2570-Nd1e2347" ref="#Aristotle">philosophum</name> genero unius est corruptio alterius et econtra et saltem 
+            <lb ed="#S" n="30"/>agens naturale non corrupit aliquid sine generatione alterius quod hoc esset a<lb ed="#S" break="no" n="31"/>gere 
+            ad malum universi
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2355">
+            <g ref="#pilcrow"/>dico quod verum est hoc quod actum naturale 
+            <lb ed="#S" n="32"/>principaliter intendit formam introducendam eo modo loquendo quo debet in<lb ed="#S" break="no" n="33"/>telligi 
+            naturale agens aliquid intendere et contrario destructio inten<lb ed="#S" break="no" n="34"/>ditur 
+            alterius formae <choice><orig>repungnantis</orig><reg>repugnantis</reg></choice> formae cuius intenditur productio sed quod 
+            <lb ed="#S" n="35"/>est primum intentione est saepe posterius in exsecutione quod autem dicitur quod 
+            <lb ed="#S" n="36"/>generatio unius est corruptio alterius ubi concurrunt intenditur per concomitantiam[?] 
+            <lb ed="#S" n="37"/>ubi autem non concurrunt non est illud verum nec in tali casu intelligendum 
+            <lb ed="#S" n="38"/><g ref="#dbslash"/>ad <choice><orig>4m</orig><reg>quartum</reg></choice> dicendum quod calor et frius non sunt ibi simul in eadem parte aliqua 
+            <lb ed="#S" n="39"/>licet in diversis partibus eiusdem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2387">
+            <g ref="#pilcrow"/>Ad <choice><orig>5</orig><reg>quintum</reg></choice> dicendum quod <name xml:id="aw98wa-xg2570-Nd1e2395" ref="#Aristotle">philosophus</name> in <choice><orig>5</orig><reg>quintum</reg></choice> vocat 
+            <lb ed="#S" n="40"/>medium inter albedinem intense et nigrum intense remisse album 
+            <lb ed="#S" n="41"/>vel remisse nigrum aliquando vocat coloratum colore <choice><orig>alico</orig><reg>aliquo</reg></choice> alterius speciei 
+            <lb ed="#S" n="42"/>ab albedine et nigredine <choice><orig>sicud</orig><reg>sicut</reg></choice> rubedine vel viride et sic de aliis et si 
+            <lb ed="#S" n="43"/>fustum et pallidum de quibus quoque ex?ficatum[?] fuit sint de 
+            <lb ed="#S" n="44"/>istis <choice><orig>2is</orig><reg>secundis</reg></choice> vel de illis primis ita quod pallidum sit idem quod tenu<lb ed="#S" break="no" n="45"/>iter 
+            et remisse album et fustum[?] remisse et tenuiter nigrum nescio 
+            <lb ed="#S" n="46"/>sed dicatur consequenter tunc de primis enim dico quod ideo remisse album dicitur 
+            <lb ed="#S" n="47"/>medium inter album intense et nigrum intense et contrarium utrique quia 
+            <lb ed="#S" n="48"/>respectu nigri eset vera et positiva contrarietas patet sed respectu intense albi 
+            <lb ed="#S" n="49"/>aliter et hoc sufficit ad contrarietatem requisitam ad motum et 
+            <lb ed="#S" n="50"/>ad repungnantiam ad hoc quod idem simul et semel non sit magis album 
+            <lb ed="#S" n="51"/>et minus album vel quod non sic simul intense album et remisse album 
+            <lb ed="#S" n="52"/>et de tali contrarietate requisita ad motum ibi loquitur <name xml:id="aw98wa-xg2570-Nd1e2443" ref="#Aristotle">philosophus</name> et per consequens non 
+            <lb ed="#S" n="53"/>est hic solum privativa opp?o[?] quia ita non requirit quod al<lb ed="#S" break="no" n="54"/>terum 
+            <lb ed="#S" n="55"/>extremorum supponat alia nulla positiva signata saltem ab<lb ed="#S" break="no" n="56"/>stracte
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2457">
+            <g ref="#pilcrow"/>de sensis vero patet ad sensum in opere pictorum quod sae<lb ed="#S" break="no" n="57"/>pe 
+            generantur tales colores medii ex admixtione color extre<lb ed="#S" break="no" n="58"/>morum 
+            vel mediorum quorumdam sed tunc sint ita corpora ad invicem admix<lb ed="#S" break="no" n="59"/>ta 
+            non subintrant se nec secundum totum nec secundum aliquam partem ut totum 
+            <lb ed="#S" n="60"/>cum toto vel pars cum parte fiat in eodem situ adaequato sed 
+            <lb ed="#S" n="61"/>dividunt se et subintrant se secundum iuxta positionem partium mi<lb ed="#S" break="no" n="62"/>nutarum 
+            <lb ed="#S" n="63"/>adinvicem alioquin duo corpora esset simul naturaliter in eodem 
+            <cb ed="#S" n="b"/><!-- 108vb-->
+            <lb ed="#S" n="64"/>loco adaequato <choice><orig>sicud</orig><reg>sicut</reg></choice> inquam de partibus s?torum[?] est ita est de colori<lb ed="#S" break="no" n="65"/>bus 
+            informantibus illas parvulas partes iuxta se positas et per 
+            <lb ed="#S" n="66"/>istum modum et non per alium intelligi[?] habet[?] <name xml:id="aw98wa-xg2570-Nd1e2490" ref="#Averroes">commentator</name> quod diminutio et re<lb ed="#S" break="no" n="67"/>missio 
+            est per admixtionem contrarii hoc est per iuxta positionem contrarii modo 
+            <lb ed="#S" n="68"/>tali sed non per coextensionem formarum contrariarum in eadem parte adaequati 
+            <lb ed="#S" n="69"/>subiecti et huius exemplum est immixtione frumenti cum siligie[?] et sic 
+            <lb ed="#S" n="70"/>de similibus hoc etiam dat experientia istius quod apparet si appenderetur 
+            <lb ed="#S" n="71"/>velum aliquod unius coloris alicubi et post inter visum et illud 
+            <lb ed="#S" n="72"/>appenderetur aliud <del rend="expunctuated">tenor</del> tenue alterius coloris in tali situ posset 
+            <lb ed="#S" n="73"/>visus alicuius poni ac situari quod indicaret[?] ibi esse tamen unum 
+            <lb ed="#S" n="74"/>velum medio colore coloratum et si ita sic de coloribus omnibus 
+            <lb ed="#S" n="75"/>mediis et tunc facile patet quid dicendum sic <g ref="#dot"/> si autem aliqui colores me<lb ed="#S" break="no" n="76"/>dii 
+            sint sine tali pa[?]itione[?] iuxta partium aliter et aliter coloratarum ubi 
+            <lb ed="#S" n="77"/>scilicet omnis particula magna et parva uniformis sit toti et cuilibet 
+            <lb ed="#S" n="78"/>parti dico quod tales non habent in se admixtionem colorum extremorum sed 
+            <lb ed="#S" n="79"/>aeque sunt simplices sint illi non solum secundum apparentiam <choice><orig>sicud</orig><reg>sicut</reg></choice> etiam causandum[?] 
+            <lb ed="#S" n="80"/>priori sed etiam secundum existentiam et tunc est ibi negatio[?] per abnegationem extre<lb ed="#S" break="no" n="81"/>morum 
+            et non per participationem <choice><orig>sicud</orig><reg>sicut</reg></choice> in priori casu et contrarietas est ibi per aliquid 
+            <lb ed="#S" n="82"/>per positivum[?] inhaerens cum carentia et possibilitate habendi colorem extre<lb ed="#S" break="no" n="83"/>mum 
+            sicut praetactum est de minus albedo respectu intense alibi <g ref="#dot"/>ad 6<g ref="#dot"/> 
+            <lb ed="#S" n="84"/>per idem patet
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2551">
+            <g ref="#pilcrow"/>ad 7m dico quod hoc est propter <choice><orig>repungnantem</orig><reg>repugnantem</reg></choice> dispositio 
+            <lb ed="#S" n="85"/>in passo et contrariam formaliter vel virtualiter virtualis enim <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> 
+            <lb ed="#S" n="86"/>sufficit sicut formalis ideo sola virtualis est in causa istius successionis 
+            <lb ed="#S" n="87"/>in eadem parte subiecti adaequata ut patet in aqua calefactibili et haec 
+            <lb ed="#S" n="88"/>est causa quare etiam si deus subito <choice><orig>anichilaret</orig><reg>annihilaret</reg></choice> frigus aquae et approxi<lb ed="#S" break="no" n="89"/>maretur 
+            sibi ignis non subito calefieret aqua illa quia per 
+            <lb ed="#S" n="90"/>propriam formam substantialem rei inclinatur contra calorem violenter induci<lb ed="#S" break="no" n="91"/>bilem 
+            et per consequens argumentum procedit ab insufficienti quia nullum istorum <choice><orig>4or</orig><reg>quattuor</reg></choice> oportet esse 
+            <lb ed="#S" n="92"/>in causa[?] vel requiritur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2590">
+            <g ref="#pilcrow"/>ad <choice><orig>8m</orig><reg>octavum</reg></choice> dicendum sicut ad <choice><orig>2m</orig><reg>secundum</reg></choice> negandum enim est 
+            <lb ed="#S" n="93"/>assumptum et ad probationem dico quod propter virtualem <choice><orig>repungnantiam</orig><reg>repugnantiam</reg></choice> quae cum[?] <g ref="#carrot"/><add place="margin-right"><g ref="#carrot"/>est in</add> isto 
+            <lb ed="#S" n="94"/>casu repugnantia formalis non sic est in causa successive intentionis formae 
+            <lb ed="#S" n="95"/>in eadem parte subiecti ut dictum est ideo enim est quod fortius incipit 
+            <lb ed="#S" n="96"/><choice><orig>remictere</orig><reg>remittere</reg></choice> qualitatem suae qualitati contrariam in debiliori et cum dicis quod 
+            <lb ed="#S" n="97"/>non est hic nisi quia introducit effectum incompossibilem priori rema?ti[?] in 
+            <lb ed="#S" n="98"/>omnibus suis gradibus iam patet quod hoc verum non est semper licet quandoque concur<lb ed="#S" break="no" n="99"/>rant 
+            in aliis et aliis partibus ut visis est intentio unius formae cum 
+            <lb ed="#S" n="100"/>remissione contrarie
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2633">
+            <g ref="#pilcrow"/>Ad <choice><orig>9m</orig><reg>nonum</reg></choice> dicendum sicut ad <choice><orig>2m</orig><reg>secundum</reg></choice>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2646">
+            <g ref="#pilcrow"/>ad <choice><orig>10m</orig><reg>decimum</reg></choice> dicendum quod de 
+            <lb ed="#S" n="101"/>communi cursu quando ex aere generatur ignis in nullo instanti generatur ig<lb ed="#S" break="no" n="102"/>nis 
+            sed in tempore per partem ante partem in infinitum secundum partibilitatem materiae 
+            <lb ed="#S" n="103"/>vel passi unde volo quod non in principio totalis actionis corrumpitur 
+            <lb ed="#S" n="104"/>aliquid nec etiam in fine quando accidentia corrumpenda sunt remississima quia non 
+            <lb ed="#S" n="105"/>convenit tale instans vel finem dare numquam enim accidentia subito corrum<lb ed="#S" break="no" n="106"/>penda 
+            sunt remissima quia post commune instans datum sunt remissiora bene 
+            <lb ed="#S" n="107"/>tamen volo quod dispositio ad formam ignis et quod talia accidentia multa 
+            <lb ed="#S" n="108"/>stant cum forma corrumpenda saepe sicut aliqua prius saepe ca<lb ed="#S" break="no" n="109"/>lefit 
+            quam de ea generetur ignis sed ex hoc non sequitur quod simul cum 
+            <lb ed="#S" n="110"/>illa frigiditate stat frigitas naturaliter in eadem parte omnino subiecti eodem 
+            <lb ed="#S" n="111"/>modo de aliis et dato quod non posset recipere accidentia contraria sicut 
+            <lb ed="#S" n="112"/>ignis non potest frigefieri <choice><orig>nichilominus</orig><reg>nihilominus</reg></choice> per remissionem propriorum talium acciden<lb ed="#S" break="no" n="113"/>tium 
+            sufficienter disponeretur passum et fieret in via et tendentia ad 
+            <lb ed="#S" n="114"/>corruptionem et tandem subito vel successive ab activo sufficiente corrumperetur 
+            <lb ed="#S" n="115"/>et introduceretur forma similis tali activo vel forma illius activi[?]
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2692">
+            <g ref="#pilcrow"/>ad 
+            <lb ed="#S" n="116"/><choice><orig>11</orig><reg>undecimum</reg></choice> concedo quod potest fieri violentatio[?] in motu ad formam alioquin enim 
+            <lb ed="#S" n="117"/>aliqua calefieri non posset sed <sic>violentatio</sic> non requirit <choice><orig>sicud</orig><reg>sicut</reg></choice> supponit argumentum 
+            <lb ed="#S" n="118"/>simultatem contrariorum in gradibus remissis in eadem parte subiecti coextensis 
+            <lb ed="#S" n="119"/>ut prius visum est
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2716">
+            <g ref="#pilcrow"/>ad <choice><orig>12</orig><reg>duodecimum</reg></choice> dicendum quod duplex potest esse via <choice><orig>ymaginandi</orig><reg>imaginandi</reg></choice> mix<lb ed="#S" break="no" n="120"/>tum 
+            fieri ex elementis iuxta du?tor[?] viam salvandi colores medios 
+            <lb ed="#S" n="121"/>componi vel non componi ab extremis unus modus est quod formae elementorum <choice><orig>re<lb ed="#S" break="no" n="122"/>micterentur</orig><reg>re<lb ed="#S" break="no" n="122"/>mitterentur</reg></choice> 
+            unde et postquam miscerentur per divisionem in minutissimas partes 
+            <lb ed="#S" n="123"/>quasi et imperceptibiles a nobis ita quod salvarentur in entibus suis quam<lb ed="#S" break="no" n="124"/>vis 
+            remissis et parvulinis[?] partibus et tunc secundum proportionem aliam et aliam in 
+            <pb ed="#S" n="109-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>appositione elementorum ad invicem ita quod plus apponatur de uno et minus 
+            <lb ed="#S" n="2"/>de alio vel econtra potest mixtum aliud et aliud provenire <choice><orig>sicud</orig><reg>sicut</reg></choice> potest materialiter talis 
+            <lb ed="#S" n="3"/>proportio variari et iste modus mixtionis multum inhabitet ad litteram 
+            <lb ed="#S" n="4"/><ref xml:id="aw98wa-xg2570-Rd1e2763"><name xml:id="aw98wa-xg2570-Nd1e2764" ref="#Aristotle">philosophus</name> libro <title ref="#deGeneratione">de generatione</title></ref> ubi vult quod mixto non est nisi miscibilium  alteratorum vino 
+            <lb ed="#S" n="5"/>vino inquam ctia[?] <add>??</add> talium parvarum partium eo modo quo conc?iri[?] potest 
+            <lb ed="#S" n="6"/>in una massa <g ref="#carrot"/><add place="margin-left"><g ref="#carrot"/>quantitiva</add> argentum et aurum vel aqua et oleum in eadem lampadae 
+            <lb ed="#S" n="7"/>isto modo solum salvabitur vera mixto ita quod nuncupative et simil<lb ed="#S" break="no" n="8"/>tudinariae 
+            vel per aequiv?am[?] vocari debent modi alii nuncupative et non vere 
+            <lb ed="#S" n="9"/>mixtionis isto etiam modo et nullo alio salvari potest elementa manere immix<lb ed="#S" break="no" n="10"/>to 
+            et vere et realiter nullo etiam modo alio salvari potest quod per naturam maneant 
+            <lb ed="#S" n="11"/>immixto nisi per iuxta possent partium alio quin subingrederentur se secundum totum 
+            <lb ed="#S" n="12"/>vel secundum partes et pari ratione secundum totum et secundum partes et essent duo corpora naturaliter 
+            <lb ed="#S" n="13"/>nata per se existere in eodem loco
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2798">
+            <g ref="#pilcrow"/>Similiter tunc vel non facerent maius 
+            <lb ed="#S" n="14"/>quam esset quantitas unius si alias subingrederentur cuius oppositum apparet ad 
+            <lb ed="#S" n="15"/>sensum in mixtione quorumcumque talium vel proveniret in eis aliquod mix<lb ed="#S" break="no" n="16"/>tum 
+            tantae extensionis quanta nata esset provenire ex contiguatione 
+            <lb ed="#S" n="17"/>contingorum quorumcumque omnium simul et tunc per naturam ista remissa essent magis 
+            <lb ed="#S" n="18"/>rarefactibilia quam intensa quia oportet quod terra coextenderetur magis immo 
+            <lb ed="#S" n="19"/>quod magis esset naturaliter rarefactibilis et in tali rarefactione naturaliter permansibilis quam 
+            <lb ed="#S" n="20"/>sic raritas et extensio naturaliter competens extra mixtum huius quia co<lb ed="#S" break="no" n="21"/>extenderetur 
+            tunc et sic permaneret in extensione provenitate ex omnium 
+            <lb ed="#S" n="22"/>simul appositione quae satis verum inconvenientia quia totaliter est opposito 
+            <lb ed="#S" n="23"/>modo quod quanto aliquid plus habet de[?] natura talis speciei tanto potest amplius[?] 
+            <lb ed="#S" n="24"/>rarefieri et dilatari
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2827">
+            <g ref="#pilcrow"/>praeterea tunc vel oportebit materias elementorum subingredi 
+            <lb ed="#S" n="25"/>se mutuo ex quo sequitur quod quantum manens[?] quantum naturaliter potest subingredi 
+            <lb ed="#S" n="26"/>quantum quia secundum veritatem et secundum philosophiam maxime commentatorem quantitas intermminata 
+            <lb ed="#S" n="27"/>inseparabilis est a materia prima et tunc etiam vel facerent unum et ita cum habet 
+            <lb ed="#S" n="28"/>in eodem loco tunc adaequato materia prima posset intendi et <choice><orig>remicti</orig><reg>remitti</reg></choice> 
+            <lb ed="#S" n="29"/>nisi dicatur quod alia naturaliter ex natura in eodem loco adaequato eiusdem speciei 
+            <lb ed="#S" n="30"/>faciant unum quod non ad audivi am?e[?] dicere de materia prima et partibus 
+            <lb ed="#S" n="31"/>eius licet bene dicatur et verum sit et <name xml:id="aw98wa-xg2570-Nd1e2850" ref="#Aristotle">philosophus</name> haec teneat et experientia 
+            <lb ed="#S" n="32"/>doceat quod rarefieri potest et condensari vel non facerent unum 
+            <lb ed="#S" n="33"/>et tunc non fieret unum ex elementis mixtis sit ad invicem sed solum 
+            <lb ed="#S" n="34"/><choice><orig>agregatio</orig><reg>aggregatio</reg></choice> m?torum in eodem situ quia quorum materiae tamen <choice><orig>agregantur</orig><reg>aggregantur</reg></choice> sine u<lb ed="#S" break="no" n="35"/>nitate 
+            vera provenitate et formae solum <choice><orig>agregantur</orig><reg>aggregantur</reg></choice> sic vel oportebit <choice><orig>3o</orig><reg>tertio</reg></choice> conce<lb ed="#S" break="no" n="36"/>dere 
+            formas elementorum relinquere suas materias et inca?re[?] aliquam materiam per<lb ed="#S" break="no" n="37"/>manente 
+            in istam alia materia sua priori forma in gradu saltem remisso 
+            <lb ed="#S" n="38"/>et hoc  non est minus inconveniens quam quod accidens migret de subiecto in 
+            <lb ed="#S" n="39"/>subiectum quod tamen apud philosophiam et apud veritatem est inconveniens quod naturaliter 
+            <lb ed="#S" n="40"/>fiat hoc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2889">
+            <g ref="#pilcrow"/>praeterea si subingrediamur se elementa in tali mixtione aut 
+            <lb ed="#S" n="41"/>igitur materiae relinquantur a formis manibus sicut prius et hoc non est rationabile 
+            <lb ed="#S" n="42"/>nec per consequens possibile per nullam aut causa materiae quam formae subingredentur se 
+            <lb ed="#S" n="43"/>quomodo igitur ex tunc fiat illa mixtio vel per solam <choice><orig>agregationem</orig><reg>aggregationem</reg></choice> 
+            <lb ed="#S" n="44"/>situalem et hoc non verum ut supra vel per hoc quod forma cuius licet eorum 
+            <lb ed="#S" n="45"/>praeter hoc quod perficit ma?am[?] propriam perficiet iterum materiam aliorum elementorum 
+            <lb ed="#S" n="46"/>nunc in eodem situ adaequato existentium et nec hoc dari poterit 
+            <lb ed="#S" n="47"/>quia si forma intensa aliquando non potuit simul per naturam perficere plures 
+            <lb ed="#S" n="48"/>materias multo minus remissa poterit maxime tamen in centuplo in<lb ed="#S" break="no" n="49"/>tensiores 
+            ut prius argumentum est
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2917">
+            <g ref="#pilcrow"/>prima vel omnis formae elementares in mixto 
+            <lb ed="#S" n="50"/>quolibet essent aequales et tunc mixta non different specie vel 
+            <lb ed="#S" n="51"/>una intensior et ista per consequens non posset diu stare quod non corrum<lb ed="#S" break="no" n="52"/>peret 
+            sociam suam cuius oppositum videmus infilite[?] in multis aliis 
+            <lb ed="#S" n="53"/>formis mixtis uniformibus quod numquam ab extrinseco corrumpuntur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2930">
+            <lb ed="#S" n="54"/><g ref="#pilcrow"/>praeterea tunc cum non solum sint partes quantitative sed qualitative et eessentiales 
+            <lb ed="#S" n="55"/>mixti si sint sic in eodem loco primo coextensa elementa in 
+            <lb ed="#S" n="56"/>mixto sequitur quod elementa per se ex natura non sunt supposita in genere substantiae 
+            <lb ed="#S" n="57"/>quia natae sunt esse partes qualitative seu essentiales alterius rei secundum 
+            <lb ed="#S" n="58"/>speciem per se unius et hoc sequitur sive detur quod forma ultimo mixti sic 
+            <lb ed="#S" n="59"/>forma tamen resultans ex formis elementorum modo tali concurrentium ad 
+            <lb ed="#S" n="60"/>compositum mixti sive detur quod praeter formas elementorum est ibi forma 
+            <cb ed="#S" n="b"/><!-- 109rb -->
+            <lb ed="#S" n="61"/>superveniens et priores con<subst><del rend="expunctuated">s</del><add place="aboveLine">c</add></subst>ilians haec et multa inconvenientia possent 
+            <lb ed="#S" n="62"/>deduci nisi dicitur sola iuxta positio supra dicta dummodo tamen elementa vere 
+            <lb ed="#S" n="63"/>remaneant immixto sive intensa sive remissa
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2966">
+            <g ref="#pilcrow"/>Et si dicas 
+            <lb ed="#S" n="64"/>quod tunc non esset mixto sed solum iuxta positio Similiter tunc non quaelibet pars 
+            <lb ed="#S" n="65"/>mixti esset inpita[?] quia non pars talis parvulina[?] iuxta posita 
+            <lb ed="#S" n="66"/>aliis
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2977">
+            <g ref="#pilcrow"/>ad primum istorum dicendum quod per alium modum vera mixtio sal<lb ed="#S" break="no" n="67"/>vari 
+            non potest usquam ut argumentum est exemplum horum est de mixtione 
+            <lb ed="#S" n="68"/>vini et aquae et oi?m[?] mixtorum quae sit miscentur quod non totaliter 
+            <lb ed="#S" n="69"/>corrumpantur mixtio tamen vera non est iuxta positio sine fractione miscibilium 
+            <lb ed="#S" n="70"/>et alteratione in partes tales parvulas unde quod mixtio esset 
+            <lb ed="#S" n="71"/>solum iuxta positio integrorum bene esset inconveniens et ita intelligendae sunt 
+            <lb ed="#S" n="72"/>auctoritates si quae hoc innuant
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e2995">
+            <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> dicunt aliqui quod <name xml:id="aw98wa-xg2570-Nd1e3003" ref="#Aristotle">philosophus</name> vocat 
+            <lb ed="#S" n="73"/>quodlibet oleum remissum mixtum corpus et ad habuit intellectum conce?nt[?] 
+            <lb ed="#S" n="74"/>quod quaelibet pars mixti est mixta vel scilicet per compositionem miscibilium 
+            <lb ed="#S" n="75"/>alteratorum iuxta se positorum modo praecesso vel per remissionem a<lb ed="#S" break="no" n="76"/>liorum 
+            si sic adinvicem miscentur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3016">
+            <g ref="#pilcrow"/>aliter potest dici rationabiliter et magis 
+            <lb ed="#S" n="77"/>consone textui quod isto modo est quaelibet pars mixti mixta 
+            <lb ed="#S" n="78"/>quomodo dicit <name xml:id="aw98wa-xg2570-Nd1e3024" ref="#Aristotle">philosophus</name> quod quaelibet pars aucti est acta et dicit quod hoc 
+            <lb ed="#S" n="79"/>est verum de qualibet parte secundum speciem non de qualibet secundum materiam id est 
+            <lb ed="#S" n="80"/>de qualibet nata per se movere sensum vel nata conservare se in 
+            <lb ed="#S" n="81"/>esse si per se esset bene diu absque hic quod tederet incontinens vel 
+            <lb ed="#S" n="82"/>de qualibet parte mrata[?] notabili <g ref="#dot"/> de partibus autem mi?bus[?] 
+            <lb ed="#S" n="83"/>seu secundum partem non oportet quaerere <name xml:id="aw98wa-xg2570-Nd1e3040" ref="#Scotus">scotus</name> in 4 et quia bene dicit <name xml:id="aw98wa-xg2570-Nd1e3044" ref="#Ockahm">okam</name> concor<lb ed="#S" break="no" n="84"/>dat
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3050">
+            <g ref="#pilcrow"/><choice><orig>2us</orig><reg>secundus</reg></choice> mixtionis non remanentium elementorum immixto 
+            <lb ed="#S" n="85"/>qui etiam multum placet mihi et plus assentio quam praecedenti est iste quem 
+            <lb ed="#S" n="86"/>ponit <ref xml:id="aw98wa-xg2570-Rd1e3061"><name xml:id="aw98wa-xg2570-Nd1e3062" ref="#Scotus">scotus</name> in secundo libro in secundis additionibus secundi distinctione 15</ref> et secum 
+            <lb ed="#S" n="87"/>concordat <name xml:id="aw98wa-xg2570-Nd1e3069" ref="#Ockham">okam</name> quare ibi Si quis teneret primam viam quam aestimo 
+            <lb ed="#S" n="88"/>esse viam maioris[?] nisi pei?us[?] dixerit quam suppositam quod fecerit patet leviter 
+            <lb ed="#S" n="89"/>qualiter propter dispositionem ad formam mixti magis quam elementi non oportet quod in 
+            <lb ed="#S" n="90"/>eadem parte adaequata inducantur qualitates contrarie in gradibus re<lb ed="#S" break="no" n="91"/>missis 
+            sed in partibus dictis iam <del rend="expunctuated">visis</del> divisis vel tito dividendum 
+            <lb ed="#S" n="92"/>mimicis et perfectius misceantur si quis teneat secundam quae magis 
+            <lb ed="#S" n="93"/>mihi placet satis pulchre respondet <name xml:id="aw98wa-xg2570-Nd1e3088" ref="#Scotus">scoto</name> <g ref="#dot"/> ubi supra cuius sententia[?] dicat 
+            <lb ed="#S" n="94"/>consequenter
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3096">
+            <g ref="#pilcrow"/>dicas autem ultra quod tunc si multa agerent per suas contra<lb ed="#S" break="no" n="95"/>rias 
+            formas in eadem parte adaequata generarent in casu formam me?am[?] 
+            <lb ed="#S" n="96"/>simplicem
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3106">
+            <g ref="#pilcrow"/>ad 13 bene concedo quod ita causa de conincate[?] huius proprietatis 
+            <lb ed="#S" n="97"/>quod est contrariari et naturaliter <choice><orig>repungnare</orig><reg>repugnare</reg></choice> probabilis est modo isto quo superius 
+            <lb ed="#S" n="98"/>usus sive ea <choice><orig>inprobatione</orig><reg>improbatione</reg></choice> quaestionis intente et cum dicis quod eodem modo 
+            <lb ed="#S" n="99"/>nec in sitibus propinquis compatientur se non plus in gradibus remissis 
+            <lb ed="#S" n="100"/>quam intensis divisis immutatione invicem bene volo secundum proportionem accidentis 
+            <lb ed="#S" n="101"/>suae quia utrobique statim agit[?] sed debiliora diutius poterunt 
+            <lb ed="#S" n="102"/>se compati quam si unum et forte et aliud debile non plus inquam nisi per 
+            <lb ed="#S" n="103"/>formam supervenientem consilientur ut immixto secundum primum modum praetactum 
+            <lb ed="#S" n="104"/>vel per simile inmpeditum vel reductionem ad talem proportionem aequlitatis quod 
+            <lb ed="#S" n="105"/>ista stante parum vel nihil invicem agere valeant et hoc ita 
+            <lb ed="#S" n="106"/>esset verum de gradibus intensis contrariis sicut de remissis quia reducat 
+            <lb ed="#S" n="107"/>ad aequalitatem virtutis dius se compaterentur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3143">
+            <g ref="#pilcrow"/>ad 14 <choice><orig>sicud</orig><reg>sicut</reg></choice> ad 5 
+            <lb ed="#S" n="108"/>et sicut ad 12
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3154">
+            <g ref="#pilcrow"/>Sed contra illud dictum est de virtuali <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> quia 
+            <lb ed="#S" n="109"/>tunc potest argui aqua violenter calefacta si amoveretur vio<lb ed="#S" break="no" n="110"/>lentans 
+            principium subito saltem destrueret calorem violenter in<lb ed="#S" break="no" n="111"/>ductum 
+            <g ref="#dot"/> quia principium passivum non resiscit ibi sed proni oportet potius et 
+            <lb ed="#S" n="112"/>huius tamen oppositum docet experientia igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3174">
+            <g ref="#pilcrow"/>praeterea ad hoc non decla<lb ed="#S" break="no" n="113"/>rasti 
+            quin per violentiam compaterentur se formae contrariae in gradibus re<lb ed="#S" break="no" n="114"/>missis 
+            licet non diu ammoto principio violento
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3183">
+            <g ref="#pilcrow"/>ad primum istorum 
+            <lb ed="#S" n="115"/>dicendum quod non est simile in destructione a productione formae accidenta<lb ed="#S" break="no" n="116"/>lis 
+            cui subiectum virtualiter contrariatur quia in eius productione forte per 
+            <lb ed="#S" n="117"/>formam substantiale subiectum virtualiter sibi contrariatur et si per activitatem rei inclina<lb ed="#S" break="no" n="118"/>tivam 
+            subiecti non esset ibi successio est tamen ibi successio per hoc quod forma corrum<lb ed="#S" break="no" n="119"/>penda 
+            resistit suo corruptivo sed in subiecto ubi nulla est rebellio 
+            <lb ed="#S" n="120"/>virtualis respectu productionis formae alicuius forma non resistit productioni 
+            <pb ed="#S" n="109-v"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>proprie ideo etc cicius tamen multo ut docet experientia expeditur talis 
+            <lb ed="#S" n="2"/>actio intensiva ubi est tamen unum rebellans quam ubi duo 
+            <lb ed="#S" n="3"/>verbi gratia <g ref="#dot"/> quando aliqua debet calefieri in principio resistit calefactivo tam fri<lb ed="#S" break="no" n="4"/>gus 
+            aquae quam forma aquae et ideo intensior est operatio remissionis frigo 
+            <lb ed="#S" n="5"/>rei quam sublato frigore introductio caloris succedentis quia in intro<lb ed="#S" break="no" n="6"/>ductione 
+            caloris ibi prae expulso frigore solum resistit substantia aquae
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3220">
+            <lb ed="#S" n="7"/><g ref="#pilcrow"/>dices secundum hoc numquam forma substantialis esset subito corruptibilis quia 
+            <lb ed="#S" n="8"/>ipsa nata est se defendere ad ho?m[?] sicut accidentalis
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3229">
+            <g ref="#pilcrow"/>dicendum quod forsan 
+            <lb ed="#S" n="9"/>conclusio est vera propter perceptibilitatem passi de eadem parte materiae adaequata et 
+            <lb ed="#S" n="10"/>si forma substantialis reciperet magis et minus concederem consequentiam uniformiter 
+            <lb ed="#S" n="11"/>in corruptione quia similis causa est sed non in generatione propter causam dis<lb ed="#S" break="no" n="12"/>similem 
+            si non est remissibilis tunc oportet quod simul cesset id est non per 
+            <lb ed="#S" n="13"/>partem ante partem in eadem materia adaequata
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3245">
+            <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> dico quod nec 
+            <lb ed="#S" n="14"/>ego sufficienter ostendi hoc nec ille oppositum quia non probat nisi violentia[?] 
+            <lb ed="#S" n="15"/>et ista ut visum est aliter salvatur sicut aqua <sic>violentat</sic> ignem 
+            <lb ed="#S" n="16"/>eius causalitatem remittendo tam per contrarietatem formalem ca?ris[?] remit<lb ed="#S" break="no" n="17"/>tendi 
+            quae est virtualis quam per virtualem quae non est formalis substantialis 
+            <lb ed="#S" n="18"/>formae ignis intendentis secundum materiam suam ca?rem[?] suum conserva<lb ed="#S" break="no" n="19"/>re 
+            quia igitur oppositum iste non ostendit sicut nec ego sufficienter propo<lb ed="#S" break="no" n="20"/>situm 
+            nisi quod in esse quieto compatiuntur se non plus in gradi<lb ed="#S" break="no" n="21"/>bus 
+            remissis quam in intensis ideo quo ad hoc stetur in dubio
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3273">
+            <lb ed="#S" n="22"/><g ref="#pilcrow"/>actum quid dict ille de mixtis quae permanent mille annis 
+            in qualitatibus mediis et de coloribus mediis quibuscumque in quibus 
+            <lb ed="#S" n="23"/>auctoritates aeque sonant contrarias qualitates simul esse in gradibus re<lb ed="#S" break="no" n="24"/>missis 
+            sicut alii ubi iste non sunt per mansive quia hoc non 
+            <lb ed="#S" n="25"/>arguitur ex violentia
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3285">
+            <g ref="#pilcrow"/>Item saepe sicut patuit arguendo voluit 
+            <lb ed="#S" n="26"/>habere quod successiva remissio formae ab activo contrario non est nisi 
+            <lb ed="#S" n="27"/>propter imcompossibilitatem formae introductae repungantis stare cum forma prio<lb ed="#S" break="no" n="28"/>ri 
+            in priori gradu ideo oportuit eam <choice><orig>remicti</orig><reg>remitti</reg></choice> sed ego hoc esse 
+            <lb ed="#S" n="29"/>falsum ostendi in remissione caloris[?] ignei[?] pertrementum[?] frigiditatis 
+            <lb ed="#S" n="30"/>quia in igne nullus frigiditatis gradus per naturam potest introduci
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3305">
+            <g ref="#pilcrow"/>Praeterea 
+            <lb ed="#S" n="31"/>in eodem exemplo patet manifeste quod violentia in motu formali non re<lb ed="#S" break="no" n="32"/>quirit 
+            formas contrarias simul fieri in eodem violenter <choice><orig>sicud</orig><reg>sicut</reg></choice> nec in motu 
+            <lb ed="#S" n="33"/>locali violento requiritur quod simul moveatur motibus contrariis</p> 
+          
+          <p xml:id="aw98wa-xg2570-d1e3320">
+            <g ref="#pilcrow"/>praeterea si velit inniti violente ut facit et hoc per locum a 
+            <lb ed="#S" n="34"/>simili de violentia motus localis igitur <choice><orig>sicud</orig><reg>sicut</reg></choice> ibi non tamen remis<lb ed="#S" break="no" n="35"/>se 
+            grave potest violentari sed etiam intense grave ami?ius[?] forti 
+            <lb ed="#S" n="36"/>motivo et ita in altum violenter periti ita habens in proposito dicere 
+            <lb ed="#S" n="37"/>quod a forti altera tio[?] et multum intenso poterit violentari ad 
+            <lb ed="#S" n="38"/>formam suae contrariam materiam intensam et ita per violentiam non solum 
+            <lb ed="#S" n="39"/>compatientur se in gradibus remissis immo valde intense nam 
+            <lb ed="#S" n="40"/>non assignabit aliquam rationem quare non si tali violentiae vult inni<lb ed="#S" break="no" n="41"/>ti 
+            et tunc totum erit falsum quod dicitur ex alia parte quod remissio fit per 
+            <lb ed="#S" n="42"/>hoc quod introducitur gradus formae contrarie impossibilis priori continue 
+            <lb ed="#S" n="43"/><choice><orig>inpellendo</orig><reg>impellendo</reg></choice> <choice><orig>ymmo</orig><reg>immo</reg></choice> habet dicere quod non sunt incompossibiles per violentiam 
+            <lb ed="#S" n="44"/>ut iam deduxi et talis successiva operatio productiva non est sine vio<lb ed="#S" break="no" n="45"/>lentia 
+            nisi ubi actum non est aeque forte vel semper non aeque approxima<lb ed="#S" break="no" n="46"/>tum 
+            vel <choice><orig>inpeditum</orig><reg>impeditum</reg></choice> non aequale sicut patet in causatione luminis intentio<lb ed="#S" break="no" n="47"/>ris 
+            ad rarefactionem nubium
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3372">
+            <g ref="#pilcrow"/>praeterea si <choice><orig>remictitur</orig><reg>remittitur</reg></choice> unum contrariorum nec 
+            <lb ed="#S" n="48"/>sic propter incompossibilitatem alterius tandem stante violentia veniretur 
+            <lb ed="#S" n="49"/>ad medium quod subiectum habebit aequaliter de utroque ammoveatur igitur 
+            <lb ed="#S" n="50"/>principium violentum extrinsecum et relinquantur naturis suis illa contraria 
+            <lb ed="#S" n="51"/>aequalia in eodem aut igitur expellet una aliam vel non si non 
+            <lb ed="#S" n="52"/>diu immo semper naturaliter compatientur se in eodem cuius oppositum tenet et in 
+            <lb ed="#S" n="53"/>hoc bene si sic vel aequaliter semper et tunc tandem subiectum nihil habe<lb ed="#S" break="no" n="54"/>bit 
+            nec unius nec alterius
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3396">
+            <g ref="#pilcrow"/>ad quod tu <name xml:id="aw98wa-xg2570-Nd1e3400" ref="#Chatton">cathon</name> contra <name xml:id="aw98wa-xg2570-Nd1e3403">elr[?ockham]</name> dedux<lb ed="#S" break="no" n="55"/>isti 
+            sicut ad inconveniens vel una uniret aliam et hoc non po<lb ed="#S" break="no" n="56"/>terit 
+            esse nisi <choice><orig>alico</orig><reg>aliquo</reg></choice> iuvante unam et non aliam cum sint aequales <del rend="expunctuated">et hoc</del> 
+            <cb ed="#S" n="b"/><!--109vb-->
+            <lb ed="#S" n="57"/>et hoc assignari non poterit nisi subiectum quod agat ad corruptionem 
+            <lb ed="#S" n="58"/>unius earum et ad salutem alterius quod est intentum meum scilicet quod 
+            <lb ed="#S" n="59"/>subiectum ex natura subiecti in tali casu est violenter sub una earum et ni<lb ed="#S" break="no" n="60"/>titur 
+            eam destruere et eadem ratione intebatur ante ne ipsa in ipsum 
+            <lb ed="#S" n="61"/>introduceretur ista igitur violentia salvatur optime sine simultate <choice><orig>alico</orig><reg>aliquo</reg></choice> 
+            <lb ed="#S" n="62"/>formarum contrariarum in eodem coextensarum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3438">
+            Sed hic est unum dubium 
+            <lb ed="#S" n="63"/>quod si calor ignis posset <choice><orig>remicti</orig><reg>remitti</reg></choice> absque frigoris introduc<lb ed="#S" break="no" n="64"/>tione 
+            tunc ipse ignis <choice><orig>remicti</orig><reg>remitti</reg></choice> posset et si hoc eadem ratione 
+            <lb ed="#S" n="65"/>posset intendi maxime postquam esset remissus et tunc ad subiectam[?] 
+            <lb ed="#S" n="66"/>posset esset motus consequentia[?] <ref xml:id="aw98wa-xg2570-Rd1e3457"><name xml:id="aw98wa-xg2570-Nd1e3458" ref="#Aristotle">philosophus</name> 5 <title ref="#Physics">physicorum</title></ref> et ubique
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3465">
+            <g ref="#pilrow"/>prima consequentia patet per argumentum 
+            <lb ed="#S" n="67"/><ref xml:id="aw98wa-xg2570-Rd1e3470"><name xml:id="aw98wa-xg2570-Nd1e3471" ref="#Averroes">commentatoris</name> 3 <title>ce et m[?]</title> commento 67</ref> contra <name xml:id="aw98wa-xg2570-Nd1e3477" ref="#Avicenna">avicenna</name> qui posuit ut recitat 
+            <lb ed="#S" n="68"/><ref xml:id="aw98wa-xg2570-Rd1e3481"><name xml:id="aw98wa-xg2570-Nd1e3482" ref="#Averroes">commentator</name> ibi et primo <title>de generatione</title></ref> quod elementa manent immixto non re<lb ed="#S" break="no" n="69"/>missa 
+            secundum subiectam sed remissa solum secundum qualitates
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3491">
+            <g ref="#pilcrow"/>Sed <name xml:id="aw98wa-xg2570-Nd1e3495" ref="#Averroes">commentator</name> con<lb ed="#S" break="no" n="70"/>cordans 
+            cum eo quod manent sed non quin remissa arguit sit si qua<lb ed="#S" break="no" n="71"/>litas 
+            potest <choice><orig>remicti</orig><reg>remitti</reg></choice> secundum partem manente subiecta[?] elementi omnino non remis<lb ed="#S" break="no" n="72"/>sa 
+            eadem ratione potest elementum manere secundum subiectam[?] amissa tota qualitate 
+            <lb ed="#S" n="73"/>et ita posset esse ignis et non esse calidus et multa quae essent contra 
+            <lb ed="#S" n="74"/>se solvit sicut recitat <name xml:id="aw98wa-xg2570-Nd1e3513" ref="#Scotus">scotus</name> ubi supra
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3517">
+            <g ref="#pilcrow"/>dicendum quod hoc verum est 
+            <lb ed="#S" n="75"/>secundum omnem viam quod calor ignis <choice><orig>remicti</orig><reg>remitti</reg></choice> potest et hoc sine introductione 
+            <lb ed="#S" n="76"/>contrarii in idem subiectum utrum aut simul <choice><orig>remictatur</orig><reg>remittatur</reg></choice> forma ignis sicut opinatur 
+            <lb ed="#S" n="77"/><name xml:id="aw98wa-xg2570-Nd1e3535" ref="#Averroes">commentator</name> dubium est et sine dubio non credo hic plus de formis elementaribus 
+            <lb ed="#S" n="78"/>quam de formis mixtorum immo huius infert illud ut mihi apparet quia vel 
+            <lb ed="#S" n="79"/>forma alicuius mixtorum non est nisi ipse formae remissae elementorum 
+            <lb ed="#S" n="80"/>et patet tunc consquentiam de se vel est forma superveniens et ad hoc sequitur ide quia 
+            <lb ed="#S" n="81"/>actus activorum sunt in patiente disposito materia autem sub forma elementi 
+            <lb ed="#S" n="82"/>intensiori et remissiori aliter et aliter disponeretur igitur et tamen consequens non 
+            <lb ed="#S" n="83"/>ponit <name xml:id="aw98wa-xg2570-Nd1e3551" ref="#Averroes">commentator</name>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3556">
+            praeterea <name xml:id="aw98wa-xg2570-Nd1e3558" ref="#Aristotle">aristoteles</name> dicit hic indifferenter de omni substantia quod non susci<lb ed="#S" break="no" n="84"/>pit 
+            magis et minus Et prima non plus apparet in igne vel in alio quovis e<lb ed="#S" break="no" n="85"/>lemento 
+            quod unum individuum sit intensius vel perfectius in aequali parte 
+            <lb ed="#S" n="86"/>secundum extensionem quam immixtis immo ibi unum individuum melius 
+            <lb ed="#S" n="87"/>alio ut patet in auro et frumento et in omnibus quasi <g ref="#dot"/> igitur et hic utrobique dicetur 
+            <lb ed="#S" n="88"/>vel nullibi sed tamen in qualitatibus Tamen pro co?re[?] argui potest efficienter satis 
+            <lb ed="#S" n="89"/>quia forma quae est principium accidentium naturaliter commentium[?] si est melior et vigo<lb ed="#S" break="no" n="90"/>rosior 
+            consequenter ut <seg type="correction">vide<del rend="expunctuated">n</del>tur</seg> accidentia vigorosiora et intentiora sed 
+            <lb ed="#S" n="91"/>non solum in elementis sed immixtis quasi omnibus sunt in individuis eiusdem 
+            <lb ed="#S" n="92"/>specie accidentia et consequentia nullam talem differentia secundum intensius et remissius 
+            <lb ed="#S" n="93"/>igitur et in subiecta
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3592">
+            <g ref="#pilcrow"/>per hoc etiam arguunt aliqui quod si in naturalibus sit una 
+            <lb ed="#S" n="94"/>anima intellectiva melior alia in vivacitate in gene[?] et huius igitur et 
+            <lb ed="#S" n="95"/>melior etiam erit in substantia quod horum verius sic nescio sed magis 
+            <lb ed="#S" n="96"/>ex partis naturis rerum sub dubio relinquo ex quo auctores 
+            <lb ed="#S" n="97"/>et scioli contraria circa hoc sentiunt et tenendo viam communem quod non dubio 
+            <lb ed="#S" n="98"/>ad argumentum <name xml:id="aw98wa-xg2570-Nd1e3607" ref="#Averroes">commentoris</name> cum <name xml:id="aw98wa-xg2570-Nd1e3610" ref="#Scotus">scotus</name> quod licet calor ignis <choice><orig>remicti</orig><reg>remitti</reg></choice> valeat 
+            <lb ed="#S" n="99"/>sine remissione subiectae eius non tamen potest naturaliter remanere sine gradu tamen 
+            <lb ed="#S" n="100"/>caloris quia licet non sit dare minimum gradum sibi possibilem caloris 
+            <lb ed="#S" n="101"/>in via remissionis quam tunc esset dare ultimum rei permanent in 
+            <lb ed="#S" n="102"/>esse quantum staret ex parte ista licet per divisibilitatem[?] subiecti hoc forsan praeclueretur 
+            <lb ed="#S" n="103"/>et ideo non esset assignare gradum aliquem ita remissum caloris quin 
+            <lb ed="#S" n="104"/>sibi competere posset per se loquendo gradus minor tamen est bene assigna<lb ed="#S" break="no" n="105"/>re 
+            <lb ed="#S" n="106"/>maximum ad quem non potest in via remissionis <choice><orig>actingere</orig><reg>attingere</reg></choice> sed ces<lb ed="#S" break="no" n="107"/>sat 
+            esse et corrumpitur in instanti isto dato quod <space extent="oneWordLength"/><add place="marginBottom">subito fieret eius corruptio post quod immediate[?] subintraret per remissionem latitudinem illam minoris caliditatis</add> intra quam non potest 
+            <lb ed="#S" n="108"/>naturaliter inveniri
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3648">
+            <g ref="#pilcrow"/>Tenendo autem viam <name xml:id="aw98wa-xg2570-Nd1e3652" ref="#Averroes">commentatoris</name> quae bene probabilis est 
+            <lb ed="#S" n="109"/>concederem consequenter quod ignis potest intendi et remicti quod in casu mo<lb ed="#S" break="no" n="110"/>tus 
+            posset esse ad subiectam[?substantiam?] <!-- if this is actually substantiam then all instances of "subiectum/a" above need to revisited --> vel substantialis forma fieri successive non 
+            <lb ed="#S" n="111"/>solum secundum partibilitatem extensivam m?e[?] praetato modo sed etiam in eadem 
+            <lb ed="#S" n="112"/>parte adaequata subiecti et posset etiam tunc forte in <choice><orig>alico</orig><reg>aliquo</reg></choice> casu 
+            <lb ed="#S" n="113"/>possibili non solum successive augmentari sed a principio successive solum 
+            <lb ed="#S" n="114"/>pro partem ante partem in infinitum generari et nulla pars tota simul pro<lb ed="#S" break="no" n="115"/>duci 
+            nec secundum intensionem nec secundum remissionem utpote mihi ca<lb ed="#S" break="no" n="116"/>su 
+            quo ignis generativus esset extra distantiam proportionatam genm[?] 
+            <pb ed="#S" n="110-r"/>
+            <cb ed="#S" n="a"/>
+            <lb ed="#S" n="1"/>ignis de tali materia et successive actingeret et ingrederetur distantiam 
+            <lb ed="#S" n="2"/>optimam vel per successivam ammo?em[?] inpeditim[?impeditum?] principii et quando 
+            <lb ed="#S" n="3"/>dicis quod secundum <name xml:id="aw98wa-xg2570-Nd1e3690" ref="#Aristotle">philosophus</name> ad substantiam[?] non est motus dico quod numquam ad substantiam[?] 
+            <lb ed="#S" n="4"/>est motus in illo casu vel simili ut ponit modum ad formam accidentale praesti<lb ed="#S" break="no" n="5"/>se[?] 
+            propter virtualem <choice><orig>repungnantiam</orig><reg>repugnantiam</reg></choice> principii passim perfectibilis per formam accidentalem 
+            <lb ed="#S" n="6"/>natam sibi acquiri solum per modum per naturam in tamen quod quantucumque approximaretur 
+            <lb ed="#S" n="7"/>sibi alteratum contrarium ad hoc non obstante quod forma expellenda 
+            <lb ed="#S" n="8"/>totaliter corrumperetur non <del rend="rebi[?]">inciperet formam introducendam subito sed successive 
+            <lb ed="#S" n="9"/>sed sic non est in proposito sed subito ammoto prohabituo alio a re<lb ed="#S" break="no" n="10"/>ceptivo 
+            quod non</del> probet in tali casu <seg type="correction">n<add place="aboveLine">nec</add><del rend="expunctuated">on</del></seg> resistit introducitur quidquid a 
+            <lb ed="#S" n="11"/>tali activo in tali situ introduci potest sicut quo ad hoc per omnia 
+            <lb ed="#S" n="12"/>simile est de productione luminis in medio ut exer?ficatum[?] est de quo 
+            <lb ed="#S" n="13"/>ita dicit <name xml:id="aw98wa-xg2570-Nd1e3729" ref="#Aristotle">philosophus</name> quia subito producitur <choice><orig>sicud</orig><reg>sicut</reg></choice> de substantia quod subito et non per 
+            <lb ed="#S" n="14"/>motum generatur Nota tamen quod successiva productio formae substantialis si sic in<lb ed="#S" break="no" n="15"/>divisibilis 
+            secundum intensionem et non est motus quia nullus movetur ibi ex hoc eet si sic 
+            <lb ed="#S" n="16"/>divisibilis gradualiter numquam tamen ad eam est motus extensive non plus quam etiam 
+            <lb ed="#S" n="17"/>productione luminis
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3745">
+            <g ref="#pilcrow"/><choice><orig>3o</orig><reg>tertio</reg></choice> principaliter est ex conclusionibus respondendum ad quaestionem et ex 
+            <lb ed="#S" n="18"/>responsionibus argumentorum 2i articuli primo enim dicendum est quod loquendo de augmentatione 
+            <lb ed="#S" n="19"/>formae extensiva saepe augmentatur naturaliter una forma ad diminutionem 
+            <lb ed="#S" n="20"/>sui contrarii extensivam et ita per illam si ly per notat concomicantiam solum 
+            <lb ed="#S" n="21"/>vel causam sine qua non cuius enim positio vel praesentia impediret causationem 
+            <lb ed="#S" n="22"/>talis formae puta caloris eius amotio vel destructio est causa sine 
+            <lb ed="#S" n="23"/>qua non causandi frigoris sed nisi prius destrueret vel amoveretur fri<lb ed="#S" break="no" n="24"/>gus 
+            in partibus ligni vel aquae in illis non introduceretur per naturam 
+            <lb ed="#S" n="25"/>calor ex conclusione <choice><orig>2a</orig><reg>secunda</reg></choice> primi articuli igitur etc et per 2[?] ab activo nato fri<lb ed="#S" break="no" n="26"/>gus 
+            corrumpere et calorem inducere ad extensivam destructionem frigoris 
+            <lb ed="#S" n="27"/>poterit secundum extensionem crescere calor ubi prius erat frigus <g ref="#dot"/>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3781">
+            <lb ed="#S" n="28"/><g ref="#pilcrow"/>Iuxta hanc consequentiam probatam pono aliam quod ad remissionem frigoris in 
+            <lb ed="#S" n="29"/>una parte subiecti vel etiam ad frigoris successivam destructionem secundum extensionem 
+            <lb ed="#S" n="30"/>poterit calor crescere intensive cuius praesentia in situ propinquo <choice><orig>inpe<lb ed="#S" break="no" n="31"/>diret</orig><reg>impe<lb ed="#S" break="no" n="31"/>diret</reg></choice> 
+            productionem caloris intensivam cuius successiva remotio ipsam per 
+            <lb ed="#S" n="32"/>accidens promoveret <choice><orig>sicud</orig><reg>sicut</reg></choice> est hic ut patet per experientiam satis certam no<lb ed="#S" break="no" n="33"/>tum 
+            est enim quod unum contrariorum <choice><orig>inpedit</orig><reg>impedit</reg></choice> actionem alterius sibi approximati 
+            <lb ed="#S" n="34"/>in toto vel in parte igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3816">
+            <g ref="#pilcrow"/><choice><orig>3a</orig><reg>tertia</reg></choice> conclusio quod in eadem parte adaequata alicuius 
+            <lb ed="#S" n="35"/>subiecti non crescit naturaliter nec crescere potest praecise per viam naturae unum contrario<lb ed="#S" break="no" n="36"/>rum 
+            ad detrimentum alterius in eodem ita patet ex 2a primi articuli quod num<lb ed="#S" break="no" n="37"/>quam 
+            sunt per naturam simul in eodem aliqua coextensa incompossibiliter contraria nec 
+            <lb ed="#S" n="38"/>in simul naturaliter producibilia igitur etc
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3833">
+            <choice><orig>4a</orig><reg>quarta</reg></choice> conclusio quod positis simul contrariis 
+            <lb ed="#S" n="39"/>formis in eodem subiecto extensis per divinam potentiam per solam diminuitionem 
+            <lb ed="#S" n="40"/>unius illarum non cresceret alia secundum essentiam et est haec de se satis nota <g ref="#dot"/> 
+            <lb ed="#S" n="41"/>et iuxta <g ref="#carrot"/><add place="marginLeft">hanc</add> dico similem in omni casu ubi contraria miscerentur per iuxta positionem par<lb ed="#S" break="no" n="42"/>tium 
+            minutarum et suorum subiectorum modo superius explicato quod ibi 
+            <lb ed="#S" n="43"/>ad solam diminutionem unius contrariorum reliquum non cresceret secundum nullam
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3857">
+            <lb ed="#S" n="44"/><g ref="#pilcrow"/>verum?ptm simul cum hoc dico quod vix per naturam posset ibi remanente mix<lb ed="#S" break="no" n="45"/>tione 
+            subiectorum remissio unius contrariorum ibi fieir sine intensione reliqui 
+            <lb ed="#S" n="46"/>quod patet quia fere quodlibet activum quod natum esset diminuere unum contrariorum in 
+            <lb ed="#S" n="47"/>sitibus sit propinquis natum esset intendere reliquum in s?tis[?] ita sibi 
+            <lb ed="#S" n="48"/>praesentibus ut tunc essent
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3871">
+            <g ref="#pilcrow"/>7a conclusio quod in hiis <choice><orig>4or</orig><reg>quattuor</reg></choice> casibus ad 
+            <lb ed="#S" n="49"/>remissionem vel diminutionem unius formae contrariarum secundum existentiam cres<lb ed="#S" break="no" n="50"/>ceret 
+            contraria secundum apparentiam illud patet in experientis infinitis unde panno 
+            <lb ed="#S" n="51"/>lineo madefacto et non tunc apparente ita albo <choice><orig>sicud</orig><reg>sicut</reg></choice> prius si ex<lb ed="#S" break="no" n="52"/>ponatur 
+            ad solem vel ad ignem desiccetur per extractionem humoris sibi 
+            <lb ed="#S" n="53"/>incorporati per cuius incorporationem apparuit minus albus quam esset 
+            <lb ed="#S" n="54"/>statim sic albior quam prius erat secundum aparentiam non secundum existentiam 
+            <lb ed="#S" n="55"/>ita est in aliis infinitis quod ad consumptionem unius contrariorum solum si 
+            <lb ed="#S" n="56"/>esse apparet magis reliquum quam prius idem tamen omnino existens de possibili 
+            <lb ed="#S" n="57"/>saltem isto etiam modo secundum apparentiam et non secundum existentiam si album rarum 
+            <lb ed="#S" n="58"/>densaretur ex sole foret albus unde si miscerentur unde ad invicem 
+            <lb ed="#S" n="59"/>corpus album pedale 10 graduum albedinis secundum intentionem et corpus 
+            <cb ed="#S" n="b"/><!-- 110rb -->
+            <lb ed="#S" n="60"/>nigrum pedale super x graduum nigredinis subiectis et formis non corru<lb ed="#S" break="no" n="61"/>ptis 
+            secundum partem aliquam parvam in quales fit divino[?] appareret ibi 
+            <lb ed="#S" n="62"/>unum corpus proveniens bipedale medio colore coloratum quantum 
+            <lb ed="#S" n="63"/>omnis visus humanus daret iudicare et si per deum vel per nullam des<lb ed="#S" break="no" n="64"/>truerentur 
+            continue partes nigredinis salvus semper omnibus partibus albedinis 
+            <lb ed="#S" n="65"/>continue secundum apparentiam esset illud quod remaneret albus[?] dato quod nullum gradus 
+            <lb ed="#S" n="66"/>albedinis reciperet noviter in essendo seu secundum esse
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3926">
+            <g ref="#pilcrow"/>Iuxta hanc pono 
+            <lb ed="#S" n="67"/>8am quod non solum in tali casu ad diminutionem unius contrariorum cresceret re<lb ed="#S" break="no" n="68"/>liquum 
+            secundum apparentiam sed secundum potentiam ut ita loquar sic scilicet intelligendo 
+            <lb ed="#S" n="69"/>quod haberet efficiaret operationem quam prius qui contraria in suis operationibus na<lb ed="#S" break="no" n="70"/>ta 
+            sunt se mutuo <choice><orig>inpedire</orig><reg>impedire</reg></choice> igitur quantum decresceret alterum tanto 
+            <lb ed="#S" n="71"/>minus <choice><orig>inpediretur</orig><reg>impediretur</reg></choice> reliquum agendo
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3950">
+            <g ref="#pilcrow"/>ultimo videtur mihi dicendum quod in 
+            <lb ed="#S" n="72"/>casu ubi contraria per dei potentiam essent in eodem subiecto coextensa et 
+            <lb ed="#S" n="73"/>hoc in eodem situ adaequato quod per <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>nullum</add> agens creatum posset naturaliter 
+            <lb ed="#S" n="74"/>ad diminutionem unius secundum existentiam crescere reliquum
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3966">
+            <g ref="#pilcrow"/>hanc probo qui si 
+            <lb ed="#S" n="75"/>aliquem gradum huius contrarii <c>a</c><g ref="#dot"/> posset perducere in subiecto in formato sibi <g ref="#dot"/><c>b</c><g ref="#dot"/> 
+            <lb ed="#S" n="76"/>contrario mere naturaliter di?ssis[?] rebus agere secundum cursum naturae igitur pari ratione 
+            <lb ed="#S" n="77"/>posset hoc alibi ubi essent per deum simul contraria in eodem quia qua ratione 
+            <lb ed="#S" n="78"/>reliquum contrarium hoc non <choice><orig>repungnaret</orig><reg>repugnaret</reg></choice> nec <choice><orig>inpediret</orig><reg>impediret</reg></choice> dimissum suae 
+            <lb ed="#S" n="79"/>naturali activitati nec alibi ut videtur
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e3998">
+            <g ref="#pilcrow"/>ad argumenta ad primam partem quaestio<lb ed="#S" break="no" n="80"/>nis 
+            concludunt verum secundum cursum negatur ad primum in partem contrariam dicendum quod 
+            <lb ed="#S" n="81"/>habet intelligi vel per modum <del rend="strikethrough">s</del> tactum secundum apparentiam sicut de panno 
+            <lb ed="#S" n="82"/>madefacto vel si secundum existentiam hoc est quia illud quod corrumpit nigre<lb ed="#S" break="no" n="83"/>dines 
+            iuxta positas simul cum hoc intendit albedines in partibus 
+            <lb ed="#S" n="84"/>albedinis vel si non est sic de istis contrariis ita eset de aliis ac<lb ed="#S" break="no" n="85"/>tivis 
+            <subst><add place="margin-right">minuitem[?] et passis</add> <del rend="expunctuated">omnem passum</del></subst>
+          </p>
+          <p xml:id="aw98wa-xg2570-d1e4026">
+            <g ref="#pilcrow"/>ad 2m satis patet et responsis est prius ad 
+            <lb ed="#S" n="86"/>3m magis patebit infra
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

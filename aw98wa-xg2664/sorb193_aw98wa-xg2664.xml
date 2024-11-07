@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5 [Sorb193 Transcription]</title>
+          <date when="2014-01-10">January 10, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2014-01-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="110-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg2664"><!-- b1-d17-q5 -->
+        <head xml:id="aw98wa-xg2664-Hd1e101">Quaestio 5 [Sorbonne Transcription]</head>
+        <p xml:id="aw98wa-xg2664-d1e103">
+          <lb ed="#S" n="87"/><hi rend="fourLineDropCap">Q</hi>uinto circa distinctionem 17 quaero utrum augmentatione caritatis vel 
+          <lb ed="#S" n="88"/>alterius formae gradus omnis <seg type="correction">prae<g ref="#carrot"/><add place="aboveLine">ex</add>istens</seg> corrumpatur cum 
+          <lb ed="#S" n="89"/>novus gradus inducitur ita valet intelligendo quod in omni instanti 
+          <lb ed="#S" n="90"/>sit totaliter nova forma
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e123">
+          <g ref="#dot"/>videtur quod sic <g ref="#dot"/> quia secundum <ref xml:id="aw98wa-xg2664-Rd1e129"><name xml:id="aw98wa-xg2664-Nd1e130" ref="#Averroes">commentatorem</name> et <name xml:id="aw98wa-xg2664-Nd1e133" ref="#Aristotle">philosophus</name> 3o 
+          <lb ed="#S" n="91"/><title ref="#deAnima">de anima</title> pluries </ref> oportet recipiens denudari a natura recepti igitur 
+          <lb ed="#S" n="92"/>anima quando novum gradum caritatis recipit denudatur ab omnibus praece<lb ed="#S" break="no" n="93"/>dentibus
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e146">
+          <g ref="#dbslash"/>Contra tunc nullus actus meritorius procederet a caritate quia 
+          <lb ed="#S" n="94"/>sicut quis meretur deus auget caritatem igitur si quis in hoc instanti no<lb ed="#S" break="no" n="95"/>viter 
+          meretur in hoc instanti datur sibi nova caritas <g ref="#dot"/> ab ista non pro<lb ed="#S" break="no" n="96"/>cedit 
+          praesens meritum quia ipsa est posterior <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>natura</add> t?e[?] vel causalitate hoc merito 
+          <lb ed="#S" n="97"/>pro ipso collata nec ab alia quia nulla est alia in hoc instanti nisi rema<lb ed="#S" break="no" n="98"/>neat 
+          praeexistens
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e169">
+          <g ref="#slash"/>Item tunc frigidum sub centuplo frigore per su<lb ed="#S" break="no" n="99"/>um 
+          frigus remittendo calorem destrueret calorem centuplo 
+          <lb ed="#S" n="100"/>se maiorem quia statim erit ibi alius calore <g ref="#dot"/>secundum hoc <g ref="#dot"/>
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e183">
+          <g ref="#carrot"/><add place="margin-right"><g ref="#pilcrow"/>Ait <g ref="#carrot"/></add> primo tenebo 
+          <lb ed="#S" n="101"/>quod non propter rationes ad oppositum et alias apponendas <g ref="#dot"/> <choice><orig>2o</orig><reg>secundo</reg></choice> arguam contra 
+          <lb ed="#S" n="102"/>conclusionem meam et solvam
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e202">
+          <g ref="#pilcrow"/>pro hac igitur conclusione arguit <ref xml:id="aw98wa-xg2664-Rd1e206"><name xml:id="aw98wa-xg2664-Nd1e207" ref="#Ockham">okam</name> libro primo distinctione 17 quaestione 
+          <lb ed="#S" n="103"/>5 contra opinionem primam</ref> primo per hoc quod in individuis eiusdem speciei non est 
+          <lb ed="#S" n="104"/>ordo secundum perfectivus et imperfectivus nisi propter maiorem pluralitatem partium etc 
+          <lb ed="#S" n="105"/>quare ibi et <choice><orig>omicte</orig><reg>omitte</reg></choice> quod cui[?] non placet in hoc argumento et in aliis
+        </p> 
+        
+        <p xml:id="aw98wa-xg2664-d1e222">
+          <lb ed="#S" n="106"/><g ref="#pilcrow"/>Item <choice><orig>2o</orig><reg>secundo</reg></choice> per hoc quod nulla est repungnantia caritatis ad caritatem cum sicut 
+          <lb ed="#S" n="107"/>eiusdem rationis etc.
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e234">
+          <g ref="#pilcrow"/><choice><orig>3o</orig><reg>tertio</reg></choice> per argumentum <name xml:id="aw98wa-xg2664-Nd1e241" ref="#Scotus">scotus</name> quod actus meritorius caritatis 
+          <lb ed="#S" n="108"/>vel virtutis habitum virtutis augmentat igitur habitus praecedens re<lb ed="#S" break="no" n="109"/>manet 
+          et habetur propositum vel non remanet et tunc iste actus non 
+          <lb ed="#S" n="110"/>esset ab habitu quia nec a praecedenti nec a novo etc
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e251">
+          <g ref="#pilcrow"/><choice><orig>4o</orig><reg>quarto</reg></choice> arguit <name xml:id="aw98wa-xg2664-Nd1e258" ref="#Scotus">scotus</name> 
+          <lb ed="#S" n="111"/>quod <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>4us</add> sensus actus augmentans habitum potest esse <choice><orig>inperfectior</orig><reg>imperfectior</reg></choice> primo actu 
+          <lb ed="#S" n="112"/>vel secundo
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e276">
+          <g ref="#pilcrow"/><choice><orig>5o</orig><reg>quinto</reg></choice> quod similiter sicut arguit <name xml:id="aw98wa-xg2664-Nd1e283" ref="#Scotus">scotus</name> tunc calidum <choice><orig>remictens</orig><reg>remittens</reg></choice> fri<lb ed="#S" break="no" n="113"/>gidum 
+          infrigido produceret frigus etc Item in positione sua 
+          <lb ed="#S" n="114"/>arguit ducendo ad inconvenientia
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e296">
+          <g ref="#pilcrow"/>primum quod tunc in tali augmentatione 
+          <lb ed="#S" n="115"/>essent infinitae formae quarum nulla est pars alterius nec aliquae partes 
+          <lb ed="#S" n="116"/>eius fuissent pertransitae
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e305">
+          <g ref="#pilcrow"/>ad hoc ducit <ref xml:id="aw98wa-xg2664-Rd1e309"><name xml:id="aw98wa-xg2664-Nd1e310" ref="#Scotus">scotus</name> quare quaestione 4 distinctione 
+          <lb ed="#S" n="117"/>17 primi</ref> et secundum quod tunc esset dare ultimum rei permanentis in esse et illud 
+          <lb ed="#S" n="118"/>amplius mihi placet qui alias ostendi hoc includere contradictionem nisi 
+          <lb ed="#S" n="119"/>daretur tempus componi ex instantibus quod scilicet alia res habeat 
+          <pb ed="#S" n="110-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>ultimum surum[?] et tamen quod non particulariter desinat esse consequentiam probat iste satis bene 
+          <lb ed="#S" n="2"/>quare
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e330">
+          <g ref="#dbslash"/>Ex quo ulterius infert duplex inconveniens primum quod naturaliter poterit 
+          <lb ed="#S" n="3"/>fieri quod alia res permanens et permansiva tantum duret per instans 
+          <lb ed="#S" n="4"/><g ref="#dbslash"/>Et ex hoc ultra quod deus potest simul facere actum infinita quod est contra mul<lb ed="#S" break="no" n="5"/>tos 
+          contrariam opinantes infinita inquit non facientia unum quid Istud 
+          <lb ed="#S" n="6"/>tamen quod hic addunt de partibus conci?[?] quod sint infinite d?te[?] totaliter non est 
+          <lb ed="#S" n="7"/>verum generaliter intellectum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e347">
+          <g ref="#pilcrow"/>Item arguit <ref xml:id="aw98wa-xg2664-Rd1e351"><name xml:id="aw98wa-xg2664-Nd1e352" ref="#Scotus">scotus</name> et bene incidit quaestione in idem</ref> 
+          <lb ed="#S" n="8"/>cum pari ratione <name xml:id="aw98wa-xg2664-Nd1e358" ref="#Ockham">okam</name> quod tunc natura talis intensibilis sub determinato gradu 
+          <lb ed="#S" n="9"/>magis vel minus esset species <add place="marginLeft">ad individua haec est intensio albedo in tali gradu vel caritas in tali gradu est species</add> speciessima et tunc haec intentio albedo esset genus 
+          <lb ed="#S" n="10"/>proximum et ita de omni natura habente talia individua extendentia et ex<lb ed="#S" break="no" n="11"/>cessa 
+          consequentiam probat quia quidquid dicitur per se et inquit de multis indivi<lb ed="#S" break="no" n="12"/>duis 
+          similitudinis solo numero differentibus et <g ref="#carrot"/><add place="aboveLine">est</add> conceptus absolutus et simplex 
+          <lb ed="#S" n="13"/>est species talium sed ita est de intentione causabili[?] ab albe<lb ed="#S" break="no" n="14"/>dine 
+          in tali gradu igitur ita intentio <g ref="#dot"/> solis 8[?] talibus communis est species 
+          <lb ed="#S" n="15"/>nec apparet ibi rationabilis ?vasio[?] nisi ista quam exprimi <ref xml:id="aw98wa-xg2664-Rd1e386"><name xml:id="aw98wa-xg2664-Nd1e387" ref="#Ockham">okam</name> in suo 
+            <lb ed="#S" n="16"/>primo argumento</ref>
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e394">
+          <g ref="#pilcrow"/>praeterea sicut tangit <name xml:id="aw98wa-xg2664-Nd1e398" ref="#Scotus">scotus</name> tunc non salvaretur motus 
+          <lb ed="#S" n="17"/>secundum talem et talem qualitatem quia statim quando recedetur a termino a quo 
+          <lb ed="#S" n="18"/>generatur alia forma et tunc non salvaretur unitas motus ad qua<lb ed="#S" break="no" n="19"/>litatem 
+          aut conci?tas[?] nisi secundum partes motus et ita successio non argueret 
+          <lb ed="#S" n="20"/>motum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e411">
+          <g ref="#pilcrow"/>Et videretur motus vel successio continua componi ex indivi<lb ed="#S" break="no" n="21"/>sibilibus 
+          quae videntur inconvenientia et contra rationem et contra patet quia ad unitatem al<lb ed="#S" break="no" n="22"/>terationis 
+          requiritur unitas formae secundum quam est per <ref xml:id="aw98wa-xg2664-Rd1e419"><name xml:id="aw98wa-xg2664-Nd1e420" ref="#Aristotle">philosophus</name> et <name xml:id="aw98wa-xg2664-Nd1e423" ref="#Averroes">commentatorem</name> 5 <title ref="#Physics">physicorum</title></ref> <add place="marginLeft">et rationabile esset hoc si non differetur ab eis</add> 
+          <lb ed="#S" n="23"/><g ref="#dbslash"/>Item etiam <g ref="#carrot"/><add place="above-line">rationem</add> factit <c>C</c><g ref="#dot"/> et probat consequentiam quia non est hic maior unitas 
+          <lb ed="#S" n="24"/>motus praeter unitatem subiecti quam si deus continue faceret angelum post <add place="marginBottom">angelum vel saltem dicam ego quam si ds[?] continue faceret animam post animam in eodem corpore</add> 
+          <lb ed="#S" n="25"/>gradm ca?tu[?] <g ref="#carrot"/><add place="marginLeft"><g ref="#carrot"/>aequalem</add> post alium continue sicut in proposito facit inaequalem secundum hanc 
+          <lb ed="#S" n="26"/>viam immo melius vocaretur tunc motus distractus quam conti?us[?]
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e460">
+          <lb ed="#S" n="27"/><g ref="#pilcrow"/>Item iuxta argumentum <name xml:id="aw98wa-xg2664-Nd1e465" ref="#Scotus">scotus</name> videtur inconveniens magnum quod actus peccati 
+          <lb ed="#S" n="28"/>commissionis <choice><orig>remictens</orig><reg>remittens</reg></choice> habitus virtutis causet habitum minus intensum 
+          <lb ed="#S" n="29"/>vel quod actus odiendi deum producat active amorem dei habi<lb ed="#S" break="no" n="30"/>tualem 
+          nec valet ratio de producere per accidens quia non est hic alia casua 
+          <lb ed="#S" n="31"/>sufficiens de facto quae per se producat illum Et per idem potest tunc argui 
+          <lb ed="#S" n="32"/>quod actus compti?us[?] generaret <add>tunc[?]</add> vitium
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e486">
+          <g ref="#pilcrow"/>praeterea ista via non salvat 
+          <lb ed="#S" n="33"/>augmentum sed solum generatione et corruptionem quia nihil hic maneri intra speciem 
+          <lb ed="#S" n="34"/>formae cui <subst><add place="marginLeft">aliquid aceresceret[?]</add><del rend="expunctuated">corresponderet</del></subst>
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e501">
+          <g ref="#pilcrow"/>ad hanc etiam con?om[?] arguit <name xml:id="aw98wa-xg2664-Nd1e505" ref="#RichardFitzRalph">firafis</name> primo 
+          <lb ed="#S" n="35"/>quia sequitur quod alteratio facta secundum tales formas componatur ex indivisibilibus 
+          <lb ed="#S" n="36"/>et mutatis esse quod <choice><orig>repungnat</orig><reg>repugnat</reg></choice> <ref xml:id="aw98wa-xg2664-Rd1e517">6 <title>physicorum</title></ref> consequentia probatur quia materia eius componitur ex 
+          <lb ed="#S" n="37"/>indivisibilibus secundum qualitatem sibi successionibus ut ponit opinionem haec nec habet 
+          <lb ed="#S" n="38"/>aliam materiam secundum quam fit <add place="margin-left">alteratio</add> igitur alteratio componitur eodem modo ex indivisibilibus 
+          <lb ed="#S" n="39"/>consequentia patet quia materia et motus consequuntur se in divisibilitate et in indivisibilitate 
+          <lb ed="#S" n="40"/>sicut probat <ref xml:id="aw98wa-xg2664-Rd1e533"><name xml:id="aw98wa-xg2664-Nd1e534" ref="#Aristotle">philosophus</name> 6 <title ref="#Physics">physicorum</title></ref> et <name xml:id="aw98wa-xg2664-Nd1e540" ref="#Averroes">commentator</name> ille commento 17
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e544">
+          <g ref="#pilcrow"/>Item instans tunc 
+          <lb ed="#S" n="41"/>esset immediatum instanti consequentia probatur <g ref="#dot"/> aliter tamen quam ab eo <g ref="#dot"/> quia immediate post 
+          <lb ed="#S" n="42"/>ca?re[?] qui est in hoc instanti individualis intensive et indivisibiliter 
+          <lb ed="#S" n="43"/>existens <add place="margin-left"/>erit alicuius calor simpliciter indivisibilis et indivisibiliter existens alioquin alteratio non esset continua nec uniformis et per consequens 
+          <lb ed="#S" n="44"/>immediate post hoc instans erit alius sine tempore medio immo alius erit im<lb ed="#S" break="no" n="45"/>mediate 
+          post hoc instans totaliter distinctus ab isto
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e566">
+          <g ref="#pilcrow"/>Et confirmatur hic per 
+          <lb ed="#S" n="46"/>modum arguendi <ref xml:id="aw98wa-xg2664-Rd1e572"><name xml:id="aw98wa-xg2664-Nd1e573" ref="#Averroes">commentatoris</name> super 8 <title>physicorum</title> commento 33</ref> ubi probat quod 
+          <lb ed="#S" n="47"/>augmentatio digitalis facta in uno ano non est continua per totum 
+          <lb ed="#S" n="48"/>annum quia sicut arguit quaelibet pars ibi generata fuit subito 
+          <lb ed="#S" n="49"/>et in instanti igitur infert ipse augmentatio non est continua nisi instantia con<lb ed="#S" break="no" n="50"/>tinarentur[?] 
+          in tempore antecedens tamen <name xml:id="aw98wa-xg2664-Nd1e588" ref="#Averroes">commentatoris</name> ego falsum esse non dubito 
+          <lb ed="#S" n="51"/>quia tunc motu localis fieret in instanti nisi intelligeret quod suito generaretur 
+          <lb ed="#S" n="52"/>et pos dilataretur et non simul
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e596">
+          <g ref="#pilcrow"/>praeterea tenentes consequentiam conclusioni probandae po<lb ed="#S" break="no" n="53"/>nunt 
+          quod contraria compatiuntur se in eodem et quod ad introductionem caloris 
+          <lb ed="#S" n="54"/>corrumpitur aliquis gradus frigiditatis igitur hoc dato simul cum conclusione probanda sequitur 
+          <lb ed="#S" n="55"/>quod eadem qualitas generet se probo consequentiae ponatur quod tandum agat 
+          <lb ed="#S" n="56"/>infrigidum et quod repatiatur illud calidum ab isto frigido 
+          <lb ed="#S" n="57"/>sicut est <choice><orig>neccessariam</orig><reg>necessariam</reg></choice> secundum <name xml:id="aw98wa-xg2664-Nd1e615" ref="#Aristotle">philosophus</name> et <name xml:id="aw98wa-xg2664-Nd1e618" ref="#Averroes">commentatorem</name> 4us <title ref="#Physics">physicorum</title> commento 16 <g ref="#dot"/> ubi dicunt et 
+          <lb ed="#S" n="58"/>libro de generatione quod omne agens naturale in agendo repatitur 
+          <lb ed="#S" n="59"/>sic igitur caliditas generata infrigido in hoc instanti <c>a</c><g ref="#dot"/> et quia secundum 
+          <cb ed="#S" n="b"/><!-- 110vb-->
+          <lb ed="#S" n="60"/>istam positionem per hoc quod <c>a</c><g ref="#dot"/> generatur infrigido corrupatur frigiditas prae<lb ed="#S" break="no" n="61"/>cedens 
+          et generatur per accides <del rend="expunctuated">et</del> una remissior sic ita remissior 
+          <lb ed="#S" n="62"/>quae <g ref="#carrot"/><add place="margginCenter"><g ref="#carrot"/>est</add> in hoc instanti <c>b</c><g ref="#dot"/> simili modo si caritas quae generatur in hoc instanti <g ref="#dot"/><c>b</c><g ref="#dot"/> in 
+          <lb ed="#S" n="63"/>hoc agente calido per repassionem <c>c</c><g ref="#dot"/> et frigiditas in eo genera<lb ed="#S" break="no" n="64"/>ta 
+          in hoc instanti <c>d</c> tunc ex quo in omni motu movens et motum 
+          <lb ed="#S" n="65"/>sunt simul in rr[?] natura et in omni etiam generatione et <del rend="expunctuated">cor</del> actione agens et 
+          <lb ed="#S" n="66"/>factum sunt simul quod non quod nihil est nihil facit sequitur quod <c>a</c> et <c>b</c><g ref="#dot"/> ex u<lb ed="#S" break="no" n="67"/>na 
+          <g ref="#carrot"/><add place="margin-center"><g ref="#carrot"/>parte</add> generentur et in hoc instanti ab aliquibus qualitatibus quae sunt etiam in 
+          <lb ed="#S" n="68"/>hoc instanti et non sunt aliae qualitates inca?do[?] agente quam et <c>d</c><g ref="#dot"/> ita nec 
+          <lb ed="#S" n="69"/>aliae infrigido reagente quam <c>a</c><g ref="#dot"/> et <c>b</c><g ref="#dot"/> et econtra igitur ea <c>d</c> qualitas 
+          <lb ed="#S" n="70"/>generat se mediante quia generat generans se immediate quod est propositum 
+          <lb ed="#S" n="71"/>haec illae praeter pauca verba quae addit propter ad fortificationem argumenti
+        </p> 
+        <p xml:id="aw98wa-xg2664-d1e716">
+          <lb ed="#S" n="72"/><g ref="#pilcrow"/>Tamen non video quod oporteat supponere contraria in eodem proportionaliter 
+          <lb ed="#S" n="73"/>intendi et <choice><orig>remicti</orig><reg>remitti</reg></choice> immo aeque videtur valere argumentum sine hoc per hoc quod 
+          <lb ed="#S" n="74"/>agens naturale in agendo repatiatur[?] nam tunc eodem modo sicut prius 
+          <lb ed="#S" n="75"/>erit utrobique nova forma tota et ultra ut prius deduci po<lb ed="#S" break="no" n="76"/>terit 
+          argumentum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e735">
+          <g ref="#pilcrow"/>praeterea retento eodem casu sequitur quod nulla corrumpetur quali<lb ed="#S" break="no" n="77"/>tas 
+          passim per aliquam qualitatem istius activi quae non sic et ita nulla 
+          <lb ed="#S" n="78"/>qualitas istius corrumpit aut corrumpitur per aliquam quae non est quia quod adhuc 
+          <lb ed="#S" n="79"/>est non corrumpitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e746">
+          <g ref="#pilcrow"/>Et praeterea nunc producit istam <add place="margin-right">igitur nunc non corrumpit illam</add> alioquin simul produ<lb ed="#S" break="no" n="80"/>ceret 
+          et corrumperet idem omnino neque corrumperet quia nulla huius agentis 
+          <lb ed="#S" n="81"/>quae nunc est non erit post hoc instans igitur nec corruptionem aliquid post 
+          <lb ed="#S" n="82"/>hoc instans nam omne quod corrumpit vel corrumpet aliud est aliquid vel erit 
+          <lb ed="#S" n="83"/>aliquid pro instanti quo corrumpit vel corrumpet Item tunc <choice><orig>remictens</orig><reg>remittens</reg></choice> ca?rum[?] 
+          <lb ed="#S" n="84"/>per modici?tm[?] cuius faceret unum infinitum per aequivalentiam quia infinitas 
+          <lb ed="#S" n="85"/>qualitates alicuius determinate quantitatis vel maioris corrumperet quod est per 
+          <lb ed="#S" n="86"/>aequivalentiam tamen malum sicut si plus corrumpentur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e773">
+          <g ref="#pilcrow"/>Item post <c>d</c> anima[?] 
+          <lb ed="#S" n="87"/>contra platonicos ponentes animam movere circulariter ut <choice><orig>speram</orig><reg>spheram</reg></choice> tan<lb ed="#S" break="no" n="88"/>gentem 
+          intelligibilia arguit <name xml:id="aw98wa-xg2664-Nd1e788" ref="#Aristotle">philosophus</name> deducendo ad illud inconveniens quod tunc infinite 
+          <lb ed="#S" n="89"/>intellectiones erunt pertransitae in parvo tempore
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e794">
+          <g ref="#pilcrow"/>Item tunc agens natura<lb ed="#S" break="no" n="90"/>le 
+          in <sic>tentuplo</sic> perfectius alio <g ref="#carrot"/><add place="aboveLine">in</add> passo minus resistente et hoc 
+          <lb ed="#S" n="91"/>agens secundum ultimum potentiae suae produceret effectum in <seg type="correction">cen<g ref="#carrot"/><add rend="aboveLine">tu</add>plo</seg> imperfectio<lb ed="#S" break="no" n="92"/>rem 
+          quam agens sub centuplum in passo maius <choice><orig>repungnante</orig><reg>repugnante</reg></choice> 
+          <lb ed="#S" n="93"/>retento casu argumenti quem ponunt communiter tenentes oppositum conclusionis hic 
+          <lb ed="#S" n="94"/>probandae quia illud calidum[?] producit vel producere potest infrigido calorem 
+          <lb ed="#S" n="95"/><sic>subcentuplum</sic> illi quem producit illud frigidum in tali calido <choice><orig>remictum</orig><reg>remittum</reg></choice> 
+          <lb ed="#S" n="96"/>do per reactionem calorem illius ponatur quod sint in tali proportione 
+          <lb ed="#S" n="97"/>sicut est possibile illis datis igitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e839">
+          <g ref="#pilcrow"/>Item specialiter argui potest 
+          <lb ed="#S" n="98"/>hic in proposito de caritate quia caritas non corrumpitur nisi intervenien<lb ed="#S" break="no" n="99"/>te 
+          mortali peccato sed in augmentatione caritatis peccatum mortale non 
+          <lb ed="#S" n="100"/>intervenit unde et in isto casu de caritate tenet <name xml:id="aw98wa-xg2664-Nd1e849" ref="#Campsall">campsale</name> sequens 
+          <lb ed="#S" n="101"/>oppositam conclusionem[?] quod caritas prior non corrumpitur sed advenit conclusionem[?] alia 
+          <lb ed="#S" n="102"/>et alia non componentes cum prioribus
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e859">
+          <g ref="#pilcrow"/>Contra istam conclusionem arguitur mul<lb ed="#S" break="no" n="103"/>tipliciter 
+          secundum <name xml:id="aw98wa-xg2664-Nd1e865" ref="#Aristotle">philosophum</name> generatio unius est corruptio alterius sed in fine augmentationis 
+          <lb ed="#S" n="104"/>caliditatis aliquid est de novo genitum igitur aliquid in corrumpitur et 
+          <lb ed="#S" n="105"/>non nisi caritas igitur etc
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e873">
+          <g ref="#pilcrow"/>Item in motu locali mobile desinit 
+          <lb ed="#S" n="106"/>habere locum a??m[?] praehabitum vel partem illius igitur a simili in motu ad 
+          <lb ed="#S" n="107"/>formam
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e882">
+          Item termini motus sunt incompossibiles sed in augmentatione caritatis 
+          <lb ed="#S" n="108"/>et alterius formae caritas[?] praehabita est terminus a quo et terminus ad quem 
+          <lb ed="#S" n="109"/>caritas sequens igitur istae caritates sunt naturaliter incompossibiles in 
+          <lb ed="#S" n="110"/>eodem
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e891">
+          <g ref="#pilcrow"/>Et si dicas quod per se terminus a quo non est caritas seu privo seu 
+          <lb ed="#S" n="111"/>non esse caritatis acquirendae
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e898">
+          <g ref="#pilcrow"/>Contra alteratio est motus inter terminos 
+          <lb ed="#S" n="112"/>positivos quia est a subiecto in subiectum id est a positivo in positum <ref xml:id="aw98wa-xg2664-Rd1e904">5 <g ref="#dot"/> 
+            <lb ed="#S" n="113"/><title ref="#Physics">physicarum</title></ref>
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e913">
+          <g ref="#pilcrow"/>praeterea contraria non compatiuntur se in eadem parte ex praecedente conclusione 
+          <lb ed="#S" n="114"/>si caritas maior et minor contrariantur ut videtur qui per <ref xml:id="aw98wa-xg2664-Rd1e919"><name xml:id="aw98wa-xg2664-Nd1e920" ref="#Aristotle">philosophus</name> 5 <title ref="#Physics">physicarum</title> 
+            <lb ed="#S" n="115"/>minus album contrariatur magis albedo et patet etiam aliunde quia <choice><orig>inpossibile</orig><reg>impossibile</reg></choice></ref> est idem 
+          <lb ed="#S" n="116"/>subiectum simul et semel esse minus calidum et magis calidum et hoc non 
+          <lb ed="#S" n="117"/>est nisi propter aliquam <choice><orig>repungnantiam</orig><reg>repugnantiam</reg></choice> vel contrarietatem igitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e943">
+          <g ref="#pilcrow"/>praeterea augmentatio 
+          <lb ed="#S" n="118"/>mobilis et qualitativa similes esse videntur in omnibus nisi quod una est secundum 
+          <pb ed="#S" n="111-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>extensionem et alia secundum intensionem sed saepe in augmentatione mobilis et extensa 
+          <lb ed="#S" n="2"/>quantitas praeexistens corrumpitur igitur similiter in qualitativa seu secundum intensionem <g ref="#dot"/> 
+          <lb ed="#S" n="3"/>minorem probo quia volo quod aer rarefiat uniformiter vel a deo sal<lb ed="#S" break="no" n="4"/>tem 
+          secundum omnem partem tunc quaero aut quantitas praecedens manet aut corrumpitur 
+          <lb ed="#S" n="5"/>et si corrumpitur habetur propositum si manet aut igitur manet secundum se totam prae<lb ed="#S" break="no" n="6"/>cise 
+          in eodem subiecto quo prius aut in alio si detur primum quaero a 
+          <lb ed="#S" n="7"/>quo recipitur quantitas adveniens aut in isto so?to[?] aut in parte sua aut 
+          <lb ed="#S" n="8"/>in <choice><orig>alico</orig><reg>aliquo</reg></choice> alio aut in nullo si in isto vel in aliqua parte eius sequitur quod duae 
+          <lb ed="#S" n="9"/>quantitates simul erunt in eodem quod non est possibile per naturam <choice><orig>4m</orig><reg>quartum</reg></choice> dari non 
+          <lb ed="#S" n="10"/>potest quia tunc etc separata si detur <choice><orig>2m</orig><reg>secundum</reg></choice> qudo quantitas praecedens non 
+          <lb ed="#S" n="11"/>manet secundum totam praecise in eodem subiecto igitur <choice><orig>neccessario</orig><reg>necessario</reg></choice> migrat secundum se totam 
+          <lb ed="#S" n="12"/>vel secundum aliquam partem sui a subiecto in subiectum quod non est possibile per naturam 
+          <lb ed="#S" n="13"/>igitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1001">
+          <g ref="#pilcrow"/>praeterea forma posterior est simplicior praecedenti igitur praecedens non manet 
+          <lb ed="#S" n="14"/>quia si maneret ambae essent compossibiles eam et quae habetur in fine esset 
+          <lb ed="#S" n="15"/>compositior praeteste[?]
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1010">
+          <g ref="#pilcrow"/>aliter arguitur sit quod eo modo se habent magis et minus in 
+          <lb ed="#S" n="16"/>una specie sicut indiversis speciebus sed in diversis speciebus quanto u<lb ed="#S" break="no" n="17"/>na 
+          species est perfectior alia tanto perfectius continet eam et modo 
+          <lb ed="#S" n="18"/>simpliciori id est tanto est simplicioribus igitur cum simplicitas sic perfectio 
+          <lb ed="#S" n="19"/>in omnibus formis videtur etiam quod in eadem specie forma perfectior <g ref="#carrot"/><add place="marginLeft"><g ref="#carrot"/>sit</add> simplicior et 
+          <lb ed="#S" n="20"/>non faciens additionem cum minus perfectam quia tunc essent compositior
+        </p> 
+        
+        
+        <p xml:id="aw98wa-xg2664-d1e1031">
+          <g ref="#pilcrow"/>item consimili modo se habet ut videtur etiam magis et minus informis accidentibus 
+          <lb ed="#S" n="21"/>quomodo se haberet in substantialibus si in substantia esset magis et minus sed in forma substantia<lb ed="#S" break="no" n="22"/>li 
+          forma perfectior etiam in eadem specie est simplicior minus perfecta et non perfectior 
+          <lb ed="#S" n="23"/>secundum additionem realem ad <choice><orig>inperfectiorem</orig><reg>imperfectiorem</reg></choice> quae ponitur de anima christi quae non 
+          <lb ed="#S" n="24"/>fuit compositior anima <name xml:id="aw98wa-xg2664-Nd1e1048" ref="#Peter">petri</name> sed simplicior et tamen perfectior in essentia animae igitur 
+          <lb ed="#S" n="25"/>eodem modo de forma accidentali
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1054">
+          <g ref="#pilcrow"/>Item parte caliditas remissa non 
+          <lb ed="#S" n="26"/>conpatitur secum firgus remissum naturaliter igitur nec duae partes caloris 
+          <lb ed="#S" n="27"/>compatientur se in eodem naturaliter coextensae consequentia probatur quia quaero unde pro<lb ed="#S" break="no" n="28"/>veniret 
+          successio in causando non per frigus parte nec ex <choice><orig>inperfectione</orig><reg>imperfectione</reg></choice> 
+          <lb ed="#S" n="29"/>agentis quia pono quod sit perfectum nec quia passum non potest simul 
+          <lb ed="#S" n="30"/>recipere quia in fine habet omnes simul igitur aliquando hoc provenit ex in<lb ed="#S" break="no" n="31"/>compossibilitate 
+          partis praecedentis ad sequentem
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1076">
+          <g ref="#pilcrow"/>Item duorum actuum 
+          <lb ed="#S" n="32"/>intelligendi eiusdem rationis in eadem potentia respectu eiusdem obiecti unus potest esse per<lb ed="#S" break="no" n="33"/>fectior 
+          et nobilior et tamen perfectior non habet plures partes quam <choice><orig>inperfectior</orig><reg>imperfectior</reg></choice> 
+          <lb ed="#S" n="34"/>quia tunc posset acquiri successive et per motum consequens falsum quia tunc beatitudo 
+          <lb ed="#S" n="35"/>posset augeri et posset ad eam esse motus et haberet partes <g ref="#carrot"/><add place="margin-center"><g ref="#carrot"/>igitur</add> ex 
+          <lb ed="#S" n="36"/>opposito si non habet partes non posset una beatitudo <del rend="expunctuated">esset</del> esse perfectior 
+          <lb ed="#S" n="37"/>alia in eadem specie speciessima[?] et haec conclusio non solum non est vera sed nec 
+          <lb ed="#S" n="38"/>bona quia tunc anima christi non haberet nobiliorem beatitudinem quam anima <name xml:id="aw98wa-xg2664-Nd1e1108" ref="#Peter">petri</name> 
+          <lb ed="#S" n="39"/>quia per te ubi formae sunt indivisibiles non est una perfectior alia 
+          <lb ed="#S" n="40"/>in eadem specie sed actus beatifici sunt indivisibiles alioquin una vi<lb ed="#S" break="no" n="41"/>sio 
+          beatifica includeret infinitas visiones dei
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1119">
+          <g ref="#pilcrow"/>Item visio corpora<lb ed="#S" break="no" n="42"/>lis 
+          potest habere perfectiorem et minus perfectam visionem respectu eiusdem obiecti sensibius[?] 
+          et tamen visio non et forma partialis Item species albedinis 
+          <lb ed="#S" n="43"/>in medio quam tu <name xml:id="aw98wa-xg2664-Nd1e1127" ref="#Ockham">okam</name> dices esse albedinem remissam non habet par<lb ed="#S" break="no" n="44"/>tes 
+          tales cum sit indivisibilis et tamen una species talis in eadem 
+          <lb ed="#S" n="45"/>specie potest esse perfectior alia
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1136">
+          <g ref="#pilcrow"/>Item non est negandum a potentia dei de quo 
+          <lb ed="#S" n="46"/>non apparet contradictionem includi vel sequi ex tali concesso sed non 
+          <lb ed="#S" n="47"/>apparet unde arguet contradictionem quod ubi individuum quod licet est simplex unum 
+          <lb ed="#S" n="48"/>sic perfectius alio igitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1147">
+          <g ref="#pilcrow"/>Item convenientia specifica in non habentibus par<lb ed="#S" break="no" n="49"/>tes 
+          non requirit quod individua sint simulona[?] quia ad hoc quod in<lb ed="#S" break="no" n="50"/>dividua 
+          alia sint eiusdem speciei sufficit quod plus communicant quam 
+          <lb ed="#S" n="51"/>solo genere sed ad hoc non requiritur quod sint similitudina[?]
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1158">
+          <g ref="#pilcrow"/>Item <g ref="#carrot"/><add place="marginBottom"><g ref="#carrot"/>licet <name xml:id="aw98wa-xg2664-Nd1e1166" ref="#Ockham">ockam</name> dicat se alias rnfirarum[?fitzralph]</add> si <name xml:id="aw98wa-xg2664-Nd1e1170" ref="#Ockham">okam</name> 
+          <lb ed="#S" n="52"/>dicat se alias sensurum de anima christi et vide <g ref="#dot"/> articulus tamen py<lb ed="#S" break="no" n="53"/>sis[?] 
+          tenet quod est error dicere quod anima christi non sit nobilior anima vi<lb ed="#S" break="no" n="54"/>de 
+          quaero igitur quomodo debet intelligi articulus vel vult quod sit 
+          <lb ed="#S" n="55"/>nobilior in substantia et tunc habetur propositum quia anima est indivisibilis non hbens 
+          <lb ed="#S" n="56"/>tales partes vel solum quod habeat nobiliora accidentia seu proprietas 
+          <lb ed="#S" n="57"/>accidentales et hoc non quia ad istum intellectum fuit ista conclusio condemp<lb ed="#S" break="no" n="58"/>nata 
+          sicut patet per verba articuli igitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1191">
+          <g ref="#pilcrow"/>Item dato quod sic <g ref="#carrot"/><add place="marginLeft"><g ref="#carrot"/>nobilior</add> in proprie<lb ed="#S" break="no" n="59"/>tatibus 
+          accidentibus sequitur propositum quod in substantia quia non plus una substantia animae 
+          <cb ed="#S" n="b"/><!--111rb -->
+          <lb ed="#S" n="60"/>haberet <g ref="#carrot"/><add place="aboveLine"><g ref="#carrot"/>nobiliores</add> proprietates quam alia nisi quia esset nobilior substantia nec valet differre quod in in<lb ed="#S" break="no" n="61"/>dividuis 
+          eiusdem speciei non est ordo etc ubi supra in prima responsione <name xml:id="aw98wa-xg2664-Nd1e1215" ref="#Ockham">okam</name> quod 
+          <lb ed="#S" n="62"/>ista maior est articulus condemnatus in sensu recte ad quem condemnatur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1221">
+          <lb ed="#S" n="63"/><g ref="#pilcrow"/>Item contra motum unum in alio argumento per conclusione videtur quod tu ipse habeas 
+          <lb ed="#S" n="64"/>concedere inconveniens ad quod tu deducis scilicet quod deus possit simul 
+          <lb ed="#S" n="65"/>conservare infinita in actum quae non haberent aliquid per se unum tu enim 
+          <lb ed="#S" n="66"/>ponere habens infinitas partes in ista forma <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>quarum</add> quaelibet distinguitur 
+          <lb ed="#S" n="67"/>a qualibet infinitarum assignabilium et quarum quaelibet potest esse sine alia quia semper 
+          <lb ed="#S" n="68"/>praete?s[?] etiam de facto fuit sine sequente et nulla parte posterioris se existente 
+          <lb ed="#S" n="69"/>de quibus fieri potest argumentum scilicet de partibus proportionibus infinitis posterio<lb ed="#S" break="no" n="70"/>ribus 
+          semper respectu alicuius determinatae prius datae igitur quando simul sunt totaliter 
+          <lb ed="#S" n="71"/>distinguitur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1250">
+          <g ref="#pilcrow"/>Item per commentatorem[?] recipiens denudatur a natura recepti igitur 
+          <lb ed="#S" n="72"/>in adventu formae sequentis corrumpitur praecedens
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1257">
+          <g ref="#pilcrow"/>Item in 6 principiis 
+          <lb ed="#S" n="73"/>forma est componi contingens simplici et in variabilis essentia consistens
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1264">
+          <g ref="#pilcrow"/>Item 
+          <lb ed="#S" n="74"/>forma substantialis est indivisibilis igitur et qualitas antecedens patet per <name xml:id="aw98wa-xg2664-Nd1e1270" ref="#Aristotle">philosophus</name> saepe et consequentia 
+          <lb ed="#S" n="75"/>patet per <ref xml:id="aw98wa-xg2664-Rd1e1275"><name xml:id="aw98wa-xg2664-Nd1e1276" ref="#Averroes">commentatorem</name> 3 <title>caeli</title> et in commento 67</ref>
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1283">
+          <g ref="#pilcrow"/>ad primum istorum respondet <name xml:id="aw98wa-xg2664-Nd1e1287" ref="#Ockham">okam</name> 
+          <lb ed="#S" n="76"/>quod ista propositio non est vera sicut patet in generatione luminis in medio vel 
+          <lb ed="#S" n="77"/>intentionis vel volitionis in anima sed in generatione substantiali est naturaliter 
+          <lb ed="#S" n="78"/>verum et de hiis loquebatur <name xml:id="aw98wa-xg2664-Nd1e1297" ref="#Aristotle">philosophus</name> illud dicens de hic etiam supra patuit 
+          <lb ed="#S" n="79"/>respondendo ad <choice><orig>3m</orig><reg>tertium</reg></choice> argumentum praetestis[?] quaestionis et etiam potest intelligi de generatione simpliciter 
+          <lb ed="#S" n="80"/>quae est tamen substantiarum non de generatione secundum quid
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1309">
+          <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> dicendum quod non 
+          <lb ed="#S" n="81"/>est simile de motu locali et aliis motibus quia in aliis iam 
+          <lb ed="#S" n="82"/>probatum est quod augmentatio potest esse sine corruptione ut in illuminatione 
+          <lb ed="#S" n="83"/>medii et in augmentato calliditatis etiam remissio sine generatione ut cum 
+          <lb ed="#S" n="84"/><choice><orig>remictitur</orig><reg>remittitur</reg></choice> calor ignis sed in motu locali non est naturaliter acquisitio sine 
+          <lb ed="#S" n="85"/>deperditione nec econtra tamen hoc non est ex natura motus quin scilicet per 
+          <lb ed="#S" n="86"/>aliquam potentiam posset esse motus acquisitivus localis a deo sine deperdi<lb ed="#S" break="no" n="87"/>tione
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1336">
+          <g ref="#pilcrow"/>ad <choice><orig>3m</orig><reg>tertium</reg></choice> quie[?] supra in <ref xml:id="aw98wa-xg2664-Rd1e1344"><name xml:id="aw98wa-xg2664-Nd1e1345" ref="#Ockham">okam</name> distinctione 17 primi quaestione 5</ref> ad illud 
+          <lb ed="#S" n="88"/>opinio[?] <name xml:id="aw98wa-xg2664-Nd1e1351" ref="#Aristotle">philosophus</name> vult dicere quod motus alterationis directus a subita mutatione 
+          <lb ed="#S" n="89"/>requirit quod sic a positio ad positum non sicut a termino per se sed 
+          <lb ed="#S" n="90"/>sicut <choice><orig>neccessario</orig><reg>necessario</reg></choice> requisito per concomicatiam quia alteratio successiva non posset 
+          <lb ed="#S" n="91"/>esse sine pluribus partibus saltem eiusdem formae praeter subiectum recipiens 
+          <lb ed="#S" n="92"/>vel <choice><orig>amictens</orig><reg>amittens</reg></choice> illa positiva
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1373">
+          <g ref="#pilcrow"/>ad <choice><orig>4m</orig><reg>quartum</reg></choice> dictum est in praecedenti quaestione 
+          <lb ed="#S" n="93"/>maior enim calliditas et minor non con?iantur nec album esse uno gradu 
+          <lb ed="#S" n="94"/>albedinis qui est minor <add place="margin-right">et albedine composita ex x gradibus quae est maior sed esse simul</add> faciens sed magis album et minus album ad communem 
+          <lb ed="#S" n="95"/>intellectum <choice><orig>repungnat</orig><reg>repugnat</reg></choice> eidem propter hoc quod per ipsum esse minus album intenditur 
+          <lb ed="#S" n="96"/>non solum ipsum esse album ita albedine quae est minor sed etiam cum hoc quod 
+          <lb ed="#S" n="97"/>nominare suum subiectum <subst><add place="aboveLine">dicendum quod bene verum est quod minor albedo nata est denominare s?m[?] suum et quando maior denominant sed non sit</add><del rend="underline">dicitur quod non quando maior denominat</del></subst> <choice><orig>sicud</orig><reg>sicut</reg></choice> dicendo 
+          <lb ed="#S" n="98"/>hoc est minus album quia hoc est dicere quod denominaret ipsum habere per<lb ed="#S" break="no" n="99"/>nam 
+          albedinem et non maiorem <g ref="#dot"/> sed sic <g ref="#dot"/> hic est tanta albedine album
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1419">
+          <lb ed="#S" n="100"/><g ref="#pilcrow"/>ad 5m tenenda est minor et ad probationem dicendum <g ref="#dot"/> quod non oportet istam aug<lb ed="#S" break="no" n="101"/>mentationem 
+          quae sit in rarefactione fieri per generationem novae <add place="margin-right">quantitatis</add> nec per corrup<lb ed="#S" break="no" n="102"/>tionem 
+          praetestis[?] sicut oportet in augmentatione qualitatis Sed per coex<lb ed="#S" break="no" n="103"/>istentiam 
+          aut coextensionem eiusdem rei et partium suarum maio<lb ed="#S" break="no" n="104"/>ri 
+          loco si sic in loco et ita salvatur hic transitus a parvo ad 
+          <lb ed="#S" n="105"/>magnum per motum localem sed ex parte alia non potest eadem quali<lb ed="#S" break="no" n="106"/>tas 
+          prius remissa naturaliter fieri intensa nec maior intentione per so<lb ed="#S" break="no" n="107"/>lum 
+          motum localem sed per hoc quod pars adveniens et ita cui ad<lb ed="#S" break="no" n="108"/>venit 
+          constituit maiorem sicut habet insequentibus decla<lb ed="#S" break="no" n="109"/>rari
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1450">
+          <g ref="#pilcrow"/>ad 6m negandum est antecedens si intelligitur universaliter et in omni 
+          <lb ed="#S" n="110"/>casu ubi secundum alterationem continam[?] acquiritur forma alia
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1457">
+          <g ref="#pilcrow"/>ad probationem 
+          <lb ed="#S" n="111"/>dicendum quod non est eodem modo vel modus sic ad propositum dicendum etiam 
+          <lb ed="#S" n="112"/>quod licet maior particulariter intelligenda vera sit habet tamen multas in<lb ed="#S" break="no" n="113"/>stantias 
+          <g ref="#dot"/> nam homo est perfectior secundum speciem igne et tamen est 
+          <lb ed="#S" n="114"/>compositior eo et saepe etiam in eadem specie substantiali saltem secundum extentionem 
+          <lb ed="#S" n="115"/>et etiam <g ref="#carrot"/><add place="above-line">si</add> suscipiat magis et minus secundum intensionem forma perfectior est compositior 
+          <lb ed="#S" n="116"/>et minus perfecta forma simplicior
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1481">
+          <g ref="#pilcrow"/>ad 7m concedo maiorem dato 
+          <lb ed="#S" n="117"/>quod substantia posset naturaliter suscipere magis et minus et particulariter acquiri non 
+          <lb ed="#S" n="118"/>solum partitate subiecti sed etiam formae secundum incarnationem et remissionem <g ref="#dot"/> minor 
+          <lb ed="#S" n="119"/>autem licet vera sit secundum opinantes <choice><orig>alicos</orig><reg>aliquos</reg></choice> ego tamen nego eam et causa 
+          <pb ed="#S" n="111-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>tacta est supra in prima responsione quia apud me etiam nec de animalibus <del rend="expunctuated">sed</del> nec 
+          <lb ed="#S" n="2"/>de animalibus non nulla substantiam substantialiter perfectionem alia in eadem specie 
+          <lb ed="#S" n="3"/>speciessima habens quidquid ad istam speciem requiritur nisi quia extensior id est nisi 
+          <lb ed="#S" n="4"/>quia habens plures partes secundum extensionem vel quia intensior et tunc erit com<lb ed="#S" break="no" n="5"/>positior
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1517">
+          <g ref="#pilcrow"/>ad 8 <g ref="#dot"/> neganda est contra et ad probationem dicendum quod procedit ab insuf<lb ed="#S" break="no" n="6"/>ficienti 
+          et causa patuit praecedenti quaestione
+        </p> 
+        
+        <p xml:id="aw98wa-xg2664-d1e1527">
+          <g ref="#pilcrow"/>ad 9m neganda eset minor et tamen probatur 
+          <lb ed="#S" n="7"/>quia ad visionem posset esse motus concedendum eest het hoc vel per motum vi[?] vel 
+          <lb ed="#S" n="8"/>per motum oculi vel per successivam dispositionem maiorem medii vel per a 
+          <lb ed="#S" n="9"/>motionem <choice><orig>inpediti</orig><reg>impediti</reg></choice> vel per successivam augmentationem alicuius requisiti ad 
+          <lb ed="#S" n="10"/>perfectam et intensam visionem habendam et sic de similibus causis et ideo 
+          <lb ed="#S" n="11"/>falsum est visiones esse formas indivisibiles nec etiam bona conclusio ut debetur verbum 
+          <lb ed="#S" n="12"/>contra verbum quia non est bona conclusio quin deus de omni potentia sua posset 
+          <lb ed="#S" n="13"/>successive et continue meliorare in <choice><orig>alico</orig><reg>aliquo</reg></choice> beato visionem beatificam us<lb ed="#S" break="no" n="14"/>que 
+          ad aliquem certum gradum et hoc <choice><orig>inplicat</orig><reg>implicat</reg></choice> contradictionem nisi illa 
+          <lb ed="#S" n="15"/>esset divisibilis quia alioquin instantia essent <choice><orig>inmediata</orig><reg>immediata</reg></choice> quod <choice><orig>inplicat</orig><reg>implicat</reg></choice> contradictionem 
+          <lb ed="#S" n="16"/>contra plana est ex aliis declaratis et concedo quod omnis visio creata 
+          <lb ed="#S" n="17"/>componitur ex infinitis unionibus dei nec aliter posset fieri eo quo tanta 
+          <lb ed="#S" n="18"/>est <choice><orig>repungnantia</orig><reg>repugnantia</reg></choice> visionem non esse in infinitum divisibilem <choice><orig>sicud</orig><reg>sicut</reg></choice> de continuo[??]
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1587">
+          <g ref="#pilcrow"/>ad 10<g ref="#dot"/> minor neganda est propter eandem causam
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1594">
+          <g ref="#pilcrow"/>ad 11 dicendum 
+          <lb ed="#S" n="19"/>quod species in medio non est indivisibilis nec extensive nec intensive quia 
+          <lb ed="#S" n="20"/>potest vigorosior particulariter et continue
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1603">
+          <g ref="#pilcrow"/>ad 12 <g ref="#dot"/> neganda est minor propter idem 
+          <lb ed="#S" n="21"/>tamen de individuis ubi posset procedi per motum continuum ab individuo 
+          <lb ed="#S" n="22"/>perfectiori ad perfectius non ita plane inferri potest contradictio sed vel 
+          <lb ed="#S" n="23"/>ibi argueretur hic vel diversitas specifica inter talia individua 
+          <lb ed="#S" n="24"/>iuxta argumentum <name xml:id="aw98wa-xg2664-Nd1e1618" ref="#Scotus">scotus</name> 8 loco positum <g ref="#dot"/> nota tamen quod argumentum in ea<lb ed="#S" break="no" n="25"/>dem 
+          forma positum potest duci contra eum quod nulla patet contradictio quin 
+          visio divisibilis producatur
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1626">
+          <g ref="#pilcrow"/>ad 13 <g ref="#dot"/> dicendum quod <choice><orig>ymmo</orig><reg>immo</reg></choice> convenientia specifica 
+          <lb ed="#S" n="26"/>in uno conceptu id est in conceptu specifico substantiali et absoluto et hoc speciei speciessime 
+          <lb ed="#S" n="27"/>requirit quod ista quae sic conveniunt sint similia vel essentialiter similissima 
+          <lb ed="#S" n="28"/>vel ex similibus conposita[?] et hoc etiam requiritur ad hoc quod communicant plus 
+          <lb ed="#S" n="29"/>quam solo genere id est in conceptu quiditativo absoluto et simplici minus communium[?] 
+          <lb ed="#S" n="30"/>quam quiditate generis unde et servandus super me?cam[?[ sicut homo 
+          <lb ed="#S" n="31"/>rationalis et consequenter in hoc dicens si intelligit albedinem sequentem aeque 
+          <lb ed="#S" n="32"/>simplicem <choice><orig>sicud</orig><reg>sicut</reg></choice> praecedentem ponit communem albedinis esse con?um[?] generis et non 
+          <lb ed="#S" n="33"/>speciei speciessime et quod omne individuum albedinis ubi potest sistere 
+          <lb ed="#S" n="34"/>motus intentionis differet specifice ab omni gradu maiori vel 
+          <lb ed="#S" n="35"/>minori ubi etiam sisti posset motus
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1663">
+          <g ref="#pilcrow"/>ad 14 <g ref="#dot"/> respondet <name xml:id="aw98wa-xg2664-Nd1e1669" ref="#Ockham">okam</name> quod ille 
+          <lb ed="#S" n="36"/>male incedit articulum quia articulus condempnatus intelligit istos qui 
+          <lb ed="#S" n="37"/>posuerunt unam animam non posset esse nobiliorem alia nisi 
+          <lb ed="#S" n="38"/>propter maiorem perfectionem corporum vel nisi essent diversarum specierum quod esset 
+          <lb ed="#S" n="39"/>erroneum quia anima christi etiam quando econtra separata econtra nobilior 
+          <lb ed="#S" n="40"/>anima inde et tamen non fuit unica nobiliori corpori nec fuit 
+          <lb ed="#S" n="41"/>alterius speciei sed non sequitur est nobiior igitur est sit nobilior sed est falla[?] 
+          <lb ed="#S" n="42"/>consequentis sequitur enim econverso haec illae de verbo ad verbum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1689">
+          <g ref="#pilcrow"/>ad cuius intellectum 
+          <lb ed="#S" n="43"/>notandum quod haec sunt verba articuli <choice><orig>sicud</orig><reg>sicut</reg></choice> iacent c 8 articulorum 23 
+          <lb ed="#S" n="44"/>articulo quod inconveniens est ponere alios intellectus nobiliores aliis 
+          <lb ed="#S" n="45"/>quia cum ista diversitas non possit esse a parte corporum <g ref="#carrot"/><add place="aboveLine">eo</add> quod fit 
+          <lb ed="#S" n="46"/>a parte intelligentiarum et sic animae nobiles et ignobiles <choice><orig>neccessario</orig><reg>necessario</reg></choice> 
+          essent diversarum specierum sicut intelligentiae[?] error quia sit anima christi 
+          <lb ed="#S" n="47"/>non esset nobilior anima vide haec illae
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1717">
+          <g ref="#pilcrow"/>Ex hiis verbis plane patet 
+          <lb ed="#S" n="48"/>ubi bene dicit <name xml:id="aw98wa-xg2664-Nd1e1723" ref="#Ockham">okam</name> quod falla[?] consequentis erit in argumento eius et illatio ni<lb ed="#S" break="no" n="49"/>miam 
+          sine sufficienti evidentia pro conclusione[?] negandum quod hic recitatur sententia quaedam 
+          <lb ed="#S" n="50"/>cum causa s?ne[?] et post iungiter ibi esse errorem et additur causa quare 
+          <lb ed="#S" n="51"/>ibi conci?bitur error propter illud scilicet quod ex ista sententia cum causa sua 
+          <lb ed="#S" n="52"/>infertur quod anima christi non sic nobilior anima vide nec additur 
+          <lb ed="#S" n="53"/>in naturalibus nec in substantia nec in accidentibus <choice><orig>ymmo</orig><reg>immo</reg></choice> simpliciter nihil ap<lb ed="#S" break="no" n="54"/>ponitur 
+          et ideo sine dubio articulus est perplexior sententia cum ista non 
+          <lb ed="#S" n="55"/>condempnatur determinate et distincte sed sub disiunctione vel ista <choice><orig>ve<lb ed="#S" break="no" n="56"/>lud</orig><reg>ve<lb ed="#S" break="no" n="56"/>lut</reg></choice> 
+          conclusio vel illatio per quam ex eius opposita infertur quod 
+          <lb ed="#S" n="57"/>animae nobiles et ignobiles <choice><orig>neccessario</orig><reg>necessario</reg></choice> essent diversarum specierum 
+          <cb ed="#S" n="b"/><!-- 111vb-->
+          <lb ed="#S" n="58"/>et certe per talem modum posset teneri ista conclusio quod deductio ex 
+          <lb ed="#S" n="59"/>negatione istius conclusionis ad conclusione quam infert non valeret si enim in<lb ed="#S" break="no" n="60"/>telligit 
+          in omni natura intelectuali quod sic eiusdem speciei cum quolibet alio 
+          <lb ed="#S" n="61"/>intellectu creato sicut tenet <name xml:id="aw98wa-xg2664-Nd1e1774" ref="#Scotus">scotus</name> et multa alii et simul cum hoc teneretur 
+          <lb ed="#S" n="62"/>sententia communis <rs>doctoris</rs> et multorum aliorum quae <choice><orig>permictitur</orig><reg>permittitur</reg></choice> licet falsa scilicet 
+          <lb ed="#S" n="63"/>quod intellectus sic accidens animae intellectivae realiter ab ipsa distinctum 
+          <lb ed="#S" n="64"/>et simul cum hoc teneretur quod nihil agit aliquam rem nisi in se ipso 
+          <lb ed="#S" n="65"/>receptam certe tunc patet quod substantiis animarum existentibus substantialiter essentialiter 
+          <lb ed="#S" n="66"/>posset sicut placeret deo perfectior intellectus fieri in uno quam in 
+          <lb ed="#S" n="67"/>alio nec oporteret in <choice><orig>alico</orig><reg>aliquo</reg></choice> quod ad <sic>ad</sic> hoc quod unus intellectus esset nobilior 
+          <lb ed="#S" n="68"/>alio quod anima una intellectiva esset diversae speciei substantiis ab alia 
+          <lb ed="#S" n="69"/>nec etiam maior aut minor substantialiter sicut nec oportet de beti?bus[?] in 
+          <lb ed="#S" n="70"/>diversis intell?bus aequalibus quod sint aequales per alium articulum hic condemp<lb ed="#S" break="no" n="71"/>nantem 
+          quia aequalia substantia in substantiis possent recipere in aequalia ac<lb ed="#S" break="no" n="72"/>cidentia 
+          ita eiusdem speciei sicut alterius et tunc per istum mo<lb ed="#S" break="no" n="73"/>dum 
+          si talis opinio vera esset sicut est famosa et fuit tempore ar<lb ed="#S" break="no" n="74"/>ticuli 
+          illius facti perys[?] famosa clare patet quomodo non sequeretur 
+          <lb ed="#S" n="75"/>aliqui intellectus sunt nobiliores aliis non ex parte corporum 
+          <lb ed="#S" n="76"/>sed intelligentiarum igitur animae nobiles et ignobiles sunt diversarum 
+          <lb ed="#S" n="77"/>specierum et sicut anima una perfectius beata et perfectius fruens deo est 
+          <lb ed="#S" n="78"/>magis nobilificata quam alia minus fruens et minus glorificata licet 
+          <lb ed="#S" n="79"/>par sic in substantia vel in intellectu et voluntate et per consequens nobilior est ista 
+          <lb ed="#S" n="80"/>ita tunc si anima christi haberet nobiliorem intellectum quam anima in<lb ed="#S" break="no" n="81"/>de 
+          nobilior esset ista et tamen anima haec non esset propter hoc alterius speciei 
+          <lb ed="#S" n="82"/>ab ista nec extendens istam substantialiter
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1836">
+          <g ref="#pilcrow"/>alio modo posset articulus in<lb ed="#S" break="no" n="83"/>telligi de nobilitate maiori per dona virtutes et scientias 
+          <lb ed="#S" n="84"/>et fruitionem et multa similia quae non tenent se ex parte corporis nec a corpore 
+          <lb ed="#S" n="85"/>provenunt sibi quod anima christi sic nobilior anima inde nec ex hoc sequitur 
+          <lb ed="#S" n="86"/>quod s?a[?] unius istarum sic perfectior substantialiter alia earumdem et per consequens 
+          <lb ed="#S" n="87"/>nec alterius speciei et substantialis quia haec illatio est per alium articulum condemp<lb ed="#S" break="no" n="88"/>nata 
+          quia secundum hoc pares in naturalibus non possunt esse impares in beati?bus[?] 
+          <lb ed="#S" n="89"/>sed habentes meliora naturalis haberent meliorem beatitudinem semper quod est 
+          <lb ed="#S" n="90"/>error
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1858">
+          <g ref="#pilcrow"/><choice><orig>3us</orig><reg>tertius</reg></choice> intellectus posset poni quod anima christi tam in substantia quam in 
+          <lb ed="#S" n="91"/>potentia etiam dato quod potentiae non distinguerentur ab essentia est nobilior 
+          <lb ed="#S" n="92"/>anima inde quia nobilitatur et sublimatur etiam inso?a[?] non per corpus 
+          <lb ed="#S" n="93"/>secundum in me?te[?] ut subsistat ypostatice divina subsistentia filiali[?] nec 
+          <lb ed="#S" n="94"/>tamen ex ita maiori sua nobilitate sequitur quod ipsa sit alterius speciei 
+          <lb ed="#S" n="95"/>quam anima inde nec intra se essentialiter sit perfectior
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1877">
+          <g ref="#pilcrow"/><choice><orig>2o</orig><reg>secundo</reg></choice> modo et 
+          <lb ed="#S" n="96"/>ultimo apud me rationabiliter posset intelligi melior quam ista quia 
+          <lb ed="#S" n="97"/>si haberet plures gradus eiusdem specei et esset per consequens compositior alia 
+          <lb ed="#S" n="98"/>per modum quo una caritas in sua specie est perfectior et nobilior 
+          <lb ed="#S" n="99"/>alia et tamen non est propter <g ref="#carrot"/><add place="aboveLine">cum</add> alterius speciei
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e1898">
+          <g ref="#pilcrow"/>Tres autem modi prio<lb ed="#S" break="no" n="100"/>res 
+          concordant quod una anima non est substantia melior alia ita quod 
+          <lb ed="#S" n="101"/>substantia sua sic intrinsece perfectior substantialiter et alium principalis fan?a[?] supra 
+          <lb ed="#S" n="102"/>fuit <choice><orig>inprobata</orig><reg>improbata</reg></choice> scilicet quod una esset substantialiter perfectior alia et tamen aeque simplex 
+          <lb ed="#S" n="103"/>vel simplicior et sine dubio iuxta argumenta <name xml:id="aw98wa-xg2664-Nd1e1915" ref="#Ockham">okam</name> et <name xml:id="aw98wa-xg2664-Nd1e1918" ref="#Scotus">scotus</name> non videro 
+          <lb ed="#S" n="104"/>quin eo ipso essent alterius speciei sicut ipsum arguunt et quia <choice><orig>4r</orig><reg>quattuor</reg></choice> potest 
+          <lb ed="#S" n="105"/>articulus salvari ut visis est cum veritate specifica utriusque sine 
+          <lb ed="#S" n="106"/>isto <choice><orig>5to</orig><reg>quinto</reg></choice> modo ideo bene dixit <name xml:id="aw98wa-xg2664-Nd1e1936" ref="#Ockham">okam</name> quod istud argumentum isto modo 
+          <lb ed="#S" n="107"/>confirmans ex articulo peccavit per fallsitatem[?] consequentis unius mihi 
+          <lb ed="#S" n="108"/>apparet quod excessus nobilitatis qua anima christi excedit anima 
+          <lb ed="#S" n="109"/>unde secundum articulum et est in accidentibus animae id est in hiis vel <choice><orig>alico</orig><reg>aliquo</reg></choice> 
+          <lb ed="#S" n="110"/>eorum quae contingenter vel saltem accidenter sibi conveniunt et non speciliater 
+          <lb ed="#S" n="111"/><choice><orig>alico</orig><reg>aliquo</reg></choice> trium modorum primorum et tamen non oritur ista nobilitas ma<lb ed="#S" break="no" n="112"/>ior 
+          ex parte corporis vel per additionem plurium partium suae speciei 
+          <lb ed="#S" n="113"/>et si primum membrorum non sufficeret articulo citius darem <choice><orig>2m</orig><reg>secundum</reg></choice> quam 
+          <lb ed="#S" n="114"/>istum intellectum <choice><orig>5tum</orig><reg>quintum</reg></choice> quomodo vellet <name xml:id="aw98wa-xg2664-Nd1e1972" ref="#Ockham">okam</name> habere per articulum primus 
+          <lb ed="#S" n="115"/>motus istorum duorum non potest apud me verus esse quia hoc 
+          <lb ed="#S" n="116"/>scilicet quod intellectus sic accidens animae forsan satis ferent[?] articulo 
+          <lb ed="#S" n="117"/>ubi concurrebant et concurrunt sicut probabilis[?] opinio[?] sed sensus <choice><orig>2us</orig><reg>secundus</reg></choice> vel <choice><orig>3us</orig><reg>tertius</reg></choice> 
+          <pb ed="#S" n="112-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>modus mihi verisimilior apparet unde ad hoc tenetur perys[?] a m?tis[?] repu<lb ed="#S" break="no" n="2"/>tatis 
+          et tenentibus <choice><orig>ydemptitatem</orig><reg>identitatem</reg></choice> realem potentiae animae cum essentia eius non 
+          <lb ed="#S" n="3"/>obstante articulo isto quod anima christi non est secundum substantiam nobilior aut 
+          <lb ed="#S" n="4"/>ignobilior quacumque anima alia intellectiva et hoc plane tenet materialiter 
+          <lb ed="#S" n="5"/><ref xml:id="aw98wa-xg2664-Rd1e2008"><name xml:id="aw98wa-xg2664-Nd1e2009">francis de maronis</name> libro 3 quaestione 45</ref> tum quia infra eandem speciem 
+          <lb ed="#S" n="6"/>non potest esse maius et minus nisi per gradus eiusdem rei <choice><orig>sicud</orig><reg>sicut</reg></choice> explicat 
+          <lb ed="#S" n="7"/>de caritate cum quia excessus in talibus individuis substantialibus <g ref="#dot"/>f[?] et 
+          <lb ed="#S" n="8"/>simplicibus non est nisi per posteriora se cum in omnibus quae sunt de 
+          <lb ed="#S" n="9"/>essentia sunt aequalia et paria posteriora autem <choice><orig>alico</orig><reg>aliquo</reg></choice> modo sunt ei accidentalia 
+          <lb ed="#S" n="10"/>igitur in substantialibus nullo modo excedunt haec illae
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2036">
+          <g ref="#pilcrow"/>haec media in virtute 
+          <lb ed="#S" n="11"/>posuerunt <name xml:id="aw98wa-xg2664-Nd1e2042" ref="#Ockham">okam</name> et <name xml:id="aw98wa-xg2664-Nd1e2045" ref="#Scotus">scotus</name> ut habitum est supposito nullo[?] valet in quidam 
+          <lb ed="#S" n="12"/>fugere ad intentione et remissionem graduum in falsa eandem speciem 
+          <lb ed="#S" n="13"/>quia anima intellectiva non ly[?] in se tales gradus realiter differentes ex 
+          <lb ed="#S" n="14"/>quorum pluribus componatur perfectior quam minus perfectaum primo quia tunc 
+          <lb ed="#S" n="15"/>esset divisibilis in infinitum sicut quod licet continuum quia gradus est eiusdem 
+          <lb ed="#S" n="16"/>rationis cum tota forma et per consequens divisibilis <choice><orig>sicud</orig><reg>sicut</reg></choice> illa cum res eius<lb ed="#S" break="no" n="17"/>dem 
+          rationis habeant easdem per se passiones
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2066">
+          <g ref="#pilcrow"/>Item ita quae sunt eius<lb ed="#S" break="no" n="18"/>dem 
+          rationis sunt nata ad similia agenda vel patienda cum 
+          <lb ed="#S" n="19"/>aptitudines uniformiter vel proportionaliter sequantur quidditates similes vel 
+          <lb ed="#S" n="20"/>essentias sicut igitur tota forma est nata dividi per gradus sit 
+          <lb ed="#S" n="21"/>quilibet gradus
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2079">
+          <g ref="#pilcrow"/>Item quod quilibet gradus animae esset anima et ita 
+          <lb ed="#S" n="22"/>tot gradus quot animae ita in homoge?is[?] omne praedicatum essentiale conveniens 
+          <lb ed="#S" n="23"/>toti convenit et parti eiusdem rei cum toto existenti
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2088">
+          <g ref="#pilcrow"/><choice><orig>3o</orig><reg>tertio</reg></choice> sequitur quod ex 
+          <lb ed="#S" n="24"/>omnibus animalibus posset fieri una anima quia quemcumque sunt unius rationis 
+          <lb ed="#S" n="25"/>sunt uniformiter unibilia cum unibilitas sic per se passio talis 
+          <lb ed="#S" n="26"/>negatur et naturalis aptitudo et ideo sint <choice><orig>4or</orig><reg>quattuor</reg></choice> gradus unius animae sunt mu<lb ed="#S" break="no" n="27"/>tuo 
+          unibiles ita eadem ratione sunt unibiles cum aliis <choice><orig>4or</orig><reg>quattuor</reg></choice> gradi<lb ed="#S" break="no" n="28"/>bus 
+          alicuius animae vel similibus <choice><orig>ymmo</orig><reg>immo</reg></choice> simpliciter omnes ad invicem unibiles 
+          <lb ed="#S" n="29"/>erunt sicut et omnes aquae vel omnes ca?tes[?]
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2121">
+          <g ref="#pilcrow"/><choice><orig>4o</orig><reg>quarto</reg></choice> sequitur quod ex una anima 
+          <lb ed="#S" n="30"/>fieri potuerunt animae innumerabiles ultra scilicet quemcumque numerum sicut 
+          <lb ed="#S" n="31"/>sine eo produci cum realiter differant nec habeant ordinem essentialem 
+          <lb ed="#S" n="32"/>et sic de gradibus graduum in infinitum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2135">
+          <g ref="#pilcrow"/><choice><orig>5m</orig><reg>quintum</reg></choice> <choice><orig>inpossibile</orig><reg>impossibile</reg></choice> sequitur ut videtur scilicet 
+          <lb ed="#S" n="33"/>quod anima esset inducibilis per modum quia idcerto[?] est ta?tas[?] et caliditas 
+          <lb ed="#S" n="34"/>inducibilis per motum quia habet tales gradus eiusdem raitonis tum etiam 
+          <lb ed="#S" n="35"/>quia tales gradus sicut possunt simul ita etiam poterunt successive produci 
+          <lb ed="#S" n="36"/>tum etiam quia omnis forma continua licet non secundum extensionem est indu<lb ed="#S" break="no" n="37"/>cibilis 
+          per motum aliquem cum continuatas motus sicut <add place="margin-left">causaliter</add> a continuate termini 
+          <lb ed="#S" n="38"/>anima autem esset tunc continua quia divisibilis in semper divisibilia sicut de<lb ed="#S" break="no" n="39"/>claratum 
+          est ex partium talium homogenite[?] igitur haec illae in sententia
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2166">
+          <g ref="#pilcrow"/>Illud 
+          <lb ed="#S" n="40"/>ultimum de motu ad animam vel non motu data tali anima parti<lb ed="#S" break="no" n="41"/>bilitate 
+          concedendum esset vel negandum per omnia sicut tactum est et declaratum in 
+          <lb ed="#S" n="42"/>dubio posito de motu ad substantiam in fine primi articuli omnia aut 
+          <lb ed="#S" n="43"/>talia satis bene hic deducuntur et citius haec omnia concederem quam quod 
+          <lb ed="#S" n="44"/>perfectior forma vel anima secundum substantiam esset aeque simplex vel simplicior 
+          <lb ed="#S" n="45"/>cum minus perfectam et tamen quod essetit[?] eiusdem rationis specificate et hoc 
+          <lb ed="#S" n="46"/>ex sententia sine <choice><orig>inpungnatione</orig><reg>impungnatione</reg></choice> extrinseca sponte concessit <name xml:id="aw98wa-xg2664-Nd1e2189">ben<lb ed="#S" break="no" n="47"/>son[?]</name> 
+          ponens scilicet quod de mille animalibus posset deus facere u<lb ed="#S" break="no" n="48"/>nam 
+          et de una mille et per consequens omnia alia hic illata haberet 
+          <lb ed="#S" n="49"/>concedere ex sensus supra posito
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2200">
+          <g ref="#pilcrow"/>praeterea via de duabus principibus mihi 
+          <lb ed="#S" n="50"/>magis placet si articulus non obsistat quod si articulus dampnet illum 
+          <lb ed="#S" n="51"/>acciperem <choice><orig>2am</orig><reg>secundam</reg></choice> quia errorem tenere horeo[?] et iste liber[?] est 
+          <lb ed="#S" n="52"/><seg>intellectus<desc>possible correction here</desc></seg> ab omni susp?ne[?] errorum <name xml:id="aw98wa-xg2664-Nd1e2218">parys</name> dampnatur sed prima via 
+          <lb ed="#S" n="53"/>pulchrior est sive sit vera sive non
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2223">
+          <g ref="#pilcrow"/>Et ad <choice><orig>inprobationem</orig><reg>improbationem</reg></choice> huius partis 
+          <lb ed="#S" n="54"/>primae per hoc quod proprietates et accidentia naturalia non possunt esse perfectiora nisi 
+          <lb ed="#S" n="55"/>quia proveniunt a substantia meliori
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2236">
+          <g ref="#pilcrow"/>dicendum quod ubi melioritas non 
+          <lb ed="#S" n="56"/>habet poni in accidentibus quae naturaliter proveniunt ab anima et per modum quo aliquid 
+          <lb ed="#S" n="57"/>provenit ab igne in ipso igne quia nullum tale accidens in anima 
+          <lb ed="#S" n="58"/>est possibile recipi nisi forsan intentio sui et aliae quaedam quae sunt m?e?ce[?] 
+          <cb ed="#S" n="b"/><!--112rb -->
+          <lb ed="#S" n="59"/>hac naturaliter causabiles et ideo bene stant simul nobilitas secundum accidentia quare 
+          <lb ed="#S" n="60"/>omnia receptibilia in anima cum omni aequalitate secundum substantias et cum additur quod ma<lb ed="#S" break="no" n="61"/>ior 
+          <name xml:id="aw98wa-xg2664-Nd1e2256" ref="#Ockham">okam</name> est articulus in sensu quo contempnatur falsum est sicut patet ex 
+          <lb ed="#S" n="62"/>verbis articuli et commento intellectu proposito alio acuo a quorum nullo dist?e<lb ed="#S" break="no" n="63"/>pant 
+          verba articuli quidquid de intellectu et a quorum primo vel <choice><orig>4o</orig><reg>quarto</reg></choice> nulli dubium 
+          <lb ed="#S" n="64"/>debet esse quod iste articulus non obstaret
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2271">
+          <g ref="#pilcrow"/>ad <choice><orig>2m</orig><reg>secundum</reg></choice> tamen mi?ti[?] ad hoc <name xml:id="aw98wa-xg2664-Nd1e2279">parys[?]</name> 
+          <lb ed="#S" n="65"/><choice><orig>admictunt</orig><reg>admittunt</reg></choice> eum Nota etiam quod <ref xml:id="aw98wa-xg2664-Rd1e2286">articulus 27 eiusdem capituli</ref> dampnat 
+          <lb ed="#S" n="66"/>aequalitatem in omnibus animalibus et debet intelligi <choice><orig>sicud</orig><reg>sicut</reg></choice> prior
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2296">
+          <g ref="#pilcrow"/>ad 15 dubium 
+          <lb ed="#S" n="67"/>est mihi <del rend="expunctuated">ad</del> an deus possit simul conservare infinita non 
+          <lb ed="#S" n="68"/><choice><orig>faciencia</orig><reg>facientia</reg></choice> aliquid unum et sive sic sive non nihil contra <name xml:id="aw98wa-xg2664-Nd1e2310" ref="#Ockham">okam</name> contra quem 
+          <lb ed="#S" n="69"/>ille arguit cum quia non sumit secundum opinionem contra quam arguit ut 
+          <lb ed="#S" n="70"/>patet manifeste liberum voluntati videre tum quia dato quod sit tamen hoc non 
+          <lb ed="#S" n="71"/>potest poni de partibus infinitis compositionibus formam finitam quia nullum finitum 
+          <lb ed="#S" n="72"/>est in infinita divisibile in?ftio[?] esse sic quod <choice><orig>nichil</orig><reg>nihil</reg></choice> remaneat 
+          <lb ed="#S" n="73"/>ulterius ibi divisibile quia tunc stare oporteret ad indivisibilia quod est impossibilia 
+          <lb ed="#S" n="74"/>ut hic suppositio et hoc quia interum aliud in conveniens speciale sequitur quod continuum 
+          <lb ed="#S" n="75"/>ex indivisibilibus componatur et tamen verum est quod ille <name xml:id="aw98wa-xg2664-Nd1e2333" ref="#Ockham">okam</name> <choice><orig>sicud</orig><reg>sicut</reg></choice> et 
+          <lb ed="#S" n="76"/>eo habet ibi ponere infinitas partes informa ibi data quantumcumque 
+          <lb ed="#S" n="77"/>parva totaliter distincta abinvicem et quarum quaelibet posset per divinam potentiam 
+          <lb ed="#S" n="78"/>esse sine alio de eisdem licet sint ibi infinite partes non totaliter 
+          <lb ed="#S" n="79"/>abinvicem distincte ideo sine illis quibusdam alicuius distinguuntur per naturam 
+          <lb ed="#S" n="80"/>potentiam esse posset et tamen non ibi dare ultimas nec 
+          <lb ed="#S" n="81"/>minimas infinitas totaliter abinvicem distinctas quia nulli tales 
+          <lb ed="#S" n="82"/>sunt ibi nisi resolubiles essent ad formas indivisibiles simpliciter ideo different 
+          <lb ed="#S" n="83"/>sibi <name xml:id="aw98wa-xg2664-Nd1e2358" ref="#Ockham">okam</name> non sequitur quod deus posset tales infinitas partes facere simul ex 
+          <lb ed="#S" n="84"/>istere et tamen quod nulla earumdem componeret cum alia et de hoc 
+          <lb ed="#S" n="85"/>puncto intendo alias habere quaestionem ad articulum spiritualem sed <name xml:id="aw98wa-xg2664-Nd1e2365" ref="#Ockham">ockam</name> 
+          <lb ed="#S" n="86"/>non arguebat de talibus sed de infinitis quarum quaelibet esset aequa<lb ed="#S" break="no" n="87"/>lis 
+          vel maior alia determinata distincta quarum nulla cum alia com<lb ed="#S" break="no" n="88"/>ponit 
+          sed nec componere potest secundum opinionem istam quod patet se[?] sive arguitur 
+          <lb ed="#S" n="89"/>de remissione successiva et continua alicuius formae sive de intentione 
+          <lb ed="#S" n="90"/>et tu <name xml:id="aw98wa-xg2664-Nd1e2379" ref="#Ockham">okam</name> non habebis contra eum ex formae diversitate in infinitum 
+          <lb ed="#S" n="91"/>et de talibus relinqui sub dubio an infinita simul possint 
+          <lb ed="#S" n="92"/>a deo fieri nam de primis quae successive sibi succederent <choice><orig>sicud</orig><reg>sicut</reg></choice> ponit 
+          <lb ed="#S" n="93"/>opinionem contra quam posita est supra conclusio principalis constat mihi quod non quia hoc <choice><orig>in<lb ed="#S" break="no" n="94"/>plicat</orig><reg>im<lb ed="#S" break="no" n="94"/>plicat</reg></choice> 
+          contradictionem
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2405">
+          <g ref="#pilcrow"/>argumentum tamen effica?m[?] quod deus possit simul 
+          <lb ed="#S" n="95"/>facere infinita actu ab invicem distincta est illud quod alias prosequar 
+          <lb ed="#S" n="96"/>de partibus proportionibus magnitudinis alicuius quarum primam potest separare 
+          <lb ed="#S" n="97"/>a posterioribus in fine primae med?tis[?] horae et secundam in fine secundae 
+          <lb ed="#S" n="98"/>partis proportionalis ipsisu temporis dati et sic usque ad finem horae et 
+          <lb ed="#S" n="99"/>hic[?] probandum
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2421">
+          <g ref="#pilcrow"/>communis autem opinio est quod non est etiam de servis quia 
+          <lb ed="#S" n="100"/>tunc posset deus facere simul infinitas animas et hoc de animali<lb ed="#S" break="no" n="101"/>bus 
+          concessit <name xml:id="aw98wa-xg2664-Nd1e2429" ref="#Algazali">algazel</name> propter infinitatem hominum posteriorum secundum principiam 
+          <lb ed="#S" n="102"/>philosohiae quorum tamen animae remanserunt et infinitas intelligentias immo 
+          <lb ed="#S" n="103"/>infinitos mundos constat enim quod deus potest facere simul in eodem 
+          <lb ed="#S" n="104"/>loco adaequato corpora infinita quia ita facit de facto in sacramento 
+          <lb ed="#S" n="105"/><choice><orig>eukaristae</orig><reg>eucharistae</reg></choice> de partibus corporis licet ista faciant corpus unum 
+          <lb ed="#S" n="106"/>id est constituant quare igitur non infinitas mundos sine infinitas 
+          <lb ed="#S" n="107"/>intelligentias huius repugnantiam non includit etiam hanc communem opinionem 
+          <lb ed="#S" n="108"/>videtur iuvare articulus 12 7 capitulus qui dicit sic quod substantiae separatae sunt 
+          <lb ed="#S" n="109"/>actu infinite infintas enim non est impossibilis nisi in rebus materialibus 
+          <lb ed="#S" n="110"/>error tamen leviter diceretur quod error iste stat praecise in principio non 
+          <lb ed="#S" n="111"/>in conclusione quod probatam apponitur quod enim in conclusione sit error verum est 
+          <lb ed="#S" n="112"/>ve[?] dubium sed si articulus non solum conclusionem sed etima causam dampnet tunc 
+          <lb ed="#S" n="113"/>communis opinio habet plane articulum pro se
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2462">
+          <g ref="#pilcrow"/>ad 16 respondet <name xml:id="aw98wa-xg2664-Nd1e2466" ref="#RichardFitzRalph">firafis</name> 
+          <lb ed="#S" n="114"/>et bene quod illud dictum habet intelligi de recepto in actu sic scilicet quod non 
+          <lb ed="#S" n="115"/>sit pars alitus suae speciei in recipiente sed sic non est in aug<lb ed="#S" break="no" n="116"/>mentatione 
+          formae in eadem parte adaequata subiecti quia quaelibet forma quae 
+          <pb ed="#S" n="112-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>prius recipitur stante prima[?] fit[?] pars qualitativa et gradualis non qualitativa 
+          <lb ed="#S" n="2"/>id est essentialis et alterius speciei a parte quaelibet inquam posterior sic pars gra<lb ed="#S" break="no" n="3"/>dualis 
+          alterius formae suae speciei in recipiente
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2487">
+          <g ref="#pilcrow"/>aliter et bene In 
+          <lb ed="#S" n="4"/>hoc respondet instans quia recipiens in proposito denudatur a natura recepti 
+          <lb ed="#S" n="5"/>quia una pars non recipit aliam sed hanc idem recipiens commune 
+          <lb ed="#S" n="6"/>recipiens autem commune non oportet denudare a natura recepti secundum 
+          <lb ed="#S" n="7"/>speciem et ita intelligit <name xml:id="aw98wa-xg2664-Nd1e2500" ref="#Averroes">commentator</name> si argumentum suum valere debeat
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2504">
+          <g ref="#pilcrow"/>aliter 
+          <lb ed="#S" n="8"/>ad hoc respondet aliqui et probabiliter quod propositio haec sic intelligenda quod ad hoc 
+          <lb ed="#S" n="9"/>quod aliquid recipiat oportet quod illud passum non requirit ex natura sua aliquid 
+          <lb ed="#S" n="10"/>simile qui ignis est naturaliter calidus ideo habens calorem qui sibi 
+          <lb ed="#S" n="11"/>convenit naturaliter non esset alterius caloris receptivus
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2517">
+          <g ref="#pilcrow"/>aliter ad litteram 
+          <lb ed="#S" n="12"/>intelligit <name xml:id="aw98wa-xg2664-Nd1e2523" ref="#Aristotle">philosophus</name> et <name xml:id="aw98wa-xg2664-Nd1e2526" ref="#Averroes">commentator</name> quod omne receptum denudatur a natura re<lb ed="#S" break="no" n="13"/>cepti 
+          id est non est eiusdem negatur secundum speciem cum receptio quia nihil recipit nec 
+          <lb ed="#S" n="14"/>recipere possit substantive aliquid suae speciei sicut pupilla ut expli<lb ed="#S" break="no" n="15"/>ficat 
+          si debet recipiere omnes colores oportet quod sit de natura sua 
+          <lb ed="#S" n="16"/>non color et iste intellectus sufficit ibi <name xml:id="aw98wa-xg2664-Nd1e2538" ref="#Aristotle">philosopho</name> et <name xml:id="aw98wa-xg2664-Nd1e2541" ref="#Averroes">commentari</name> pro conclusione ibi 
+          <lb ed="#S" n="17"/>probanda de intellectu possibili quod erat simplex et immixtus ex na<lb ed="#S" break="no" n="18"/>turis 
+          rr[?] intelligibilium
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2551">
+          <g ref="#pilcrow"/>ad 17 cui aliqui contrariae opinantes innituntur 
+          <lb ed="#S" n="19"/>sicut etiam in <title ref="#Metaphysics">metaphysicae[?]</title> praecedenti dico quod forma accidentalis non est composita compositione 
+          <lb ed="#S" n="20"/>essentiali ex mater et forma propria et intrinseca quae materia possit ad ta<lb ed="#S" break="no" n="21"/>lem 
+          formam transformari vel de forma d formam variari licet aliqui 
+          <lb ed="#S" n="22"/>contrarium tenuerint ponentes in omni genere praedicamentali sua propria et 
+          <lb ed="#S" n="23"/>intrinseca principium materiam et formam et privationem et huic concordat illud 
+          <lb ed="#S" n="24"/>famosum dictum <name xml:id="aw98wa-xg2664-Nd1e2571" ref="#Aristotle">aristotelis</name> quod accidentia non habet materiam ex qua sed in qua
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2575">
+          <lb ed="#S" n="25"/><g ref="#pilcrow"/>Respondet <name xml:id="aw98wa-xg2664-Nd1e2580" ref="#Ockham">okam</name> quod auctor[?] loquitur de compositione extensiva volens quod 
+          <lb ed="#S" n="26"/>propter adventum formae de qua loquitur de non est maior extensio id est 
+          <lb ed="#S" n="27"/>non oportet quod sit et haec eadem est responsio <name xml:id="aw98wa-xg2664-Nd1e2587" ref="#Scotus">scoti</name> in verbis aliis et tamen 
+          <lb ed="#S" n="28"/>certum est quod ex adventum formae oritur alias compositio quia manifestum 
+          <lb ed="#S" n="29"/>est quod forma adveniens subiecto informans ipsum componit cum eo
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2596">
+          <lb ed="#S" n="30"/><g ref="#pilcrow"/>ad 18 patuit supra in fine articuli praecedentis
+        </p>
+        <p xml:id="aw98wa-xg2664-d1e2602">
+          <g ref="#pilcrow"/>ad argumentum principalem 
+          <lb ed="#S" n="31"/>sicut ad 16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
