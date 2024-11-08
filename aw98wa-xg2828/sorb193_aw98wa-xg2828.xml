@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 [Sorb193 Transcription]</title>
+          <date when="2024-11-05">November 05, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="116-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg2828">
+        <p>
+          <lb ed="#S"/>Circa distinctionem 33am primi ubi inquiritur utrum proprietates personarum 
+          <lb ed="#S"/>divinarum sint ipsae personae et sint etiam divina essentia 
+          <lb ed="#S"/>Quaero primo pro hac materia et pro 2a distinctione primi et pro multis
+          <lb ed="#S"/>distinctionibus 3ii in quibus agitur de incarnatione
+          <lb ed="#S"/>personae unius sive alterius incarnatione utrum deus essentialiter unus sit personaliter trinus
+          <lb ed="#S"/>quod non <pc type="punctus"/> quia tunc viderentur contradictoria verificari pro eadem re si enim 
+          <lb ed="#S"/>deus est trinus personaliter <pc type="punctus"/> et pater non est trinus personaliter tunc ista contradictoria esse 
+          <lb ed="#S"/>trinum personaliter <add place="margin-right">et non esse trinum personaliter</add> verificarentur pro deo et patre sed deus et pater sunt una 
+          <lb ed="#S"/>res igitur pro eadem re verificarentur contradictoria
+        </p>
+        <p>
+          <pc type="virgula">//</pc> Item tunc nulla 
+          <lb ed="#S"/>persona divina esset summe simplex consequens falsum et contra <name>magistrum</name> et sanctos ut 
+          <lb ed="#S"/>patet <ref>distinctione 3a primi libri</ref> consequentia probatur quia persona <del rend="underline">personalitate sua convenit tum aliis</del> <add place="margin-right">prima <unclear>dicente</unclear> sua convenit cum aliis personis et <unclear>dicente</unclear> non distinguitur ab eis</add> et tamen
+          <pb ed="#S" n="116-v"/>
+          <cb ed="#S" n="a"/>aliquo sui distinguitur ab eis si sint 3s personae realiter distincte sicud supponit veri<lb ed="#S"/>tas 
+          quaestionis igitur pater continet in se aliquid tum conclusio convenit cum personis aliis et 
+          <lb ed="#S"/>aliquid quo non convenit cum eis pater igitur non est omnino simplex
+        </p>
+        <p>
+          <pc type="pilcrow"/> ad oppositum 
+          <lb ed="#S"/>ioannes in canonica sua 3 sunt qui testimonium dant etc
+        </p>
+        <p>
+          <pc type="pilcrow"/> In ista quaestione sol<lb ed="#S"/>venda 
+          primo praemittenda est veritas fidei circa hanc materiam supposita 
+          <lb ed="#S"/>et si quid dicerem repungnans ex nunc habeo pro irrito et retracto
+        </p>
+        <p>
+          <lb ed="#S"/><pc type="pilcrow"/> 2o aliquae conclusiones sunt declarandae <pc type="punctus"/> et 3o alia dubia movenda 
+          <lb ed="#S"/>et solvenda
+        </p>
+        <p>
+          <pc type="pilcrow"/> de primo dicendum est quod secundum catholicam fidem tenemur sentire 
+          <lb ed="#S"/>quod 3 personae realiter inter se distinctae sunt vere unus deus sicut patet in <ref>symbo<lb ed="#S"/>lo
+          anastasii</ref> similiter <ref>extra de summa trinitate et fide catholico capitulo firmiter</ref> 
+          <lb ed="#S"/>et <ref>capitulo damnamus</ref> etc quare ibi <add place="margin-left">quare in primo <unclear>filio</unclear> ad tale signum</add> hiis suppositis sicut fundamentis 
+          <lb ed="#S"/>certis fidei in hac materia dico primo quod divina essentia non distinguitur 
+          <lb ed="#S"/>a persona realiter ita quod essentia non sic res quae est persona vel non sic persona vel econtra 
+          <lb ed="#S"/>quia distingui ab aliquo secundum communem acceptationem termini est esse aliquod in se et 
+          <lb ed="#S"/>non esse idem ei a quo ponitur esse distinctum quod simpliciter est aliquid <pc type="punctus"/> sed essentia 
+          <lb ed="#S"/>divina secundum <add place="margin-left">praemissa</add> fundamenta fidei est quaelibet personarum igitur a nulla distinguitur
+        </p>
+        <p>
+          <pc type="pilcrow"/> Praeterea si essentia 
+          <lb ed="#S"/>distinguitur ab alia persona eadem ratione a qualibet a tunc vel totaliter sic quod non 
+          <lb ed="#S"/>sic persona nec pars alicuius personae et tunc erit quaternitas in deo contra praedicta vel 
+          <lb ed="#S"/>esset pars personae et tunc deus non esset summe simplex <ref><unclear>contra</unclear> primam 
+          <lb ed="#S"/>decretalem</ref> quia nec pater deus nec filius deus nec spiritus sanctus deus et etiam contra <add place="margin-center">2am quae</add> 
+          <lb ed="#S"/><del rend="expunctuation">articulus qui</del> dicit quod non est ibi pars et pars in subiecta patris sed ipsa est in<lb ed="#S"/>divisiblis 
+          et simplex omnino <pc type="punctus"/> nec valet dicere quod dicit hic de substantia pa<lb ed="#S"/>tris 
+          <add place="margin-below">quia prima dicit hoc de deo et pater hoc si substantia patris componeret</add> <del>quod componeretur</del> tum alia cum parte quae non est substantia scilicet cum proprietate personali tunc esset 
+          <lb ed="#S"/>ibi compositio proprietatis et subiecti cuius oppositum dicit glosa ordinaria super 
+          <lb ed="#S"/>illud <del>simplex omnino novans</del> <del rend="expunctuation">quod</del> quod multiplex est compositio scilicet partis ad partem in<lb ed="#S"/>tegrale 
+          vel proprietatis ad subiectum vel formae ad materiam vel econverso materiae ad formam 
+          <lb ed="#S"/>et ideo dicitur simplex omnino id est in quolibet sensu cum haec glossa
+        </p>
+        <p>
+          <pc type="pilcrow"/> Item si sic ad 
+          <lb ed="#S"/>hoc sequeretur quod sic ibi quaternitas realiter contra decretalem scilicet essentiae et trium proprie<lb ed="#S"/>tatum 
+          personalium <add place="margin-left">quarum</add> <del>personarum enim</del> quaelibet vere componeret cum ea constitudo personam 
+          <lb ed="#S"/>hanc vel illam et in hoc inprobat opinionem <name>benson</name> qui <unclear>posuit</unclear> unam 
+          <lb ed="#S"/>relationem <add place="margin-left">personalem vel</add> realem in divinis <unclear>constitutem</unclear> personam cum essentia plus differre ab 
+          <lb ed="#S"/>essentia quam a relatione constitutiva alterius personae
+        </p>
+        <p>
+          <pc type="pilcrow"/> praeterea per causam augustinus 
+          <lb ed="#S"/>ii de trinitate capitulo 10 ideo dicitur deus simplex quia est quod habet etc nec valet pro 
+          <lb ed="#S"/>eo respondere ad rationem ante factam quod decretalis non negat ibi <unclear>omni</unclear> 
+          <lb ed="#S"/>quaternitatem sed personarum quia plane negat ibi quaternitatem cuius una uni<lb ed="#S"/>tas 
+          esset deitas vel essentia et aliae 3s personae vel 3 proprietates personales qualem 
+          <lb ed="#S"/>quaternitatem inponit ioachim magistro petro et decretalis pro petro 
+          <lb ed="#S"/>respondet quam non sequitur ibi quaternitas nec poni debet quia essentia non ponit 
+          <lb ed="#S"/>in numerum cum persona vel alia re in divinis cum ipsa sic ut dicit decre<lb ed="#S"/>talis 
+          simul 3s personae et sigillatim quaelibet earum 
+        </p>
+        <p>
+          <pc type="pilcrow"/> Et persona numquam 
+          <lb ed="#S"/>pars est suum totum sed secundum praedictam decretalem essentia est quaelibet persona 
+          <lb ed="#S"/>divina igitur essentia non est pars personae quia nec tunc persona esset etiam summe simplex 
+          <lb ed="#S"/>sed esset in divinis compositio et inperfectio et ista haec responsio non est bona 
+        </p>
+        <p>
+          <pc type="pilcrow"/> <unclear>pigam</unclear> tamen qui non ponit eam constituere non incurrit compositionem personarum 
+          <lb ed="#S"/>sed alia inconvenientia scilicet quod ista relatio vel esset deus quod non quia secundum eum non est per<lb ed="#S"/>fectoris 
+          enttitatis quam caecitas in oculo <pc type="punctus"/> vel non <pc type="punctus"/> et tunc non solus 
+          <lb ed="#S"/>deus aeternus vel necesse esse et sic de multis aliis cum non vi<lb ed="#S"/>tat 
+          compositionem personae ad relationem sed compositionem ex <unclear>re?one</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow"/> Item secundum sanctos 
+          <lb ed="#S"/>et philosophus deus propter summam simplicem est quidquid habet extento quod una 
+          <lb ed="#S"/>persona habet istam et non est ista quia producens non est <add place="above-line">illud</add> quod ab ea produ<lb ed="#S"/>citur 
+          quaelibet autem persona divina producit aliam quaecumque detur vel ab ea produ<lb ed="#S"/>citur 
+        </p>
+        <p>
+          <pc type="pilcrow"/> Item regula anselmi et sanctorum est quod in divinis omnia sunt unum ubi 
+          <lb ed="#S"/>non obstat <unclear>rationis</unclear> oppinio inter producens et productum <add place="margin-below">sed inter personam et essentiam nulla est rationis oppinio talis</add> <del rend="underline">talis non 
+          <lb ed="#S"/>est inter essentiam personam</del> quia nec essentia producit personam nec ab ea 
+          <lb ed="#S"/>producitur secundum supradictam decretalem
+        </p>
+        <p>
+          <pc type="pilcrow"/> Igitur iuxta istam conclusionem est alia 
+          <lb ed="#S"/>quod essentia divina non realiter distinguitur a proprietate personali sive ista sic relatio sive 
+          <lb ed="#S"/>aliquid aliud et haec probatur per 2am et 3am et 4am rationem ad praecedentem <unclear>conclusionem<!-- quaestionem--></unclear>
+        </p>
+        <p>
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S"/>ad istam conclusionem arguit <ref><name>okam</name> distinctione 2 primi quaestione 2a</ref> sic si relatio seu proprietas 
+          <lb ed="#S"/>et essentia distinguuntur quaero igitur aut proprieta<del rend="expunctuation">te</del>s et essentia sunt una res 
+          <lb ed="#S"/>aut non si sic quaero de illa re una quae est relatio et essentia 
+          <lb ed="#S"/>supponendo quod ista proprietas sit relatio aut est eadem omnibus 
+          <lb ed="#S"/>modis cum essentia ita scilicet convertibiliter et adaequate sicut essentia sibi ipsi <unclear>alio</unclear> 
+          <lb ed="#S"/>non si sic igitur sicut ista res non distinguitur realiter a relatione ista essentia non 
+          <lb ed="#S"/>distinguitur realiter a relatione quod est oppositum positi si autem ista una res 
+          <lb ed="#S"/>non est eadem omnibus modis tum divina essentia vel igitur distinguitur ab ea 
+          <lb ed="#S"/>realiter et tunc arguitur de ista re et essentia ut prius de essentia et relatione aut 
+          <lb ed="#S"/>sunt una res indistincta vel non et sic in infinitum vel non distinguitur 
+          <lb ed="#S"/>ab ea realiter et eadem ratione standum erat in principio quod essentia non dis<lb ed="#S"/>tinguitur 
+          realiter a relatione nec econtra quod est propositum
+        </p>
+        <p>
+          <pc type="pilcrow"/> 2m autem membrorum principalis 
+          <lb ed="#S"/>divisionis non prosequitur ex in advertentia forsan et tamen istam partem daret 
+          <lb ed="#S"/>adversarius communiter diceret
+        </p>
+        <p>
+          <pc type="pilcrow"/> Sed contra illam partem argui potest quod non debat 
+          <lb ed="#S"/>dici quin aliqua una res sic tam essentia quam proprietas si enim nulla una 
+          <lb ed="#S"/>res sit realiter utraque tunc quaero tum <name>okam</name> distinctione 33 primi aut sunt aeque 
+          <lb ed="#S"/>perfecte vel una est perfectior alia si primum non est maior ratio quod 
+          <lb ed="#S"/>una illarum sit deus quam alia vel neutra istarum erit deus 
+          <lb ed="#S"/>vel utraque erit deus si 2m igitur altera est inperfecta et tamen utraque istarum 
+          <lb ed="#S"/>sit de essentia personae persona divina resultaret ex perfecto et in perfecto ymmo 
+          <lb ed="#S"/>eo ipso persona esset inperfecta quia constitueretur ex inperfecto ymmo utrumque 
+          <lb ed="#S"/>eius constitutum esset inperfectum quia quidquid concurrit cum inperfecto ad constitutionem 
+          <lb ed="#S"/>alicuius vere et per se unius est inperfectum consequens autem non est sa<lb ed="#S"/>num 
+          igitur nec antecedens nec valet instare quod per illud argumentum probaretur quod duae 
+          <lb ed="#S"/>personae essent duo dii quia aut sunt aeque perfecte aut una est perfectior 
+          <lb ed="#S"/>alia etc patet enim quod non est simile quia licet neutra persona sic alia tamen 
+          <lb ed="#S"/>secundum veritatem alia res una simplex et indistincta est realiter ille 
+          <lb ed="#S"/>personae ex decretali supra posita et si ista esset in proposito argumentum non va<lb ed="#S"/>leret 
+          sicud nec valet de illis si ista una res simplex esset omnis personae tunc 
+          <lb ed="#S"/>enim duae personae distinguerentur inter se sicud duo homines et duo alia 
+        </p>
+        <p>
+          <lb ed="#S"/><pc type="pilcrow"/> Item tunc deitas non esset persona nec econverso quia numquam pars est totum nec 
+          <lb ed="#S"/>resultans seu constitutum consequens est contra magistrum et auctoritates quas 
+          <lb ed="#S"/>pro se allegat hac distinctione 33
+        </p>
+        <p>
+          <pc type="pilcrow"/> Praeterea si essentia et relatio distinguuntur realier haec esset 
+          <lb ed="#S"/>simpliciter falsa pater et filius et spiritus scilicet sunt unus deus quia quaero pro quo 
+          <lb ed="#S"/>staret iste alius deus aut pro persona aut pro essentia aut pro proprietate sine 
+          <lb ed="#S"/><unclear>re?one</unclear> si pro essentia falsum esset quia tunc pater non est essentia igitur falsa esset ista 
+          <lb ed="#S"/>pater et filius et spiritus sanctus sunt una essentia non per persona quia certum est quod haec est falsa 
+          <lb ed="#S"/>pater et filius et spiritus sanctus sunt una persona per eandum rationem patet quia non supponit 
+          <lb ed="#S"/>pro proprietate personali <add rend="margin-bottom">quia pater et filius et spiritus sanctus non sunt una proprietas oppositum aut consequentis</add> 
+          habetur in symbolo et supra in decretali 
+          <lb ed="#S"/>et illud confirmatur quia non potest dici quod pater et filius et spiritus sanctus sunt unus deus nisi 
+          <lb ed="#S"/>propter idemptitatem divinae essentia in eis sed hoc non sufficit quia quantumcumque 
+          <lb ed="#S"/>in diversis compositis esset eadem materia secundum numerum numquam propter hoc essent 
+          <lb ed="#S"/>nec vere dici possent ista plura esse unum compositum igitur eodem modo 
+          <lb ed="#S"/>in proposito si essentia realiter distinguitur a proprietate personal non propter solam ydemptitatem 
+          <lb ed="#S"/>essentiae in personis potuerunt dici 3es personae unus deus tandem videtur 
+          <lb ed="#S"/>sibi rationabiliter quod non possit tunc vitari quin persona sit vere composita quia quandocumque <add place="margin-right">in aliquo</add> 
+          <lb ed="#S"/>concurrunt <unclear>alia<!-- possible correction here --></unclear> <add place="margin-center">realiter</add> distincta si faciat per se unum illud necessario est compositum 
+          <lb ed="#S"/>nec infinitas essentiae hoc posito excludit in aliquo compositum nisi ista 
+          <lb ed="#S"/>infinitas ydemptitatem sibi realiter proprietatem cum qua ponitur con<lb ed="#S"/>stituere 
+          per se unum <pc type="punctus"/> haec iste in sententia
+        </p>
+        <p>
+          <pc type="pilcrow"/> Item si alia inter se realiter 
+          <lb ed="#S"/>distincta constituerent personam quaero qualiter ista distinguuntur aut essentialiter aut persona<lb ed="#S"/>liter 
+          omnis namque ydemptitas in divinis possibilis assignari <add place="margin-right">videtur esse</add> vel realis 
+          <lb ed="#S"/>vel personalis non personalis quia si essentia et proprietas distinguuntur personaliter igitur duae personae in 
+          <lb ed="#S"/>una persona realiter distincte <add place="margin-left">et</add> essent in divinis <add place="margin-right">4or personae ad minus</add> nec essentialis quia nulla in divinis 
+          <lb ed="#S"/>essentialiter distinguuntur quia nec personae quarum distinctio ponitur maior in divinis
+          <lb ed="#S"/>igitur etc
+        </p>
+        <p>
+          <pc type="pilcrow"/> 3a conclusio est quod essentia et proprietas non sunt in eadem personae distincte 
+          <lb ed="#S"/>formalitates eiusdem rei ita scilicet quod sint una res non tamen eadem 
+          <lb ed="#S"/>formalitas sed <unclear>m?te</unclear> formalitates ex parte rei vel perfectiones vel formales 
+          <lb ed="#S"/>rationes distincte vel mere reales eiusdem rei a parte rei distincte 
+          <lb ed="#S"/>vel distincte quidditates vel quovis alio nomine appellentur
+        </p>
+        <p>
+          <pc type="pilcrow"/> 2o ista probari potest 
+          <lb ed="#S"/>sic si enim eadem sit realitas sue res essentiae et proprietas personalis 
+          <lb ed="#S"/>sed alia <add place="margin-right">et alia</add> formalitas huius et istius in ipso deo quaero igitur de realitate 
+          <lb ed="#S"/>essentiae quae vocetur <c>a</c> et formalitate eius alia a formalitate proprietatis et 
+          <lb ed="#S"/>ista formalitas essentiae vocetur <c>b</c> formalitas proprietatis vocetur <c>c</c> quaero in quam 
+          <lb ed="#S"/>utrum <c>a</c> et <c>b</c> sint omnimode idem a parte rei sint <c>a</c> sibi ipsi
+          <pb ed="#S" n="117-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S"/>et <c>b</c> sibi ipsi vel non si sic igitur pari ratione <c>a</c> et <c>c</c> sunt omnimode idem 
+          <lb ed="#S"/>et tunc arguo <c>a</c> est <c>c</c> igitur omne quod eest omnimode et convertibiliter idem ipsi 
+          <lb ed="#S"/><c>a</c> est <c>c</c> sed <c>b</c> est sic idem ipsi <c>a</c> igitur <c>b</c> erit <c>c</c> igitur haec formalitas est 
+          <lb ed="#S"/>illa et econtra igitur haec formalitas non distinguitur ab ista et per consequens haec et ista sunt una 
+          <lb ed="#S"/>formalitas si detur quod <c>b</c> non est <c>c</c> igitur nec <c>b</c> erit <c>a</c> cum enim <c>a</c> et 
+          <lb ed="#S"/><c>c</c> ponantur secundum hanc partem responsionis omnimode et convertibiliter idem igitur quod 
+          <lb ed="#S"/>non est <c>c</c> non est <c>a</c> Si aut realitas essentiae et eius formalitas propria distincta 
+          <lb ed="#S"/>a formalitate proprietatis non sint omnimode et adaequate seu convertibiliter idem igitur 
+          <lb ed="#S"/>sicud a capite sequendo fantasiam de pluribus 
+        </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
