@@ -58,7 +58,7 @@
           <lb ed="#S" n="4"/>Secundo quaero pro distinctione 4a primi utrum deus genuerit deum 
         </p>
         <p>
-          <lb ed="#S"/>videtur quod non quia aliquis deus non genuit deum et non est nisi u<lb ed="#S"/>nicus 
+          <lb ed="#S"/>videtur quod non quia aliquis deus non genuit deum et non est nisi u<lb ed="#S" break="no"/>nicus 
           deus igitur nullus deus genuit deum maior patet quia 
           <lb ed="#S"/>aliquis deus est pater et filius et spiritus sanctus ut patet <unclear>intellectu</unclear> et 
           <lb ed="#S"/>auctoritatibus 4ae distinctionis sed deus qui est pater et filius et spiritus sanctus non genuit 
