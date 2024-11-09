@@ -52,7 +52,7 @@
       </div>
     </front>
     <body>
-      <div xml:id="aw98wa-xg2828">
+      <div xml:id="aw98wa-xg2828"> <!-- b1d33q1-->
         <p>
           <lb ed="#S"/>Circa distinctionem 33am primi ubi inquiritur utrum proprietates personarum 
           <lb ed="#S"/>divinarum sint ipsae personae et sint etiam divina essentia 
@@ -258,7 +258,308 @@
           <lb ed="#S"/><c>c</c> ponantur secundum hanc partem responsionis omnimode et convertibiliter idem igitur quod 
           <lb ed="#S"/>non est <c>c</c> non est <c>a</c> Si aut realitas essentiae et eius formalitas propria distincta 
           <lb ed="#S"/>a formalitate proprietatis non sint omnimode et adaequate seu convertibiliter idem igitur 
-          <lb ed="#S"/>sicud a capite sequendo fantasiam de pluribus 
+          <lb ed="#S"/>sicud a capite sequendo fantasiam de pluribus formalitatibus eiusdem rei vel modi <unclear>rebus</unclear>
+          <lb ed="#S"/>vel quidditatibus vel rationibus formalitatibus seu quovis nomine appelentur sequitur quod alia 
+          <lb ed="#S"/>erit formalitas talis seu motus talis realis realitatis et ipsius formalitatis de 
+          <lb ed="#S"/>ipsa formalitate essentiae et de formalitate realitatis essentiae quaero ut prius aut <del rend="expunctuation">non</del> est 
+          <lb ed="#S"/>omnimode idem ex parte rei illi realitati aut non si sic arguitur ut prius 
+          <lb ed="#S"/>si non processus in infinitum
+        </p>
+        <p>
+          <pc type="pilcrow"/> dices forsan quod formalitas essentiae distincta a 
+          <lb ed="#S"/>formalitate proprietatis non est omnimode idem cum formalitate essentiae non tamen propter 
+          <lb ed="#S"/>hoc dabitur alia formalitas realitatis essentiae distincta a formalitate essentiae primo data 
+          <lb ed="#S"/>quia sufficit quod formalitas essentiae secundum data distinguatur formaliter a realitate 
+          <lb ed="#S"/>essentiae sine hoc quod dicuntur diverse formalitates ex parte essentiae
+        </p>
+        <p>
+          <pc type="pilcrow"/> Sed haec responsio 
+          <lb ed="#S"/>non sufficit cum quia probabilius et convenientius esset sicut respondendo a capite illi 
+          <lb ed="#S"/>qui habeat evasionem hic quaereret de ipsa proprietate personali et essentia scilicet quod non habent 
+          <lb ed="#S"/>distinctas formalitates et tamen distinguuntur formaliter cum quia illi contra quod ponitur 
+          <lb ed="#S"/>haec conclusio nesciunt ut fatentur videre quod <c>a</c> et <c>b</c> possint distin<lb ed="#S"/>gui 
+          formaliter quonaim sunt distincte formalitates et ita de similibus ad <c>a</c> et <c>b</c> nec 
+          <lb ed="#S"/>etiam quod <c>a</c> et <c>b</c> sint et non siint idem quin sint distinctae formalitates igitur secundum illos 
+          <lb ed="#S"/>si formalitas realitas essentiae distinguitur realiter a realiate cuius est forma<lb ed="#S"/>litas 
+          istius realitatis est una intimior vel prior formalitas 
+          <lb ed="#S"/>seu modus realis distincta a persona data scilicet ab essentiae propria <del rend="expunctuation">propria</del> formalitate 
+          <lb ed="#S"/>et proceditur ut prius absque statu
+        </p>
+        <p>
+          <pc type="pilcrow"/> concedo igitur absque hesione aliqua quod 
+          <lb ed="#S"/>essentia et proprietas personali patris non plus sunt formalitates <del rend="expunctuation">patris</del> vel modi reales 
+          <lb ed="#S"/>inter se distincte quam distinctae res cum igitur non est concedendum quod proprietas 
+          <lb ed="#S"/>personalis sit res distincta ab essentia divina igitur nec formalitas ab ea distincta haec iterum 
+          <lb ed="#S"/>conclusio probari potest ut sequentes
+        </p>
+        <p>
+          <pc type="pilcrow"/> 4a conclusio quod essentia et proprietas personalis quaecumque non 
+          <lb ed="#S"/>formaliter distinguuntur quia ista quae non distinguuntur non distinguuntur formaliter nam 
+          <lb ed="#S"/>ex opposito consequentis sequitur oppositum antecedentis quia si formaliter distinguuntur igitur distinguuntur 
+          <lb ed="#S"/>cum ly <mentioned>formaliter</mentioned> non sit determinatio distrahens vel <unclear>diminuens</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow"/> Circa quod 
+          <lb ed="#S"/>est sciendum quod esse formaliter aliquid vel <unclear>tale<!-- correction of some sort --></unclear> potest materialiter sui ad communem usum 
+          <lb ed="#S"/>loquentium uno modo ut sic idem quod per se primo modo esse tale vel illud sicut 
+          <lb ed="#S"/>homo formaliter est animal vel formaliter est animatus et in isto sensu sumitur communiter a 
+          <lb ed="#S"/><name>scoto</name> et <name>okam</name> et aliis bene utentibus termino quia in alio sensu summendo proban<lb ed="#S"/>do 
+          et in probando non est ire ad mentem sed ire ad verba in probandorum 
+          <lb ed="#S"/>et in isto sensu utar ego isto termino pro maiori parte
+        </p>
+        <p>
+          <pc type="pilcrow"/> Alio modo sumitur 
+          <lb ed="#S"/>saepe pro ut distinguitur contra esse tale solum causaliter et <unclear>virtualiter</unclear> et sit de simili<lb ed="#S"/>bus 
+          isto modo quo dicitur quod sol est calidus non quidem formaliter sicut 
+          <lb ed="#S"/>ignis sed causaliter sive virtualiter
+        </p>
+        <p>
+          <pc type="pilcrow"/> 3o modo sumitur diminuitive secundum usum aliquorum 
+          <lb ed="#S"/>ita quod sic idem dicere hoc distinguitur formaliter et dicere quod hoc secundum quid et non simpliciter 
+          <lb ed="#S"/>distinguitur ab isto et istum sensum ponit <ref><name>scotus</name> in quaestione ista de hac materia</ref> 
+          <lb ed="#S"/>quae vocatur logica <name>scoti</name> et <name>alerlbilrum</name> in <quote>additionibus scoti super 
+          <lb ed="#S"/>primum sententiarum distinctione 33 quaestione 1</quote>
+        </p>
+        <p>
+          <pc type="pilcrow"/> 4o modo sumitur formaliter adiective eo modo 
+          <lb ed="#S"/>quod dicit <name>scotus</name> in primo libro distinctione 5 assignando causam quare essentia non generat quod 
+          <lb ed="#S"/>verba adiectiva si probantur de necessitate praedicantur formaliter quia ex hoc quod sunt 
+          <lb ed="#S"/>adiectiva vel denominativa dicuntur de subiecto per modum informantis 
+          <lb ed="#S"/>et ista formaliter et isto modo secundum eum et secundum veritatem essentia <add place="margin-left">non est</add> generans 
+          <lb ed="#S"/>praedicato sumpto adiective sed sumpto substantive 
+        </p>
+        <p>
+          <pc type="pilcrow"/> Ex hoc patet probatio prae<lb ed="#S"/>cedens 
+          quoniam si ly <mentioned>formaliter</mentioned> sumatur primo mod planum est quod non est 
+          <lb ed="#S"/>determinatio diminuens nec distrahens et ita optime sequitur formaliter dis<lb ed="#S"/>tinguuntur 
+          igitur distinguitur sed quod non distinguntur nec simpliciter ned secundum quid et per 
+          <lb ed="#S"/>consequens nec formaliter primo modo nec 3o probatio quia hic est illud igitur non distingui 
+          <lb ed="#S"/>ab illo scilicet relatio est essentia econtra ut prius praedicatum est igitur
+        </p>
+        <p>
+          <pc type="pilcrow"/> praetera si distin<lb ed="#S"/>guuntur 
+          quantumcumque parum oportet <unclear>alia<!-- corrected somehow --></unclear> assignare duo vel plura quae sic 
+          <lb ed="#S"/>distinguamur et tunc quaeram quae duo vel quae plura si duo modi si duae 
+          <lb ed="#S"/>formalitates et sic de aliis inprobatum est per 3am conclusionem ita enim quaerebant 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S"/>infideles a fidelibus dicentibus tres sunt qui testimonium dant 
+          <lb ed="#S"/>intellectio qui tres
+        </p>
+        <p>
+          <pc type="pilcrow"/> praeterea tunc persona divina vel deus videretur esse minus necesse 
+          <lb ed="#S"/>esse quam deitas et hic ex parte rei extra de persona pro tanto quia compositum 
+          <lb ed="#S"/>videretur minus necesse esse quam sua principia vel non perfectius quia secundum <ref>commentatorem 12 
+          <lb ed="#S"/>metaphysicae commento 39</ref> secundum opinionem quae ponit in deo dispositiones additas 
+          <lb ed="#S"/>essentiae divini non est accidere compositionem et compositum esse novum nisi di<lb ed="#S"/>catur 
+          aliqua compositi per se et si aliqua essent quae componerentur per se tunc 
+          <lb ed="#S"/>exirent de potentia in actum per se et moverentur sicut motores per se 
+          <lb ed="#S"/>igitur secundum eum composito plus repungnat essentialis necessitas essendi vel ma<lb ed="#S"/>ior 
+          <lb ed="#S"/>quam simplici ex quo componitur etiam secundum avicennam omne necesse esse 
+          <lb ed="#S"/>est simplex omnino et non <add place="margin-right">includens</add> <del>intelligendus</del> in se plures intellectiones etc
+          <lb ed="#S"/>sed proprietas ex qua constituitur essentia si dicitur quantumcumque <unclear>personam</unclear> ab essentia nec 
+          <lb ed="#S"/>est ita <add place="above-line">est</add> perfectio <add place="margin-right">necesse</add> esse sicut essentia quia quantum distinguitur ab essentia tantum deficit 
+          <lb ed="#S"/>etiam a summa necessitate essendi illud patet quia summa necessitas 
+          <lb ed="#S"/>essendi aut est eadem essentiae distincte ydemptitate opposita distinctione formali 
+          <lb ed="#S"/>vel non si sic igitur sicut paternitas distinguitur a deitate ita ab illa necessi<lb ed="#S"/>tate 
+          sed non adhuc illa necessitas essendi summe est eadem in 
+          <lb ed="#S"/>omnibus personis et per consequens per eadem motiva per quae probaretur quod paternitas 
+          <lb ed="#S"/>distingueretur a deitate aeque probatur quod distinguitur formaliter ab ista necessitate 
+          <lb ed="#S"/>summa essendi
+        </p>
+        <p>
+          <pc type="pilcrow"/> 5o apparet dicendum quod proprietas et essentia non distinguuntur formaliter 
+          <lb ed="#S"/>ita quod haec conclusio <unclear>postponat</unclear> adverbium huic verbo sicud praecedens 4a prae<lb ed="#S"/>posuit 
+          distinguitur hanc ideo pono quia scotus in logica hoc modo et in 
+          <lb ed="#S"/>primo sustinet hunc secundum ut negatio intellecta in verbo distinctionis 
+          <lb ed="#S"/>vel differentiae praeponatur vel praeponi intelligatur adverbio et perpetua 
+          <lb ed="#S"/>solum quia sic et aliter potest concipi ordinari dicit in primo de 
+          <lb ed="#S"/>2a ubi tractat hanc materiam quod melius dicitur quod relation et essentia non 
+          <lb ed="#S"/>sunt idem formaliter vel quod hoc non est formaliter istud quam quod dis<lb ed="#S"/>tinguuntur 
+          formaliter vel quod distinguantur et ideo sustinet istum secundum in 
+          <lb ed="#S"/>primo et dicit primum esse melius licet alia expressio sit determinator 
+          <lb ed="#S"/>quia sicut <unclear>sententiatim</unclear> in logica huius materiae declarat si lyu <mentioned>foraliter</mentioned> su<lb ed="#S"/>matur 
+          pro per se primo modo et non diminutive et verbum distinctionis 
+          <lb ed="#S"/>praecedat non plus significatur nisi quod non sunt idem formaliter eandem 
+          <lb ed="#S"/>sententiam tenet <ref><name>okam</name> in primo distinctione 2 quaestione de hac materia</ref> tenens quod essentia et <unclear>re?o</unclear> distinguuntur 
+          <lb ed="#S"/>formaliter et tamen quod non formaliter distinguuntur pro eo quod <unclear>negatione<!-- possibly corrected from neglatione--></unclear> inclusa 
+          <lb ed="#S"/>in verbo distinctionis praeposito adverto non plus significatur nisi quod non sunt
+          <lb ed="#S"/>idem formaliter vel quod haec non sic formaliter illa et ideo 14 argumenta <unclear><pc type="pilcrow"/></unclear> consequentia 
+          <lb ed="#S"/>eum posita non tangunt eum quia plane exponit se modo 
+          <lb ed="#S"/>iam dicta
+        </p>
+        <p>
+          <pc type="pilcrow"/> Contra has opiniones et similes ponitur conclusio praemissa iam 
+          <lb ed="#S"/>negativa licet enim apud magistrum abstractionum sint apud eos 
+          <lb ed="#S"/>haec consequentia sit bona sortes est et non est omnis homo igitur differunt seu 
+          <lb ed="#S"/>distinguitur ab omni homine et tunc similiter tu es et non es idem cuilibet 
+          <lb ed="#S"/>igitur <unclear>diffs?</unclear> a quolibet sicud tenet et exprimit magister iste abstractionum 
+          <lb ed="#S"/>et per commentatorem eadem ratione sequitur essentia est a similiter paternitas est ita quod ponitur 
+          <lb ed="#S"/>constantia extremorum et essentia non est formaliter paternitas igitur differunt seu 
+          <lb ed="#S"/>distinguitur a paternitate formaliter hic tamen ut videtur mihi et multis aliis falsa 
+          <lb ed="#S"/>sunt tamen quia non plus videtur quod differre exponi debeat per non esse 
+          <lb ed="#S"/>idem quam esse idem per non differre quod patet dupliciter quia idem vel unum 
+          <lb ed="#S"/>plus esse videtur privatio differentiae vel multitudinis quam econtra tum 
+          <lb ed="#S"/>quia idem et distinctum seu idem et differens sive idem et diversum opponuntur 
+          <lb ed="#S"/>privative vel contrarie sicut simile et dissimile vel aequale et inaequale igitur sicud 
+          <lb ed="#S"/>non sequitur tu es et non es similis <add place="margin-bottom">cuilibet igitur dissimilis cuilibet vel es et non <unclear>aequalis</unclear> cuilibet igitur es inaequalis cuilibet quia antecedens 
+          potest esse verum sine veritate consequentis sit nec sequitur tu es et non es idem cuilibet igitur 
+          differens a quolibet vel <unclear>distinguitur</unclear> a quolibet</add> non oporet addere cuilibet sed determinato 
+          <lb ed="#S"/>et tunc sequitur cuilibet igitur es dissimilis cuilibet <add place="margin-right">vel sic</add> et eodem modo nec impo<lb ed="#S"/>sito 
+          propter idem sequeretur deitas est et deitas non est eadem formaliter pater<lb ed="#S"/>nitati 
+          igitur differunt ab ea formaliter sed erit fallacia consequentis qiua distingui 
+          <lb ed="#S"/>sicut differre inferat negationem tamen non includit sed est praedicatum 
+          <lb ed="#S"/>seu verbum positum
+        </p>
+        <p>
+          <pc type="pilcrow"/> praeterea sequendo istam expositionem falsum esset personas divinas 
+          <lb ed="#S"/>distingui realiter seu differre cuius tamen oppositum tota die dicimus 
+          <lb ed="#S"/>sed oporteret semper addere personaliter vel ypostatice consequentia patet quia personae sunt 
+          <lb ed="#S"/>idem quia sunt eadem essentia igitur nec distinguuntur nec differunt sic ponendo
+        </p>
+        <p>
+          <lb ed="#S"/><pc type="pilcrow"/> Praeterea 2o una exponens falsa est ad mentem istorum eundo licet 
+          <lb ed="#S"/>verba de proprietate sermonis ut petebit scilicet ista essentia et proprietas 
+          <pb ed="#S" n="117-v"/>
+          <pb ed="#S" n="a"/>
+          <lb ed="#S"/>non sunt idem formaliter vel non sunt idem per se primo modo igitur et exposita 
+          <lb ed="#S"/>falsa erit scilicet ista deitas et proprietas distinguitur formaliter postponendo 
+          <lb ed="#S"/>adverbium verbo 
+        </p>
+        <p>
+          <pc type="pilcrow"/> assumptum probo quia deitas et propri<add place="above-line">et</add>as sunt essentia forma<lb ed="#S"/>liter 
+          et primo modo per se igitur sunt formaliter aliquid idem ita sunt homo <unclear><!-- possible deletion here -->et</unclear> asinus 
+          <lb ed="#S"/>aliquid idem et hoc ad mentem istorum eundo et ultra deitas 
+          <lb ed="#S"/>formaliter seu per se primo est essentia et proprietas est per se primo modo 
+          <lb ed="#S"/>seu formaliter <del>seu</del> essentia quia persona formaliter <del rend="expunctuation">in quolibet verbo aequivocatur 
+          <lb ed="#S"/>nec iter ad mente aliorum</del> et per se est deitas et essentia alioquin personae 
+          <lb ed="#S"/><del rend="underline">se</del> non essent idem essentialiter non plus quam personaliter nisi scilicet in alia natura 
+          <lb ed="#S"/>vel entitate seu aliquo communi convenirent essentialiter et per se primo 
+          <lb ed="#S"/>modo non enim minus per se et essentialiter sunt 3 personae divinae unus deus 
+          <lb ed="#S"/>communis vel una deitas communis quam sortes et plato unus communis homo 
+          <lb ed="#S"/>data communitate humanitatis et hominis a parte rei extra sicud 
+          <lb ed="#S"/>ponunt aliqui sed tunc sortes et plato essent per se primo modo iste homo 
+          <lb ed="#S"/>communis iuxta illud prophirii participatione speciei plures homines 
+          <lb ed="#S"/>sunt unus homo si partitione speciei igitur primo modo est per se quia <unclear>sequens</unclear> 
+          <lb ed="#S"/>probatur de pluribus numero in eo quod quid
+        </p>
+        <p>
+          <pc type="pilcrow"/> Praeterea non minus est persona divi<lb ed="#S"/>na  
+          deitas primo modo quam sortes sic humanitas sed sortes qui est 
+          <lb ed="#S"/>persona human est primo modo humanitas et homo et sortes similiter et sic de 
+          <lb ed="#S"/>singulis ut hic suppono igitur non minus ibi immo <unclear>m?to</unclear> 
+          fortius et si persona est per se primo modo deitas igitur proprietas personalis 
+          <lb ed="#S"/>quia sunt omnimode idem ut potet <c>a</c> et <c>b</c> sint haec nomina eorum propria 
+          <lb ed="#S"/>sicut gladius et ensis sunt idem et marcus et tullius ponatur 
+          <lb ed="#S"/>quod haec sint nomina synomina eiusdem rei probo quia ista <!-- possible marginal addition here --> sunt idem 
+          <lb ed="#S"/>omnibus modis quibus unum illorum sibi ipsi quorum omne idem 
+          <lb ed="#S"/>et omnia quod licet quae est unum istorum est reliquum eorumdem et 
+          <lb ed="#S"/>econtra et quorum unum non est aliquid vel aliqua quin reliquum istorum sit 
+          <lb ed="#S"/>idem vel ista et econtra sic est de patre et proprietate personali patris et similiter 
+          <lb ed="#S"/>de aliis personis ergo etc maior patet quia licet non omnis propositio sic vera 
+          <lb ed="#S"/>per se primo modo inquam signa adaequata alicuius rei vel aliquarum realiter sunt 
+          <lb ed="#S"/>subiectum et praedicatum de omni tamen tali re potest formari talis propositio vera per se 
+          <lb ed="#S"/>primo modo quae significet hoc idem et econtra ubi gratia licet haec non sit 
+          <lb ed="#S"/>vera per se primo modo homo est risibilis vel risibile eest homo non obstante quod omne 
+          <lb ed="#S"/>illud quod est homo sit risibile et econtra et similiter risibile nihil est quin homo 
+          <lb ed="#S"/>sic idem nec homo est aliquid quin risibile sic idem si tamen accipiantur 
+          <lb ed="#S"/>alia signa aptat supponentia praecise pro eisudem licet non significantia 
+          <lb ed="#S"/>omnia eadem propositio talis potest esse per se primo modo utpote haec homo  
+          <lb ed="#S"/>est homo vel homo est compositum aliquid ex corpore et anima tali quod aut ista 
+          <lb ed="#S"/>data non est per se primo modo hic eest quia licet duo termini <del rend="expunctuation">in</del> sint 
+          <lb ed="#S"/>convertibiles sumpti in praedicato et subiecto in supponendo non tamen in significando 
+          <lb ed="#S"/>quia iste terminus risibile significat actum ridendi quem non significat iste terminus homo 
+          <lb ed="#S"/>ad hunc intellectum intelligo conclusionem praemissam scilicet quod sunt formaliter idem 
+          <lb ed="#S"/>id est sunt formaliter <c>c</c> sic <c>c</c> essentia et sic de omnibus per se superioribus 
+          <lb ed="#S"/>tamen essentia non est formaliter paternitas de virtute sermonis quia praedicatum 
+          <lb ed="#S"/>appellat suam formam unde licet risibile sic per se primo modo homo non tamen 
+          <lb ed="#S"/>homo est per se primo modo risibilis maior etiam ponit tres par<lb ed="#S"/>ticulas 
+          ad 3 instantias excludendas primo primo istam <add place="margin-left">quibus unum illorum</add> <del rend="underline">sibi 
+          <lb ed="#S"/>ipsis</del> absolute loquendo nihil est modis omnibus idem neque paternitas sibi 
+          <lb ed="#S"/>ipsis neque deitas sibi ipsi quia nec omnibus modis secundum numerum nec secundum genus 
+          <lb ed="#S"/>nec secundum speciem quoniam nec isto modo secundum numerum quo asinus sibi 
+          <lb ed="#S"/>ipsi nec inperfecte nec confuse nec velociter nec <unclear>contingenter</unclear> aut sic 
+          <lb ed="#S"/>discurrendo per multos modos possibiles in diversis secundum materiis
+        </p>
+        <p>
+          <lb ed="#S"/><pc type="pilcrow"/> 2o istam <del rend="underline">omne illud quod est unum istorum est reliquum et econtra</del> pro 
+          <lb ed="#S"/>talibus pater et deus vel deitas licet enim <c>a</c> pro se primo modo sit 
+          <lb ed="#S"/>deitas sit a signum individuale patris in divinis non tamen 
+          <lb ed="#S"/>est deitas adaequate et convertitur quia aliquid est deitas quod tamen non 
+          <lb ed="#S"/>est <c>a</c> scilicet filius vel spiritus sanctus nec per consequens deitas est per se primo modo 
+          <lb ed="#S"/><c>a</c> subiecto supponente pro deitate communi nam aliter propositio non esset vera per se 
+          <lb ed="#S"/>quia sunt in communitate signorum numquam inferius probatur per se primo 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S"/>modo de suo per se superiori ista in communitate reali qualis est 
+          <lb ed="#S"/>in divinis solum modo numquam communius est per se primo modo illud quod non 
+          <lb ed="#S"/>est commune vel illud quod est minus commune <pc type="punctus"/> deitas autem in divinis 
+          <lb ed="#S"/>est communis sed minus communis quam deitas et est <c>a</c> entitas ibi 
+          <lb ed="#S"/>non communis ideo licet <c>a</c> sic ibi per se primo modo deitas <unclear>etc</unclear> <c>b</c> 
+          sic <c>b</c> spiratio activa id est signum proprium istius active spirationis 
+          <lb ed="#S"/>quae deus est in supponendo sit per se primo modo deitas non tamen econtra 
+          <lb ed="#S"/>propter causam dictam ideo autem loquor per <c>a</c> et per <c>b</c> et non per istos 
+          <lb ed="#S"/>terminos pater et spiratio activa quia isti termini significant <unclear>m?ta</unclear> alia et 
+          <lb ed="#S"/>ideo propositi ponens ista in subiecto et istum terminum deitas in praedicato non est 
+          <lb ed="#S"/>per se primo modo quia <add place="margin-right">non</add> subicitur quod natum est subici etiam addito pro 
+          <lb ed="#S"/>nomine et contracto termino communi in subiecto inpeditur perseitas propositionis 
+          <lb ed="#S"/>sicut haec non est per se primo modo hoc animal est homo <unclear>demonstrato</unclear> sorte 
+          <lb ed="#S"/>licet bene haec sit vera hic animal per se primo modo est homo et haec similiter 
+          <lb ed="#S"/>pater per se primo modo est deitas
+        </p>
+        <p>
+          <pc type="pilcrow"/> additur aut tertia particula scilicet 
+          <lb ed="#S"/><del>et quorum unum non est aliquid quin reliquum sic illud</del> quia licet iuxta 
+          <lb ed="#S"/>2a<add>m</add> particulam pater sic omne illud quod est deitas non tamen sunt 
+          <lb ed="#S"/>convertibiliter idem pro eo quod aliquid est illud quod est pater et tamen illud non est 
+          <lb ed="#S"/>pater filus enim nullius est pater cum est illud quod est pater scilicet dei<lb ed="#S"/>tas 
+          sic igitur maior est praedicata et declarata minor plana est 
+          <lb ed="#S"/>igitur proprietas personalis et persona sunt omnibus idem quibus proprietas personalis 
+          <lb ed="#S"/>sibi ipsi sequitur igitur conclusio principalis scilicet quod personalis proprietas sic deitas personae 
+          <lb ed="#S"/>primo modo et formaliter
+        </p>
+        <p>
+          <pc type="pilcrow"/> 2o probatur idem aliter sic scilicet quod proprietas <add place="margin-right">patris et</add> pa<lb ed="#S"/>ter 
+          sint omnimode et adaequate idem quia nisi hoc debetur oportet necessario ymaginari 
+          <lb ed="#S"/>in persona praeter proprietatem personalem aliquid concurrens cum eadem ad constitutionem 
+          <lb ed="#S"/>personae aliquo modo parvo vel magno distinctum ab ista ita quod 
+          <lb ed="#S"/>proprietas personalis non sit adaequate persona ipsa consequens est falsum quia hoc po<lb ed="#S"/>nendo 
+          necessario incidimus in constitutionem et compositum quae circa illud quod est 
+          <lb ed="#S"/>per se unum et idem significant et ita persona divina non esset naturaliter simplex sicud 
+          <lb ed="#S"/>deitas quod dicere nolo nec vitare scio nisi ponendo omnimodam ydemp<lb ed="#S"/>titatem 
+          patris ad personalitatem primam in divinis et econtra licet ad propositum 
+          <lb ed="#S"/>verba inferre scirem qualia illi proferunt qui hoc tenent
+        </p>
+        <p>
+          <pc type="pilcrow"/> Praeterea idem 
+          <lb ed="#S"/>videtur in proposito maxime tenendum quo melius et clarius salvatur 
+          <lb ed="#S"/>tota substantia fidei superius notata sed ista ponit communitatem realem dei<lb ed="#S"/>tatis 
+          et distinctionem realem <del rend="expunctuation">personalem</del> personarum cum summa simplicitate et haec po<lb ed="#S"/>tissime 
+          salvantur si proprietates personales sint plenissime ipse 
+          <lb ed="#S"/>personae ita quod personae sint potissime ipse proprietates quarum quaelibet fit forma<lb ed="#S"/>liter 
+          et per se primo modo deitas ipsa licet non econtra propter causam praetat 
+          <lb ed="#S"/>causam minor patet quia tunc sicut in creaturis in tribus individuis simpli<lb ed="#S"/>cisimis 
+          eiusdem speciei vel generis propinqui propter communitatem solius 
+          <lb ed="#S"/>signi unitatem istam significantis de signo proprio cuiuslibet istorum 
+          <lb ed="#S"/>praeter illud signum commune praedicari essentialiter et per se primo modo ita 
+          <lb ed="#S"/>et multo fortius poterit haec salvari in proposito per communitatem re<lb ed="#S"/>alem 
+          deitatis eiusdem ad 3 personas seu proprietates simplicissimas in 
+          <lb ed="#S"/>ipsa realiter et essentialissime convenientes et eodem modo correspondenter et quo 
+          <lb ed="#S"/>ad hoc aeque leviter salvabuntur omnia in proposito de proprietate 
+          <lb ed="#S"/>et communitate reali sicut ibi respondetur de communitate et proprietate secundum 
+          <lb ed="#S"/>praedicationem solum licet ultra in proposito <unclear>or?at</unclear> de salvari unum <seg type="correction">ori<add place="margin-right">ginari ab</add></seg>
+          <lb ed="#S"/>alio etc sed si nullum individuum in creaturis eiusdem speciei posset 
+          <lb ed="#S"/>esse quia omnia possibilia eiusdem speciei essent sicut est de divinis 
+          <lb ed="#S"/>personis quod tamen falsum est tunc posset sustineri communitas realis 
+          <lb ed="#S"/>in creaturis correspondens communicati signorum sicut et in divinis absque 
+          <lb ed="#S"/>omni composito inter naturam specificam vel generalem et differentiam individualem 
+          <lb ed="#S"/>sed nunc non oportet <pc type="punctus"/> ita esse nec etiam tenere ista in creaturis sicut et in deo 
+          <lb ed="#S"/>quia fides docet nos quod deitas est simul 3 personae realiter distincte 
+          <lb ed="#S"/>et nihil minus sigillatim quaelibet earumdem in creaturis autem nec ratio 
+          <lb ed="#S"/>nec fides etiam tunc nos hoc doceret modo autem ex quo unum in<pb ed="#S" n="118-r"/><cb ed="#S" n="a"/><lb ed="#S" break="no"/>dividuum 
+          potest esse alio possibili non existente evidentissime scimus in crea<lb ed="#S"/>turis 
+          illud esse simpliciter inpossibile
+        </p>
+        <p>
+          
         </p>
         
       </div>
