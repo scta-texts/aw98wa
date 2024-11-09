@@ -53,11 +53,11 @@
     </front>
     <body>
       <div xml:id="aw98wa-xg2950">
-        <head>Quaestio 2</head>
-        <p>
+        <head xml:id="aw98wa-xg2950-Hd1e100">Quaestio 2</head>
+        <p xml:id="aw98wa-xg2950-d1e102">
           <lb ed="#S" n="4"/>Secundo quaero pro distinctione 4a primi utrum deus genuerit deum 
         </p>
-        <p>
+        <p xml:id="aw98wa-xg2950-d1e107">
           <lb ed="#S"/>videtur quod non quia aliquis deus non genuit deum et non est nisi u<lb ed="#S" break="no"/>nicus 
           deus igitur nullus deus genuit deum maior patet quia 
           <lb ed="#S"/>aliquis deus est pater et filius et spiritus sanctus ut patet <unclear>intellectu</unclear> et 
@@ -66,11 +66,42 @@
           nisi pro deitate et deitas non genuit deum igitur aliquis deus non ge<lb ed="#S" break="no"/>nuit 
           deum et tunc ultra ut prius igitur nullus deus genuit deum
         </p>
-        <p>
+        <p xml:id="aw98wa-xg2950-d1e127">
           <pc type="#pilcrow"/> Item 
-          <lb ed="#S"/>probatur ista maior quia iste 
-
+          <lb ed="#S"/>probatur ista maior quia iste deus non genuit deum <unclear>demonstrato spiritus sanctus</unclear> igitur 
+          <lb ed="#S"/>aliquis deus non genuit deum et tunc sicut prius ultra
         </p>
+        <p xml:id="aw98wa-xg2950-d1e138">
+          <pc type="#pilcrow"/> praeterea ge<lb ed="#S"/>nerat 
+          filium igitur pater distinguitur a filio per illud medium quod nihil generat 
+          <lb ed="#S"/>se igitur pari ratione sequitur deus generat deum igitur distinguitur a deo consequens 
+          <lb ed="#S"/>falsum igitur antecedens
+        </p>
+        <p xml:id="aw98wa-xg2950-d1e150">
+          <pc type="#pilcrow"/> Item sicut arguitur in littera 4a distinctione si deus genuit deum 
+          <lb ed="#S"/>igitur genuit se deum vel alium deum consequens falsum igitur antecedens et consequentia patet 
+          <lb ed="#S"/>a simili ubique
+        </p>
+        <p xml:id="aw98wa-xg2950-d1e159">
+          <pc type="#pilcrow"/> ad oppositum pater genuit filium ergo deus deum consequentia 
+          <lb ed="#S"/>patet quia utrique est deus
+        </p>
+        <p xml:id="aw98wa-xg2950-d1e166">
+          <pc type="#pilcrow"/> In ista quaestione primo volo respondere ad 
+          <lb ed="#S"/>quaestionem et ad argumenta principalia 2o inquirere modum solvendi <unclear>perlo?mem</unclear>
+          <lb ed="#S"/>circa materiam trinitatis
+        </p>
+        <p xml:id="aw98wa-xg2950-d1e177">
+          <pc type="#pilcrow"/> De primo dico breviter ad quaestionem quod sic sicut infert 
+          <lb ed="#S"/>argument ad partem oppositam quod ad idem ponit magister distinctione 4 capitulo 1
+          <lb ed="#S"/>et illud sufficit probatur sicut et ipse probat per symbolum ex patre 
+          <lb ed="#S"/>natum ante omnia secula etc
+        </p>
+        <p xml:id="aw98wa-xg2950-d1e188">
+          <pc type="#pilcrow"/> hic tamen posset inquiri de va<lb ed="#S"/>ria 
+          significatione et suppositione horum terminorum deitas deus sed <name xml:id="aw98wa-xg2950-Nd1e194">ockham</name>
+        </p>
+
       </div>
     </body>
   </text>
