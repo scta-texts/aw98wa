@@ -1,0 +1,53 @@
+name: Run XML ID creation
+
+on:
+  pull_request:
+    paths:
+      - '**/*.xml'
+
+jobs:
+  run-xslt:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.head_ref }}
+
+    - name: Set up Java
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '11'
+
+    - name: Download Saxon
+      run: |
+        wget https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/10.6/Saxon-HE-10.6.jar -O saxon.jar
+
+    - name: Download XSL file from Gist
+      run: |
+        wget https://gist.githubusercontent.com/jeffreycwitt/3c6c73b624000b6a94265d991aec8494/raw/08d0166c4f320200e18bc7d4d8a210e4ff7b1aa2/xmlid-creation.xslt -O stylesheet.xsl
+
+    - name: Identify modified XML files
+      id: modified-xml
+      run: |
+        MODIFIED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.xml$' || true)
+        echo "::set-output name=files::$MODIFIED_FILES"
+
+    - name: Run XSLT transformation
+      if: steps.modified-xml.outputs.files != ''
+      run: |
+        for file in ${{ steps.modified-xml.outputs.files }}; do
+          echo "Processing $file"
+          java -jar saxon.jar -s:$file -xsl:stylesheet.xsl -o:$file
+        done
+
+    - name: Commit and push changes
+      if: steps.modified-xml.outputs.files != ''
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add ${{ steps.modified-xml.outputs.files }}
+        git commit -m 'Apply XSLT transformation to modified XML files'
+        git push origin ${{ github.head_ref }}
