@@ -35,7 +35,8 @@ jobs:
     - name: Identify modified XML files
       id: modified-xml
       run: |
-        MODIFIED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.xml$' || true)
+        set -x
+        MODIFIED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep '\.xml$' || true)
         echo "::set-output name=files::$MODIFIED_FILES"
 
     - name: Run XSLT transformation
