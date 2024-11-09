@@ -53,8 +53,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         set -x
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --global user.name 'jeffreycwitt'
+        git config --global user.email 'jeffreycwitt@gmail.com'
         git add ${{ steps.modified-xml.outputs.files }}
         git commit -m 'Apply XSLT transformation to modified XML files'
         git push origin HEAD:${{ github.event.pull_request.head.ref }}
