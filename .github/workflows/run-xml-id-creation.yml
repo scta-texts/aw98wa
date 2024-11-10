@@ -43,8 +43,12 @@ jobs:
       if: steps.modified-xml.outputs.files != ''
       run: |
         for file in ${{ steps.modified-xml.outputs.files }}; do
-          echo "Processing $file"
-          java -jar saxon.jar -s:$file -xsl:stylesheet.xsl -o:$file
+          if grep -q "<transcription use-for-extraction=\"true\">$file</transcription>" transcriptions.xml; then
+            echo "Processing $file"
+            java -jar saxon.jar -s:$file -xsl:stylesheet.xsl -o:$file
+          else
+            echo "No matching transcription file found for $file"
+          fi
         done
 
     - name: Commit and push changes
