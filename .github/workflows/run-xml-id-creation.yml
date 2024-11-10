@@ -1,12 +1,12 @@
 name: Run XML ID creation
 
 on:
-  pull_request_target:
-    paths:
-      - '**/*.xml'
+  pull_request_review:
+    types: [submitted]
 
 jobs:
   run-xslt:
+    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
 
     steps:
