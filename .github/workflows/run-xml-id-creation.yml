@@ -59,7 +59,7 @@ jobs:
         git diff --name-only $BASE_SHA $HEAD_SHA
         MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
         echo "Modified XML files: $MODIFIED_FILES"
-        echo "::set-output name=files::$(echo $MODIFIED_FILES | tr '\n' ' ')"
+        echo "files=$(echo $MODIFIED_FILES | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
     - name: Run XSLT transformation
       if: steps.modified-xml.outputs.files != ''
