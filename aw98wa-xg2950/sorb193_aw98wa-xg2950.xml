@@ -26,7 +26,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness n="sorb193">Sorbonne 193</witness>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -99,9 +99,16 @@
         </p>
         <p xml:id="aw98wa-xg2950-d1e188">
           <pc type="#pilcrow"/> hic tamen posset inquiri de va<lb ed="#S"/>ria 
-          significatione et suppositione horum terminorum deitas deus sed <name xml:id="aw98wa-xg2950-Nd1e194">ockham</name>
+          significatione et suppositione horum terminorum deitas deus sed <ref><name xml:id="aw98wa-xg2950-Nd1e194">ockham</name> distinctione 
+          4a primi</ref> de hoc prosequitur satis a parte
         </p>
-
+        <p>
+          <pc type="#pilcrow"/> ad primum argumentum igitur de hac 
+          <lb ed="#S"/>negativa deus non genuit deum videtur.....
+        </p>
+        <p>
+          <pc type="#pilcrow"/> Exemplum <del>penes</del> augustini
+        </p>
       </div>
     </body>
   </text>
