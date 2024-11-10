@@ -39,13 +39,16 @@ jobs:
         if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
           HEAD_SHA=$(git rev-parse HEAD)
           BASE_SHA=$(git rev-parse HEAD^)
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           echo "Using default SHAs: BASE_SHA=$BASE_SHA, HEAD_SHA=$HEAD_SHA"
         else
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          TARGET_BRANCH="${{ github.event.pull_request.head.ref }}"
         fi
         echo "BASE_SHA=$BASE_SHA" >> $GITHUB_ENV
         echo "HEAD_SHA=$HEAD_SHA" >> $GITHUB_ENV
+        echo "TARGET_BRANCH=$TARGET_BRANCH" >> $GITHUB_ENV
 
     - name: Identify modified XML files
       id: modified-xml
@@ -92,5 +95,5 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m 'Apply XSLT transformation to modified XML files'
-          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          git push origin HEAD:$TARGET_BRANCH
         fi
