@@ -3,10 +3,20 @@ name: Run XML ID creation
 on:
   pull_request_review:
     types: [submitted]
+  workflow_dispatch:
+    inputs:
+      base_sha:
+        description: 'Base commit SHA'
+        required: true
+        default: ''
+      head_sha:
+        description: 'Head commit SHA'
+        required: true
+        default: ''
 
 jobs:
   run-xslt:
-    if: github.event.review.state == 'approved'
+    if: github.event_name == 'workflow_dispatch' || github.event.review.state == 'approved'
     runs-on: ubuntu-latest
 
     steps:
@@ -36,7 +46,14 @@ jobs:
       id: modified-xml
       run: |
         set -x
-        MODIFIED_FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }} | grep '\.xml$' || true)
+        if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+          BASE_SHA="${{ github.event.inputs.base_sha }}"
+          HEAD_SHA="${{ github.event.inputs.head_sha }}"
+        else
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+        fi
+        MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
         echo "Modified XML files: $MODIFIED_FILES"
         echo "::set-output name=files::$(echo $MODIFIED_FILES | tr '\n' ' ')"
 
