@@ -44,9 +44,11 @@ jobs:
       run: |
         for file in ${{ steps.modified-xml.outputs.files }}; do
           echo $file
+          dir_name=$(dirname "$file")
+          echo $dir_name
           base_file=$(basename "$file")
           echo $base_file
-          if grep -q "<transcription use-for-extraction=\"true\">${base_file}</transcription>" transcriptions.xml; then
+          if grep -q "<transcription use-for-extraction=\"true\">${base_file}</transcription>" ${dir_name}/transcriptions.xml; then
             echo "Processing $file"
             java -jar saxon.jar -s:$file -xsl:stylesheet.xsl -o:$file
           else
