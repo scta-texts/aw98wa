@@ -3,10 +3,14 @@ name: Run XML ID creation
 on:
   pull_request_review:
     types: [submitted]
+  pull_request:
+    types: [opened, synchronize]
 
 jobs:
   run-xslt:
-    if: github.event.review.state == 'approved'
+    if: |
+      github.event.review.state == 'approved' ||
+      github.event.pull_request.user.login == 'jeffreycwitt'
     runs-on: ubuntu-latest
 
     steps:
