@@ -42,6 +42,7 @@ jobs:
     - name: Run XSLT transformation
       if: steps.modified-xml.outputs.files != ''
       run: |
+        echo $MODIFIED_FILES
         for file in ${{ steps.modified-xml.outputs.files }}; do
           echo $file
           dir_name=$(dirname "$file")
