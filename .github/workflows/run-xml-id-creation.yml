@@ -32,11 +32,10 @@ jobs:
     - name: Download XSL file from Gist
       run: |
         wget https://gist.githubusercontent.com/jeffreycwitt/3c6c73b624000b6a94265d991aec8494/raw/08d0166c4f320200e18bc7d4d8a210e4ff7b1aa2/xmlid-creation.xslt -O stylesheet.xsl
-
-    - name: Identify modified XML files
-      id: modified-xml
+    
+    - name: Determine commit SHAs
+      id: determine-shas
       run: |
-        set -x
         if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
           HEAD_SHA=$(git rev-parse HEAD)
           BASE_SHA=$(git rev-parse HEAD^)
@@ -45,6 +44,11 @@ jobs:
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
         fi
+
+    - name: Identify modified XML files
+      id: modified-xml
+      run: |
+        set -x
         MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
         echo "Modified XML files: $MODIFIED_FILES"
         echo "::set-output name=files::$(echo $MODIFIED_FILES | tr '\n' ' ')"
