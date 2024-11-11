@@ -1,8 +1,8 @@
 name: Run XML ID creation
 
 on:
-  pull_request_review:
-    types: [submitted]
+  pull_request_target:
+    types: [ready_for_review]
   workflow_dispatch:
 
 jobs:
