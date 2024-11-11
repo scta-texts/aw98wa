@@ -55,7 +55,7 @@ jobs:
       - name: Identify modified XML files
         id: modified-xml
         run: |
-          git fetch --depth=2
+          git fetch --unshallow
           BASE_SHA=$(git rev-parse HEAD^)
           HEAD_SHA=$(git rev-parse HEAD)
           MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
