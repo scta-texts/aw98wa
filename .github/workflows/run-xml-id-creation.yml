@@ -32,6 +32,10 @@ jobs:
       run: |
         wget https://gist.githubusercontent.com/jeffreycwitt/3c6c73b624000b6a94265d991aec8494/raw/08d0166c4f320200e18bc7d4d8a210e4ff7b1aa2/xmlid-creation.xslt -O stylesheet.xsl
     
+    - name: Download XSL Line Number Creation file from Gist
+      run: |
+        wget https://gist.githubusercontent.com/jeffreycwitt/07e9ca3cf73cad708f78bcf05273212f/raw/d93fe6ad36ebb31682eaa32d2dce14d950ee7605/line-number-creation.xsl -O stylesheetLineNumber.xsl
+      
     - name: Determine commit SHAs
       id: determine-shas
       run: |
@@ -74,11 +78,14 @@ jobs:
           base_file=$(basename "$file")
           echo $base_file
           if grep -q "<transcription use-for-extraction=\"true\">${base_file}</transcription>" ${dir_name}/transcriptions.xml; then
-            echo "Processing $file"
+            echo "Processing xml:id creation in canonical manifestation $file"
             java -jar saxon.jar -s:$file -xsl:stylesheet.xsl -o:$file
           else
             echo "No matching transcription file found for $file"
           fi
+
+          echo "Processing line number creation $file"
+          java -jar saxon.jar -s:$file -xsl:stylesheetLineNumber.xsl -o:$file
         done
 
     - name: Commit and push changes
