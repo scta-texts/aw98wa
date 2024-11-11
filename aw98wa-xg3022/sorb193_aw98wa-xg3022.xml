@@ -54,13 +54,18 @@
     <body>
       <div xml:id="aw98wa-xg2828"> <!-- b1d33q3-->
       <p xml:id="aw98wa-xg2828-d1e102">
-        Tertio circa d 33 quaero iterum pro 4 distinctione
+        <lb ed="#S"/>Tertio circa d 33 quaero iterum pro 4 distinctione
       </p>
       <p xml:id="aw98wa-xg2828-d1e104">
-        More test
+        <lb ed="#S"/>More test
       </p>
       <p xml:id="aw98wa-xg2828-d1e106">
-        More Test 2
+        <lb ed="#S"/>More Test 2
+        <lb ed="#S"/>test
+      </p>
+      <p>
+        <lb ed="#S"/>test
+        <lb ed="#S"/>test
       </p>
         
         
