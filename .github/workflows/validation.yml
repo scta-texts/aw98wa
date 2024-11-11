@@ -10,10 +10,9 @@ on:
   pull_request:
     branches: [ master ]
   workflow_run:
-    workflows: ["Run XML ID creation"]
+    workflows: ["Run XML ID creation", "Run Line Number Creation"]
     types:
       - completed
-  
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -52,11 +51,22 @@ jobs:
       - name: get tdf 
         run: wget -O schema/tdf.rng 'https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-0.rng'
 
+
+      - name: Identify modified XML files
+        id: modified-xml
+        run: |
+          git fetch --depth=2
+          BASE_SHA=$(git rev-parse HEAD^)
+          HEAD_SHA=$(git rev-parse HEAD)
+          MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
+          echo "Modified XML files: $MODIFIED_FILES"
+          echo "files=$(echo $MODIFIED_FILES | tr '\n' ' ')" >> $GITHUB_OUTPUT
+
       # Runs check
       - name: run validation checks
+        if: steps.modified-xml.outputs.files != ''
         run: |
-          for file in */*.xml; 
-            do 
+          for file in ${{ steps.modified-xml.outputs.files }}; do
               echo "start";
               echo $file;
               if [[ $(grep -o "lbp-.*-1.0.0" $file) ]];
