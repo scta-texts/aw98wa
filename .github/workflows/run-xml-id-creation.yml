@@ -2,7 +2,7 @@ name: Run XML ID creation
 
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [ready_for_review]
   workflow_dispatch:
 
 jobs:
