@@ -55,9 +55,10 @@ jobs:
       - name: Identify modified XML files
         id: modified-xml
         run: |
-          git fetch origin ${{ github.event.pull_request.base.ref }} --depth=1
-          BASE_SHA=$(git merge-base HEAD origin/${{ github.event.pull_request.base.ref }})
-          MODIFIED_FILES=$(git diff --name-only $BASE_SHA HEAD | grep '\.xml$' || true)
+          git fetch --depth=2
+          BASE_SHA=$(git rev-parse HEAD^)
+          HEAD_SHA=$(git rev-parse HEAD)
+          MODIFIED_FILES=$(git diff --name-only $BASE_SHA $HEAD_SHA | grep '\.xml$' || true)
           echo "Modified XML files: $MODIFIED_FILES"
           echo "files=$(echo $MODIFIED_FILES | tr '\n' ' ')" >> $GITHUB_OUTPUT
 
