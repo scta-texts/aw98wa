@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4 [Sorb193 Transcription]</title>
+          <date when="2024-12-31">December 31, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-31" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="128-v"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3109"><!-- b1d33q4-->
+        <head xml:id="aw98wa-xg3109-Hd1e101">Quaestio 4</head>
+        <p xml:id="aw98wa-xg3109-d1e103">
+          <lb ed="#S" n="112"/>Quarto circa distinctionem 33 quaero pro distinctione 5a primi libri utrum 
+          <lb ed="#S" n="113"/>divina essentia generet vel generet videtur quod sic quia iste pater ge<lb ed="#S" break="no" n="114"/>nerat 
+          et iste pater est essentia divina igitur esse divina igitur essentia divina generat 
+          <lb ed="#S" n="115"/>praemissae vere igitur conclusio discursus patet per anselmum de processu spiritus sancti capitulo 2 
+          <lb ed="#S" n="116"/>ubi ponitur pro regula veritas tenet ibi suum consequens ubi non obviat 
+          <lb ed="#S" n="117"/>relationis oppositio sed inter essentiam et generare non est oppositio relationis quia <add place="margin-right">tunc</add> genera<lb ed="#S" break="no" n="118"/>re 
+          in divinis non esset essentia consequens falsum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e124">
+          <pc type="pilcrow"/> Item omne in divinis generans 
+          <lb ed="#S" n="119"/>filium est essentia igitur tantum essentia generat ibi filium ab universali ad exclu<lb ed="#S" break="no" n="120"/>sivam 
+          de terminis transpositis
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e133">
+          <pc type="pilcrow"/>Item essentia divina est pater <add place="margin-right">igitur est pater</add> filii nam 
+          <lb ed="#S" n="121"/>praedicata antecedentis et consequentis convertuntur igitur generat vel generavit et si generet 
+          <lb ed="#S" n="122"/>quia est pater generatur pari ratione quia est filius
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e145">
+          <pc type="pilcrow"/> Contra si essentia genera<lb ed="#S" break="no" n="123"/>ret 
+          filium distingueretur a filio quem generaret et si generaretur 
+          <pb ed="#S" n="129-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>a patre distingueretur a patre qui eam generaret quia nulla res est quae se ipsam 
+          <lb ed="#S" n="2"/><sic>gingnat</sic> ut sic secundum augustinum 1 de trinitate capitulo 1
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e163">
+          <pc type="pilcrow"/> Istud est argumentum magistri 5 distinctione 
+          <lb ed="#S" n="3"/>primi cuius sententia <add place="margin-left">approbatur et</add> iam est determinatio ecclesiae pro eo contra ioachim sicut supra 
+          <lb ed="#S" n="4"/>patuit quaestione 1 capitulo primo ubi determinatur sacro approbante continuo quod quaedam <unclear>fun<lb ed="#S" break="no" n="5"/>damenta</unclear> 
+          res <add place="margin-left">est</add> vicem substantia seu natura divina quae est simul 3 personae et sigillatim 
+          quaelibet earumdem et ista res non est generans nec genita neque procedens 
+          <lb ed="#S" n="6"/>sed est pater qui generat et filius qui gignitur et spiritus sanctus qui procedit
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e186">
+          <pc type="pilcrow"/>hic 
+          <lb ed="#S" n="7"/>in primis dicendum est quod generare non convenit divinae essentiae intelligendo naturam 
+          <lb ed="#S" n="8"/>divinam communem personis sicut exponit se magister et ratio sua ad hoc iam posita 
+          <lb ed="#S" n="9"/>hoc <unclear>coniuntit</unclear> et determinatio ecclesiae hic ipsum sentire compellit et certe rationa<lb ed="#S" break="no" n="10"/>biliter 
+          quia omnia argumenta in contrarium supposita fide <add place="margin-left">trinitatis</add> personalis et unitatis essentialis simul col<lb ed="#S" break="no" n="11"/>lecta 
+          non habent tantam evidentiam ad oppositum sicut unitas magistri 
+          <lb ed="#S" n="12"/>iam tactum ad propositum 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e209">
+          <pc type="pilcrow"/> Sed in contrarium sunt dubia aliqua quia videtur 
+          <lb ed="#S" n="13"/>quod <add place="margin-left">sancti</add> et acutores sint in contrarium et ideo arguitur primo quia per anselmum de processione 
+          <lb ed="#S" n="14"/>spiritus sancti capitulo 5 spiritus sanctus non esset de deitate patris sed de ratione stultissimum 
+          <lb ed="#S" n="15"/>est dicere hic duo sunt contra te scilicet quod spiritus sanctus est de detitate <add place="margin-right">patris</add> productive 
+          <lb ed="#S" n="16"/>scilicet quia sic loquitur ibi et hoc erat hic probandum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e229">
+          <pc type="pilcrow"/> aliud dicit non est de <unclear>relatio<lb ed="#S" break="no" n="17"/>ne</unclear> 
+          patris quia sic loquitur ibi et hoc tunc etiam contra te <pc type="punctus"/> quia <add place="margin-left">parte</add> pater et paternitas in 
+          <lb ed="#S" n="18"/>divinis vel <c>a</c> et <c>b</c> sicut haec propria nomina istius personae et istius paternitatis sunt 
+          <lb ed="#S" n="19"/>nomina synonomina igitur sicut filius est de patre ita etiam erit de paternitate 
+          <lb ed="#S" n="20"/>illa
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e255">
+          <pc type="pilcrow"/> Item ut supponit idem filius vel est de substantia patris vel de eius 
+          <lb ed="#S" n="21"/>relatione <add place="margin-left">non de relatione</add> igitur de eius deitate seu substantia probat minorem sic si filius esset de 
+          <lb ed="#S" n="22"/>relatione patris filius esset de relatione filii talem enim consequentiam facit de 
+          <lb ed="#S" n="23"/>spiritu sancti ubi verum concluditur sed probatio consequentiae uniformaliter procedit de filio faciendo 
+          <lb ed="#S" n="24"/>argumentum sicut de spiritu sancto consequentia igitur ab ipso sic probatur nulla est relatio patris sine relatio<lb ed="#S" break="no" n="25"/>ne 
+          filii sicut nichil est filii relatio sine patris relatione si igitur al<lb ed="#S" break="no" n="26"/>tera 
+          nihil est sine altera non potest aliquid dici de relatione patris <add place="margin-left">esse sine relatione filii</add> quare in 
+          <lb ed="#S" n="27"/>quid ipse sequitur spiritus sanctus esse de utraque si est de una et per consequens si 
+          <lb ed="#S" n="28"/>est de patre secundum relationem erit simpliciter de filio secundum relationem verum nemo 
+          <lb ed="#S" n="29"/>ita insipiens est quid hic opinetur haec ille ex hoc dupliciter arguitur uno modo 
+          <lb ed="#S" n="30"/>deducendo similem conclusionem de filio ubi conclusio falsissima erit igitur alia 
+          <lb ed="#S" n="31"/>praemissarum et non nisi illa quod filius sic de relatione patris igitur alio modo 
+          <lb ed="#S" n="32"/>quod nullus est causa insipiens ut opinemur spiritus sanctus esse de relatione patris et de 
+          <lb ed="#S" n="33"/>relatione filii igitur cum quilibet catholicus opinemur esse spiritus sanctus esse de patre 
+          <lb ed="#S" n="34"/>et filio nullus debet esse causa insipiens ut opinetur paternitatem et filiationem 
+          <lb ed="#S" n="35"/>esse convertibliter et <unclear>synonice</unclear> patrem <add>et filium cuius oppositum <unclear>dixi</unclear></add> <del rend="expunctuation">ut praedixi</del> 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e308">
+          <pc type="pilcrow"/>Item post eodem libro capitulo <add place="margin-center">8o de trinitate</add>
+          <lb ed="#S" n="36"/>quod spiritus sanctus de illius essentia procedit cuius labiorum scilicet dicitur <pc type="virgula">/</pc> vel simile 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e322">
+          <pc type="pilcrow"/> Item capitulo 
+          <lb ed="#S" n="37"/>eodem si per os patris intelligimus essentiam patris non enim est aliud os eius 
+          <lb ed="#S" n="38"/>quam essentia eius sicut verbum deum est de ore id est de essentia eius ista 
+          <lb ed="#S" n="39"/>spiritus oris eius non est nisi de essentia eius
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e333">
+          <pc type="pilcrow"/> Item capitulo 13 spiritus sanctus 
+          <lb ed="#S" n="40"/>est deus de deo id est essentia spiritus sancti de essentia patris quae una in 3us esse in<lb ed="#S" break="no" n="41"/>telligitur 
+          haec iste
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e342">
+          <pc type="pilcrow"/> Item capitulo 11 spiritus sanctus non procedere de deitate patris sed de 
+          <lb ed="#S" n="42"/>paternitate nec per deitatem sed per filiationem est opinio quae se sua pa<lb ed="#S" break="no" n="43"/>tenti 
+          fatuitate <seg type="correction">subfo<subst><del rend="expunctuation">r</del><add place="above-line">c</add></subst>at</seg>
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e360">
+          <pc type="pilcrow"/> Quod si dicat aliquis quia cum dico istum 
+          <lb ed="#S" n="44"/>procedere de deitate patris et filii non posset ab hac deitate 
+          <lb ed="#S" n="45"/>patris et filii separare deitatem quoniam una et eadem est deitas 
+          <lb ed="#S" n="46"/>trium et ideo si de deitate patris et filii procedit de sua <unclear>quoque</unclear> eum 
+          <lb ed="#S" n="47"/>procedere <pc type="punctus"/> ad hoc iam supra me sufficienter memini respondisse quia nulla 
+          <lb ed="#S" n="48"/>persona ex se ipsa esse potest haec iste
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e380">
+          <pc type="pilcrow"/> Iste <name xml:id="aw98wa-xg3109-Nd1e384">anselmum</name> monologion capitulo 58 dubi<lb ed="#S" break="no" n="49"/>tans 
+          <quote xml:id="aw98wa-xg3109-Qd1e388" source="http://scta.info/resource/adcmon-c54-d1e117@4-107">an a patre et filio procedant duo amores vel idem partim 
+          <lb ed="#S" n="50"/>a patre partim a filio an idem totus a singulis et totus a duobus simul 
+          <lb ed="#S" n="51"/>sed huius inquit dubitationis certitudo hoc indubitanter cognoscitur quia non 
+          <lb ed="#S" n="52"/>ex eo procedit in quo plures sunt pater et filius sed ex eo in quo unum 
+          <lb ed="#S" n="53"/>sunt nam non ex relationibus suis quae plures sunt <pc type="punctus"/> alia est enim relatio 
+          <lb ed="#S" n="54"/>patris <pc type="punctus"/> alia filii <pc type="punctus"/> sed ex sua ipsa essentia quae pluralitatem non admit<lb ed="#S" break="no" n="55"/>tit 
+          emittunt pater et filius tantum bonum</quote> haec iste
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e411">
+          <pc type="pilcrow"/> Item illius intentionis 
+          <lb ed="#S" n="56"/>est Ricardus 6 de trinitate capitulo 22 ubi dicit quod nihil aliud est persona filii quam substantia 
+          <lb ed="#S" n="57"/>genita <pc type="punctus"/> sed multi inquit temporibus nostris surrexere qui non audent 
+          <lb ed="#S" n="58"/>haec dicere quin potius quod multo periculosius est contra sanctorum patrum 
+          <lb ed="#S" n="59"/>auctoritatem et tot attestationes paternarum traditionum audent 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="60"/>negare et modis omnibus conantur repellere quod substantia <sic>gingnat</sic> substantiam 
+          <lb ed="#S" n="61"/>vel sapientia sapientiam partialiter neutra quod omnes sancti affirmant ad illud 
+          <lb ed="#S" n="62"/>quod ipsi dicunt auctoritatem invenire non possunt <seg type="correction">a<del rend="expunctuation">i</del>fferant</seg> si possunt 
+          <lb ed="#S" n="63"/>auctoritatem si dicam plures sed saltem unam quae neget substantiam <sic>gingnere</sic> 
+          <lb ed="#S" n="64"/>substantiam nam ad hoc quod divinis auctoritates multas et ipsi addu<lb ed="#S" break="no" n="65"/>cunt 
+          loquitur de magistro et auctoritatibus quas adducit distinctione 5 primi ut videtur 
+          <lb ed="#S" n="66"/>et addit Ricardus et in morem goliae gladium quo iugulantur <unclear>de<lb ed="#S" break="no" n="67"/>fenites</unclear> 
+          ad certamen procedunt postea <pc type="virgula">/</pc> etiam contra expositionem a petro 
+          <lb ed="#S" n="68"/>positam dicit ibidem vera positio ad hoc contendit ut credamus 
+          <lb ed="#S" n="69"/>quod substantia substantiam non gingnat fidelis expositio et omni acceptatione 
+          <lb ed="#S" n="70"/>digna quae hoc quod sancti patres pariter clamant contendit esse falsum
+          <lb ed="#S" n="71"/>et quod nemo sanctorum asserit contendit esse verum <subst><add place="margin-right">haec iste</add> <del>hite</del></subst> non solum sic 
+          <lb ed="#S" n="72"/>dicit sed recte arguit capitulo 23 ponamus inquam duos quorum unus 
+          <lb ed="#S" n="73"/>alitus rei scientiam vel alicuius artis notitiam per se ipsum exco<lb ed="#S" break="no" n="74"/>gitando 
+          invenit et quidquid inde adinvenire potuit alteri tradidit 
+          <lb ed="#S" n="75"/>et ad integrum erudivit <pc type="punctus"/> hoc posito <subst><del rend="expunctuation">etiam</del> <add place="margin-right">eadem</add></subst> scientia eadem veritas 
+          <lb ed="#S" n="76"/>absque ambiguitate alia est in corde unus quae et in corde al<lb ed="#S" break="no" n="77"/>terius 
+          et tamen ex quo unus istorum scientiam istam tradidit et alter accepit 
+          <lb ed="#S" n="78"/>patet quod unius scientia ab alio sic acceptata <pc type="punctus"/> alterius ut ita dicam 
+          <lb ed="#S" n="79"/>omnino non accepta numquid tamen aliquid aliud est ista quam ista sed quidquid 
+          <lb ed="#S" n="80"/>veritatis est in ista totum nec aliud est in illa procul dubio utrius<lb ed="#S" break="no" n="81"/>que 
+          scientia erit essentialiter una
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e512">
+          <pc type="pilcrow"/> constat tamen nihilominus quod accepta scientia 
+          <lb ed="#S" n="82"/>non est in accepta cum tamen in accepta et accepta sint essentialiter u<lb ed="#S" break="no" n="83"/>na 
+          <pc type="punctus"/> a simili in proposito secundum eum igitur quis inquid a deo simplex vel hebes 
+          <lb ed="#S" n="84"/>ut neget de sapientia dei quod videt possibile in scientia humana
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e525">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="85"/>adhuc diligentius insistendo illud inquit in commune novimus quoniam filius 
+          <lb ed="#S" n="86"/>habet esse a patre ex patris generatione si aut ex patris generatione habet 
+          <lb ed="#S" n="87"/>esse igitur et sapere non enim aliud est ei esse et aliud sapere quod aut accedit 
+          <lb ed="#S" n="88"/>esse ex generatione <add place="margin-right">si aut ex patris generatione</add> constat et ipsum genitum esse <pc type="punctus"/> constat igitur quod filii 
+          <lb ed="#S" n="89"/>sapientia vel potius <seg type="correction">filius<!-- correction here --></seg> sapientia sit ex patre genita <pc type="punctus"/> recte igitur de 
+          <lb ed="#S" n="90"/>filio dicitur quod sit genita sapientia sicut et de patre quod sit sapientia in<lb ed="#S" break="no" n="91"/>genita 
+          nihil enim omnino sapit unus quod non aeque sapit et alius <unclear>u<lb ed="#S" break="no" n="92"/>trobique <!-- possible corection here --></unclear> 
+          una eademque sapientia cum tamen nec ingenita sic ge<lb ed="#S" break="no" n="93"/>nita 
+          nec genita sic ingenita <pc type="punctus"/> si vero filius sit gentia sapientia 
+          <lb ed="#S" n="94"/>est et gentia substantia <pc type="punctus"/> nec enim aliud est eius sapientia quam eius substantia nec tamen 
+          <lb ed="#S" n="95"/>ex hoc quod pater est substantia ingentia et filius substantia genita sequitur quod sit 
+          <lb ed="#S" n="96"/>alia et alia substantia sed alia et alia personae haec ille
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e576">
+          <pc type="pilcrow"/> Quod iterum 3o probat sic capitulo 24 
+          <lb ed="#S" n="97"/>resumens exemplum positum in primo argumento superius diximus quod una eadem<lb ed="#S" break="no" n="98"/>que 
+          scientia possit esse in duobus si artis alicuius notitiam quam unus 
+          <lb ed="#S" n="99"/>apprehendit alterum ad placitum docuerit si itaque nomen doctrinae tam active 
+          <lb ed="#S" n="100"/>quam passive accipiatur ut doctrina dicatur tam eius qui docet 
+          <lb ed="#S" n="101"/>quam eius qui docetur pro facto si hoc <unclear>genino</unclear> modo doctrinam acci<lb ed="#S" break="no" n="102"/>piamus 
+          alia erit doctrina unius et alia absque dubio doctrina 
+          <lb ed="#S" n="103"/>alterius nam unus docet alter docetur unus erudit alter eruditur 
+          <lb ed="#S" n="104"/>in uno namque doctrina docens est in altero doctrina discens 
+          <lb ed="#S" n="105"/>alia igitur est doctrina unius et alia doctrina alterius iuxta <unclear>itaque</unclear> 
+          <lb ed="#S" n="106"/>modum hunc alia potest esse doctrina tua et alia mea quamuis u<lb ed="#S" break="no" n="107"/>trobique 
+          tam in docendo quam in <del rend="expunctuation">desces</del> discendo sit una et 
+          <lb ed="#S" n="108"/>eadem scientia <add place="margin-right">scientia</add> et si idem esset utrique nostrum substantia sua et scientia sua posset 
+          <lb ed="#S" n="109"/>esse utrique substantia una Et si utrique nostrum idem esset persona quod doctrina 
+          <lb ed="#S" n="110"/>sua esset utique persona sicut doctrina unius una et alterius alia sit 
+          <lb ed="#S" n="111"/>in proposito secundum eum sicut enim inquit in humana <add place="margin-below">natura edocens scientia et edocta scientia est una eademque scientia verumtamen alia et alia doctrina sit etiam in divina natura</add> sapientia <del rend="expunctuation">geni</del> <sic>gingnens</sic>
+          <lb ed="#S" n="112"/>et sapientia genita est una eademque sapientia et per consequens est una 
+          <lb ed="#S" n="113"/>eademque substantia
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e637">
+           <pc type="pilcrow"/> verumptamen alia et alia persona <pc type="punctus"/> sicut itaque in humana 
+          <lb ed="#S" n="114"/>natura ex eo quod unius de scientia accepta alterius in accepta nec ac<lb ed="#S" break="no" n="115"/>cepta 
+          dicitur in accepta nullatenus sequitur quod si in eis alia et alia scientia 
+          <lb ed="#S" n="116"/>sed alia et alia doctrina sic in natura divina ex eo quod unius est 
+          <lb ed="#S" n="117"/>substantia genita alterius ingenita nec genita sic ingenita 
+          <lb ed="#S" n="118"/>nullo modo sequitur quod ibi sic alia et alia substantia sed alia et alia 
+          <pb ed="#S" n="129-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/><unclear>propterea</unclear> haec iste
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e662">
+          <pc type="pilcrow"/> Item 10 sic argui potest quod essentia divina generet vel 
+          <lb ed="#S" n="2"/>generetur quia filius generatur ab aliquo ente igitur ab alia substantia vel ab aliquo 
+          <lb ed="#S" n="3"/>accidente cum omne ens sit substantia vel accidens sed accidens non est ibi 
+          <lb ed="#S" n="4"/>nec substantia nisi essentia divina igitur filius generatur ab essentia divina etc
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e673">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="5"/> in deo est alia relatio genita cum relatio filii sit filius ut dicit 
+          <lb ed="#S" n="6"/>magister libro primo distinctione 33 igitur in deo est aliqua entitas genita 
+          <lb ed="#S" n="7"/>consequentia patet a per se <unclear>maiori</unclear> ad per se superius et ultra igitur est ibi 
+          <lb ed="#S" n="8"/>alia genita <add place="margin-left">essentia</add> cum omnis entitas sit <add place="margin-center">essentia</add> sic 
+          <lb ed="#S" n="9"/>genita igitur nullum gentium est essentia divina per conversionem simplicem 
+          <lb ed="#S" n="10"/>consequens est falsum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e700">
+          <pc type="pilcrow"/> Item si non hoc potissime esset sicud arguit magister 
+          <lb ed="#S" n="11"/>distinctione 5 primi quia si pater generaret essentiam essentia relative dicitur ad patrem 
+          <lb ed="#S" n="12"/>et esset genitor istius rei quae ipse est quod falsum cum nulla res secundum 
+          <lb ed="#S" n="13"/>augustinum se ipsam generet sed haec non obstant quia eisdem mediis 
+          <lb ed="#S" n="14"/>et eodem modo argueretur quod pater non generaret deum quia cum pater ipse 
+          <lb ed="#S" n="15"/>sic idem deus sequeretur quod pater esset genitor ipsius rei quae ipse 
+          <lb ed="#S" n="16"/>est
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e718">
+          <pc type="pilcrow"/> Item sequitur haec essentia est filius igitur haec essentia divina est habens patrem 
+          <lb ed="#S" n="17"/>et ultra igitur essentia haec est genita consequentiae patent omnes quia in omnibus praedicata 
+          <lb ed="#S" n="18"/>antecedentis et consequentis convertuntur et subiectum est idem
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e727">
+          <pc type="pilcrow"/> ad illud dubium dicendum 
+          <lb ed="#S" n="19"/>ut prius quod essentia divina communis tribus personis nec generat nec generatur 
+          <lb ed="#S" n="20"/>et ad primam probationem contrarii dicendum uno modo quod tenere personam patris 
+          <lb ed="#S" n="21"/>constitui ex deitate et relatione tamquam re alia a deitate ex 
+          <lb ed="#S" n="22"/>parte rei sicut ponunt quidam et tunc simul tenere spiritus sanctus de 
+          <lb ed="#S" n="23"/>relatione patris et non de substantia stultissimum esset <pc type="punctus"/> sed iste qui tenet 
+          <lb ed="#S" n="24"/>personam esse summe simplicem nec in ea quovis modo parvo vel 
+          <lb ed="#S" n="25"/>magno deitatem a relatione distingui et tamen personam esse realiter 
+          <lb ed="#S" n="26"/>et per se primo modo relationem ita quod sua personalitas sic formaliter pater<lb ed="#S" break="no" n="27"/>nitas 
+          quod tamen non dixi nec eius oppositum licet dixerim quod ipsa non 
+          <lb ed="#S" n="28"/>est formalis proprietas vel personalitas vel <sic>a</sic> sit <sic>a</sic> nomen proprium personae persona<lb ed="#S" break="no" n="29"/>litatis 
+          si tunc dicat spiritus sanctus esse de relatione patris ita sicud de 
+          <lb ed="#S" n="30"/>patre qui praecise est ista relatio quae etiam est formaliter relatio et etiam deitas non 
+          <lb ed="#S" n="31"/>facit stultitiam quia apud talem idem est paternitas quod pater in 
+          <lb ed="#S" n="32"/>divinis nisi loquendo de ista stultitia secundum quam dixit apud nos 
+          <lb ed="#S" n="33"/>stulti propter christum et ideo sicut non est stultum dicere quod filius est 
+          <lb ed="#S" n="34"/>de patre immo necessarium iuxta illud symboli et ex patre natum et de 
+          <lb ed="#S" n="35"/>spiritus sanctus dicitur qui ex patre filioque procedit ista nec stultum est dicere 
+          <lb ed="#S" n="36"/>quod tunc spiritus sanctus sit de paternitate seu relatione patris et non de deitate 
+          <lb ed="#S" n="37"/>quia nisi sumat deitate personaliter pro patre sicut sumitur iste terminus deus cum 
+          <lb ed="#S" n="38"/>dicitur deum de deo ibi obviat relationis <unclear>oppinione</unclear> vere dici 
+          <lb ed="#S" n="39"/>valeat spiritus sanctus est de deitate patris nam si deitas patris perducat 
+          <lb ed="#S" n="40"/>spiritus sanctus distinguitur ab eo secundum regulam magistri sui augustinus hic autem non conceditur 
+          <lb ed="#S" n="41"/>de deitate communi quia fides obstate dicens quod ista communis res nec 
+          <lb ed="#S" n="42"/>generat nec generatur etc sed est simul 3s personae et quaelibet sigillatim 
+          <lb ed="#S" n="43"/>et per consequens <unclear>an?a</unclear> earum distinguitur quia tunc poneret innueret cum eadem 
+          <lb ed="#S" n="44"/>contra decretalem quae maioris est auctoritas quam iste processus 
+          <lb ed="#S" n="45"/>anselmi ubi arguit satis cum parva evidentia conclusionem quandam 
+          <lb ed="#S" n="46"/>licet veram scilicet quod spiritus sanctus procedit a filio <subst><add place="above-line">quia</add> <del>et</del></subst> a patre <pc type="punctus"/> non quia pater 
+          <lb ed="#S" n="47"/>est quia tunc non a filio etc dicendum esset sibi et ita est secundum veri<lb ed="#S" break="no" n="48"/>tatem 
+          quod potius econverso quam sic <pc type="punctus"/> non tamen praecise vel primo vel <del rend="expunctuation">verisimiliter</del> 
+          <lb ed="#S" n="49"/><add place="margin-left">universaliter</add> quia pater <pc type="punctus"/> quia tunc non a filio sed quod spirator id est quia est ista entitas <add place="margin-center">patri</add> 
+          <lb ed="#S" n="50"/>et filio communis activa spiratio secundum autem veritatem quidquid sit de a<lb ed="#S" break="no" n="51"/>liis 
+          auctoritatibus iste loquitur hic de deitate communi 3bus sicut patet per 
+          <lb ed="#S" n="52"/>5am auctoritatem eiusdem et per 7am arguendo adductas igitur stul<lb ed="#S" break="no" n="53"/>tum 
+          esset tenendo summam simplicem personae divinae dicere quod esset 
+          <lb ed="#S" n="54"/>spiritus sanctus de deitate patris productive et non de paternitate hanc viam 
+          <lb ed="#S" n="55"/>tenendo scilicet quod persona patris sit convertibiliter eadem paternitati hoc autem 
+          <lb ed="#S" n="56"/>ipsemet videtur tenere et alii sancti sicut patuit substantia respondendo 
+          <lb ed="#S" n="57"/>ad 5m dubium primae quaestionis
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e848">
+          <pc type="pilcrow"/> Et persona hoc potest argui argumento quo 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="58"/>probat simplicem dei capitulo 4 de incarnatione ubi omni composito est 
+          <lb ed="#S" n="59"/>nulla aliqua praestantior simplex omnino quid enim simplicem habet intellectum et 
+          <lb ed="#S" n="60"/>non multiplicitate fan?tum obrutum intelligit simplicia praestare composi<lb ed="#S" break="no" n="61"/>tis 
+          quantum ad simplicem <subst><del rend="expunctuation">actum</del> <add>attinet</add></subst> et compositum id est ceteris paribus quia licet 
+          <lb ed="#S" n="62"/>homo sit natura perfectior quam materia prima in eo quod simplex est vel anima in<lb ed="#S" break="no" n="63"/>tellectiva 
+          qua simpliciter in eo simplex est cum si tanta perfectio quanta 
+          <lb ed="#S" n="64"/>est hominis esset rei alicuius simplicis utpote in angelo aliquo 
+          <lb ed="#S" n="65"/>eo ipso simplex illud natura praestaret homini quod ex hoc probat quia eo 
+          <lb ed="#S" n="66"/>ipso quod aliquid est compositum necesse est illud esse vel concipi esse inper<lb ed="#S" break="no" n="67"/>fectum 
+          scilicet omne tale resolubile est intellectu saltem in alia inperfecta 
+          <lb ed="#S" n="68"/>ex quibus resultat eius perfectio quoniam omne compositum necesse est 
+          <lb ed="#S" n="69"/>ut dicit aut actu aut intellectu posse disiungi <unclear>quod</unclear>  de simplici 
+          <lb ed="#S" n="70"/>intelligi nequit cuius enim partes cogitari non possunt illud in partes 
+          <lb ed="#S" n="71"/>dissolvere nullus intellectus potest igitur <add place="margin-right">si</add> persona dicam ego ubi ipse dicit deus consti<lb ed="#S" break="no" n="72"/>tuatur 
+          ex quibuscumque quantumcumque parum distinctis erit aliqua entitas 
+          <lb ed="#S" n="73"/>praestantior entitate personae et persona tunc erit perfectior formaliter saltem quidquid sic 
+          <lb ed="#S" n="74"/>de <unclear>eminenter</unclear> vel virtualiter perfectiori quam aliqua partium constituentium eius 
+          <lb ed="#S" n="75"/>personalitatem seu totalitatem et ita erit alia natura ut arguit praestantior 
+          <lb ed="#S" n="76"/>natura dei non enim in quid novit scilicet adversarius se intelligere quod 
+          <lb ed="#S" n="77"/>si esset aliquid quod nec actum nec intellectu disolvi posset magis esset quam quod in<lb ed="#S" break="no" n="78"/>tellectu est 
+          dissolubile itaque si omne compositum saltem cognitione dissol<lb ed="#S" break="no" n="79"/>vi 
+          potest cum dicit deum compositum esse et ita dicam ego sibi cum dicit personam 
+          <lb ed="#S" n="80"/>divinam esse constitutam vel compositam dicit aliquid deo magis se posse in<lb ed="#S" break="no" n="81"/>telligere 
+          transit igitur eius intellectus extra deum quod nullus potest facere intellectus 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e921">
+          <lb ed="#S" n="82"/><pc type="pilcrow"/>Ex hiis <del rend="expunctuation">quod</del> elice quod vel persona divina apud eum est minus perfecta 
+          <lb ed="#S" n="83"/>entitas quam divina natura quod dici non potest quia vel persona includit 
+          <lb ed="#S" n="84"/>perfectionem negatur vel est essentialiter perfectio naturae divinae vel persona est irresolubilis 
+          <lb ed="#S" n="85"/>actu et intellectu hoc autem verum non est si constituitur ex deitate 
+          <lb ed="#S" n="86"/>et relatione sicut innuit prima auctoritas igitur nulla non ydemptitas seu 
+          <lb ed="#S" n="87"/>distinctio est vel saltem esse non deberet apud eum inter proprietatem et 
+          <lb ed="#S" n="88"/>personam igitur si proprietas ista primae personae est paternitas ita erit spiritus sanctus 
+          <lb ed="#S" n="89"/>de relatione patris sicut de patre
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e945">
+          <pc type="pilcrow"/> dices forte quod loquitur ac si esset 
+          <lb ed="#S" n="90"/>distinctio dicendum quod hic non quaeritur quid esset dicendum si persona esset composita ex rebus 
+          <lb ed="#S" n="91"/>distinctis sed quid est de facto et ideo falsa et abductiva nimis a 
+          <lb ed="#S" n="92"/>vero esset ista locutio quae fit loqueretur de summe simplici <unclear>d</unclear> 
+          <lb ed="#S" n="93"/>ipsum constitui ex duobus vel simile si haberet dici si veraciter com<lb ed="#S" break="no" n="94"/>poneretur 
+          igitur sicut prius vel dicta auctoritas non est rationabilis
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e964">
+          <pc type="pilcrow"/> vel dicendum 
+          est uno modo ut dictum est quod <unclear>facuum</unclear> esset illud inprobata dicere 
+          <lb ed="#S" n="95"/>tenendo simul compositionem et constitutionem personae ex essentia et relatione vel 
+          <lb ed="#S" n="96"/>aliter posset dici quod tenere personam esse in se quamdam entitatem personalem cui 
+          <lb ed="#S" n="97"/>non sit intrinseca paternitas vel filiatio sed sic una persona res 
+          <lb ed="#S" n="98"/>sibi addita qua pater referatur ad filium sicut proportionaliter secundum quandam 
+          <lb ed="#S" n="99"/>opinionem utpote <name xml:id="aw98wa-xg3109-Nd1e981">pigam</name>  <unclear>paternitatis</unclear> refertur ad filium per relationem 
+          <lb ed="#S" n="100"/>paternitatis ab eo realiter distinctam et tunc dicere quod spiritus sanctus esset 
+          <lb ed="#S" n="101"/>de relatione patris et non de substantia id est non de fundamento ipsius relatio<lb ed="#S" break="no" n="102"/>nis 
+          esset stultissimum sed sic non est dictum pro me igitur verbi gratia in 
+          <lb ed="#S" n="103"/>alia materia articulus dampnatus est dicere deum esset in <del rend="expunctuation">ginie</del> <add place="margin-right">genere</add> certe 
+          <lb ed="#S" n="104"/>recte per se ponendo hic et simul cum hoc quod omne quod st per se in 
+          <lb ed="#S" n="105"/>genere est compositum hoc erroneum esset non propter primum sed propter 2m 
+          <lb ed="#S" n="106"/>dummodo primum possit esse sine secundo sciut potest sit hic proportionaliter
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1008">
+          <pc type="pilcrow"/>aliter 
+          <lb ed="#S" n="107"/>diceretur quod ponere in deo quasi materiam ne filius generetur de nihilo circum<lb ed="#S" break="no" n="108"/>scriptis 
+          inperfectionibus quae sunt conditiones quas materiae sicut posuit 
+          <lb ed="#S" n="109"/><name xml:id="aw98wa-xg3109-Nd1e1017">gand</name> et multi alii et dicere simul cum hoc quod spiritus sanctus sit de relatione 
+          <lb ed="#S" n="110"/>patris et non de substantia patris et diceret ly de circumstantiam causae quasi 
+          <lb ed="#S" n="111"/>materialis utrobique stultissimum esset dicere
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1025">
+          <pc type="pilcrow"/> aliter posset dici quod 
+          <lb ed="#S" n="112"/>ly de cum dicitur filius est de substantia patris vel spiritus sanctus etiam ut dicunt 
+          <lb ed="#S" n="113"/>doctores aliqui sicut <name xml:id="aw98wa-xg3109-Nd1e1033">bonaventura</name> et <name xml:id="aw98wa-xg3109-Nd1e1035">scotus</name> concordat quod 
+          <pb ed="#S" n="130-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>ly de non dicit circumstantiam causae materialis nec etiam circumstantiam causae productivae 
+          <lb ed="#S" n="2"/>ita quod deitas producit filium vel spiritus sanctus sed quod ly de circumstantiam ibi 
+          <lb ed="#S" n="3"/>dicat substantialitatis filii vel spiritus sancti cum patre et simul cum hoc originem 
+          <lb ed="#S" n="4"/>filii vel spiritus sanctus ab eodem patre sed per istum modum dici non posset 
+          <lb ed="#S" n="5"/>quod filius vel spiritus sanctus sicut de relatione patris sic <unclear>relatae</unclear> essentialiter et per se primo 
+          <lb ed="#S" n="6"/>modo <add place="margin-left">quod</add> <del rend="expunctuation">et</del> in ista quaestione tractare vel diffinire nolo non tamen tunc filius esset re<lb ed="#S" break="no" n="7"/>latio 
+          paternitatis seu eadem paternitas cum patre sicud est eadem substantia cum 
+          <lb ed="#S" n="8"/>patre sic dicere econverso quod esset de patre quasi de patris relatione non tamen 
+          <lb ed="#S" n="9"/>de deitate vel substantia patris ad hunc intellectum esset stultissimum quia haberet 
+          <lb ed="#S" n="10"/>filium vel spiritus sanctus non consubstantialem patri sed <unclear>corrationalem</unclear> id est esse eandem relationem 
+          <lb ed="#S" n="11"/>propriam quae est pater vel patris et non esse eandem substantiam cum patre quod sa<lb ed="#S" break="no" n="12"/>tis 
+          esset stultum quod si omnino velit quis habere sensum veritati <unclear>contrariam</unclear> stul<lb ed="#S" break="no" n="13"/>tius 
+          esset dictum illud secundum huius intellectum quam veritas contra quam diceretur 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1084">
+          <lb ed="#S" n="14"/><pc type="pilcrow"/> ad 2m probationem istius minoris responsio quod si proprietas personalis patris est essentialiter 
+          <lb ed="#S" n="15"/>paternitas seu relatio tunc concedo ad sensum supra datum quod filius de 
+          <lb ed="#S" n="16"/>relatione patris sicut de patre et non de substantia patris tamquam de generan<lb ed="#S" break="no" n="17"/>te 
+          sed tenendo aliquam 4 opinionem seu modorum dicendi praetactorum non posset 
+          <lb ed="#S" n="18"/>hoc dici rationabiliter et si ultra fiat argumentum contra sensum <unclear>quem do</unclear> si cum 
+          <lb ed="#S" n="19"/>paternitas sic ista proprietas patris per se primo modo vere <unclear>omnem</unclear> et <seg type="correction">rea<lb ed="#S" n="20"/><del rend="expunctuation">bi</del>liter</seg> 
+          est paternitas pater et proprietas sive sit sive non sicud albedo vere 
+          <lb ed="#S" n="21"/>est similitudo licet non sic per se primo modo et essentialiter similitudo si inquam 
+          <lb ed="#S" n="22"/>fiat ante hoc ulterior anselmi deductio si filius et spiritus sanctus sit de relatione 
+          <lb ed="#S" n="23"/>patris et ita nihil est de relatione filii ergo erit alia a relatione filii 
+          <lb ed="#S" n="24"/>et patris etiam conclusionem istam concedo de spiritu sancto nec nisi <unclear>pia</unclear> alia sed fidei substantia 
+          <lb ed="#S" n="25"/>et ecclesiae auctoritas ad hoc dicendum necessitat sed consequentia tamen non valet quia aeque 
+          <lb ed="#S" n="26"/>concluderet quod filius esset de relatione filii exemplum ad hoc est in creaturis secundum opinionem 
+          <lb ed="#S" n="27"/>ponentium respectu ab absolutis realiter distingui quod passio est effectus il<lb ed="#S" break="no" n="28"/>latioque 
+          actionis per auctorem 6 principiorum et neutra istarum potest 
+          <lb ed="#S" n="29"/>esse sine alia saltem naturaliter secundum istam opinionem et tamen passion non est a passione 
+          <lb ed="#S" n="30"/>licet sit ab actione nec effectus absolutus forte etiam similiter tunc una relatio 
+          <lb ed="#S" n="31"/>hic existens posset immutare intellectum anglicum hic existentem puta paterni<lb ed="#S" break="no" n="32"/>tas 
+          huius hominis et tamen non sua correlario puta filio si <add place="above-line">in</add> proportionaliter 
+          <lb ed="#S" n="33"/>distet <pc type="punctus"/> si aut prima persona vel prima personalitas qui non sic essentialiter et per se primo modo 
+          <lb ed="#S" n="34"/>relatio vel paternitas non plus quam humanitas sic per se primo modo creatura 
+          <lb ed="#S" n="35"/>vel effectus dei vel quam albedo similis rei similitudo sicut sunt quidam quibus 
+          <lb ed="#S" n="36"/>adhaerem si nihil obstet dicendo tamen quod ista vere est secundum rei veritatem 
+          <lb ed="#S" n="37"/>realiter quaelibet personalitas divina paternitas vel filiatio vel spiratio activa vel 
+          <lb ed="#S" n="38"/>passiva sicut humanitas est effectus dei vel sicut albedo quaelibet est simil<lb ed="#S" break="no" n="39"/>tudo 
+          si inquam sic diceretur aliter glosari posset anselmus quam prius quia quaelibet 
+          <lb ed="#S" n="40"/>persona vel personalitas divina esset ad se et absolute personalitas talis vel persona si 
+          <lb ed="#S" n="41"/>tamen una earum puta prima esset in oratione ad 2am relatae paternitas 
+          <lb ed="#S" n="42"/>et econtra secunda in ordine ad primam esset filiatio et ambae ad 3am essent 
+          <lb ed="#S" n="43"/>spiratio activa esset ad se et absolute entitas vel proprietas communis tantum 
+          <lb ed="#S" n="44"/>patri et filio et tunc esset ulterius dicendum quod filius non procedit a patre 
+          <lb ed="#S" n="45"/>2m hoc quod ipse refertur ad filium sicut nec in creaturis sed secundum quod 
+          <lb ed="#S" n="46"/>est talis personalitas abslute sicut si diceretur quod sortes non est de relatione 
+          <lb ed="#S" n="47"/>platonis patris sui sed de sorteitate vel huius id est de natura hac singulari 
+          <lb ed="#S" n="48"/>non quia ipsa eset pater sed quia ipsa talis natura nata sic producere etc
+          <lb ed="#S" n="49"/>unum ego credo quod opinio communis ponens personas essentialiter et per se primo 
+          <lb ed="#S" n="50"/>modo relatas ortum habuit a potestate relationes in creaturis aliquo modo 
+          <lb ed="#S" n="51"/>a parte rei difficili ab absolutis quo remoto parum vel nihil necessita<lb ed="#S" break="no" n="52"/>ret 
+          ponere personas divinas essentialiter et per se primomodo relatas ex hoc quod 
+          <lb ed="#S" n="53"/>tales personalitates sunt expresse nominibus absolutis pater filius et <unclear>ita</unclear> de aliis 
+          <lb ed="#S" n="54"/>ex hoc quod pater est essentialiter ad alium ad hoc etiam <add place="margin-left">vadit</add> <del rend="strikethrough">mc</del> scotus in scripto 
+          <lb ed="#S" n="55"/>sicut audebat sed quia ponebat personas per absolutas proprietates constitui
+          <lb ed="#S" n="56"/>totum destruxit quia secundum veritatem ex nullis constituuntur nec componuntur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1206">
+          <lb ed="#S" n="57"/><pc type="pilcrow"/>ad 3m potest dici quod de istius essentia procedit etc ita quod ly de dicat 
+          <lb ed="#S" n="58"/>consubstantialitatem et originem a patre alium sensum apud me in dabo 
+          <lb ed="#S" n="59"/>licet ponentes ibi quasi materiam vel compositum darent modum ultimo tac<lb ed="#S" break="no" n="60"/>tum 
+          si liceat quem tantum recito non assero
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1218">
+          <pc type="pilcrow"/> per idem ad 4m
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1224">
+          <pc type="pilcrow"/> ad
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="61"/>5am ista nullo modo potest intelligi secundum circumstantiam causae vel principii productivi sic 
+          <lb ed="#S" n="62"/>scilicet quod essentia spiritus sanctus producatur ab essentia patris quia hic salvari non posset nisi 
+          <lb ed="#S" n="63"/>nomen essentiae staret personaliter pro persona patris et non pro essentia communi 3us nunc autem 
+          <lb ed="#S" n="64"/>auctoritas illud quod dicit <sic>dicit</sic> de essentia communi 3us ergo vel oportet quod intelligatur secundum 
+          <lb ed="#S" n="65"/>viam aliquam de 3us primis quorum duae ponunt distinctionem relationis illius ab essentia 
+          <lb ed="#S" n="66"/>et secundum hoc ponitur ab aliquibus principium quod productivum licet non quodlibet fun<lb ed="#S" break="no" n="67"/>damentum 
+          relationis paternitatis secunddum secundam viam producat relatio autem 
+          <lb ed="#S" n="68"/>nec quo nec quod vel secundum 3am de qua si materia quae omnes apud 
+          <lb ed="#S" n="69"/>me falsae sunt vel secundum 4am de consubstantialitate cum patre simul cum eorum 
+          <lb ed="#S" n="70"/>origine ab eodem etiam hoc mihi satis placet si tamen veritatem 
+          <lb ed="#S" n="71"/><unclear>contineat</unclear> anselmi dictum vel etiam 5o modo tacto pulcriori si tamen veriori 
+          <lb ed="#S" n="72"/>4us tamen modus magis ut aestimo est ad mentem anselmi
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1260">
+          <pc type="pilcrow"/> ad 6 
+          <lb ed="#S" n="73"/>dicendum sicut ad primam <unclear>dico</unclear> aut eius ad oppositum et responsio eius confirmat 
+          <lb ed="#S" n="74"/>plene istum 4m sensum et tunc rationabile erit dictum suum alioquin 
+          <lb ed="#S" n="75"/>non
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1273">
+          <pc type="pilcrow"/> per idem ad 7m oportet ire ad 4m sensum si dictum debeat esse ratio 
+          <lb ed="#S" n="76"/>naturale vel ponere pluralitatem in eadem <sic>persona</sic> constitutium eum contra 
+          <lb ed="#S" n="77"/>dei simplicitatem et tunc dicere quod deitas est principium quo et non relatio sed 
+          <lb ed="#S" n="78"/>hoc est falsum sicut in proxima quaestione probabo igitur si sensum verum habere 
+          <lb ed="#S" n="79"/>debeat iste erit 4us vel aliquis similis non <del rend="expunctuation">autem</del> autem ille qui arguendo 
+          <lb ed="#S" n="80"/>intenditur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1294">
+          <pc type="pilcrow"/>ad 8m dicendum auctoritas <name xml:id="aw98wa-xg3109-Nd1e1298">Ricardi</name> in proposito non debet pondera<lb ed="#S" break="no" n="81"/>ri 
+          quia auctoritas ecclesiae est in contrarium cum magistro petro quae maior 
+          <lb ed="#S" n="82"/>est sua
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1305">
+          <pc type="pilcrow"/> Praeterea Ricardus vel intelligit nomine essentiae deitatem communem omnibus 
+          <lb ed="#S" n="83"/>personis vel sumit nomen essentiae pro hac persona vel ista si primo modo tunc 
+          <lb ed="#S" n="84"/>tenet contra petrum et contra determinationem ecclesiae si 2o modo scilicet personaliter id est dis<lb ed="#S" break="no" n="85"/>iunctive 
+          pro hac persona vel pro ista sicud facimus cum divinis quod deus generat vel 
+          <lb ed="#S" n="86"/>deus generatur tunc garulat contra petrum sine causa qui non negat 
+          <lb ed="#S" n="87"/>quin sumendo nomen essentiae pro persona patris essentia generet et pro persona filii substantia 
+          <lb ed="#S" n="88"/>generetur nam ad hunc sensum glossat augustinus et ambrosius et hillarius dicit 
+          <lb ed="#S" n="89"/>et alios sanctos <add>quod essentia generat non quidem communis tribus sed spiritualiter qui est essentia</add> haec est etiam glossa Ricardus capitulo 23ibidem in 2a ratione sua 
+          <lb ed="#S" n="90"/>supposita ubi dicit sic non aliud inquit est patrem filio sapientiam 
+          <lb ed="#S" n="91"/>dedisse vel filio accepisse quam patrem eum qui sapientia est 
+          <lb ed="#S" n="92"/>generasse
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1334">
+          <pc type="pilcrow"/> ad 9 scilicet rationem Ricardi receptio casu qui possibilis est dicendum 
+          <lb ed="#S" n="93"/>quod non est eadem scientia in uno <del rend="strikethrough">in</del> et in alio sed alia secundum veritatem 
+          <lb ed="#S" n="94"/>ut etiam alia veritas quia vertias scientiae non est aliud ab ipsa scientia 
+          <lb ed="#S" n="95"/>licet scientia non sit vera nec falsa nisi per comformitatem ad suum significatum secundum 
+          <lb ed="#S" n="96"/>philosophum in praedicamentis eo enim quod res est vel non etc cum quia iste non 
+          <lb ed="#S" n="97"/>accepit scientiam pro qualitate vel habitu mentis quoniam tunc <subst><del rend="underline">relatum</del> <add place="margin-right">subiectum</add></subst> non diceret 
+          <lb ed="#S" n="98"/>cum non sic idem habitus in diversis substantis simul sed potius pro ipso scito 
+          <lb ed="#S" n="99"/>et id etiam potest esse scitum ab aliquo pro proprium studium et ab alio per doctri<lb ed="#S" break="no" n="100"/>nam 
+          ideo maior <add place="margin-right">est</add> probabilitas in argumento quam prima facie appareat 
+          <lb ed="#S" n="101"/>sic igitur supra dicta scientia pro illo quod scitur et eodem modo veritate scilicet 
+          <lb ed="#S" n="102"/>pro ipso scito a quo scientia dicitur vera conceditur quod eadem est scientia huius et 
+          <lb ed="#S" n="103"/>illius et tamen ultra dico quod ex quo unus credidit et alius istam scientiam ac<lb ed="#S" break="no" n="104"/>cepit 
+          sequitur quod scientia istius ab alio sic accepta verum est ad bonum 
+          <lb ed="#S" n="105"/>intellectum quia scilicet hoc scitum innotescit sibi ab alio et ita per unum 
+          <lb ed="#S" n="106"/>scitur ab alio et cum dicitur quod scientia alterius isto casu posito et ad eun<lb ed="#S" break="no" n="107"/>dem 
+          sensum loquendo non est ab alio accepta sed omnino in accepta negandum 
+          <lb ed="#S" n="108"/>est licet ab isto non sic accepta sic scilicet per doctrinam sicut enim non sequitur 
+          <lb ed="#S" n="109"/>non videtur ab illo igitur non videtur sed est fallacia accedentis et tamen affirmative sequitur 
+          <lb ed="#S" n="110"/>videtur ab isto igitur videtur ita hic bene sequitur ista scientia est accepta ab isto 
+          <lb ed="#S" n="111"/>igitur est accepta sed non sequitur negative eodem ordine
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1394">
+          <pc type="pilcrow"/> Ex quo patet quod tota 
+          <lb ed="#S" n="112"/>ulterior deductio fundata in falso non procedit tamen si vellet habere quod scientia 
+          <lb ed="#S" n="113"/>accepta non sit in accepta quod verum quidam est et tamen quod tam accepta 
+          <lb ed="#S" n="114"/>quam in accepta sit essentia una et eadem scientia quia nulla est ibi scientia 
+          <lb ed="#S" n="115"/>communis utrique in accepta falsum est <pc type="punctus"/> verum est tamen quod non est accepta 
+          <lb ed="#S" n="116"/>ab uno sicut est accepta ab alio et quo ad hoc conceditur simile in 
+          <lb ed="#S" n="117"/>proposito quod prima persona est deitas non per generationem et 2a per generationem 
+          <lb ed="#S" n="118"/>secundae aut prima
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1416">
+          <pc type="pilcrow"/> ad 2am rationem eius quae minus valet conceditur quod filius habet 
+          <lb ed="#S" n="119"/>esse a patre ex patris generatione et sapere per consequens et sapientiam in<lb ed="#S" break="no" n="120"/>transitive 
+          loquendo id est et est sapiens vel sapientia per hoc quod a patre
+          <pb ed="#S" n="130-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>generatur filius sed ex hoc non sequitur quod illud sapere vel sapientia accedit esse per generatio<lb ed="#S" break="no" n="2"/>nem 
+          et ideo ultra eius consequentia cum infertur constat quod filii sapientia sic a patre 
+          <lb ed="#S" n="3"/>genita nec valet nec colorem habet nisi sumatur sapientia personaliter et non pro communi 
+          <lb ed="#S" n="4"/>sapientia tribus et tunc non loquitur in aliquo contra petrum sed contra intentionem suam propriam 
+          <lb ed="#S" n="5"/>cum ibi intendat <del rend="expunctuation">pater</del> petrum reprobare et ideo tota ulterior deductio 
+          <lb ed="#S" n="6"/>deficit cum primo ex hiis concludit quod filius sit sapientia genita
+          <lb ed="#S" n="7"/>si sumat ut petrus substantiam pro natura communi et praeter hoc tunc falsum diceret 
+          <lb ed="#S" n="8"/>si sumat notionaliter nomen secundae dicens quod substantia genita non est substantia non 
+          <lb ed="#S" n="9"/>genita nec posset hoc inferre ex hoc quod filius esset sit loquendo sapientia 
+          <lb ed="#S" n="10"/>genita dato igitur sibi quod substantia ingenita possit sumi personaliter 
+          <lb ed="#S" n="11"/>pro patre et per consequens quod haec substantia genita demonstrando filium non sit haec substantia 
+          <lb ed="#S" n="12"/>ingenita demonstrando patrem Ex hoc non sequitur etiam illis datis ergo non 
+          <lb ed="#S" n="13"/>est substantia ingentia quia consequens esset falsum et consequens verum illis sensibus datis 
+          <lb ed="#S" n="14"/>falsas consequentis patet quia ad hoc filius esset sapientia et substantia communis 3bus ingeni<lb ed="#S" break="no" n="15"/>ta 
+          illa enim communis sapientia non potest poni genita quia a nullo ibi 
+          <lb ed="#S" n="16"/>distincta igitur adhuc tunc sapientia genita esset sapientia et substantia inge<lb ed="#S" break="no" n="17"/>nita 
+          et ingentia sapientia esset sapientia genita alias sapientia et substantia 
+          <lb ed="#S" n="18"/>nulla communis esset 3bus nec deitas quod a principio ecclesiae erroneum fuit
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1472">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="19"/>3am rationem quae fundatur in casu primae rationis dicendum ut prius quod 
+          <lb ed="#S" n="20"/>non est verum illud quod dicit sumens quod una sit numero utriusque scientia 
+          <lb ed="#S" n="21"/>sumendo nomen scientiae pro qualitate alia mentis sed pro scito debetur ut prius 
+          <lb ed="#S" n="22"/>et tunc cum accipit ultra quod si unus istorum doceat et alter docetur 
+          <lb ed="#S" n="23"/>alia erit doctrina unius et alia alterius
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1488">
+          <pc type="pilcrow"/> dicendum quod si vocat doctrinam illud 
+          <lb ed="#S" n="24"/>scitum falsum est quia idem penitus est scitum quod iste docet et 
+          <lb ed="#S" n="25"/>quod iste docetur si vero vocet doctrinam unius active dictam actum 
+          <lb ed="#S" n="26"/>quo iste docet et doctrinam alterius passivam dictam qualitatem in 
+          <lb ed="#S" n="27"/>ipso tantam tunc verum est quod alia est doctrina huius et alia istius 
+          <lb ed="#S" n="28"/>sed tunc iste duae doctrinae non erunt ita una scientia id est scitum 
+          <lb ed="#S" n="29"/>commune utrique nec alia una et eadem qualitas et ideo totus eius proces<lb ed="#S" break="no" n="30"/>sus 
+          licet <unclear>superfici</unclear> et eius colorem habeat in nullo pendet
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1510">
+          <pc type="pilcrow"/> ad 10am 
+          <lb ed="#S" n="31"/>probationem minoris suppositae <unclear>concederet</unclear> <name xml:id="aw98wa-xg3109-Nd1e1518">firanff</name> conclusionem et <name xml:id="aw98wa-xg3109-Nd1e1520">pigam</name> subiecto conclusionis 
+          <lb ed="#S" n="32"/>sumpto personaliter pro supposito patris et no npro deitate communi sed tunc re<lb ed="#S" break="no" n="33"/>ducetur 
+          quasi in eadem forma arguendo filius generatur ab aliquo ente 
+          <lb ed="#S" n="34"/>igitur a substantia vel ab accedente non ab accedente constat igitur a substantia et 
+          <lb ed="#S" n="35"/>non est ibi substantia alia nisi substantia communis 3us igitur a substantia communi 3us generatur 
+          <lb ed="#S" n="36"/>igitur substantia communis 3us generat filium consequens falsum et ad hanc formam non est 
+          <lb ed="#S" n="37"/>responsum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1536">
+          <pc type="pilcrow"/> aliter igitur oportet dicere quod filius generatur a substantia alia sumpto 
+          <lb ed="#S" n="38"/>substantia transcendentis pro omni ente quod non est accidens nec entitas composita 
+          <lb ed="#S" n="39"/>ex substantia et accidente
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1546">
+          <pc type="pilcrow"/> Sed tunc ultra potest dupliciter dici uno modo 
+          <lb ed="#S" n="40"/>quod ista substantia sit sumpto vocabulo substantia a qua generatur filius non est communis 
+          <lb ed="#S" n="41"/>3us et tamen pater est entitas quaedam et substantia communis 3us scilicet deitas trium et 
+          <lb ed="#S" n="42"/>etiam est entitas quaedam non communis 3us scilicet ipsemet pater et tamen haec entitas 
+          <lb ed="#S" n="43"/>est ista et econtra unus tamen terminis supponit pro hac et non pro illa 
+          <lb ed="#S" n="44"/>et alius terminus vel idem aliter acceptus quandoque econtra pro ista et non pro hac <pc type="punctus"/>
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1564">
+          <lb ed="#S" n="45"/><pc type="pilcrow"/> aliter potest dici quod non sequitur filius generatur a substantia et non est ibi substantia 
+          <lb ed="#S" n="46"/>nisi essentia alia communis 3us igitur generatur ab essentia communi non sequitur in aliis terminis 
+          <lb ed="#S" n="47"/>magis certis filius in divinis generatur a re aliqua et non est ibi alia res nisi essentia 
+          <lb ed="#S" n="48"/>communis igitur generatur ab essentia communi et minor probatur sicut alia quia scilicet omnis res 
+          <lb ed="#S" n="49"/>in divinis est essentia communis huic etiam simile haberetur secundum opinionem platonicam sic arguendo 
+          <lb ed="#S" n="50"/>sortes distinguitur a platone igitur alia res ibi distinguitur a platone sed sortes 
+          <lb ed="#S" n="51"/>non est alia nisi homo communis igitur homo communis distinguitur a platone consequens 
+          <lb ed="#S" n="52"/>falsum apud eos oportet enim in omni sillogismo bono minorem extremi<lb ed="#S" break="no" n="53"/>tatem 
+          supponere pro eodem et si minor extremitas stet ibi 
+          <lb ed="#S" n="54"/>pro aliquo pro quo non fit ibi distributio vel demonstratio in maiore 
+          <lb ed="#S" n="55"/>per signum universale vel pronomen demonstratum addito medio termino <unclear>fit</unclear>
+          <lb ed="#S" n="56"/>ibi <unclear>argu?o</unclear> per aequivalentiam ex 4or terminis et de forma discursus 
+          <lb ed="#S" n="57"/>non valet Et istud est diligenter notandum sive arguitur in persona filia 
+          <lb ed="#S" n="58"/>vel alia vel alia ratio negationis consequentiae vel discursus potest assignari in 2o 
+          <lb ed="#S" n="59"/>discursu de re et essentia communi quia de vocabulo substantiae ibi an 
+          <lb ed="#S" n="60"/>posset rationabiliter vel debeat sumi pro persona vel non controversia 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="61"/>est inter doctores
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1611">
+          <pc type="pilcrow"/> In isto igitur 2o exemplo dicendum quod sicut non sequitur affirmative 
+          <lb ed="#S" n="62"/>ab isto patre generatur filius et iste pater est essentia communis igitur ab essentia communi 
+          <lb ed="#S" n="63"/>generatur filius propter causam supra tactam in solutione paralogismorum et supra im<lb ed="#S" break="no" n="64"/>mediate 
+          vel sit ab illa re demonstrato patre generatur filius et illa res 
+          <lb ed="#S" n="65"/>est <!-- possible correction here --> essentia communis igitur ab essentia communi generantur filius
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1626"> 
+          <pc type="pilcrow"/> Ita nec sequitur addita dictione 
+          <lb ed="#S" n="66"/>exceptiva propter eandem causam et non aliam ab illa re generatur filius et 
+          <lb ed="#S" n="67"/>ista res non est nisi essentialiter communis igitur etc <pc type="punctus"/> quia haec minor negativa significat plus 
+          <lb ed="#S" n="68"/>quam illa affirmativa quod haec res est essentia cum hoc addito quod haec res 
+          <lb ed="#S" n="69"/>non est res alia id est distincta ab essentia communi et huius virtute non est apparentia 
+          <lb ed="#S" n="70"/>quod sequatur conclusio tunc quia sequitur ab ista re generatur filius et ista res non 
+          <lb ed="#S" n="71"/>est alia ab anima antichristi vel a chimera igitur ab anima antichristi vel chi<lb ed="#S" break="no" n="72"/>mera 
+          generatur filius quod falsum est igitur color qui est ibi est ratione 
+          <lb ed="#S" n="73"/>affirmative et satis patuit quaestione 2a et 3a quod illa consequentia non tenet <!-- possible correction here --> et quare et 
+          <lb ed="#S" n="74"/>hic supra pro christo quando dixi notandum igitur etc ulterior igitur ratio nega<lb ed="#S" break="no" n="75"/>tionis 
+          consequentiae est quia cum illa affirmativa et negativa etiam seu cum exceptiva 
+          <lb ed="#S" n="76"/>ambas aequivalente stat quod ista res propria res sit et non communis et ideo 
+          <lb ed="#S" n="77"/>sibi competere poterit aliquid quod communi essentiae repungnat
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1661">
+          <pc type="pilcrow"/> aliter forsan 3o di<lb ed="#S" break="no" n="78"/>ceretur 
+          qudo non sequeretur filius generatur ab aliquo ente igitur vel a substantia vel ab acciden<lb ed="#S" break="no" n="79"/>te 
+          quia secundum augustinum 5 de trinitate capitulo 5 licet circa creaturas illa divino in inferendo 
+          <lb ed="#S" n="80"/>sit sufficiens non tamen in deo quia cum dicitur ab aliquo ente generatur 
+          <lb ed="#S" n="81"/>filius diceretur quod subiectum non supponit pro essentia seu substantia divina nec pro acciden<lb ed="#S" break="no" n="82"/>te 
+          quocumque sed pro patre qui licet sit substantia divina tamen subiectum supponens 
+          <lb ed="#S" n="83"/>ibi pro substantia divina non supponet licet essentia communis pro qua supponit sit 
+          <lb ed="#S" n="84"/>pater
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1681">
+          <pc type="pilcrow"/> ad 11 dicendum est sicut supra tactum est quod si extendatur essentia ut 
+          <lb ed="#S" n="85"/>ita transcendenter sumatur sicut res ita quod convertantur sicut sumebantur haec nomina 
+          <lb ed="#S" n="86"/>apud philosophos conclusio non esset neganda sed sumendo nomen essentiae pro substantia divina 
+          <lb ed="#S" n="87"/>communi 3bus personis sicud nunc est sermo de ea cum arguitur eius distinctio 
+          <lb ed="#S" n="88"/>a persona vel proprietate non valet haec consequentia in deo est aliqua entitas geni<lb ed="#S" break="no" n="89"/>ta 
+          igitur et alia <add place="margin-right">essentia</add> genita et probatio consequentiae non valet licet enim omnis entitas sic essentia 
+          <lb ed="#S" n="90"/>alia communiter aut transcendenter sumpto vocabulo essentiae et etiam omnis entitas divina 
+          <lb ed="#S" n="91"/>sic essentia divina communis personis quia tamen subiectum antecedentis cum dicitur in deo est alia 
+          <lb ed="#S" n="92"/>entitas genita ly entitas genita non supponit pro natura realiter communi 3us 
+          <lb ed="#S" n="93"/>personis quamvis illud pro quo supponit sic realiter et etiam per se primo modo 
+          <lb ed="#S" n="94"/>ydemptitate natura communis ideo non valet illatio sed est ibi fallacia quae supra ibi est 
+          <lb ed="#S" n="95"/>assignata per <name xml:id="aw98wa-xg3109-Nd1e1712">doctorem subtilem</name> in simili a quo et aliis docto<lb ed="#S" break="no" n="96"/>ribus 
+          antiquis viam sumpsi secundum quam finaliter ad similia respondendi
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1718">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="97"/>12 dicendum quod bene sequitur sumpto vocabulo essentiae transcendenter convertibiliter cum entitate 
+          <lb ed="#S" n="98"/>sed tunc est antecedens falsum sicut et consequens si autem sumatur pro natura communi personis <unclear>ubi</unclear> 
+          <lb ed="#S" n="99"/>etiam remanet color consequentiae per conversionem ad hunc secundum nulla essentia communis 
+          <lb ed="#S" n="100"/>realiter divinis personis est genita igitur nullum genitum est divina essentia communis 
+          <lb ed="#S" n="101"/>consequentia neganda quia sicut superius satis habitu est tunc hic negativa quae est 
+          <lb ed="#S" n="102"/>antecedens non est universalis universalitate requisita ad conversionem et habetur 
+          <lb ed="#S" n="103"/>exemplum ad hoc secundum platonicam opinionem ubi non sequitur nullus homo communis 
+          <lb ed="#S" n="104"/>distinguitur a sortes igitur nihil distinctum a sortes est homo omnis secundum aliquam responsionem 
+          <lb ed="#S" n="105"/>superius prosecutam <ref xml:id="aw98wa-xg3109-Rd1e1744">praecedenti quaestione articulo 3o in solutione secundi dubii de 
+          <lb ed="#S" n="106"/>conversionibus huius</ref> patet quid dicendum sit nec discordat a responsione iam 
+          <lb ed="#S" n="107"/>data
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1752">
+          <pc type="pilcrow"/> ad 13m dicendum quod licet non debeat caveri essentiam divinam referri realiter 
+          <lb ed="#S" n="108"/>ad patrem vel ad finem quia hoc verum est ipsa enim est realiter eadem utrique 
+          <lb ed="#S" n="109"/>ydemptitas autem poni solet esset relatio quaedam tamen alia tam magistri est 
+          <lb ed="#S" n="110"/>satis bona et haec etiam causa ne referatur relatione generationis active vel 
+          <lb ed="#S" n="111"/>passive quia huius relationis oppositio deitatis ad personam abstat deitatis 
+          <lb ed="#S" n="112"/>veritati et cum arguitur quod eadem ratione pater non generaret deum quia cum 
+          <lb ed="#S" n="113"/>pater ipse sic idem deus sequeretur quod pater esset genitor ipsius rei quae ipse 
+          <lb ed="#S" n="114"/>est sicut tu arguis ex alia parte de essentia
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1772">
+          <pc type="pilcrow"/> dicendum quod non est simile quia 
+          <lb ed="#S" n="115"/>cum dicimus quod pater generat deum ly deum stat ibi pro supposito non pro natura communi 
+          <lb ed="#S" n="116"/>proprium enim est concretorum stare pro suppositis ubi concernunt supposita nec 
+          <lb ed="#S" n="117"/>stant proprie pro natura nisi sint synonima cum abstractis quod rarum est 
+          <lb ed="#S" n="118"/>licet aliquotiens unde iste terminus deus secundum omnes doctores communiter propr<lb ed="#S" break="no" n="119"/>issime 
+          sumitur pro supposito seu persona divina minus autem proprie pro natura omni<lb ed="#S" break="no" n="120"/>bus 
+          quandoque pro natura communi sumatur sicut cum dicimus deus est pater et filius
+          <lb ed="#S" n="121"/>est spiritus sanctus
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1792">
+          <pc type="pilcrow"/> Econverso autem est de nomine abstracto naturae quod secundum praedictam 
+          <lb ed="#S" n="122"/>non significant <unclear>synonomice</unclear> et convertitur idem cum concreto suo proprissime 
+          <pb ed="#S" n="131-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>enim stat pro natura communi sed pro supposito raro vel numquam sicut dicunt multi
+          <lb ed="#S" n="2"/>doctores ut <name xml:id="aw98wa-xg3109-Nd1e1809">boni</name> et <name xml:id="aw98wa-xg3109-Nd1e1811">scotus</name> aut alii non nulli aut improprissime 
+          <lb ed="#S" n="3"/>in casu isto propter quod ut dixi ibidem cum dicitur pater generat deum stat 
+          <lb ed="#S" n="4"/>praecise pro supposito filii et hoc verissime loquendo licet secundum veritatem stet ibi 
+          <lb ed="#S" n="5"/>disiunctive pro suppositis etc quod si ibi sumeretur pro deo qui est pater et filius 
+          <lb ed="#S" n="6"/>et spiritus sanctus neganda esset propositio et cum additur quod pater ipse est idem deus dico 
+          <lb ed="#S" n="7"/>quod falsum est sumpto termino pro eodem supposito pro quo prius si pater non 
+          <lb ed="#S" n="8"/>sic idem deus cum filio sumpto termino notionaliter cum pater sic deus quid 
+          <lb ed="#S" n="9"/>igitur erit alius deus et ita duo dii saltem notionaliter seu dualitate 
+          <lb ed="#S" n="10"/>personali licet sint idem deus essentialiter
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1831">
+          <pc type="pilcrow"/> Respondeo illi qui non haberent conclusionem pro in communi 
+          <lb ed="#S" n="11"/>enti patet quid dicerent et illi forsan magis irent ad proprietatem communem 
+          <lb ed="#S" n="12"/>sermonis sed ego et alii ut magister sententiarum qui conclusionem istam vitat habeo 
+          <lb ed="#S" n="13"/>negare consequentiam pro eo quod ad vitandum scandalum pusillorum et il<lb ed="#S" break="no" n="14"/>lorum 
+          qui credenter ibi esse plures naturas divinas essentialiter ista propositio duo sunt 
+          <lb ed="#S" n="15"/>ibi dii etc ideo nullo modo conceduntur nec consequentia aliquid valet tunc sicut ponendo 
+          <lb ed="#S" n="16"/>exponentes loco <unclear>expositarum</unclear> non enim sequitur pater generat deum id est generat sup<lb ed="#S" break="no" n="17"/>positum 
+          deitatis et pater est idem deus id est pater eadem deitate est deus igitur 
+          <lb ed="#S" n="18"/>pater eset genitor istius rei quae ipse <add place="above-line">est</add> patet de se nec sequitur deus pater non 
+          <lb ed="#S" n="19"/>est deus filius igitur duo dii vel alius et alius deus posita 
+          <lb ed="#S" n="20"/>constantia utriusque sicut nec sequitur hoc suppositum deitatis non est illud 
+          <lb ed="#S" n="21"/>suppositum deitatis igitur sunt duo in duabus deitatibus vel igitur alia et 
+          <lb ed="#S" n="22"/>alia deitate est iste deus et iste nec est hic difficultas aliqua nisi quod 
+          <lb ed="#S" n="23"/>fides cavet hod dicere quod proprietas sermonis peteret ne simplices 
+          <lb ed="#S" n="24"/>decipi potuissent et etiam quod foret scandalum ethnicorum ponere 
+          <lb ed="#S" n="25"/>plures deos istorum potissime qui non noverunt misterium trinitatis 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1874">
+          <lb ed="#S" n="26"/><pc type="pilcrow"/> ad 14 probationem dicendum quod in hac praedicatione haec essentia divina est habens patrem 
+          <lb ed="#S" n="27"/>nisi intelligitur quod habet patrem sicut natura habet suppositum vel simili modo aliquo quid 
+          <lb ed="#S" n="28"/>non esset hic ad propositum arguentis ly habens patrem potest stare neutra<lb ed="#S" break="no" n="29"/>liter 
+          seu substantive et tunc est vera et consequentia bona quia essentia est filius habens 
+          <lb ed="#S" n="30"/>patrem
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1889">
+          <pc type="pilcrow"/> alio modo potest ibi stare adiective et tunc significant idem cum consequen<lb ed="#S" break="no" n="31"/>te 
+          ultimo et consequentia ista ultima in isto sensu bona est sed antecedens falsum est 
+          <lb ed="#S" n="32"/>nec sequitur ex primo antecedente contra ista de generare respectu essentiae argui potest sicut arguit 
+          <lb ed="#S" n="33"/><ref xml:id="aw98wa-xg3109-Rd1e1898"><name xml:id="aw98wa-xg3109-Nd1e1899">bonaventura</name> distinctione 5 primi quaestione prima</ref> quaecumque sic se habent quod unum praedicatur de altero
+          <lb ed="#S" n="34"/>essentialiter unum supponit pro <del>isto</del> altero quia subiectum vere subicitur praedicato sed 
+          <lb ed="#S" n="35"/>essentia vere et essentialiter <unclear>praedicatur</unclear> de patre haec enim est vera pater est essentia etiam per se primo modo 
+          <lb ed="#S" n="36"/>igitur essentia supponit pro patre igitur sicud sequitur pater generat igitur deus generat eo quod 
+          <lb ed="#S" n="37"/>pro eodem supponunt substantia utriusque propositions ista sequetur pater generat igitur essentialiter 
+          <lb ed="#S" n="38"/>propter eandem causam
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1918">
+          <pc type="pilcrow"/> Item de quocumque praedicatur subiectum et propria passio sed genera<lb ed="#S" break="no" n="39"/>re 
+          est sicud propria passio patris secundum auctoritates quaestione 1 allegatas cum igitur haec sit vera 
+          <lb ed="#S" n="40"/>divina essentia est pater igitur et haec divina essentia generat <add place="margin-bottom">Item ab inferiori ad superius est consequentia bona arguendo affirmative et sine distinctione 
+          sic arguitur hic pater generat igitur essentia generat etc</add>
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1930">
+          <pc type="pilcrow"/>Ad primum argumentum <name xml:id="aw98wa-xg3109-Nd1e1934">bonaventurae</name> 
+          <lb ed="#S" n="41"/>supposita communi distinctione propositionum et ipsis reductis ad <unclear>usi?tum</unclear> modum
+          <lb ed="#S" n="42"/>loquendi ratio stat in hoc quod quando praedicato unius termini de alio est affirmativa 
+          <lb ed="#S" n="43"/>vera et essentialis in tali propositione subiectum a praedicatum supponunt pro eodem et tunc 
+          <lb ed="#S" n="44"/>arguendo ab affirmatione alicuius probabilis de subiecto ad affirmationem eiusdem 
+          <lb ed="#S" n="45"/><unclear>prae?lis</unclear> de praedicato primo erit bona consequentia quia subiectum consequentis poterit respectu illius praedicati 
+          <lb ed="#S" n="46"/>stare seu supponere pro eodem pro quo subiectum antecedentis sic est hic pater est 
+          <lb ed="#S" n="47"/>essentia divina igitur ista consequentia bona erit pater generat igitur divina essentia generat 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1955">
+          <lb ed="#S" n="48"/><pc type="pilcrow"/> Exemplum commune ad hoc potest esse quia hic est praedicatio huius homo est animal igitur sequitur 
+          <lb ed="#S" n="49"/>homo currit igitur animal currit <pc type="punctus"/> et <unclear>fundatur</unclear> ratio super hanc <unclear>regulam</unclear> praedicamentorum 
+          <lb ed="#S" n="50"/>quando alterum de altero etc si iretur ad illa quae per se conveniunt praedicato sicud 
+          <lb ed="#S" n="51"/>communicabilem esse convenit essentiae divinae vel si iretur ad ista quae conveniunt subiecto 
+          <lb ed="#S" n="52"/>et inferiori arguitur per aliquam regulam ut pote per istam quidquid convenit antecedenti 
+          <lb ed="#S" n="53"/>convenit consequenti sicut et eccontra quidquid repungnat consequenti repungnat antecedenti
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e1978">
+          <lb ed="#S" n="54"/><pc type="pilcrow"/> ad istud dico sicut alias iam saepe quod circa divina et numquam alibi 
+          <lb ed="#S" n="55"/>nisi secundum opinionem platonicam duplicem convenit require praedicationem talem veram 
+          <lb ed="#S" n="56"/>essentialem et personae primo modo et etiam non per se primo modo scilicet praedicationem formalem et 
+          <lb ed="#S" n="57"/>ydemptitatam vel sub verbis antiquorum dictorum per inhaerentiam seu de<lb ed="#S" break="no" n="58"/>nominationem 
+          et per ydeptitatem et apud me in creaturis nulla est praedicatio 
+          <lb ed="#S" n="59"/>vera nisi formalis seu causas quae hic dicitur per inhaerentiam et denominationem quae dico 
+          <lb ed="#S" n="60"/>ut bene intelligatur et distincte pro eo quod bona est et necessaria pro eo quod essentia 
+          <lb ed="#S" n="61"/>divina est generans et etiam essentia divina est pater secundum praedicationem ydemptitam 
+          <lb ed="#S" n="62"/>sumpto sermone et non per inhaerentiam seu formalem praedicationem ut
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="63"/>hoc inquam <unclear>distinctio</unclear> intelligatur sicut debet
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2008">
+          <pc type="pilcrow"/> Notandum ut supra quod omnem 
+          <lb ed="#S" n="64"/>istam praedicatioem voco formalem seu per inhaerentiam in qua subiectum et praedicatum 
+          <lb ed="#S" n="65"/>supponunt pro eodem vel notantur per sermonem sup<lb ed="#S" break="no" n="66"/>ponere 
+          pro eodem sicud hic pater est deus si praedicatum stet 
+          <lb ed="#S" n="67"/>disiunctive sicut deus pro personis divinis et non pro natura communi tunc aut <add place="margin-right">per ydemptitatem vel secundum</add>
+          <lb ed="#S" n="68"/>praedicationem ydemptitam quando subiectum et praedicatum in affirmativa praedicatione vera etiam vel per se 
+          <lb ed="#S" n="69"/>primo modo vel non per se primo mod praedicatum et subiectum non supponunt pro e<lb ed="#S" break="no" n="70"/>odem 
+          nec denotantur pro eodem supponere sed tantum quod illud pro quo 
+          <lb ed="#S" n="71"/>subiectum supponit sit illud pro quo praedicatum supponit verbi gratia pater est deus 
+          <lb ed="#S" n="72"/>vel pater est deitas communis tribus personis ita quod pater est deus potest 
+          <lb ed="#S" n="73"/>esse vera secundum praedicationem formalem et tunc praedicatum supponit hic disiunc<lb ed="#S" break="no" n="74"/>tive 
+          pro 3us personis et verificatur solum pro persona patris pro qua sup<lb ed="#S" break="no" n="75"/>ponit 
+          subiectum sed in praedicationem ydemptita significata in ista propositione eadem 
+          <lb ed="#S" n="76"/>secundum vocem pater est deus praedicatum stat pro deitate communi et non pro alia 
+          <lb ed="#S" n="77"/>persona et ita est hic etiam pater est deitas communis quae vera est non 
+          <lb ed="#S" n="78"/>secundum utramque praedicationem quia sola secunda notatur ibi igitur vera est non secundum 
+          <lb ed="#S" n="79"/>formalem praedicationem sed vel sermo admittit istum sensum vel si quis omnino 
+          <lb ed="#S" n="80"/>vellet ibi accipere ut huius sensus ibi notetur falsa esset propositio sed 
+          <lb ed="#S" n="81"/>ego teneo me ad hoc quod propositio illa mentalis <add place="margin-right">sensum</add> istum non nocet 
+          <lb ed="#S" n="82"/>sed tantum notat quod pater sit ista res pro qua praedicatum supponit <add>id est quod supponit <unclear>eo?a</unclear> pro qua supponit</add> conceptus 
+          <lb ed="#S" n="83"/>illis nomen essentiae alioquin optime sequeretur omnis essentia divina est 
+          <lb ed="#S" n="84"/>pater igitur filius est pater et sic de similibus quia ad omnia ista contingit descendere 
+          <lb ed="#S" n="85"/>afferendo de eis praedicatum pro quo fiebat distributio ex parte subiecti 
+          <lb ed="#S" n="86"/>antecedentis ita etiam ista filius est illud quod est pater vera est secundum praedicationem y<lb ed="#S" break="no" n="87"/>demptitam 
+          <lb ed="#S" n="88"/>nullo autem modo secundum praedicationem formalem quia praedicatum nullo modo supponit 
+          <lb ed="#S" n="89"/>pro filio quia nullum idem quod est pater est filius et tamen filius est quod est pater scilicet 
+          <lb ed="#S" n="90"/>essentia per ydemptitatem istam distinctionem ponerem alibi si ponerem potentias 
+          <lb ed="#S" n="91"/>animae esse eadem rem et tamen distingui a parte rei inter se et ab anima 
+          <lb ed="#S" n="92"/>et in omnibus similibus sed hoc non dico
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2088">
+          <pc type="pilcrow"/> ad formam igitur argumenti dico 
+          <lb ed="#S" n="93"/>quod in omni propositione vera affirmativa vera inquam secundum praedicationem formalem 
+          <lb ed="#S" n="94"/>praedicatum et subiectum supponunt pro eodem et si simul cum hoc sit praedicatio essentia<lb ed="#S" break="no" n="95"/>lis 
+          et per se primo modo verbi gratia homo est animal quidquid praedicatur essentialiter 
+          <lb ed="#S" n="96"/>et per se de praedicato praedicatur de subiecto et econverso etiam quidquid de subiecto sive per se sive 
+          <lb ed="#S" n="97"/>aliter et de praedicato ideo optime sequitur homo currit igitur animal currit et pater generat 
+          <lb ed="#S" n="98"/>igitur deus generat sumpto praedicato pro supposito sed in propositione vera non secundum 
+          <lb ed="#S" n="99"/>praedicationem formalem sed solum secundum ydemptitam nec unum istorum requiritur 
+          <lb ed="#S" n="100"/>nec reliquum et sic est in proposito sed sufficit illud pro quo subiectum supponit 
+          <lb ed="#S" n="101"/>esse illud pro quo praedicatum supponit et hic <unclear>v?et</unclear> requiritur sed informali ultra 
+          <lb ed="#S" n="102"/>hoc requiritur quod praedicatum supponatur pro eodem pro quo subiectum et ita patet quod 
+          <lb ed="#S" n="103"/>licet illud pro quo subiectum supponit et pro quo praedicatum sint idem non 
+          <lb ed="#S" n="104"/>tamen supponunt pro eodem et in hoc iacet radix et caua fundamentalis quare 
+          <lb ed="#S" n="105"/>de eodem non verificantur contradictoria licet alia contradictoria verifiantur de essentia 
+          <lb ed="#S" n="106"/>omni seu per ista et pro patre quia isti termini essentia divina communis personis et ille 
+          <lb ed="#S" n="107"/>terminus pater nati non sunt supponere pro eodem licet omne pro quo sup<lb ed="#S" break="no" n="108"/>ponit 
+          unus istorum terminorum sic illud pro quo supponit reliquus et econtra 
+          <lb ed="#S" n="109"/>et differentia istorum duorum dictorum est diligenter attendenda in paralogismos 
+          <lb ed="#S" n="110"/>solvendum huius materiae
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2134">
+          <pc type="pilcrow"/> ad 2m per idem dicendum de quocumque vere probatur subiectum aliquod de 
+          <lb ed="#S" n="111"/>eodem vero potest praedicari passio istius subiecti quando ita est quod praedicatio subiecti vel passio<lb ed="#S" break="no" n="112"/>nis 
+          vera est de huius de quo fit sermo praedicatione formali ita scilicet quod 
+          <lb ed="#S" n="113"/>praedicatum et subiectum non solum supponunt pro hiis quae sunt idem verum et sup<lb ed="#S" break="no" n="114"/>ponant 
+          pro eodem ubi autem est solum praedicatio vera per ydemptitatem 
+          <lb ed="#S" n="115"/>istius subiecti de aliquo de quo determinate fit sermo sicut est in proposito 
+          <lb ed="#S" n="116"/>cum divinis quod essentia est pater non oportet in omni casu et ideo generare 
+          <lb ed="#S" n="117"/>quod est proprium patri convenire essentiae divinae non oportet
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2154">
+          <pc type="pilcrow"/> ad 3m etiam patet per idem 
+          <lb ed="#S" n="118"/>penitus quando enim arguitur ab inferiori ad superius supponentibus terminis pro 
+          <lb ed="#S" n="119"/>eodem tunc est consequentia bona necessaria nisi aliud inpediat utpotet ne<lb ed="#S" break="no" n="120"/>gatio 
+          vel <unclear>finta?a</unclear> ad hoc vel huius sed si solummodo illud pro quo supponit 
+          <lb ed="#S" n="121"/>inferius est isto pro quo supponit sumimus et tamen superius pro ipso 
+          <lb ed="#S" n="122"/>non supponat nec natum est supponere sicut est in proposito non oportet 
+          <lb ed="#S" n="123"/>consequentiam tenere
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2174">
+          <pc type="pilcrow"/> 2m dubium principale potest esse quae sic ratio negandi illam 
+          <lb ed="#S" n="124"/>essentia divina generat et hic assignat doctor subtilis ratione logi<lb ed="#S" break="no" n="125"/>cam 
+          quia de abstracto ultima abstractione non potest praedicari nisi quod
+          <pb ed="#S" n="131-v"/>
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="1"/>convenit per se primo modo dicit enim quandocumque subiectum est abstractum ultimata 
+          <lb ed="#S" n="2"/>abstractione et praedicatum ex ratione sua non potest praedicari nisi formaliter non 
+          <lb ed="#S" n="3"/>potest propositio esse vera in talibus terminis nisi sic per se 
+          <lb ed="#S" n="4"/>primo modo <add place="margin-below">sed subiectum in proposito scilicet deitas sive essentia divina est abstractum sic et 
+          praedicatum scilicet generans de re sua non potest praedicari nisi formaliter igitur illa propositio non 
+          posset esse vera nisi per se primo modo</add> et sic non est vera quia praedicatum non est de intellectu 
+          <lb ed="#S" n="5"/>subiecti minor probatur quia generat est verbum ideo non potest praedicari nisi formaliter 
+          <lb ed="#S" n="6"/>substantia enim possunt dupliciter praedicari in divinis quandoque formaliter quandoque per ydemptitatem 
+          <lb ed="#S" n="7"/>sed adiectiva si praedicantur de necessitate formaliter et talia sunt non tantum 
+          <lb ed="#S" n="8"/>nomina adiectiva sed omnia <unclear>perciti?a</unclear> et verba haec iste
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2210">
+          <pc type="pilcrow"/> Sed istam rationem 
+          <lb ed="#S" n="9"/>licet sit subtilis tenere non possum quia etiam dato quod hic redderetur ratio 
+          <lb ed="#S" n="10"/>logica quare iste terminus essentia non posset respectu talis praedicati generat sup<lb ed="#S" break="no" n="11"/>ponere 
+          pro supposito patris quod suppositum et praecise illud suppositum in divinis 
+          <lb ed="#S" n="12"/>generat sicut potest iste terminus concretus deus <unclear>tum<!-- tamen --></unclear> ad regalem <unclear>diffinientem</unclear> 
+          qua inquiritur ratio quare ista summa res simplicissima quae est 
+          <lb ed="#S" n="13"/>simul 3s personae et quaelibet sigillatim non generat cum tamen veraciter 
+          <lb ed="#S" n="14"/>ipsa sic pater qui generat nihil per hoc respondetur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2234">
+          <pc type="pilcrow"/> Item <name xml:id="aw98wa-xg3109-Nd1e2238">okam</name> probatu quod de 
+          <lb ed="#S" n="15"/>abstracto sic ultimata abstractione multa vere praedicentur non 
+          <lb ed="#S" n="16"/>per se primo modo primo quia haec est vera et non per se primo modo essentia divina 
+          <lb ed="#S" n="17"/>communicatur filiatio et spiritus sanctus et tamen praedicatum est verbum adiectivum 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2248">
+          <pc type="pilcrow"/> Item de ista 
+          <lb ed="#S" n="18"/>essentia divina videtur ab intellectu creato 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2255">
+          <pc type="virgula">//</pc> Item essentia divina intelligit 
+          <lb ed="#S" n="19"/>et vult et est bona et diligibilis et huius et haec est praedicatio adiectiva 
+          <lb ed="#S" n="20"/>vera et non per se primo modo igitur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2265">
+          <pc type="pilcrow"/> Item haec est vera essentia divina creat et haec 
+          <lb ed="#S" n="21"/>similiter essentia divina distinguitur a creatura similiter in creaturis est maior <name xml:id="aw98wa-xg3109-Nd1e2271">scoti</name> 
+          <lb ed="#S" n="22"/>falsa nam <unclear>equinitas</unclear> est a deo creata et distinguitur a deo et ab asino 
+          <lb ed="#S" n="23"/>et tamen nulla harum propositionum est vera per se primo modo et tamen in exemplo de 
+          <lb ed="#S" n="24"/>equinitate figit se <name xml:id="aw98wa-xg3109-Nd1e2282">doctor iste</name> iste secundum <name xml:id="aw98wa-xg3109-Nd1e2284">avicennam</name> quod de equinitate nihil 
+          <lb ed="#S" n="25"/>vere <unclear>personatur</unclear> nisi per se primo modo quia secundum <name xml:id="aw98wa-xg3109-Nd1e2291">avicennam</name> equinitas nec est 
+          <lb ed="#S" n="26"/>unum nec multa nec in anima nec extra <pc type="punctus"/> sed dicendum quod <name xml:id="aw98wa-xg3109-Nd1e2297">avicenna</name> loquitur 
+          <lb ed="#S" n="27"/>tum reduplicatione equinitatis <add place="margin-below">scilicet equinitas inquantum equinitas ita quod vult dicere quod nihil talium diffinit 
+          equinitatem quia illo modo loquitur in sua metaphysica de hoc cum hoc dicto</add> ita quod vult dicere quod nihil talium 
+          <lb ed="#S" n="28"/>diffinit
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2308">
+          <pc type="pilcrow"/> Dico igitur pro conclusione prima huius dubii quod quantum mihi videtur prae<lb ed="#S" break="no" n="29"/>dicta 
+          ratio non est bona 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2315">
+          <pc type="virgula">/</pc> 2o dico quod dicta <ref xml:id="aw98wa-xg3109-Rd1e2320">magistri petri distinctione 5 
+          <lb ed="#S" n="30"/>primi</ref> positae hic sufficiunt et sunt reales et plane ratio igitur planior 
+          <lb ed="#S" n="31"/>arguendi est ratio magistri in littera ratio utique communissima et antiquissi<lb ed="#S" break="no" n="32"/>ma 
+          quae non ostendit causam rei quia causam non habet nisi quod hoc est 
+          <lb ed="#S" n="33"/>hoc et illud est illud sed inpossibilitas huius dicti essentia generat si 
+          <lb ed="#S" n="34"/>essentia generaret aut generaret seipsam aut personam aliquam non seipsam 
+          <lb ed="#S" n="35"/>quia secundum <name xml:id="aw98wa-xg3109-Nd1e2336">augustinum</name> sicut allegat <ref xml:id="aw98wa-xg3109-Rd1e2338">magister distinctione 4 capitulo 1</ref> et <ref xml:id="aw98wa-xg3109-Rd1e2340">5 capitulo 1</ref> et 
+          <lb ed="#S" n="36"/>habetur <ref xml:id="aw98wa-xg3109-Rd1e2345">primo de trinitate capitulo 1</ref> <quote xml:id="aw98wa-xg3109-Qd1e2347" source="http://scta.info/resource/adt-l1-d1e11@128-143">nulla res est corporalis nec spiritualis neque deus neque 
+          <lb ed="#S" n="37"/>creatura quae se ipsam <sic>gingnat</sic> ut sit</quote> <pc type="punctus"/> quia omne generans dicitur 
+          <lb ed="#S" n="38"/>realiter a genito <add>per praecedentem propositionem nulla res etc</add> sed essentia divina a nulla persona distinguitur quia sicud 
+          <lb ed="#S" n="39"/>praeaccepi nomine essentiae intelligo summam istam rem incomprehensibilem 
+          <lb ed="#S" n="40"/>quae est simul 3s personae et quaelibet sigillatim igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2366">
+          <pc type="pilcrow"/> Item aliquam rationem 
+          <lb ed="#S" n="41"/>accipio a <ref xml:id="aw98wa-xg3109-Rd1e2372">magistro capitulo 2 5 distinctione</ref> qua ratione essentia divina generaret 
+          <lb ed="#S" n="42"/>propter hoc scilicet quod <add place="margin-left">essentia</add> est pater qui pater generat <pc type="punctus"/> eadem ratione generaretur propter 
+          <lb ed="#S" n="43"/>hoc quod ipsa est filius qui generatur sed hoc <sic>inprobat</sic> magister ibi sic <pc type="punctus"/> si 
+          <lb ed="#S" n="44"/>generaretur et non a seipsa ut praehabitum est <pc type="punctus"/> igitur a persona <pc type="punctus"/> et a nulla nisi a 
+          <lb ed="#S" n="45"/>patre igitur pater esset genitor essentiae divinae <pc type="punctus"/> hoc falsum quia cum essentia divina 
+          <lb ed="#S" n="46"/>ablative et sic et deus sic eo igitur quod generat et est et deus <add place="margin-center">est</add> igitur 
+          <lb ed="#S" n="47"/>tunc aliquid quod generatur a patre scilicet essentia non est a patre deus sed pater 
+          <lb ed="#S" n="48"/>eo quod generat et est et deus est et si hoc igitur non geniti gig<lb ed="#S" break="no" n="49"/>nens 
+          sed gignenti genitum causa est ut et sic et deus sic <pc type="punctus"/> sed 
+          <lb ed="#S" n="50"/>hoc quid insamus secundum augustinum qui ut ibi adducit magister simili 
+          <lb ed="#S" n="51"/>modo probat quod pater non est sapiens sapientia quam genuit 
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2419">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="52"/>capitulo 1 arguit magister sic cum deus pater sic divina essentia sive eius 
+          <lb ed="#S" n="53"/>esset genita esset utique genitor eius rei quae est ipse et ista eadem 
+          <lb ed="#S" n="54"/>res seipsam genuisset
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2430">
+          <pc type="pilcrow"/> dices idem argumentum de deo quod deus 
+          <lb ed="#S" n="55"/>non sic genitus per omnia et eodem modo potest fieri instantia contra primum 
+          <lb ed="#S" n="56"/>argumentum acceptum hic
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2439">
+          <pc type="pilcrow"/> Responsum est prius quomodo haec sit vera 
+          <lb ed="#S" n="57"/>deus genuit deum quod scilicet stare pro supposito convenit huic 
+          <lb ed="#S" n="58"/>concreto deus respectu praedicati quod supposito non repugnat 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="59"/>et ideo sensus ibi est quod aliquis qui est deus genuit aliquem qui est deus 
+          <lb ed="#S" n="60"/>et hoc verum est quia pater qui est deus genuit filium qui est deus 
+          <lb ed="#S" n="61"/>sed non est verum quod deus qui est simul est personae et quaelibet sigillatim 
+          <lb ed="#S" n="62"/>genuit deum quia solus pater in divinis genuit filium et instantia non 
+          <lb ed="#S" n="63"/>est ad propositum nisi hic daretur quod hic requiritur de ista re quae est simul 
+          <lb ed="#S" n="64"/>3s personae utrum ista generet vel generetur et dico quod nulla talis res 
+          <lb ed="#S" n="65"/>est in divinis quae generet quocumque nomine nominetur sive non ille <unclear>di?tis <add place="margin-right">sive nomine d?i</add></unclear>
+          <lb ed="#S" n="66"/>sive nomine nobilissimi individui in genere entium et ita de 
+          <lb ed="#S" n="67"/>similibus
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2475">
+          <pc type="pilcrow"/>contra sapientia de sapientia et lumen de lumine et sic de simili<lb ed="#S" break="no" n="68"/>bus 
+          <pc type="punctus"/> dico quod nec lumen nec sapientia quae sunt simul 3 et sigillatim 
+          <lb ed="#S" n="69"/>quaelibet earumdem generat aliquam quae est sapientia lumen vel substantia 
+          <lb ed="#S" n="70"/>etc et sic exponit magister omnia talia dicta sed quare magis 
+          <lb ed="#S" n="71"/>dicitur sapientia genita vel lumen de lumine quam essentia genita
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2491">
+          <pc type="pilcrow"/> Responsio 
+          <lb ed="#S" n="72"/>quod haec nomina sapientia lumen et quaedam alia sunt nomina appropriata 
+          <lb ed="#S" n="73"/>et ideo possunt dupliciter sive scilicet proprie et appropriate et quando sumuntur proprie non sunt 
+          <lb ed="#S" n="74"/>quaedam concedenda quae conceptum quando sumuntur appropriate ita quod ratione 
+          <lb ed="#S" n="75"/>appropriationis talia conceduntur quia appropriatio est tam quod sumuntur tunc 
+          <lb ed="#S" n="76"/>notionaliter sed vocabulum essentiae non appropriatur alicui personae
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2507">
+          <pc type="pilcrow"/> Item 4o ad 
+          <lb ed="#S" n="77"/>conclusionem principaliter intentam in principio capitulo 4o arguit magister sic et bene etiam 
+          <lb ed="#S" n="78"/>probans quod divina essentia non genuit filium quia cum filius sic divina essentia 
+          <lb ed="#S" n="79"/>iam esset filius res a qua generatur et eadem res se ipsam genera<lb ed="#S" break="no" n="80"/>ret 
+            <add place="margin-bottom">
+              dices nomine filius est res quae est res a qua generatur ymmo sed hoc est aliud
+              est enim essentia quae est pater a quo filius generatur sed hoc non est eum esse rem 
+              a qua generatur
+            </add>
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2525">
+          <pc type="pilcrow"/> 3m dubium principale potest esse quae ratio logica posset pro praedicta conclusione 
+          <lb ed="#S" n="81"/>fidei assignari conveniens rei substractae
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2532">
+          <pc type="pilcrow"/> dicendum quod talis quod scilicet nomen <unclear>praedica<lb ed="#S" break="no" n="82"/>tum</unclear> 
+          dictum de aliquo subiecto <unclear>nominans</unclear> illud <add place="margin-below">distinguitur ab illo a quo non dicitur vere dicitur seu affirmatur de eodem quia etc</add> <del rend="vacat expunctuation">pro quo supponit subiectum <unclear>distinguitur</unclear> 
+            <lb ed="#S" n="83"/>ab aliquo a quo non distinguitur nisi diceretur seu affirmaretur de eodem 
+            <lb ed="#S" n="84"/>vere dicitur de eo</del> quia tunc non corresponderet res signo et cum eo 
+          <lb ed="#S" n="85"/>quod res est vel non est est oratio vera vel falsa sed generare vel genera<lb ed="#S" break="no" n="86"/>ri 
+          spirare vel spirari dictum de nomine essentiae est huius quia nomine essentiae 
+          <lb ed="#S" n="87"/>ut ait magister intelligimus naturam divinam quae est simul 3 et quaelibet <add place="margin-right">personarum</add> sigil<lb ed="#S" break="no" n="88"/>latim 
+          ista igitur non distinguitur ab aliqua persona in divinis generante vel genita spiran<lb ed="#S" break="no" n="89"/>te 
+          <add place="margin-right">vel spirata</add> et tamen notatur distingui a generante cum de ea affirmatur genera<lb ed="#S" break="no" n="90"/>ri 
+          et a genito cum de eo affirmatur generare igitur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2576">
+          <pc type="pilcrow"/> alia etiam ponitur ab 
+          <lb ed="#S" n="91"/><name xml:id="aw98wa-xg3109-Nd1e2581">okam</name> ratio logica bona sed non ita palpalis ut praecedens nec ita 
+          <lb ed="#S" n="92"/>forte ad diffinientem principalem dat igitur rationem talem quare non igitur 
+          <lb ed="#S" n="93"/>ita potest concedi quod essentia generat sicut conceditur quod essentia est pater et quod essentia 
+          <lb ed="#S" n="94"/>est paternitas scilicet quia alia sunt praedicata quae de nullo possunt praedicari nisi de 
+          <lb ed="#S" n="95"/>isto de quo primo et immediate praedicantur vel saltem non de aliquo nisi 
+          <lb ed="#S" n="96"/>per aliquid intrinsecum sibi cuius sunt esse idem vel diversis nihil enim distinguitur 
+          <lb ed="#S" n="97"/>ab aliquo nisi sei pso vel partibus suis intrinsicis dicere enim quod materia distinguitur 
+          <lb ed="#S" n="98"/>ab angelo <add>per formam suam</add> per <del rend="expunctuation">deum</del> nihil est etc
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2604">
+          <pc type="pilcrow"/> Sed contra istam rationem arguitur primo quia quod 
+          <lb ed="#S" n="99"/>generare sit tale praedicatum non est evidens sed indiget probari quia hic 
+          <lb ed="#S" n="100"/>inquiritur utrum valet praedicetur de essentia licet sic notum quod probatur de persona
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2613">
+          <lb ed="#S" n="101"/><pc type="pilcrow"/> Item exemplum de eodem et diverso non videtur verum quia non magis convenit 
+          <lb ed="#S" n="102"/>albedini quod sic idem sibi ipsis quam quod sic albedo sed secundo non ob<lb ed="#S" break="no" n="103"/>stante 
+          non solum albedo est albedo sed est quo subiectum est albedinem ita 
+          <lb ed="#S" n="104"/>quod non solum de se ipsa dicitur primo et per se sed de subiecto etiam concretive 
+          <lb ed="#S" n="105"/>igitur multo magis vel aque non solum albedo distinguitur a nigritudine sed 
+          <lb ed="#S" n="106"/>est subiecto suo quo distinguendi ita quod subiectum formaliter sua albedine 
+          <lb ed="#S" n="107"/>distinguitur ab alio albedo et nigro sicud albedine albedinem
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2632">
+          <pc type="pilcrow"/> Ad 
+          <lb ed="#S" n="108"/>primum istorum dico quod ipse <name xml:id="aw98wa-xg3109-Nd1e2638">okam</name> probavit per ratione realem quod genera<lb ed="#S" break="no" n="109"/>re 
+          sic tale praedicatum arguebat enim prius si essentia generaret vel genera<lb ed="#S" break="no" n="110"/>retur 
+          ipsa distingueretur ab eo quod generat vel generatur sed essentia divina a 
+          <lb ed="#S" n="111"/>neutro distinguitur igitur nec generat nec generatur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2649">
+          <pc type="pilcrow"/> ad 2m dico cum isto 
+          <lb ed="#S" n="112"/>contra quem iste arguit quod de albedine et aliis accidentibus multa 
+          <lb ed="#S" n="113"/>dicuntur praedicata primo et immediate et illis mediatatibus et de subiectis et multa 
+          <lb ed="#S" n="114"/>quae non <pc type="punctus"/> nam si calor calefacit subiectum cui in est calor calefacit 
+          <lb ed="#S" n="115"/>et si albedo disgregat primo et immediate subiectum albedinis dicitur disgrega<lb ed="#S" break="no" n="116"/>re 
+          sed tamen albedo accidit et in est suo subiecto et tamen subiectum non est 
+          <lb ed="#S" n="117"/>accidens nec inhaerens subiecto non obstante quod non minus essentialiter 
+          <pb ed="#S" n="132-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>inhaeret albedo et accidit subiecto quam disgreget sed multo essentialius et eo<lb ed="#S" break="no" n="2"/>dem 
+          modo non obstante quod non minus essentialiter sic albedo quam dis<lb ed="#S" break="no" n="3"/>gregatur 
+          tinguatur a nigritudine tamen esse albedinem convenit subiecto per albedinem 
+          <lb ed="#S" n="4"/>et non distingui a nigritudine quia sicut incepti iste argumentum aeque conclu<lb ed="#S" break="no" n="5"/>deret 
+          quod subiectum esset idem sibi per hoc quod albedo quae est eadem sibi ipsi 
+          <lb ed="#S" n="6"/>inhaeret subiecto quod falsum est falsum igitur est quod subiectum informatum albedine 
+          <lb ed="#S" n="7"/>distinguitur per albedinem suam a nigro et consequentiam <del rend="expunctuation">non</del> valere per quam probatur 
+          <lb ed="#S" n="8"/>ostensis est hic igitur et praeter hic etiam aliud praedicatum est albedinem et albedo igitur pa<lb ed="#S" break="no" n="9"/>rum 
+          facit ad propositum exemplum illud
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2696">
+          <pc type="pilcrow"/> 2m dubium principale est in speciali 
+          <lb ed="#S" n="10"/>utrum essentia divina generetur ita scilicet quod essentia communis personis capiat esse 
+          <lb ed="#S" n="11"/>per generationem et est dicendum quod non propter causam praetactam quia tunc distin<lb ed="#S" break="no" n="12"/>gueretur 
+          a suo producente etc
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2707">
+          <pc type="pilcrow"/>Sed contra essentia dei communicatur 
+          <lb ed="#S" n="13"/>igitur essentia producitur antecedens patet per <ref xml:id="aw98wa-xg3109-Rd1e2713">augustinum 15 de trinitate capitulo 26</ref> <quote xml:id="aw98wa-xg3109-Qd1e2715" source="http://scta.info/resource/adt-l15-d1e1975@10-12">essentiam praestat 
+          <lb ed="#S" n="14"/>filio <unclear>actio generatio</unclear></quote> consequentia patet tum quia communicare et communicari sunt relatae 
+          <lb ed="#S" n="15"/>opposita et non dicunt nisi relationes originis igitur omnino sunt idem quod pro<lb ed="#S" break="no" n="16"/>ducere 
+          et produci tum quia si sint aliquae duae correlationes 
+          <lb ed="#S" n="17"/>si unum extremum unius sic idem uni extremo alterius et reliquum 
+          <lb ed="#S" n="18"/>reliquo sed producens et productum ex una parte et communicans et 
+          <lb ed="#S" n="19"/>communicatum ex alia parte sunt huius et producens et communicans idem 
+          <lb ed="#S" n="20"/>sunt igitur et productum et communicatum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2735">
+          <pc type="pilcrow"/> Item essentia est filius et iterum essentia est 
+          <lb ed="#S" n="21"/>filius patris igitur essentia est genitum antecedens patet per conversionem quia filius patris 
+          <lb ed="#S" n="22"/>est essentia probatio consequentiae quia sequitur essentia est filius patris igitur pater est pater essentiae 
+          <lb ed="#S" n="23"/>sicut sequitur in aliis sortes est filius platonis igitur plato est pater sortes et ultra 
+          <lb ed="#S" n="24"/>igitur essentia generatur a patre
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2748">
+          <pc type="pilcrow"/> Item filiatio et generari sunt idem etiam formaliter 
+          <lb ed="#S" n="25"/>igitur sicut essentia est filiatio ita erit generari et si generari igitur generatur
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2755">
+          <pc type="pilcrow"/> ad
+          <lb ed="#S" n="26"/>primum consequentia neganda est ad primam probationem licet quasi opposito modo significandi ex<lb ed="#S" break="no" n="27"/>primantur 
+          non tamen opponuntur sicut se habent movere et moveri et dare 
+          <lb ed="#S" n="28"/>et dari quia hic non significatum distinctum inter communicans et communicatum et 
+          <lb ed="#S" n="29"/>movens et motum vel creans et creatum sicut inter producens et 
+          <lb ed="#S" n="30"/>productum idem enim potest dare se et mittere se et huius tamen forte 
+          <lb ed="#S" n="31"/>in proposito non diceretur apte quod essentia communicat se sed magis quod pater communi<lb ed="#S" break="no" n="32"/>cat 
+          essentiam sicut allegatum est de <name xml:id="aw98wa-xg3109-Nd1e2774">augustinus</name> <quote xml:id="aw98wa-xg3109-Qd1e2776" source="http://scta.info/resource/adt-l15-d1e1975@10-12">essentiam praestat filio</quote> etc 
+          <lb ed="#S" n="33"/>ulterius tamen dico quod communicare et communicari non sunt relationes originis 
+          <lb ed="#S" n="34"/>formaliter ita scilicet quod communicari sit originari et communicare originare nam 
+          <lb ed="#S" n="35"/>essentia communicatur et non originatur et spiratio activa communicatur et non o<lb ed="#S" break="no" n="36"/>riginatur 
+          ideo non sequitur quod sic idem quod producere et produci quia 
+          <lb ed="#S" n="37"/>quod plus est nec de eodem dicuntur ex una parte nam essentia communi<lb ed="#S" break="no" n="38"/>catur 
+          et non producitur suppositum autem producitur sed non communicatur cum hic re<lb ed="#S" break="no" n="39"/>ducatur 
+          ad memoriam dico sua in simili tacta quia talis dicta possunt 
+          <lb ed="#S" n="40"/>sumi nominaliter vel verbaliter quando etiam sumuntur significative et hoc respondendi sumen<lb ed="#S" break="no" n="41"/>do 
+          significative et verbaliter quia sit erant ad propositum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2801">
+          <pc type="pilcrow"/> ad 2am probationem 
+          <lb ed="#S" n="42"/>consequentiae maior est inpossibilis nisi utendo actu exercito pro actu significato 
+          <lb ed="#S" n="43"/>sic scilicet quod unum extremum sit idem etc id est significet idem et tunc 
+          <lb ed="#S" n="44"/>haberet veritatem si adaequate idem vel eadem per se significant sed sic non 
+          <lb ed="#S" n="45"/>est in proposito quia aliquod producens non est communicans et etiam non oportet 
+          <lb ed="#S" n="46"/>quod producat illud quod communicat nec econtra ymmo oportet quod non bene tamen in 
+          <lb ed="#S" n="47"/>proposito dicuntur communicans et producens de eodem scilicet de supposito patris 
+          <lb ed="#S" n="48"/>sed ex hoc non sequitur quod communicatum et productum dicantur de eodem verbi gratia 
+          <lb ed="#S" n="49"/>si aliquid posset producere totum partibus praesuppositis puta uniri a<lb ed="#S" break="no" n="50"/>nimam 
+          corpori utroque praesupposito vel aliquid consimile ubi haberet unam 
+          <lb ed="#S" n="51"/>relationem denominativam ad totum resultans et aliam praecise 
+          <lb ed="#S" n="52"/>ad partem licet ibi ex una parte unum extremum correlationis diceretur 
+          <lb ed="#S" n="53"/>de alio non tamen ex alia parte ut iste si producat sit totum 
+          <lb ed="#S" n="54"/>et tamen non producat partem sed uniat eam alteri parti producens est 
+          <lb ed="#S" n="55"/>uniens et tamen productum non est unitum quia nomen hic unicum est 
+          <lb ed="#S" n="56"/>productum etc vel accipiatur aliud exemplum magis cogitum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2838">
+          <pc type="pilcrow"/>ad aliud 
+          <lb ed="#S" n="57"/>respondendum est quod si hic filius vel filius patris possit teneri adiective 
+          <lb ed="#S" n="58"/>et substantive sicut supra praetactum est de scoto tunc sumendo 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="59"/>substantiae contra esset bona sed antecedens falsum substantiae antecedens verum est 
+          <lb ed="#S" n="60"/>consequentia nulla
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2854">
+          <pc type="pilcrow"/> ad 3m dicendum quod licet essentia sit generari sumendo infinitum 
+          <lb ed="#S" n="61"/>nominaliter quia tunc est sensus quod essentia sic generatio passiva quod verum est ex 
+          <lb ed="#S" n="62"/>hoc non sequitur quod ipsa generetur quia aliquid sequitur ad consequens quod non sequitur ad antecedens 
+          <lb ed="#S" n="63"/>ipsam scilicet distingui a generante
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2865">
+          <pc type="pilcrow"/> ad primum argumentum principale dicendum quod dis<lb ed="#S" break="no" n="64"/>cursus 
+          non valet quia pro isto pro quo supponit minor extremitas non 
+          <lb ed="#S" n="65"/>fiebat demonstratio in maiore et cum hoc oportet in omni sillogismo expo<lb ed="#S" break="no" n="66"/>sitorio 
+          bono et ad probationem discursus dicendum quod licet inter essentiam et 
+          <lb ed="#S" n="67"/>generationem non sic oppositio relativa notatur tamen essentia oppositioni et distin<lb ed="#S" break="no" n="68"/>gui 
+          a genito cum infertur igitur essentia generat et hoc non permittit 
+          <lb ed="#S" n="69"/>essentialis unitas personarum
+        </p>
+        <p xml:id="aw98wa-xg3109-d1e2883">
+          <pc type="pilcrow"/> ad 2m et 3m responsum est satis prius 
+          <lb ed="#S" n="70"/>in sillogismis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
