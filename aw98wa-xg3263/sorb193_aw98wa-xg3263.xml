@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6 [Sorb193 Transcription]</title>
+          <date when="2025-01-09">January 09, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-01-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="134-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3263"><!-- b1d33q6-->
+        <head xml:id="aw98wa-xg3263-Hd1e101">Quaestio 6</head>
+        <p xml:id="aw98wa-xg3263-d1e103">
+          <lb ed="#S" n="53"/>Sexto circa distinctionem 33am pro distinctione 11 quaero utrum spiritus sanctus 
+          <lb ed="#S" n="54"/>posset distingui a filio si non procederet ab eo 
+          <lb ed="#S" n="55"/>videtur quod non quia si non procederet spiritus sanctus a filio filius non esset 
+          <lb ed="#S" n="56"/>filius igitur non distingueretur ab eo
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e114">
+          <pc type="pilcrow"/> Contra si spiritus sanctus procederet a 
+          <lb ed="#S" n="57"/>solo patre ut datus non ut natus sicut et sic procedit ad hoc 
+          <lb ed="#S" n="58"/>spiritus sanctus non esset filius qui procedit ut natus <add place="margin-left">non ut datus</add> igitur ad hoc distingueretur 
+          <lb ed="#S" n="59"/>a filio hic tenent quod non <name xml:id="aw98wa-xg3263-Nd1e128">chatton</name> <name xml:id="aw98wa-xg3263-Nd1e130">te</name> <name xml:id="aw98wa-xg3263-Nd1e132">aegidius</name> <name xml:id="aw98wa-xg3263-Nd1e134">god</name> contrarium 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="60"/><name xml:id="aw98wa-xg3263-Nd1e140">gandavensis</name> <name xml:id="aw98wa-xg3263-Nd1e142">scotus</name> <name xml:id="aw98wa-xg3263-Nd1e144">okam</name> <name xml:id="aw98wa-xg3263-Nd1e146">firanf</name> <add place="margin-below"><unclear>processit</unclear> a anselmo in libello processionis spiritus sanctus quam quid adducunt ad oppositum et quidam ad propositionem reliquo alterationibus eorumdem</add>
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e153">
+          <pc type="pilcrow"/> hic primo est videndum propter quod quaestio proponitur 
+          <lb ed="#S" n="61"/>communiter 2o quid ad eam sic dicendum 3o ponendae sunt obiectiones aliquae 
+          <lb ed="#S" n="62"/>et solvendae
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e162">
+          <pc type="pilcrow"/> Circa primum dico quod non inquiritur hic an aliquo modo sic 
+          <lb ed="#S" n="63"/>possibile quod spiritus sanctus distinguatur realiter a filio et quod non procedat ab 
+          <lb ed="#S" n="64"/>eo quia hoc esset quaerere de veritate illius copulative spiritus sanctus non procedit a filio 
+          <lb ed="#S" n="65"/>et spiritus sanctus realiter distinguitur a filio quia manifestum est quod ista copulativa 
+          <lb ed="#S" n="66"/>est inpossibilis fide supposita quia altera pars eius est simpliciter <del rend="expunctuation">est</del> inpossibilis 
+          <lb ed="#S" n="67"/>scilicet spiritus sanctus non procedit a filio sed alia duo intendit quaerere unum 
+          <lb ed="#S" n="68"/>an propter hoc quod filius est spiratio activa propter hoc realiter distinguitur a spiritu sancto 
+          <add place="margin-below">sicud producens a producto filius sit realiter aliquid quod non omnibus modis 
+          a parte rei ista idem spirationi activae et econverso sicud spiratio ipsa 
+          sibi ipsi quo filius realiter distinguitur a spiritu sancto</add>
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e187">
+          <lb ed="#S" n="69"/><pc type="pilcrow"/> 2m est propter graecos an supposita distinctione <del rend="expunctuation">formali</del> personali et ydemptitate 
+          <lb ed="#S" n="70"/>essentiali trium personarum possit <add place="margin-left">inferri</add> formali et evidenti <add place="margin-right">consequentia</add> spiritum sanctum procedere a filio sicud
+          <lb ed="#S" n="71"/>aliqui nituntur probare et tenent <add place="above-line">et</add> pro eius videtur facere processus <name xml:id="aw98wa-xg3263-Nd1e209">anselmi</name> in 
+          <lb ed="#S" n="72"/>libello de processione spiritus sancti quem quidam adducunt ad propositum 
+          <lb ed="#S" n="73"/>quidam ad oppositum unde eundum processum relinquo alterationibus 
+          <lb ed="#S" n="74"/>eorumdem et per consequens an supposita eadem trinitate personarum cum voluntate 
+          <lb ed="#S" n="75"/>essentiali et quod pater et filius et spiritus sanctus sint 3 personae et idem deus sequatur forma<lb ed="#S" break="no" n="76"/>liter 
+          et evidenter ex opposito consequentis spiritus sanctus non procedit a filio igitur non 
+          <lb ed="#S" n="77"/>distinguitur ab eo realiter
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e225">
+          <pc type="pilcrow"/> Quo ad primum quod inquirit quaestio videtur mihi 
+          <lb ed="#S" n="78"/>esse dicendum <add place="margin-right">secundum hoc econverso</add> quod sic quia filius non solum realiter distinguitur a spiritu sancto ex hoc quod spi<lb ed="#S" break="no" n="79"/>rat 
+          eum sive ex hoc quod filius est spiratio activa quae est duae 
+          <lb ed="#S" n="80"/>personae simul scilicet pater et filius et quaelibret sigillatim et per consequens est <unclear>distinctuum</unclear> 
+          <lb ed="#S" n="81"/>consequentiae patris et filii a spiritu sancto non proprium filii aut patris sed iterum realiter 
+          <lb ed="#S" n="82"/>distinguatur filius in divinis a patre per hoc quod filius est filiatio quae est proprium 
+          <lb ed="#S" n="83"/>distinctum filii a spiritu sancto sicud a patre quia filius sua propria persona<lb ed="#S" break="no" n="84"/>litate 
+          dicitur a spiritu sancto et non solum communi aliquo sibi et patri sed nunc est 
+          <lb ed="#S" n="85"/>ita quod filius et spiratio activa non sunt omnibus modis mutuo 
+          <lb ed="#S" n="86"/>idem sibi a parte rei quibus utraque sibi ipsi iuxta principium illud alias tac<lb ed="#S" break="no" n="87"/>tum 
+          ista non sunt sic omnibus modis idem sibi invicem quorum u<lb ed="#S" break="no" n="88"/>num 
+          est aliquid et reliquum non est illud et sic est hic spiratio enim activa 
+          <lb ed="#S" n="89"/>est pater sive paternitas et filius non est paternitas igitur
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e261">
+          <pc type="pilcrow"/> Sed quo 
+          <lb ed="#S" n="90"/>ad 2m quo inquiritur dico primo quod quantum mihi videtur ex isto antecedente quod 
+          <lb ed="#S" n="91"/>praecise affirmeret quod pater et filius et spiritus sanctus sunt 3s personae realiter distincte et 
+          <lb ed="#S" n="92"/>unus deus nec aliquid plus ex fide vel aliunde supponeret non 
+          <lb ed="#S" n="93"/>sequitur formaliter consequentia evidenti quod spiritus sanctus procedit a filio nec per consequens ex opposito 
+          <lb ed="#S" n="94"/>consequentis sequitur evidenter oppositum antecedentis quia sicut arguit <name xml:id="aw98wa-xg3263-Nd1e276">okam</name> et bene 
+          <lb ed="#S" n="95"/>ex ista ypostasi praecise non sequitur evidenter spiritus sanctus esse vel habere aliquam re<lb ed="#S" break="no" n="96"/>lationem 
+          oppositam relationi filii tamen ex isto antecedente praecise non 
+          <lb ed="#S" n="97"/>sic evidens nobis quin possent realiter sufficienter distingui relatio<lb ed="#S" break="no" n="98"/>nibus 
+          absolutis disparatis nec sic ex isto antecedente praecise est nobis 
+          <lb ed="#S" n="99"/>evidens quod filiatio est spiratio activa quantum pertinet ad consequentiam e<lb ed="#S" break="no" n="100"/>videntem 
+          dat etiam iste alius articulus quod filius et spiritus sanctus sunt 
+          <lb ed="#S" n="101"/>productivi cum quo staret quod solus pater sufficienter producat tam 
+          <lb ed="#S" n="102"/>filium quam spiritus sanctus
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e296">
+          <pc type="pilcrow"/> 3o dico quod secundum veritatem utraque consequentia bona est 
+          <lb ed="#S" n="103"/>et formalis habet non sic evidens nobis pro modo sicud ista consequentia est 
+          <lb ed="#S" n="104"/>etiam bona et formalis quamvis non sit nobis nunc evidens sed credita 
+          <lb ed="#S" n="105"/>terminum nullus deus deum generat aut spirat igitur deus non est deus sic in 
+          <lb ed="#S" n="106"/>proposito sequitur consequentia necessaria et formali spiritus sanctus distinguitur a filio igitur procedit 
+          <lb ed="#S" n="107"/>ab eo et econverso negative scilicet non procedit a filio igitur non distinguitur ab 
+          <lb ed="#S" n="108"/>eo quod secundum veritatem omne quod in divinis est filiatio est realiter spi<lb ed="#S" break="no" n="109"/>ratio 
+          activa igitur ex opposito consequentis sequitur negative <c>a</c> non est spiratio 
+          <lb ed="#S" n="110"/>activa igitur a non est filiatio divina remoto <unclear>ii</unclear> ab aliquo communi 
+          <lb ed="#S" n="111"/>quod est idem realiter cum proprio removetur proprium ab eodem sed activa 
+          <lb ed="#S" n="112"/>spiratio secundum veritatem communis est patri et filio et eadem realiter cum 
+          <lb ed="#S" n="113"/>proprio scilicet cum filiatione quia aliter cum ea poneret innumerum et esset tunc 
+          <lb ed="#S" n="114"/>quaternitas in divinis contra decretalem in prima quaestione huius alle<lb ed="#S" break="no" n="115"/>gatam 
+          igitur si filius non est spiratio activa filius non est filius 
+          <lb ed="#S" n="116"/>igitur divina filio non est filius quia filiatio et filius non sunt omnibus 
+          <lb ed="#S" n="117"/>modis idem quibus filiatio sibi ipsi ex principio alias ad hoc 
+          <lb ed="#S" n="118"/>adducto et si filius non est filius igitur filius nichil est quia 
+          <pb ed="#S" n="135-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>si propositio quae affirmat ideo de se ipso non est vera nulla quae aliquid 
+          <lb ed="#S" n="2"/>affirmat de eodem vera est et ita a nullo distinguitur et per consequens non a spiritu 
+          <lb ed="#S" n="3"/>sancto
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e351">
+          <pc type="pilcrow"/> Igitur ex opposito ultimi consequentis ad oppositum primi antecedentis sequitur filius distinguitur 
+          <lb ed="#S" n="4"/>a spirito sancto igitur filius est spiratio activa et si hoc igitur spiritus sanctus procedit a filio quod 
+          <lb ed="#S" n="5"/>est propositum
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e360">
+          <pc type="pilcrow"/> Item quando alia affirmative sunt idem inter se maxime cum 
+          <lb ed="#S" n="6"/>summa simplicitate et hoc sicut commune et proprium quidquid est realiter illud propositum est 
+          <lb ed="#S" n="7"/>realiter illud commune sed ita est de filiatione et spiratione activa igitur
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e370">
+          <pc type="pilcrow"/> Quia
+          <lb ed="#S" n="8"/>cum ista propositio licet sit necessaria filiatio divina est realiter spiratio activa non est e<lb ed="#S" break="no" n="9"/>videns 
+          ex terminis sed sola fide nec etiam evidenter sequitur ex hoc praecise 
+          <lb ed="#S" n="10"/>quod pater et filius et spiritus sanctus sunt 3s personae et unus deus sed hoc tantum 
+          <lb ed="#S" n="11"/>ex alio fidei articulo tenemus scilicet qui ex patre filioque procedit 
+          <lb ed="#S" n="12"/>nam cum isto priori articulo sine isto staret quod pater solus principaret 
+          <lb ed="#S" n="13"/>spiritus sanctus ideo 3a conclusio non repugnat secundae et secundum istas conclusiones qui vellet 
+          <lb ed="#S" n="14"/>posset opinionem aliquas adinvicem aliqualiter concordare
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e390">
+          <pc type="pilcrow"/> Sed contra praedictam 
+          <lb ed="#S" n="15"/>instatur primo contra conclusionem secundam arguitur quod ista consequentia sit evidens deus est 
+          <lb ed="#S" n="16"/>trinus et unus igitur spiritus sanctus procedit a filio probatio quia ex antecedente isto sequitur quod 
+          <lb ed="#S" n="17"/>3s personae sunt essentialiter idem et quod persona quaelibet est summe simplex et si hoc 
+          <lb ed="#S" n="18"/>igitur nullae duae personae in divinis distinguuntur distinctione disparatorum et si 
+          <lb ed="#S" n="19"/>hoc igitur spiritus sanctus procedit a filio quod distinctio disparatorum non stet cum 
+          <lb ed="#S" n="20"/>summa simplicitate probo quia omnis distinctio disparatorum est tanta 
+          <lb ed="#S" n="21"/>quod ipsa sine omni alia distinctione sufficit ad hoc quod sic distincta u<lb ed="#S" break="no" n="22"/>nirentur 
+          et componerent adinvicem sed inpossibile est quod personae quae 
+          <lb ed="#S" n="23"/>sunt essentialiter unus deus tali distinctione distingantur quae sufficeret ad compositionem 
+          <lb ed="#S" n="24"/>igitur non distinguuntur disparatae minor evidens quia talibus personis 
+          <lb ed="#S" n="25"/>repugnat distinctio essentialis ista <unclear>aut</unclear> distinctio quae sufficit ad unionem et 
+          <lb ed="#S" n="26"/>compositionem distinctorum infert distinctionem essentialem quorum maniorem probat quia omnis 
+          <lb ed="#S" n="27"/>distinctio disparatorum est talis qualis est distinctio absolutorum quia taliter distincta 
+          <lb ed="#S" n="28"/>non plus <unclear>refimeretur</unclear> ad invicem quam absoluta si omnis talis distinctio qualis 
+          <lb ed="#S" n="29"/>est distinctio absolutorum quantum est ex parte distinctionis sufficit ad hoc 
+          <lb ed="#S" n="30"/>quod ista <del rend="erasure">ap</del> absoluta unirentur et componerentur et per consequens est distinctio essentia<lb ed="#S" break="no" n="31"/>lis 
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e439">
+          <pc type="pilcrow"/> Aliter tamen forte diceretur quod cum distinctione absolutorum staret essentialis ydemptitas 
+          <lb ed="#S" n="32"/>ideo contra hoc specialiter arguitur sic quod non tollit quin distinctio danda stet cum 
+          <lb ed="#S" n="33"/>ydemptitate essentiali non tollit distinctionem quanta sufficeret et sic distincta realiter 
+          <lb ed="#S" n="34"/>unirentur et componerentur sic est de distinctione absolutorum igitur componerent 
+          <lb ed="#S" n="35"/>cum simpliciter sit omnis distinctio similis distinctioni talium quae faciunt compositionem 
+          <lb ed="#S" n="36"/>quae est essentialis sed omnis distinctio disparatorum est huiusmodi aliter non appare<lb ed="#S" break="no" n="37"/>ret 
+          quae distinctio esset essentialis si igitur personae divinae divinae sic distinguerentur distinctione 
+          <lb ed="#S" n="38"/>ex qua non repungnaret eis facere compositionem
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e459">
+          <pc type="pilcrow"/> Confirmatur quia maior est 
+          <lb ed="#S" n="39"/>ydemptitas quae excludit omnem distinctionem disparationis quam quae non quod 
+          <lb ed="#S" n="40"/>patet quia omne totum est maius sua parte sed in divinis est summa 
+          <lb ed="#S" n="41"/>ydemptitas essentialis igitur et quae excludit distinctionem disparationis et 
+          <lb ed="#S" n="42"/>conclusionem cum concedunt isti quod scilicet evidenter sequitur filius et spiritus sanctus sunt idem deus et spiritus 
+          <lb ed="#S" n="43"/>sanctus non procedit a filio igitur non distinguitur ab eo quia si est idem 
+          <lb ed="#S" n="44"/>deus cum eo et distinguatur ab eo igitur aut distinctione relata ab 
+          <lb ed="#S" n="45"/>obiecto et tunc procedet ab eo aut distinctione disparatorum et tunc non 
+          <lb ed="#S" n="46"/>esset idem deus cum eo quia talis distinctio ut praedicatum est non stat cum 
+          <lb ed="#S" n="47"/>summa ydemptitate essentiali nec cum summa simplicitate personae
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e483">
+          <pc type="pilcrow"/> ad primum 
+          <lb ed="#S" n="48"/>dicendum quod sive <del rend="strikethrough">sit</del> distinctio <add>disparationis stet</add> cum summa simplicitate personae et cum summa ydemptitate 
+          <lb ed="#S" n="49"/>essentiali sive non quia secundum omnem sententiam doctorum personae non sunt personae absolute 
+          <lb ed="#S" n="50"/>sed vel sunt relationes originis vel talibus relationibus constitutae tamen hoc 
+          <lb ed="#S" n="51"/>secure dico quod ex solo articulo de trinitate personali et ydemptitate circumscripto 
+          <lb ed="#S" n="52"/>articulo de processione spiritus sancti a filio non sequitur consequentia nobis evidenti 
+          <lb ed="#S" n="53"/>quin aliae personae divinae possunt realiter distingui proprietatibus tantum disparatis 
+          <lb ed="#S" n="54"/>relationis vel absolutis immo etiam cum hoc staret quod duae personae essent produc<lb ed="#S" break="no" n="55"/>tae 
+          productionibus passivis alia nascendo alia ut data alterius 
+          <lb ed="#S" n="56"/>rationis ypostatice seu personalis iste tamen articulus cum alio articulo sibi addi<lb ed="#S" break="no" n="57"/>to 
+          scilicet qui ex patre filioque procedit evidenter infert quod non est persona 
+          <lb ed="#S" n="58"/>divina aliqua quin ipsius ad quantumcumque divinam personam sit relata oppositio 
+          <lb ed="#S" n="59"/>et non sola disparationis distinctio et cum probas quod articulus prior non 
+          <lb ed="#S" n="60"/>addito secundo evidenter inferat exclusionem omnis distinctionis dispara<cb ed="#S" n="b"/><lb ed="#S" n="61"/>torum 
+          quia omnis distinctio disparatorum est tanta etc distinctio quod illa propositio non 
+          <lb ed="#S" n="62"/>est evidens nec etiam evidenter sequitur ex articulo illo fidei nec est etiam 
+          <lb ed="#S" n="63"/>vera secundum multos quia filiatio et spiratio passiva et iterum paternitas et spiratio 
+          <lb ed="#S" n="64"/>passiva secundum istos non distinguuntur relativae et tamen realiter secundum eosdem 
+          <lb ed="#S" n="65"/>distinguuntur et per consequens distinctione desperationis secundum eos puta <name xml:id="aw98wa-xg3263-Nd1e532">okam</name> 
+          <lb ed="#S" n="66"/>et <name xml:id="aw98wa-xg3263-Nd1e537">scotus</name> <name xml:id="aw98wa-xg3263-Nd1e539">gandavensis</name> et <name xml:id="aw98wa-xg3263-Nd1e541">firanf</name> et cum probas eam quod omnis distinctio 
+          <lb ed="#S" n="67"/>disparatorum est talis qualis est distinctio absolutorum
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e546">
+          <pc type="pilcrow"/> Responsio aut loquaris de 
+          <lb ed="#S" n="68"/><unclear>caliditate</unclear> transcendenti vel generali quomodo posset dici quod tale ens est qualitas 
+          <lb ed="#S" n="69"/>quale est quantitas vel relatio quia utrumque est ens accidentale et illo 
+          <lb ed="#S" n="70"/>modo posset propositio concedi sed minor adiuncta in eodem sensu falsa est vel 
+          <lb ed="#S" n="71"/>saltem non evidens nec evidenter sequens ex dicto articulo quod mihi sufficit 
+          <lb ed="#S" n="72"/>et hoc accipiendo minorem ad omnem alium intellectum quam ad istum propter 
+          <lb ed="#S" n="73"/>hoc inquantum est ex parte distinctionis dico quod non ex hoc praecise quod taliter 
+          <lb ed="#S" n="74"/>in genere distinguuntur sequitur quod non sunt unibilia aut componibilia quid mirum 
+          <lb ed="#S" n="75"/>nec hoc sequeretur ex hoc praecise in genere et unum esset producens et aliud productum 
+          <lb ed="#S" n="76"/>ut patet de voluntate et volutione ab ea producta et multis aliis quae sunt compo<lb ed="#S" break="no" n="77"/>nibilia 
+          sicud accidens et subiectum non obstante quod <unclear>unum</unclear> istorum producatur a 
+          <lb ed="#S" n="78"/>reliquo aut loquaris de caliditate distinctionis in speciali et tunc propositio ista 
+          <lb ed="#S" n="79"/>falsa est nec probatio evidentiam habet aliquam ad istum sensum
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e581">
+          <pc type="pilcrow"/> Item secundum communem 
+          <lb ed="#S" n="80"/>opinionem filiatio non opponitur relative spirationi passivae igitur volendo distinctionem dis<lb ed="#S" break="no" n="81"/>paratorum 
+          <add place="margin-right">distinctionem quorumcumque non oppositorum</add> filiatio et spiratio passiva distinguuntur disparatae secundum communem opinionem et 
+          <lb ed="#S" n="82"/>tamen sunt eadem deitas igitur distinctio desparationis stat cum unitate 
+          <lb ed="#S" n="83"/>essentiali nec plus valet si in contrarium arguatur filiatio vel filius est illud quod op<lb ed="#S" break="no" n="84"/>ponitur 
+          spirationi passivae quantum apparet quia est spiratio activa igitur opponitur 
+          <lb ed="#S" n="85"/>sibi relativae quam sequatur deitas est illud quod opponitur vel generat igitur deitas 
+          <lb ed="#S" n="86"/>opponitur vel generat
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e604">
+          <pc type="pilcrow"/> ad 2m iste qui diceret non sequi ex illis 
+          <lb ed="#S" n="87"/>quae sunt fidei divinas personas non posse salvari distingui per absoluta 
+          <lb ed="#S" n="88"/>diceret quod aliquorum absolutorum distinctio bene stat cum non ydemptitate essentiali 
+          <lb ed="#S" n="89"/>aliquorum igitur sicut communiter dicitur de distinctione <add>relativae oppositionis et similiter diceret de distinctione</add> relationum disparatarum si 
+          <lb ed="#S" n="90"/>autem u<unclear/> generaliter quod nulla distinctio quorumcumque absolutorum hoc tollit 
+          <lb ed="#S" n="91"/>talis negaret minorem et uniformaliter de distinctione per relationes dispara<lb ed="#S" break="no" n="92"/>tas 
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e626">
+          <pc type="pilcrow"/> ad 3m si loquaris de similitudine transcendente maior falsa est si de 
+          <lb ed="#S" n="93"/>similitudine speciali minor falsa est 
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e633">
+          <pc type="pilcrow"/>ad 4m maior non est evidentior quam 
+          <lb ed="#S" n="94"/><unclear>pronanda</unclear> propositio nec evidentius probatur ista propositio maior est idemptitas essentialis 
+          <lb ed="#S" n="95"/>quae excludit omnem distinctionem realem quam quae <unclear>alba</unclear> permittit vel non 
+          <lb ed="#S" n="96"/>excludit sed ista falsa est secundum fidem ita dicerent aliqui et bene 
+          <lb ed="#S" n="97"/>ego autem dico quod slatem non est evidens nec evidenter sequitur 
+          <lb ed="#S" n="98"/>ex articulo praenotato hoc sufficit ad propositum
+        </p>
+        <p xml:id="aw98wa-xg3263-d1e652">
+          <pc type="pilcrow"/> ad 5m dico quod spiritus 
+          <lb ed="#S" n="99"/>sanctus secundum communem opinionem distinguitur a filio distinctione disparata filius tamen vere 
+          <lb ed="#S" n="100"/>et realiter spirat spiritus sanctus a qua spiratione activa distinguitur spiritus sanctus distinctione 
+          <lb ed="#S" n="101"/>relativa ab opposito quia distinctione spirationis passivae ab activa 
+          <lb ed="#S" n="102"/>ideo concedo quod procedit ab eo ideo eo ipso quod filius spirat eum 
+          <lb ed="#S" n="103"/>producit eum nolo tamen dicere pro hoc argumento quod filius formaliter includat 
+          <lb ed="#S" n="104"/>spirationem activam nec etiam quod sit formaliter spiratio activa quia argumentum neu<lb ed="#S" break="no" n="105"/>trum 
+          exigit sed sufficit dicere quod filiatio est relatio opposita spirationi 
+          <lb ed="#S" n="106"/>passivae scilicet spiratio activa sed non est secundum <add place="margin-right">communem</add> opinionem filio sibi opposita relativae
+          <lb ed="#S" n="107"/>et ideo filius est filiatio disparatae distincta a spiritu sancto vel spiratione 
+          <lb ed="#S" n="108"/>passiva secundum communem opinionem
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

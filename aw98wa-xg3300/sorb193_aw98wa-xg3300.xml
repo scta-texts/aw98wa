@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6 [Sorb193 Transcription]</title>
+          <date when="2025-01-13">January 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-01-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="135-r"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3300"><!-- b1d33q7-->
+        <head xml:id="aw98wa-xg3300-Hd1e101">Quaestio 7</head>
+        <p xml:id="aw98wa-xg3300-d1e103">
+          <lb ed="#S" n="109"/>Septimo quaero pro distinctione 12 circa istam 33 distinctionem utrum pater 
+          <lb ed="#S" n="110"/>et filius sint unum principium spirans spiritum sanctum
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e110">
+          quod non videtur quia 
+          <lb ed="#S" n="111"/>aut unum unitate essentiali <pc type="punctus"/> aut notionali tantum sive 
+          <lb ed="#S" n="112"/>personali non essentiali quia sicud nullum essentiale generat vel venreatur ita 
+          <lb ed="#S" n="113"/>nullum essentiale spirat aut spiratur igitur illud unum principium spirans non 
+          <lb ed="#S" n="114"/>est aliquod unum essentiali unitate <!-- possible correction or addition of "ess" here --> personali non notionali quia pater et filius 
+          <lb ed="#S" n="115"/>non sunt aliqua una persona spirans nec aliqua una notio spi<lb ed="#S" break="no" n="116"/>rans 
+          communis patri et filio quia qua ratione nihil commune diversis personis generat 
+          <lb ed="#S" n="117"/>pari ratione nihil commune diversis personis spirat
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e132">
+          <pc type="pilcrow"/> ad oppositum est <name xml:id="aw98wa-xg3300-Nd1e136">augustinum</name> 
+          <lb ed="#S" n="118"/>5 de trinitate capitulo 17 pater et filius sunt unum principium <add place="margin-left">ad spiritum sanctum sicut pater et filius et spiritus sanctus sunt unum principium</add> ad creaturam Item aut spi<lb ed="#S" break="no" n="119"/>rant 
+          tamquam unum principium et ita habetur intentum quod sunt unum principium 
+          <lb ed="#S" n="120"/>ut videtur aut tamquam distincta et hoc non videtur verum quia ista quae producunt
+          <pb ed="#S" n="135-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>aliquod productum unica productione producere videntur illud tamquam unum 
+          <lb ed="#S" n="2"/>principium productum sed pater et filius producunt spiritus sanctus unica productione quia 
+          <lb ed="#S" n="3"/>unica spiratione activa igitur
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e159">
+          <pc type="pilcrow"/> hic primo respondendum est ad quaestionem 2o sunt aliquae 
+          <lb ed="#S" n="4"/>difficultates contra solutionem movendae et solvendae
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e167">
+          <pc type="pilcrow"/> Circa primum conclusio est certa 
+          <lb ed="#S" n="5"/>et in consilio generali lugdensis sub gregorio primo sicut patet <ref xml:id="aw98wa-xg3300-Rd1e173">extra de summa tri<lb ed="#S" break="no" n="6"/>nitate 
+          et fide catholica in sexto libro decretalium determinata<!-- unclear if two references or one --></ref> ubi 
+          <lb ed="#S" n="7"/>dicitur sic quod spiritus sanctus aeternaliter ex patre et filio non tamquam ex duobus principiis 
+          <lb ed="#S" n="8"/>sed tamquam ex uno principio non duabus spirationibus sed una sp<lb ed="#S" break="no" n="9"/>ratione 
+          procedit sed in fine istius capituli dicitur sic <quote xml:id="aw98wa-xg3300-Qd1e186" source="http://scta.info/resource/wef6td-d1e68-d1e152@1-47">nos sacro approban<lb ed="#S" break="no" n="10"/>te 
+          consilio dampnamus et reprobamus omnes qui negare praesump<lb ed="#S" break="no" n="11"/>serint 
+          aeternaliter spiritus sanctus ex patre et filio procedere sine etiam temerario 
+          <lb ed="#S" n="12"/>ausu asserere quod spiritus sanctus ex patre et filio tamquam ex duobus principiis 
+          <lb ed="#S" n="13"/>et non tamquam ex uno procedat</quote> haec ibi super quo capio dicit <ref xml:id="aw98wa-xg3300-Rd1e197"><name xml:id="aw98wa-xg3300-Nd1e198">Iohannes 
+            <lb ed="#S" n="14"/>monachus</name> in glossa ordinaria</ref> <quote xml:id="aw98wa-xg3300-Qd1e204" source="http://scta.info/resource/nyf6td-d1e68-d1e585@1-46">pater inquit et filius spirant spiritum sanctum sicud 
+          <lb ed="#S" n="15"/>unum spirandi principium non duo principia unde conveniunt non solum 
+          <lb ed="#S" n="16"/>in una essentia in qua convenit cum eis etiam spiritus sanctus sed etiam in spiratione 
+          <lb ed="#S" n="17"/>activa quae est <add place="margin-left">notio</add> <del rend="expunctuation">necessario</del> communis patri et filio quae non convenit spiritui sancto</quote> <add place="margin-bottom">nam spirare spiritum sanctum est actio non essentialis quia sit conveniret spiritui sancto sed notionalis quae non convenit spiritui sancto</add> sed 
+          <lb ed="#S" n="18"/>tantum patri et filio tamquam uni spirandi principio et ideo subicit 
+          <lb ed="#S" n="19"/>expositum <del rend="underline">necesse non duabus spirationibus</del> <add place="margin-below">quare in primo folio ad tale <c>A</c> signum</add> quia spiratio activa 
+          <lb ed="#S" n="20"/>patris et filii est una et eadem notio communis patri et filio sicut 
+          <lb ed="#S" n="21"/>operationes essentiales sunt 3bus personis communes sunt enim inseparabi<lb ed="#S" break="no" n="22"/>lia 
+          opera trinitatis <ref xml:id="aw98wa-xg3300-Rd1e242" target="http://scta.info/resource/gd-p3d3-d1e549">de consecratione distinctione 3 capitulo ultimo in fine</ref> <ref xml:id="aw98wa-xg3300-Rd1e245">28 quaestione 1 
+          <lb ed="#S" n="23"/>sicut non</ref> licet quaedam operationes attribuantur patri quaedam filio quaedam 
+          <lb ed="#S" n="24"/>spiritus sanctus ut praedictis <unclear>capitulis</unclear> continetur haec iste
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e255">
+          <pc type="pilcrow"/> Ex hiis potest elici quod de<lb ed="#S" break="no" n="25"/>cretalis 
+          <lb ed="#S" n="26"/>ponit spirationem activam aliquid commune patri et filio sicud 
+          <lb ed="#S" n="27"/>et deitas communis est 3us personis et ista spiratio activa non est ipse 
+          <lb ed="#S" n="28"/>spiritus sanctus et per consequens quod pari ratione generatio <del rend="expunctuation">spiratio</del> activa non est 
+            <add>
+              ipse filius nihilominus tamen illa opinio quae ponit quod generatio actio est ipse filius vel in filio et non in 
+              patre hac consequenter tenere <unclear>consimile</unclear> de spiratione actione quod ipsa est ipse spiritus sanctus 
+              et per consequens habet dicere consequenter quod spiratio accidentia non est
+            </add>
+          spiratio actio 
+          <lb ed="#S" n="29"/>sicut nec generatio activa est generatio actio immo quod spiratio activa est 
+          <lb ed="#S" n="30"/>ipsa entitas notionalis communis patri et filio qua pater et filius produ<lb ed="#S" break="no" n="31"/>cunt 
+          spiritus sanctus per hoc quod ipsi sunt illud unum principium productivum spiritus sancti
+        </p>
+        <!-- article 2 -->
+        <p xml:id="aw98wa-xg3300-d1e285">
+          <pc type="pilcrow"/> Quo ad 2m articulum potest esse dificultas prima quam tangit argumentum 
+          <lb ed="#S" n="32"/>principale primum utrum pater et filiussint unum principium essentiale spiritus sanctus vel unum 
+          <lb ed="#S" n="33"/>principium notionale spiritus sanctus Et hic minor videtur primo dicendum quod non sunt unum 
+          <lb ed="#S" n="34"/>principium essentiale spirans spiritum sanctum sicud probatur in argumento principali 2o mihi videtur 
+          <lb ed="#S" n="35"/>dicendum quod haec propositio pater et filius sunt unum principium personale spiritus sanctus potest habere 
+          <lb ed="#S" n="36"/>duos vel 3s intellectus quorum unus esset quod pater et filius sunt unum principium 
+          <lb ed="#S" n="37"/>personale spiritus sanctus <add place="margin-left">scilicet</add> unum principium personae spiritus sancti demonstrando illud principium <add place="margin-center">unum</add> quodcumque principium 
+          <lb ed="#S" n="38"/>fuerit personale a persona producta sicud si diceretur de patre quod esset principium 
+          <lb ed="#S" n="39"/>filiale id est filii iste sensus est verus sed de hoc sensu non est dif<lb ed="#S" break="no" n="40"/>ficultas 
+          ideo omittatur alio modo quod est aliquod principium quo elici 
+          <lb ed="#S" n="41"/>tantum spirationis activae et quod pater et filius esset illud principium quo puta 
+          <lb ed="#S" n="42"/>voluntas vel aliquod huius ita quod pater et filius esset alia una vis spira<lb ed="#S" break="no" n="43"/>tiva 
+          elicitiva spirationis activae ad istum sensum facit diffi<lb ed="#S" break="no" n="44"/>cultatem 
+          magnam doctor subtilis et alii non nulli in ista distinctione sed 
+          <lb ed="#S" n="45"/>iuxta viam quam teneo et tenui distinctione 7a ista difficultas proce<lb ed="#S" break="no" n="46"/>dat 
+          ex suppositione falsa quasi spiratio activa principaretur et eliceretur quod 
+          <lb ed="#S" n="47"/>non est concedendum ut ibi patuit et ideo secundum haec principium non habet lo<lb ed="#S" break="no" n="48"/>cum 
+          haec difficultas
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e333">
+          <pc type="pilcrow"/>3us intellectus posset esse 
+          <add place="margin-left">utrum ait aliquod principium quod personale spirans spiritum sanctum 
+          <del rend="expunctuation">vel satem notionale</del></add>
+          id est utrum sit alia persona una 
+          <lb ed="#S" n="49"/>spirans spiritum sanctum vel saltem notionale id est utrum sit aliquod principium quod 
+          <lb ed="#S" n="50"/>commune est aliquibus personis in omnibus sic enim volo sumere notionale 
+          <lb ed="#S" n="51"/>principium et non pro voce vel conceptu quia sic uti in proposito nihil ad rea<lb ed="#S" break="no" n="52"/>lem 
+          difficultatem et prima pars illius distincti intellectus falsa est 2a verba nam 
+          <lb ed="#S" n="53"/>quo ad primum certum est quod pater et filius non sunt una alia persona
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e354">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="54"/>2m dico quod illud principium commune est spiratio activa sed tunc quo ad 
+          <lb ed="#S" n="55"/>illud dubium ad intellectum praemissis dico quod illud unum principium spirans 
+          <lb ed="#S" n="56"/>spiritum sanctum est illud quod intrinsece et per se primo modo est tam divina 
+          <lb ed="#S" n="57"/>essentia quam spiratio activa seu a sic a nomen proprium illius communis re<lb ed="#S" break="no" n="58"/>litatis 
+          notionalis quod principium sufficienter exprimi nomine spirationis 
+          <lb ed="#S" n="59"/>active vel spiratoris quae penitus pro eodem habeo quia spirator 
+          <lb ed="#S" n="60"/>nihil est quin spiratio activa sic illud et econtra et ideo sunt idem omnibus
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="61"/>modis quibus spiratio sibi ipsi quod medium huius commune est mihi pro regula 
+          <lb ed="#S" n="62"/>unde quo ad hoc consequenter dico de spiratore sive de isto u<lb ed="#S" break="no" n="63"/>no 
+          principio quocumque noine nominetur et de ista spiratione activa quod sunt 
+          <lb ed="#S" n="64"/>invicem <unclear>syno??te</unclear> et convertibiliter idem sicut dixi de isto quod per se 
+          <lb ed="#S" n="65"/>exprimitur nomine patris et nomine paternitatis vel filii et filia communis et 
+          <lb ed="#S" n="66"/>sic ut dico de spiratione activa quod est ipsa entitas 
+          <lb ed="#S" n="67"/>simpliciter simplex non resultans nec constituta ex aliquibus quia hoc vi<lb ed="#S" break="no" n="68"/>deretur 
+          cogere hominem ad ymaginationem compositionis ad eundem intellectum ita 
+          <lb ed="#S" n="69"/>dico de spiratore et isto uno principio spirante spiritum sanctum seu de 
+          <lb ed="#S" n="70"/>potentia spirativa ut loquitur glossa ordinaria ubi supra quod non est aliquid re<lb ed="#S" break="no" n="71"/>sultans 
+          nec compositum nec constitutum ex essentia et spiratione activa sed est 
+          <lb ed="#S" n="72"/>solum spiratio activa quam dico econverso esse essentiam sive deitatem per se primo 
+          <lb ed="#S" n="73"/>modo si utraque significetur debito modo licet non econtra et hoc idem dico 
+          <lb ed="#S" n="74"/>de relationibus originis in divinis hoc enim sequitur ex iam dicto principio quod sic 
+          <lb ed="#S" n="75"/>se habent quod quidquid unum est seu quaecumque entitas reliquum est ista 
+          <lb ed="#S" n="76"/>eadem entitas et econtra et pluraliter loquendo quaecumque unum istorum 
+          <lb ed="#S" n="77"/>est reliquum est illa et econtra ibi ista sunt idem omnibus modis a 
+          <lb ed="#S" n="78"/>parte rei quibus undequodque est idem sibi ipsi et per consequens propositio quae 
+          <lb ed="#S" n="79"/>significat hoc est illud si ex competentibus signis seu conceptibilibus componatur 
+          <lb ed="#S" n="80"/>erit per se primo modo et quidquid etiam per se uno modo probatur per uno ta<lb ed="#S" break="no" n="81"/>lium 
+          debito modo <del rend="expunctuation">et</del> expresse et pro reliquo sed ista est filiatione et 
+          <lb ed="#S" n="82"/>filio de paternitate et patre de spiratione activa et spiratore <add place="margin-right">igitur</add> sicut 
+          <lb ed="#S" n="83"/>est haec igitur per se primo modo pater est deus vel deitas si pater de<lb ed="#S" break="no" n="84"/>bito 
+          conceptu vel nomine significetur ita erit de paternitate quod ipsa erit 
+          <lb ed="#S" n="85"/>per se primo modo paternitas et similiter spiratio activa erit personae primo modo 
+          <lb ed="#S" n="86"/>deitas illud igitur igitur principium quod alii vocant constitutum seu resultans ex 
+          <lb ed="#S" n="87"/>essentia et spiratione activa sufficienter exprimitur conceptu seu nomine spi<lb ed="#S" break="no" n="88"/>rationis 
+          activae vel principii spirativi ideo posito conceptu vel nomine proprio istius 
+          <lb ed="#S" n="89"/>activae spirationis quae ista intrinsece est causa deitas quam spiratio sicud 
+          <lb ed="#S" n="90"/>foret tale constitutum si poneretur superfluit ad expressionem istius 
+          <lb ed="#S" n="91"/>principii spirantis spiritum sanctum aliquid superaddere quo exprimatur a significetur 
+          <lb ed="#S" n="92"/>essentia quamvis non sit <add place="margin-right">econverso</add> igitur patet quod illud principium unum <add place="margin-below">spirans spiritum sanctum quod principium</add> sunt pater et 
+          <lb ed="#S" n="93"/>filius nec est essentiale nec personale et ideo nulla persona divina sed notio<lb ed="#S" break="no" n="94"/>nale 
+          modo supra exposito et quod est illud principium quia spiratio ac<lb ed="#S" break="no" n="95"/>tiva 
+          sive spirator quae illud penitus sunt convertibiliter et adaequate sed per 
+          <lb ed="#S" n="96"/>isutd non plus patet nisi quomodo spiratio activa seu potentia aut vis 
+          <lb ed="#S" n="97"/>spirativa communis patri et filio se habent ad deitatem communem personis 
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e472">
+          <pc type="pilcrow"/> Res<lb ed="#S" break="no" n="98"/>tat 
+          igitur inquirere quare se habeat ad patrem et filium <add place="margin-right">quibus est communis</add> utrum valet si 
+          <lb ed="#S" n="99"/>ipsa nomine proprio quod praecise ipsam significet ad se et praecise pro ista 
+          <lb ed="#S" n="100"/>supponant significetur ut per hoc nomen a utrum inquantum ita sic 
+          <lb ed="#S" n="101"/>pater et filius per se primo modo <c>a</c> sicut dictum est quod omnis persona divina 
+          <lb ed="#S" n="102"/>et omnis personalitas divina et quidlibet breviter quod in deo est vel quod deus est est 
+          <lb ed="#S" n="103"/>per se primo modo deitas et videtur quod non quia secundum superius declarata pater 
+          <lb ed="#S" n="104"/>et paternitas sunt idem invicem convertibiliter et <unclear>synomitate</unclear> si aptis nomini<lb ed="#S" break="no" n="105"/>bus 
+          exprimantur puta sic pater <c>b</c> et paternitas <c>c</c> si igitur pater vel <c>b</c> 
+          est per se primo modo <c>a</c> sequitur quod paternitas divina seu <c>c</c> sic per se 
+          <lb ed="#S" n="106"/>primo modo <c>a</c> seu spiratio activa et si hoc igitur paternitas et generatio 
+          <lb ed="#S" n="107"/>activa quae est eadem cum paternitate divina esset per se primo modo 
+          <lb ed="#S" n="108"/>spiratio activa spiritus sancti vel <c>a</c> consequens videtur falsum et consequentia patet quia datis quibuscumque 
+          <lb ed="#S" n="109"/>quae sunt ad invicem <unclear>synomitate</unclear> et convertibiliter et adaequate idem 
+          <lb ed="#S" n="110"/>eo ipso si unum istorum est aliquid per se primo modo et reliquum si aptis 
+          signis exprimantur falsitas consequentis videtur patere cum quia tunc divina 
+          <lb ed="#S" n="111"/>paternitas esset essentialiter relatio ad spiritum sanctum tum quia si generatio activa sit 
+          <lb ed="#S" n="112"/>essentialiter productio spiritus sancti vel <c>a</c> videtur quod spiritus sanctus generetur quia cuius productio 
+          <lb ed="#S" n="113"/>est activa generatio ipsum generetur consequens falsum quia spiritus sanctus procedit non quomodo 
+          <lb ed="#S" n="114"/>natus sed quomodo datus eodem modo sequeretur quod filius esset 
+          <lb ed="#S" n="115"/>spiratus et per consequens quod esset spiritus sanctus quia cuius productio activa est essentialiter 
+          <lb ed="#S" n="116"/>spiratio activa ipsum videtur spirare sed si <c>b</c> sit per se primo modo 
+          <lb ed="#S" n="117"/>a productio filii activa est essentialiter spiratio activa igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e549">
+          <pc type="pilcrow"/> Item tunc oporteret ut videtur negare illud quod dictum est esse verum secundum 
+          <lb ed="#S" n="118"/>communem opinionem quaestione praecedenti proxima quod scilicet filiatio licet sit spi<lb ed="#S" break="no" n="119"/>ratio 
+          activa opposita spirationi passivae non est tamen filiatio opposita 
+          <pb ed="#S" n="136-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>spirationi passivae sed ab eadem distincta distinctione desparationis consequentia videtur plana 
+          <lb ed="#S" n="2"/>per istam maximam praedicamentorum quidquid <unclear>praedicatur</unclear> de praedicato praedicatur et de subiecto quod 
+          <lb ed="#S" n="3"/>non potest ubique intelligi absolute et simpliciter absque glossa alia quia caperet 
+          <lb ed="#S" n="4"/>instantiam in divinis nam generare vere probatur de patre et similiter distingui 
+          <lb ed="#S" n="5"/>a filio et pater de deitate et tamen nec generare nec distingui de deitate 
+          <lb ed="#S" n="6"/>sed oportet intelligere illud quidquid et quodcumque praedicatum praedicatur per se primo de praedicato 
+          <lb ed="#S" n="7"/>aliquo significative sumpto praedicabitur per se primo modo de illo subiecto de quo 
+          <lb ed="#S" n="8"/>praedicatum illud significative sumptum praedicatur per se primo modo sed spirare spiritum sanctum 
+          <lb ed="#S" n="9"/>videtur praedicari per se primo modo de spiratione activa nam haec videtur esse per se primo 
+          <lb ed="#S" n="10"/>modo spirator spirat et per consequens haec secundum praedicata spiratio activa spirat 
+          <lb ed="#S" n="11"/>si igitur haec sic per se primo modo spirator spirat et per consequens haec secundum praedicata 
+          <lb ed="#S" n="12"/>spiratio activa spirat si igitur haec sit per se primo modo generatio activa 
+          <lb ed="#S" n="13"/>est spiratio activa haec erit per se primo modo generatio activa seu paterni<lb ed="#S" break="no" n="14"/>tas 
+          spirat spiritum sanctum et eodem modo ista filiatio spirat spiritum sanctum igitur sicud spiratio 
+          <lb ed="#S" n="15"/>activa opponitur spirationi passivae ista sibi opponetur filiatio et erit filius 
+          <lb ed="#S" n="16"/>filiatio sibi opposita non solum spiratio sibi opposita cuius oppositum praedictum 
+          <lb ed="#S" n="17"/>est esse verum secundum communem opinionem in fine quaestionis praecedenti
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e601">
+          <pc type="pilcrow"/> item spiratio 
+          <lb ed="#S" n="18"/>activa est entitas respectiva ad alium terminum et origo activa 
+          <lb ed="#S" n="19"/>alterius termini quam generatio activa quia ipsa est productio spiritus sancti generatio ac<lb ed="#S" break="no" n="20"/>tiva 
+          est productio et origo activa filii et non spiritus sancti non enim generatio ac<lb ed="#S" break="no" n="21"/>tiva 
+          est generatio spiritus sancti quia ipse non procedit ut natus sed ut datus 
+          <lb ed="#S" n="22"/>et in symbolo dicitur spiritus sanctus a patre et filio non factus nec creatus nec ge<lb ed="#S" break="no" n="23"/>nitus 
+          sed procedens sed nullo modo videtur quod relatio ad unum terminum sit per 
+          <lb ed="#S" n="24"/>se primo modo ad alium terminum relatio igitur haec non erit per se primo modo 
+          <lb ed="#S" n="25"/>paternitas divina sive generatio activa in divinis est spiratio activa 
+          <lb ed="#S" n="26"/>et verum est quod non haec nostra nec de nostra propositione intelligo propter causas 
+          <lb ed="#S" n="27"/>alias tactas sed una alia quae componeretur ex terminis ad hoc 
+          <lb ed="#S" n="28"/>aptis
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e630">
+          <pc type="pilcrow"/> Item confirmatur quia iuxta regulas alias tactas de 
+          <lb ed="#S" n="29"/>propositionibus per se si praedicatum sic trinus relatus et subiectum terminus absolutus propositio non est 
+          <lb ed="#S" n="30"/>per se primo modo igitur eodem modo si praedicatum sic terminus relatus vel consignificatus a<lb ed="#S" break="no" n="31"/>licuius 
+          entis in speciali determinati et subiectum non non erit propositio per se 
+          <lb ed="#S" n="32"/>primo modo sed conceptus proprius et simplex spirationis activae videtur significare vel con<lb ed="#S" break="no" n="33"/>significare 
+          determinare et in speciali spiritum sanctum nec sic autem conceptus simplex 
+          <lb ed="#S" n="34"/>et proprius generationis activae igitur haec non erit per se primo modo generatio activa 
+          <lb ed="#S" n="35"/>vel paternitas divina est spiratio activa nec ista etiam <c>b</c> est <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e654">
+          <pc type="pilcrow"/> Prima videtur 
+          <lb ed="#S" n="36"/>quod generatio activa realiter distinguatur a spiratione activa et quod haec non est 
+          <lb ed="#S" n="37"/>ista nec econtra sicut probat et tenet doctor communis in suo quolibet quaestione 5 
+          <lb ed="#S" n="38"/>per hoc quod neutra videtur de se sibi esse infinita et ideo nescit qualiter 
+          <lb ed="#S" n="39"/>una ydemptificaretur reliquae et ideo ponit spirationem activam quasi adventiti<lb ed="#S" break="no" n="40"/>am 
+          et non per se pertinentem ad personalitatem patris et idem tenet in primo 
+          <lb ed="#S" n="41"/>suo igitur non est verisimile quod patris personalitas sic per se primo modo <c>a</c> quia tunc 
+          <lb ed="#S" n="42"/>doctor iste nimis recessisset in proposito a limitibus veritatis sed 
+          <lb ed="#S" n="43"/>in contrarium videtur esse quod per aliquam viam non videtur posse clare salvari sum<lb ed="#S" break="no" n="44"/>ma 
+          simplicitas personalis in divinis et maxime si patri adveniret spiratio 
+          <lb ed="#S" n="45"/>activa nihil pertinens intrinsece ad paternam personalitatem videretur ibi quasi 
+          <lb ed="#S" n="46"/>compositio ex proprietate et subiecto contra primum articulum primae quaestione huius materiae
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e685">
+          <pc type="pilcrow"/> ad illud 
+          <lb ed="#S" n="47"/>apparet mihi dicendum quod sic et ad hoc mihi sufficit ratio in contrarium et ista me<lb ed="#S" break="no" n="48"/>dia 
+          quae in prima quaestione huius materiae moverunt me ad ponendum quod 
+          <lb ed="#S" n="49"/>omnis divina personalitas et quilibet quod deus est per se primo modo est 
+          <lb ed="#S" n="50"/>deitas sed positio ista potest ulterius teneri secundum duplicem viam vel scilicet secundum 
+          <lb ed="#S" n="51"/>viam istam quae ponit quod omnis divina personalitas est essentialiter et per se primo modo 
+          <lb ed="#S" n="52"/>producens vel producta vel productio vel secundum viam quae ponit quod bene 
+          <lb ed="#S" n="53"/>quaelibet divina personalitas vere et realiter eest productio activa vel passiva 
+          <lb ed="#S" n="54"/>paternitas et filiatio vel passiva spiratio ita vere et realiter sicut sol 
+          <lb ed="#S" n="55"/>producit lumen in medio vel sicut deus create vel gubernat 
+          <lb ed="#S" n="56"/>mundum vel est activa productio vel conservatio mundi sed tamen non 
+          <lb ed="#S" n="57"/>per se primo modo quamvis haec sit per se primo modo pater est filii 
+          <lb ed="#S" n="58"/>pater et divina paternitas vel filiatio est per se primo modo relatio vel pro<lb ed="#S" break="no" n="59"/>ductio 
+          secundum istam secundam viam nulla penitus difficultas est vel 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="60"/>parva evacuare argumenta posita ad primam partem praesentis dubii secundum primam 
+          <lb ed="#S" n="61"/>viam communiorem est hoc bene difficile vel difficilius
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e725">
+          <pc type="pilcrow"/> ad primum igitur concedo 
+          <lb ed="#S" n="62"/>quod generatio activa est per se primo modo <c>a</c> quamvis ipsa propositio qua hic profero 
+          <lb ed="#S" n="63"/>non sit vera per se primo modo et cum probatur primo hic esse falsum quia tunc divina pater<lb ed="#S" break="no" n="64"/>nitas 
+          esset essentialiter et per se primo modo relatio ad spiritum sanctum secundum primam viam hic tac<lb ed="#S" break="no" n="65"/>tam 
+          esse conclusio concedenda et quod paternitas vel generatio activa filii sic essentialiter 
+          <lb ed="#S" n="66"/>spiratio activa spiritus sanctus vel <c>a</c> secundum secundam opinionem quam tenerem si liceat ne<lb ed="#S" break="no" n="67"/>ganda 
+          est consequentia nec divina paternitas esset per se primo modo spiratio 
+          <lb ed="#S" n="68"/>activa spiritus sancti nec haberet colorem quia nec <c>a</c> esset secundam istam viam per se 
+          <lb ed="#S" n="69"/>primo modo spiratio spiritus sancti sed solum sequitur quod vere et realiter et necessario est pater<lb ed="#S" break="no" n="70"/>nitas 
+          divina relatio ad spiritum sanctum sicut et vere est spiratio activa spiritus sancti tamen secundo 
+          <lb ed="#S" n="71"/>probatur falsitas primi consequentis primo quia si generatio activa esset essentialiter spiratio activa 
+          <lb ed="#S" n="72"/>tunc <del rend="expunctuation">esse o</del> spiritus sanctus generaretur
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e763">
+          <pc type="pilcrow"/> dicendum quod consequentia non valet secundum neutram viam quia licet 
+          <lb ed="#S" n="73"/>per istam rem quae est generatio producatur ista tamen res non est generatio 
+          <lb ed="#S" n="74"/>respectu spiritus sancti sed respectu filii immo ipsa respectu spiritus sancti est spiratio activa et respectu filii 
+          <lb ed="#S" n="75"/>generatio activa
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e774">
+          <pc type="pilcrow"/> verumptamen hic est diligenter attendendum quod sicut 
+          <lb ed="#S" n="76"/>supra in simili satis fuit declaratum licet pater vel generatio activa esset spiratio 
+          <lb ed="#S" n="77"/>activa vel esset <c>a</c> ista propositio non esset vera secundum praedicationem formalem ypostaticam 
+          <lb ed="#S" n="78"/>quantumcumque <c>b</c> sic <c>a</c> per se primo modo quia praedicatum et subiectum non supponunt 
+          <lb ed="#S" n="79"/>pro eodem nec est per se etiam primo modo illud pro quo praecicatum supponit 
+          <lb ed="#S" n="80"/>ideo optime stat quod generatio ista respectu alicuius sic generatio activa respectu 
+          <lb ed="#S" n="81"/>cuius ipsa non est spiratio activa nec est hoc mirum cum ubi etiam termini 
+          <lb ed="#S" n="82"/>supponunt pro eodem omnino ut hic dissimilitudo est similitudo quando eadem apparet al<lb ed="#S" break="no" n="83"/>bedo 
+          est albedini similis et nigredini <del rend="strikethrough">si</del> dissimilis et sic eadem albedo 
+          <lb ed="#S" n="84"/>est similitudo respectu unius et dissimilitudo respectu alterius et non respectu eiusdem et 
+          <lb ed="#S" n="85"/>illud praecise est leve videre secundum secundam viam praenotatam et etiam secundum primam 
+          <lb ed="#S" n="86"/>viam licet activa generatio sit essentialiter productio spiritus sancti vel spiratio activa 
+          <lb ed="#S" n="87"/>spiritus sancti non tamen est color aliquis quod propter hoc ipsa sit generatio spiritus sancti et per 
+          <lb ed="#S" n="88"/>consequens non sequitur quod spiritus sanctus generetur
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e817">
+          <pc type="pilcrow"/> Et per idem omnino patet ad 2am probationem 
+          <lb ed="#S" n="89"/>quod consequentia non tenet
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e824">
+          <pc type="pilcrow"/> ad 2m argumentum principale huius 3ii <add place="margin-right">dubii</add> videretur posse di<lb ed="#S" break="no" n="90"/>ci 
+          quod sive ista per se sic primo modo sive non generatio activa vel passi<lb ed="#S" break="no" n="91"/>va 
+          est spiratio activa spiritus sancti ubi exprimitur terminus ipsius relationis scilicet spi<lb ed="#S" break="no" n="92"/>rationis 
+          activae quod nolo modo discutere quia est difficultas in differentiis 
+          <lb ed="#S" n="93"/>omnibus relatis haec tamen est per se primo modo generatio activa et etiam passiva 
+          <lb ed="#S" n="94"/>est spiratio activa secundum viam primam praenotatam et ulterius etiam quod simili sic 
+          <lb ed="#S" n="95"/>per se primo modo spiratio activa est spiratio spiritus sancti ubi exprimitur terminus 
+          <lb ed="#S" n="96"/>quod haec erit etiam per se paternitas est spiratio activa spiritus sancti secundum eandem 
+          <lb ed="#S" n="97"/>viam ponentem personas esse per se primo modo <unclear>relativas</unclear> sicut deducit argumentum 
+          <lb ed="#S" n="98"/>sumptum ex <unclear>regula</unclear> praedicamentorum et ita concederetur conclusio ista argumenti usque illut 
+          <lb ed="#S" n="99"/>exclusive igitur spiratio activa opponitur etc si diceretur tunc quod ul<lb ed="#S" break="no" n="100"/>terior 
+          deductio non valet quae fit de oppinione quia cum conceptus oppositus 
+          <lb ed="#S" n="101"/>non <unclear>praedicatur</unclear> per se primo modo ut pater est deitas per se primo modo vel <c>a</c> 
+          <lb ed="#S" n="102"/>sic <c>a</c> proprius conceptus et adaequatus primae personae in divinis simplex <c>a</c> est de<lb ed="#S" break="no" n="103"/>itas 
+          per se primo modo quam pauci vel nullus negarent et deitas 
+          <lb ed="#S" n="104"/>est eadem filiationi igitur paternitas vel <c>a</c> est eadem filiationi vel filio 
+          <lb ed="#S" n="105"/>licet sequatur quod sit deitas eadem filiationi ita nec in proposito sequitur filiatio 
+          <lb ed="#S" n="106"/>est spiratio per se primo modo et spiratio activa opponitur filiationi passivae 
+          <lb ed="#S" n="107"/>igitur filiatio opponitur spirationi passivae sed bene sequitur quod filiatio sit spiratio 
+          <lb ed="#S" n="108"/>opposita spirationi passivae opposita inquam relative in terminis tamen difficile 
+          <lb ed="#S" n="109"/>foret et forte inpossibile invenire defectum in consimili argumento nisi 
+          <lb ed="#S" n="110"/>taliter ut praeexemplificatum est de albedine existente similitudo respectu 
+          <lb ed="#S" n="111"/>unius et dissimilitudo respectu alterius si illud exemplum sufficiat vel aliud 
+          <lb ed="#S" n="112"/>bene quidam quia non oportet invenire simile nisi secundum opinionem platonicam et hoc 
+          <lb ed="#S" n="113"/>quia secundum veritatem intelligis nulla una res secundum numerum est res mul<lb ed="#S" break="no" n="114"/>tae 
+          realiter adinvicem distincte sed tamen secundum opinionem platonica bene in<lb ed="#S" break="no" n="115"/>veniretur 
+          satis per omnia simil quae ad propositum pertinerent 
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e903">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="116"/>3m primam probationem nego <pc type="punctus"/> sed suam conversam concedo scilicet quod generatio 
+          <lb ed="#S" n="117"/>activa est originatio alterius rei quam spiratio activa et tamen eiusdem 
+          <lb ed="#S" n="118"/>termini cuius spiratio activa est originatio quia generatio activa est per se primo 
+          <lb ed="#S" n="119"/>modo divina paternitas prima et ideo est per se primo modo quidquid ista 
+          <lb ed="#S" n="120"/>personalitas est per se primo modo et essentia secundum prima viam
+          <pb ed="#S" n="136-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>supra tactam etiam spiratio activa et paternitas igitur et paternitas est per se 
+          <lb ed="#S" n="2"/>primo modo et unumquodque istorum et per consequens paternitas erit originatio spiritus 
+          <lb ed="#S" n="3"/>sancti nec ipsa consequentia in aliquo valet non est generatio spiritus sancti sed tantum filii <add place="margin-left">igitur non est originatio spiritus sancti sed tantum filii</add> sed est 
+          <lb ed="#S" n="4"/>fallacia consequentis
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e938">
+          <pc type="pilcrow"/> Ex hoc confirmatur alia responsio ad praecedens argumentum quod non 
+          <lb ed="#S" n="5"/>sequitur affirmative filius est relatio opposita spirationi passivae igitur <add place="margin-center">non</add> est filiatio 
+          <lb ed="#S" n="6"/>sibi opposita nec econverso negativa non est filiatio opposita spirationi pas<lb ed="#S" break="no" n="7"/>sivae 
+          igitur non est relatio sibi opposita nec econverso negativae non est filiatio 
+          <lb ed="#S" n="8"/>opposita spirationi passivae igitur non est filiatio sibi opposita et idem vi<lb ed="#S" break="no" n="9"/>deretur 
+          posse dici de ista consequentia filius vel filiatio est spiratio opposita 
+          <lb ed="#S" n="10"/>sibi igitur est filiatio opposita sibi eo quod omnis filiatio in divinis est spiratio 
+          <lb ed="#S" n="11"/>activa immo omne quod est filiatio in divinis est spiratio activa et non 
+          <lb ed="#S" n="12"/>econtra
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e963">
+          <pc type="pilcrow"/> dices si est spiratio activa opposita sibi igitur est spiratio opposita 
+          <lb ed="#S" n="13"/>sibi quia ad veritatem praedicati compositi de subiecto aliquo sequitur communiter verificatio 
+          <lb ed="#S" n="14"/>utriusque partis de eodem concedendum est quod filiatio in proposito est oppositum 
+          <lb ed="#S" n="15"/>spirationi activae sed non est opposita per alias dicta de adiec<lb ed="#S" break="no" n="16"/>tiva 
+          et substantia sumptione praedicati in casu consimili
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e976">
+          <pc type="pilcrow"/> ad 4m primum quod 
+          <lb ed="#S" n="17"/>infertur concedo sed minorem post additam illi conclusioni quo ad secundam 
+          <lb ed="#S" n="18"/>partem negatio cum dicitur non sic autem conceptus simpliciter generationis activae vel 
+          <lb ed="#S" n="19"/>passivae istud enim non est verum secundum primam viam praenotam communem 
+          <lb ed="#S" n="20"/>quia secundum istam viam proprietas primae personae est essentialiter relata vel produc<lb ed="#S" break="no" n="21"/>tio 
+          et ego secundum hoc consequenter dicerem esse dicendum quod ipsa ita essentialiter 
+          <lb ed="#S" n="22"/>est spiratio activa respectu spiritus sancti sicut ipsa est generatio activa respectu 
+          <lb ed="#S" n="23"/>filii secundum autem viam quae non poneret personas divinas esse 
+          <lb ed="#S" n="24"/>per se primo modo relatas ad invicem parva vel nulla de hoc esst dif<lb ed="#S" break="no" n="25"/>ficultas 
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1000">
+          <pc type="pilcrow"/> ad 5m dico quod illud non est verum quod generatio activa 
+          <lb ed="#S" n="26"/>non sit spiratio activa quia pari ratione ipsa spiratio non esset filiatio 
+          <lb ed="#S" n="27"/>et constat quod ipsa non est spiratio passiva quia illi oppositam et istam infert 
+          <lb ed="#S" n="28"/>vel est istius realis relatio igitur forent 4 res in divinis ab 
+          <lb ed="#S" n="29"/>invicem distincte et ita quaternitas realiter contra decretalem quantum apparet vo<lb ed="#S" break="no" n="30"/>cetenus 
+          saltem licet secundum veritatem decretalis dampnet quaternitatem istam 
+          <lb ed="#S" n="31"/>in speciali cuius una unitas distincta contra alias esset ipsa divina 
+          <lb ed="#S" n="32"/>essentia ad argumentum autem quo probat hanc non esse istam quia neutra est in<lb ed="#S" break="no" n="33"/>finita 
+          superius est istud assumptum negatum bene tamen concedo huic 
+          <lb ed="#S" n="34"/>doctori quod spiratio activa non est convertibiliter et adaequate idem generatio<lb ed="#S" break="no" n="35"/>ni 
+          activae cum ipsa sit aliquid puta filius et generatio activa non 
+          <lb ed="#S" n="36"/>est ipse filius modo proportionali illi quem prius exposui de deitate respectu 
+          <lb ed="#S" n="37"/>personalitatis alicuius divinae <del rend="expunctuation">i</del> terminum etiam sibi concedo quod spiratio activa non constituit 
+          <lb ed="#S" n="38"/>patrem in divinis dico tamen tum hoc quod pater ita essentialiter et intrinsece 
+          <lb ed="#S" n="39"/>et per se primo est generatio activa vel spiratio activa sicut si spiratio consti<lb ed="#S" break="no" n="40"/>tueret 
+          patrem vel multo essentialius et simplicius et ideo aeque necessario et 
+          <lb ed="#S" n="41"/>ita intrinsece exigit pater spiritus sanctus sicud filium licet non ita proprie quia persona<lb ed="#S" break="no" n="42"/>litate 
+          propria patris exigit filium sed notione sine relatione sibi communi 
+          <lb ed="#S" n="43"/>et filiatio exigit spiritum sanctum
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1047">
+          <pc type="pilcrow"/> Et per hoc respondetur difficultati quorumdam contra scotum
+          <lb ed="#S" n="44"/>quae non procedit contra ista qua arguitur quod pater non ita essentialiter exigeret 
+          <lb ed="#S" n="45"/>spiritum sanctum sicut filium si pater constitueretur per generationem et non per spirationem
+          <lb ed="#S" n="46"/>activam
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1058">
+          <pc type="pilcrow"/> dices si non est idem omnibus modis cum paternitate 
+          <lb ed="#S" n="47"/>igitur pater constituitur duplici constitutione non sequitur quia nullum constitutum po<lb ed="#S" break="no" n="48"/>no 
+          in divinis bene tamen volo quod pater est ita essentialiter vel essentialius 
+          <lb ed="#S" n="49"/>tam essentia divina quam spiratio activa quam etiam generatio activa quorum nec 
+          <lb ed="#S" n="50"/>essentia est per se primo modo generatio aut spiratio nec spiratio generatio per se 
+          <lb ed="#S" n="51"/>sicut foret si constitueretur ex hiis
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1075">
+          <pc type="pilcrow"/> Ex praedictis sequuntur aliquae conclusio<lb ed="#S" break="no" n="52"/>nes 
+          corrollarie una quod pater vel filius non distinguitur personaliter sed notio<lb ed="#S" break="no" n="53"/>naliter 
+          tantum a spiritu sancto ex hoc solo quod sunt spiratio activa sive per 
+          <lb ed="#S" n="54"/>spirare <seg type="correction">i<subst><add>llo</add><del>sto</del></subst></seg> enim personaliter distinguitur filius a spiritu sancto quo formaliter est 
+          <lb ed="#S" n="55"/>persona filii
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1095">
+          <pc type="pilcrow"/> Idem enim est quo essendi et distinguendi igitur si non hoc prae<lb ed="#S" break="no" n="56"/>cise 
+          est filius persona filii nec hoc praecise personaliter distinguetur a spiritu sancto 
+          <lb ed="#S" n="57"/>sed non praecise per spirare activum est filius persona filii quia tunc pater esset 
+          <lb ed="#S" n="58"/>etiam persona filii sicut nec praecise per essentiam est persona filii licet enim nullo alio ab 
+          <lb ed="#S" n="59"/>essentia vel spiratione activa sic filius persona filii satis <unclear>praeexciciter</unclear> declaratum
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1111">
+          <pc type="pilcrow"/>2a conclusio est quod filiatio sufficienter distinguitur filium a spiritu sancto personaliter quia filiatio 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="60"/>ut patet ex praedictis est perfecta filii personalitas quia includit quidditative 
+          sive est per se primo modo tam essentia quam spiratio activa quam etiam generatio 
+          <lb ed="#S" n="61"/>passiva
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1122">
+          <pc type="pilcrow"/> 3a dubitatio posset esse de isto quod <unclear>tanget</unclear> primum argumentum principale 
+          <lb ed="#S" n="62"/>ad oppositum quaestione an scilicet per omnia sint pater et filius et spiritus sanctus sunt unum 
+          <lb ed="#S" n="63"/>principium <del rend="expunctuation">tempore</del> creaturae ita pater et filius sunt unum principium spiritus sancti quam du<lb ed="#S" break="no" n="64"/>bitationem 
+          tangit <name xml:id="aw98wa-xg3300-Nd1e1138">okam</name> quaestione prima huius de articulo 3o dicit primo a cuius responsione 
+          <lb ed="#S" n="65"/>quam ibi quare sequitur ex praedictis quod oportebit me pro maiori parte 
+          <lb ed="#S" n="66"/>discordare salvo quod in hoc bene dicit simile esse quod ex una 
+          <lb ed="#S" n="67"/>parte pater et filius et spiritus sanctus vere et realiter sunt unum principium creaturae 
+          <lb ed="#S" n="68"/>et ex alia pater et filius spiritus sancti et in hoc est dissimile secundum eum et bene 
+          <lb ed="#S" n="69"/>quod pater et filius et spiritus sancti sint unum principium et bene respectu creaturae quia sunt essentia 
+          <lb ed="#S" n="70"/>divina quae est unum principium creaturae et non unum principium notionale sed 
+          <lb ed="#S" n="71"/>pater et filius sunt respectu spiritus sancti unum principium notionale scilicet spirator vel spiratio ac<lb ed="#S" break="no" n="72"/>tiva 
+          quod principium vocat ipse unum principium constitutum ex essentia et 
+          <lb ed="#S" n="73"/>spiratione activa alia differentia est quod pater et filius per se primo modo spi<lb ed="#S" break="no" n="74"/>rant 
+          sed pater et filius et spiritus sanctus non per se primo modo creant sed quod praeter 
+          <lb ed="#S" n="75"/>hoc ponit quod pater et filius sunt unum principium aequale <unclear>elicit ipsum</unclear> spi<lb ed="#S" break="no" n="76"/>rationis 
+          activae vel etiam passivae non est verum sed oppositum proba<lb ed="#S" break="no" n="77"/>tum 
+          est in quaestione prius posita pro distinctione 7a quod etiam dicit quod pater 
+          <lb ed="#S" n="78"/>et filius sunt unum <add place="margin-right">in principium</add> vere spirans spiritum sanctum quod non est formaliter divina 
+          <lb ed="#S" n="79"/>essentia falsa est ut patet ex praedictis licet essentia non sit formaliter illud 
+          <lb ed="#S" n="80"/>principium Et eodem modo non est illud verum quod addit scilicet quod pater est 
+          <lb ed="#S" n="81"/>formaliter divina essentia verum est licet nostra propositio non sit per se primo mod 
+          <lb ed="#S" n="82"/>et ideo possunt tales distingui ad clarius respondendum secundum compositum 
+          <lb ed="#S" n="83"/>et divisionem vel secundum <unclear>amphybolam</unclear> ut alias dictum est
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1189">
+          <pc type="pilcrow"/> 4a dubitatio 
+          <lb ed="#S" n="84"/>potest esse de hoc quod tangit argumentum 2m ad oppositum quaestio an pater et filius 
+          <lb ed="#S" n="85"/>spirent inquantum sunt unum vel inquantum sunt distincti cui dif<lb ed="#S" break="no" n="86"/>ficultati 
+          sufficienter respondet <name xml:id="aw98wa-xg3300-Nd1e1199">okam</name> logice de ista quaestione 2a articulo 2o 
+          <lb ed="#S" n="87"/>responsionis proprie et in logica 2a parte capitulo 16 quibus suppositis notandum 
+          <lb ed="#S" n="88"/>quod bene concedendum esset quod pater et filius inquantum sunt hic unum scilicet spiratio 
+          <lb ed="#S" n="89"/>activa spirant spiritum sanctum sed arguendo ab ista ad hanc igitur inquantum 
+          <lb ed="#S" n="90"/>unum est fallacia consequentis sicut et hic sortes inquantum homo est risibilis 
+          <lb ed="#S" n="91"/>quamvis capitulo dicat quod hoc non sit plus ad propositum quam ratione
+        </p>
+        <p xml:id="aw98wa-xg3300-d1e1213">
+          <lb ed="#S" n="92"/><pc type="pilcrow"/> ad rationes principales utriusque partis patet ex praedictis quid sic dicendum 
+          <lb ed="#S" n="93"/>de praeter illud quo arguitur quod qua ratione essentia communis non generat pari 
+          <lb ed="#S" n="94"/>ratione realitas ista communis patri et filio non spirat et est dicendum 
+          <lb ed="#S" n="95"/>quod non est simile causa enim non tenet hic quae ibi essentia enim non potest ibi 
+          <lb ed="#S" n="96"/>generare quia genitum distingueretur ab ea in proposito aut res in divinis 
+          <lb ed="#S" n="97"/>spirata realiter distinguitur ab ista notione communi patri et filio quam 
+          <lb ed="#S" n="98"/>concedo spirare igitur etc
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
