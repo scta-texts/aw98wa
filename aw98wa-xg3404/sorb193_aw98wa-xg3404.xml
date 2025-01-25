@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9 [Sorb193 Transcription]</title>
+          <date when="2025-01-24">January 24, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-01-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="138-v"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3404"><!-- b1d33q9-->
+        <head xml:id="aw98wa-xg3404-Hd1e101">Quaestio 9</head>
+        <p xml:id="aw98wa-xg3404-d1e103">
+          <lb ed="#S" n="91"/>Ultimo circa distinctionem 33 quaero pro istamet distinctione utrum omne 
+          <lb ed="#S" n="92"/>idem patri sic omnibus modis idem patri quod non quia aliquid <add place="margin-right">idem patri quod non</add>
+          <lb ed="#S" n="93"/>dicitur a patre et non est pater sicut hic idem patri demonstrando filium 
+          <lb ed="#S" n="94"/>et aliquod idem patri est pater et non distinguitur ab eo sicud 
+          <lb ed="#S" n="95"/>essentia divina et generans etiam igitur aliquo modo est essentia vel generans vel pater 
+          <lb ed="#S" n="96"/>idem patri quomodo <add place="margin-right"><unclear>conclusio</unclear></add> idem patri non est sibi idem demonstrando filium
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e125">
+          <pc type="pilcrow"/> prima nihil 
+          <lb ed="#S" n="97"/>est omnibus modis idem patri quia nihil est hoc modo idem patri quomodo lapis 
+          <lb ed="#S" n="98"/>est idem sibi ipsi quia iste modus est <unclear>rea?tus</unclear> iste lapis et nihil per 
+          <lb ed="#S" n="99"/>lapidem est vel patri <add place="margin-below">vel ipso lapide igitur oppositum primae et non est idem sibi ipsi contingenter vel non est idem sibi necessario <pc type="pilcrow"/> dices si <c>a</c></add> igitur 
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e145">
+          <pc type="pilcrow"/> Contra si non igitur aliquid idem patri aliquo 
+          <lb ed="#S" n="100"/>modo non est idem patri et aliquo modo est idem patri utpote idem 
+          <lb ed="#S" n="101"/>sibi <add place="margin-right">essentialiter non idem sibi</add> personaliter quod non videtur quia distinctio personalis et idemptitas essentialis in divinis pe<lb ed="#S" break="no" n="102"/>nitus 
+          idem sunt cum distinctio sic illud quod distinguitur et <unclear>idemptitas<!-- corrected somehow --></unclear> 
+          <lb ed="#S" n="103"/>illud <add place="margin-right">quod est idem</add> distinctio igitur et idemptitas alicuius eiusdem respectu alicuius eius nullo 
+          <lb ed="#S" n="104"/>modo distinguuntur et per consequens iste modus distinctionis et iste modus 
+          <lb ed="#S" n="105"/>idemptitas et econtra et per consequens quod isto modo est idem patri isto modo est idem 
+          <lb ed="#S" n="106"/>sibi quia si non isto modo idem sibi et iste modus est iste modus 
+          <lb ed="#S" n="107"/>non esset isto modo qui datur idem sibi de idemptitate et distinctione in 
+          <lb ed="#S" n="108"/>divinis satis habet locum <add place="above-line">est</add> in 8o quaestione <seg type="correction">i<del rend="expunctuation">st</del>am</seg> praecedentibus nec haec est induc<lb ed="#S" break="no" n="109"/>ta 
+          hic nisi ut ista distinctio habeat suam quaestionem quae habet tot alia<lb ed="#S" break="no" n="110"/>rum
+          <lb ed="#S" n="111"/>distinctionum quaestiones
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e196">
+          <pc type="pilcrow"/> ad praesens igitur dicendum <add place="above-line">est</add> quod non sicut sufficienter 
+          <lb ed="#S" n="112"/>probat 2a ratio principalis immo et ipsa probat quod nec pater idem est 
+          <lb ed="#S" n="113"/>sibi ipsi omnibus modis nihil aliqua res etiam omnibus modis 
+          <lb ed="#S" n="114"/>sibi ipsi Contra si a non omnino modo est idem sibi ipsi igitur a aliquo 
+          <lb ed="#S" n="115"/>modo non est idem sibi ipsi a ultima igitur a aliquo modo distinguitur a 
+          <lb ed="#S" n="116"/>seipso quod est falsum
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e216">
+          <pc type="pilcrow"/> dicendum quod ultima consequentia est neganda
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e221">
+          <pc type="pilcrow"/> Contra nihil 
+          <lb ed="#S" n="117"/>requiritur plus quod <c>a</c> distinguatur <c>a</c> <c>b</c> nisi quod <c>a</c> sit et <c>b</c> sic et 
+          <lb ed="#S" n="118"/>quod <c>b</c> non sic <c>a</c> igitur a simili videtur quod si <c>a</c> aliquo modo non est idem 
+          <lb ed="#S" n="119"/>sibi ipsi et est igitur aliquo modo distinguitur a se ipso 
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e250">
+          <pc type="pilcrow"/> dicendum quod non est 
+          <lb ed="#S" n="120"/>simile sicut nec sequitur quod ideo <c>a</c> distinguitur ab <c>a</c> aliquo modo quia <c>a</c> est 
+          <lb ed="#S" n="121"/>et aliquo modo non est idem sibi ipsi igitur aliquo modo est non idem sibi 
+          <lb ed="#S" n="122"/>ipsi contra quia a negativa de praedicamento finito posita constantia subiecti etc
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e268">
+          <pb ed="#S" n="139-r"/>
+          <lb ed="#S" n="1"/><pc type="pilcrow"/> dicendum quod ista regula fallit frequenter sicud patet hic sortes non est homines et est 
+          <lb ed="#S" n="2"/>igitur sortes est non homines similiter in praedicamentis compositis non sequitur sortes non est album 
+          <lb ed="#S" n="3"/>lignum et est igitur est non album lignum igitur <add place="margin-left">Ex hiis patet quod</add> haec consequentia non valet <c>a</c> aliquo 
+          <lb ed="#S" n="4"/>mod non est idem <c>b</c> igitur non est idem <c>b</c> et haec modificatio aliquo modo facit 
+          <lb ed="#S" n="5"/>quod regula allegata non tent in proposito sed tamen licet ut iam visum est argumenta ad 
+          <lb ed="#S" n="6"/>primam partem concludant verum primum nihilominus tangit dubium illud an idem 
+          <lb ed="#S" n="7"/>patri uno modo distinguatur a patre alio modo et est dicendum quod sic quia hoc 
+          <lb ed="#S" n="8"/>idem patri essentialiter demonstrando filium vel spiritum sanctum distinguitur ab eo personaliter
+        </p>
+        <p xml:id="aw98wa-xg3404-d1e301">
+          <pc type="pilcrow"/> Et tunc 
+          <lb ed="#S" n="9"/>ad argumentum in contrarium quaestionis et huius dicti dicendum quod licet idemptitas quam filius 
+          <lb ed="#S" n="10"/>est idem patri essentialiter et distinctio qua distinguitur ab eo personaliter sint 
+          <lb ed="#S" n="11"/>omnino idem non tamen oportet quod eo <add place="above-line"><unclear>cui</unclear></add> est idem essentialiter illi sic idem personaliter nec quod 
+          <lb ed="#S" n="12"/>a quo distinguitur personaliter ab eo distinguatur essentialiter sicut licet similitudo 
+          <lb ed="#S" n="13"/>qua sortes albus est similis platoni albo vel dissimilitudo qua idem sortes albus 
+          <lb ed="#S" n="14"/>est dissimilis socrati nigro sicut omnino idem non tamen ideo est sortes albus 
+          <lb ed="#S" n="15"/>illi similis cui est dissimilis nec econtra
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
