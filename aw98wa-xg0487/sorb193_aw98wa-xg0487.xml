@@ -552,14 +552,14 @@
         </p>
         <p xml:id="aw98wa-xg0487-d1e1386">
           <!-- possibly inserted pilcrow --> Praeterea 
-          <lb ed="#S" n="71"/><name xml:id="aw98wa-xg0487-Nd1e1391">augustinus</name> 5 de trinitate capitulo 19 et 37 Quomodo inquit <unclear>obieciebimus</unclear> nihil secundum 
+          <lb ed="#S" n="71"/><ref xml:id="aw98wa-xg0487-Rttaajj" corresp="#aw98wa-xg0487-Qjai888"><name xml:id="aw98wa-xg0487-Nd1e1391">augustinus</name> 5 de trinitate capitulo 19 et 37</ref> <quote xml:id="aw98wa-xg0487-Qjai888" source="http://scta.info/resource/adt-l5-d1e769@1-65">Quomodo inquit obtinebimus nihil secundum 
           <lb ed="#S" n="72"/>accidens dici deum et ipsius negatur nihil accidit quo intelligitur ut ea 
           <lb ed="#S" n="73"/>sint accidentia relativa quae cum aliqua mutatione rerum de quilibet 
           <lb ed="#S" n="74"/>dicuntur accidunt sicut amicus saltem neque enim esse incipit nisi cum 
           <lb ed="#S" n="75"/>amare inceperit sic ergo mutatio voluntatis ut amicus dicatur 
-          <lb ed="#S" n="76"/><unclear>Nummus</unclear> autem cum dicitur praetium relative dicitur nec tamen mutatus est cum 
-          <lb ed="#S" n="77"/>esse cepit praetium et si minimus etc quanto facilius de ita in commutabili 
-          <lb ed="#S" n="78"/>etc hoc etiam ponit <ref xml:id="aw98wa-xg0487-Rd1e1412">magister libro primo distinctione 30</ref>
+          <lb ed="#S" n="76"/>Nummus autem cum dicitur praetium relative dicitur nec tamen mutatus est cum 
+          <lb ed="#S" n="77"/>esse cepit praetium</quote> et si minimus etc quanto facilius de ita in commutabili 
+          <lb ed="#S" n="78"/>etc hoc etiam ponit <ref xml:id="aw98wa-xg0487-Rd1e1412" target="http://scta.info/resource/pll1d30c1-d1e3544@108-173" corresp="#aw98wa-xg0487-Qjai888">magister libro primo distinctione 30</ref>
         </p>
         <p xml:id="aw98wa-xg0487-d1e1415">
           <pc type="pilcrow"/> Praeterea volitio causatur partialiter 
