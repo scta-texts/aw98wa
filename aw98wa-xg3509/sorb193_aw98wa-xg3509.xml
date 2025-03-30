@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3 [Sorb193 Transcription]</title>
+          <date when="2025-02-26">February 26, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="147-r"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3509"><!-- b2q3-->
+        <head xml:id="aw98wa-xg3509-Hd1e101">Quaestio 3</head>
+        <p xml:id="aw98wa-xg3509-d1e103">
+          <lb ed="#S" n="31"/>Tertio circa istam distinctione quo ad materiam de augmentatione forma<lb ed="#S" break="no" n="32"/>rum 
+          quaero utrum creatura rationalis habens gratiam possit 
+          <lb ed="#S" n="33"/>mereri suam gratiam augmentari
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e112">
+          videtur quod non quia nulla 
+          <lb ed="#S" n="34"/>gratia potest fieri maior quam est ex prima quaestione praesen<lb ed="#S" break="no" n="35"/>tis 
+          distinctionis quia nec praecedens nec addita nec resultans ex u<lb ed="#S" break="no" n="36"/>trisque 
+          ut concessum est prius igitur nulla
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e121">
+          <pc type="pilcrow"/> Contra per beatum augustinum ubi supra 
+          <lb ed="#S" n="37"/>in principio huius 2i gratia meretur augeri ut aucta <unclear>mereatur</unclear> perfici <pc type="punctus"/>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e132">
+          <lb ed="#S" n="38"/><pc type="pilcrow"/> Item creatura rationalis serviendo deo proficit ut in principio 2i ac<lb ed="#S" break="no" n="39"/>ceptum 
+          est et non est profectus sine augmento gratiae igitur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e141">
+          <pc type="pilcrow"/> Item <ref xml:id="aw98wa-xg3509-Rd1e145"><name xml:id="aw98wa-xg3509-Nd1e146">augustinus</name> 
+            <lb ed="#S" n="40"/>super canonicam ioannis omelia 5</ref> et recitat <ref xml:id="aw98wa-xg3509-Rd1e151" target="http://scta.info/resource/pl-l3d29c3-d1e118@16-46">magister libro 3 33 distinctione capitulo ultimo</ref>
+          <lb ed="#S" n="41"/><quote xml:id="aw98wa-xg3509-Qd1e155" source="http://scta.info/resource/n6MsPi-cIaudh-d1e547@170-196"><!-- text is pretty rough, so wordRange is approximate -->numquam <del rend="expunctuation">aut</del> ait mox ut nascitur caritas iam penitus perfecta 
+          <lb ed="#S" n="42"/>est immo inquit ut perficiatur nascitur cum fuerit nata nutritur cum 
+          <lb ed="#S" n="43"/>fuerit nutrita roboratur cum fuerit roborata perficitur cum ad per<lb ed="#S" break="no" n="44"/>fectionem 
+          venerit dicit cupio dissolvi</quote> etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e169">
+          <pc type="pilcrow"/> Item <ref xml:id="aw98wa-xg3509-Rd1e173"><name xml:id="aw98wa-xg3509-Nd1e174">augustinus</name> enchiridion
+          <lb ed="#S" n="45"/>ultimo vel penultimo capitulo</ref> <quote xml:id="aw98wa-xg3509-Qd1e179" source="http://scta.info/resource/augen-d1e301-d1e110@207-211">crescente caritate minui cupiditas</quote> igitur caritas 
+          <lb ed="#S" n="46"/>secundum eum crescit
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e185">
+          <pc type="pilcrow"/> Responsio primo quod illud quod hic queritur suppositum fuit in 
+          <lb ed="#S" n="47"/>praecedentibus quaestionibus de augmentatione caritatis et quaeritur specialiter 
+          <lb ed="#S" n="48"/>illa quaestio pro dubiis quibusdam investigandum de modis loquendi 
+          <lb ed="#S" n="49"/>et aliis aliquibus realibus <unclear>diffinitionibus</unclear> circa augmentum caritatis
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e198">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="50"/>formam igitur quaestionis dicendum quod eo modo quo de aliis formis secundum quas 
+          <lb ed="#S" n="51"/>est motus commodi potest vel negari quod augeantur intensive eodem 
+          <lb ed="#S" n="52"/>modo proportionaliter dici habet de caritate et de sapientia et de omnibus aliis 
+          <lb ed="#S" n="53"/>formis accidentibus in quibus contingit reperire magis et minus 
+          <lb ed="#S" n="54"/>et ideo uniformiter restat dubitare de omnibus primo an forma alia 
+          <lb ed="#S" n="55"/>talis suscipiat magis et minus vel augeatur vel diminuatur vel intendatur 
+          <lb ed="#S" n="56"/>et remittatur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e218">
+          <pc type="pilcrow"/> dicendum ad primum et ad quodlibet istorum quod possunt intelligi dicta 
+          <lb ed="#S" n="57"/>talia esse vea copulative vel de copulato praedicato ulterius dico primo ad 
+          <lb ed="#S" n="58"/>primam partem huius dubii quod non de virtute sermonis loquendo et 
+          <lb ed="#S" n="59"/>hoc sive ly et nocet copulationem propositionum sive partium eiusdem <add place="margin-center">extremi</add> propositionis 
+          <lb ed="#S" n="60"/>quia nulla formarum suscipit proprie loquendo magis et minus ad propositum loquendo 
+          <lb ed="#S" n="61"/>licet possit esse vel fieri maior vel minor extensive per rarefactionem 
+          <lb ed="#S" n="62"/>et condensationem nec potest in se sicut in subiectum aliquid suae speciei recipere 
+          <lb ed="#S" n="63"/>nec etiam secundum veritatem alterius speciei aliquid eodem modo nec potest au<lb ed="#S" break="no" n="64"/>geri 
+          nec minui si tamen augeri sic magis fieri et minui sic minus 
+          <lb ed="#S" n="65"/>fieri quia non potest ad propositum intensive loquendo esse maior et 
+          <lb ed="#S" n="66"/>minor quam de facto sic et eodem modo non potest esse intensior et remissior 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="67"/>quam sic et per consequens nec ad vim sermonis poterit intendi vel re<lb ed="#S" break="no" n="68"/>mitti
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e254">
+          <pc type="pilcrow"/> 2o etiam dico ad primum quod forma talis sicut non suscipit magis et 
+          <lb ed="#S" n="69"/>minus per realem acceptionem alicuius in se sed hoc potius contigit 
+          <lb ed="#S" n="70"/><unclear>subiecto</unclear> formae talis ita nec suscipit magis et minus intentionaliter vel 
+          <lb ed="#S" n="71"/>logice loquendo per praedicationem scilicet alicuius termini de ea quae exprimat crementum 
+          <lb ed="#S" n="72"/>huius cum hoc ad verbio magis quia non potest dici quod forma talis puta 
+          <lb ed="#S" n="73"/>albedo sit magis albedo quam ante immo quod plus est nec intensa albedo 
+          <lb ed="#S" n="74"/>est magis albedo quam remissa licet sit maior id est intensior sed haec talis 
+          <lb ed="#S" n="75"/>denominatio concertiva tantum proprie convenit subiecto secundum tales formas vel partes 
+          <lb ed="#S" n="76"/>formae in ipso scilicet intellectu receptas nam subiectum huius proprie est 
+          <lb ed="#S" n="77"/>primo minus album vel minus calidum et post est magis tale vel econtra
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e280">
+          <lb ed="#S" n="78"/><pc type="pilcrow"/> 3o dico quod ad duplicem intellectum vel plures forte aequivalen<lb ed="#S" break="no" n="79"/>tes 
+          concedi potest inproprie loquendo ad verum tamen intellectum auctor vel 
+          <lb ed="#S" n="80"/>aliorum communiter loquentium quod forma suscipit magis et minus et intra eandem 
+          <lb ed="#S" n="81"/>speciem id est quod forma est maior vel minor vel in tali specie et suc<lb ed="#S" break="no" n="82"/>cessive 
+          etiam in eodem subiecto adaequato id est una vice maior et alia 
+          <lb ed="#S" n="83"/>vice minor vel simul etiam quod forma talis est minor vel maior 
+          <lb ed="#S" n="84"/>sed nullum istorum debet tunc intelligi nisi sumpto ly et copulative et non eo 
+          <lb ed="#S" n="85"/>modo quo facit extremum copulatum forma enim est maior et forma est 
+          <lb ed="#S" n="86"/>minor sed nulla eadem est ad propositum maior et minor nec esse potest 
+          <lb ed="#S" n="87"/>et hoc est quasi glossa <name xml:id="aw98wa-xg3509-Nd1e304">okam</name> licet aliter expressa
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e307">
+          <pc type="pilcrow"/> alio modo etiam potest intelligi bene 
+          <lb ed="#S" n="88"/>commune illud dictum quod forma suscipit magis et minus licet non ad vim 
+          <lb ed="#S" n="89"/>sermonis quia alicui formae advenit aliquid confortans eam et 
+          <lb ed="#S" n="90"/>facit formam perfectionem vel quod ideo dicatur forma suscipere magis et 
+          <lb ed="#S" n="91"/>minus quia aliquando vere formae alicui subtrahitur pars alia qua subtrac<lb ed="#S" break="no" n="92"/>ta 
+          non remanet ista forma sed alia minor priore non quod 
+          <lb ed="#S" n="93"/>eadem sit primo maior post minor nec econtra et potest inproprie dici 
+          <lb ed="#S" n="94"/>quod maior cuius pars subtrahitur minuitur vel adhuc magis 
+          <lb ed="#S" n="95"/>in proprie quod minor quae remanet minuitur pro eo quod ista est minor 
+          <lb ed="#S" n="96"/>ista totali quae praefuit
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e331">
+          <pc type="pilcrow"/>ad 2m dubium potest dici quod secundum <add>philosophum</add> primo de  
+          <lb ed="#S" n="97"/>generatione et 2o de anima satis innuitur etiam vel supponitur in augmen<lb ed="#S" break="no" n="98"/>tatione 
+          vera auctu praefuit et aliquid sibi ad generatur et hoc sic quod quaelibet 
+          <lb ed="#S" n="99"/>pars notabilis aucti est aucta ista non possunt ad vim vocis in<lb ed="#S" break="no" n="100"/>telligi 
+          ad hunc sensum quod idem numero stricte loquendo quod prius 
+          <lb ed="#S" n="101"/>fuit minus fit per veram augmentationem maius vel in diminutione 
+          <lb ed="#S" n="102"/>e contra proprie scilicet loquendo et non solum communiter sicut vulgus et communis modus
+          <lb ed="#S" n="103"/>loquendi dicit idem animal esse numero post augmentationem vel diminutionem quod ante 
+          <lb ed="#S" n="104"/>et similiter de domo de nam et de omnibus talibus quoniam hic ad proprie<lb ed="#S" break="no" n="105"/>tatem 
+          sermonis sumptum verum non est sed unum compositum est in augmen<lb ed="#S" break="no" n="106"/>tatione 
+          magis ex adveniente et isto cui advenit et in diminu<lb ed="#S" break="no" n="107"/>tione 
+          non illud quod prius erat magis et post minus sed illud quod erat 
+          <lb ed="#S" n="108"/>pars maioris est prius minus non quidam minus quam ipse met ante 
+          <lb ed="#S" n="109"/>fuerit sed quam suum totum ante fuerit et ad similem sensum nunc dici 
+          <lb ed="#S" n="110"/>potest de forma alia quod vere augeatur vel minuatur propter idem sed communiter 
+          <lb ed="#S" n="111"/>loquendo de uno et eodem secundum numerum sicut vulgus loquitur et sic 
+          <lb ed="#S" n="112"/>forsan ibi philosophus loquebatur sic manet idem et unum animal numero 
+          <lb ed="#S" n="113"/>primo minus et post magis vel e converso et proportionaliter hic de forma quia ita immo 
+          <lb ed="#S" n="114"/>magis proprie hic quam ibi quaelibet pars formae est aucta quia loquendo 
+          <lb ed="#S" n="115"/>de hiis partibus formae quae praecise idem adaequatum subiectum perficiunt 
+          <lb ed="#S" n="116"/>quodlibet unitur cuilibet non sic de partibus animalis praecedentibus et ad 
+          <lb ed="#S" n="117"/>generatis et etiam aequae ista augmentatio est per ad generationem novi sicud 
+          <lb ed="#S" n="118"/>ista
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e386">
+          <pc type="pilcrow"/>alio etiam modo potest <unclear>intelligi</unclear> in vera augmentatione quod praecedens 
+          <lb ed="#S" n="119"/>et remanens augeatur et quaelibet pars aucti notabilis etiam et hoc per 
+          <lb ed="#S" n="120"/>ad generationem non quia idem sit magis quam prius vere et proprie loquendo 
+          <lb ed="#S" n="121"/>sed vulgariter tantum sed quia praecedenti advenit aliquid de novo ita quod 
+          <lb ed="#S" n="122"/>idem sic auctum esse quod esse cui aliquid est appositum et ad genera<lb ed="#S" break="no" n="123"/>tum 
+          et cuius cuilibet parti notabili est sic aliquid ad generatum et sic in<lb ed="#S" break="no" n="124"/>telligendo 
+          augeri aliquid per esse cui novum simile ad generatur 
+          <lb ed="#S" n="125"/>illud quod praefuit est auctum vel augetur et illud diminutum quod etiam praefuit 
+          <lb ed="#S" n="126"/>a quo scilicet per corruptionem secundum qualibet partem notabilem subtrahatur quod 
+          <lb ed="#S" n="127"/>secum prius constituebat vere verum et per se unum et sicut hic <unclear>di<lb ed="#S" break="no" n="128"/>ceretur</unclear> 
+          in vera augmentatione animalis ita proportionaliter diceretur in proposito inproprie 
+          <lb ed="#S" n="129"/>hic loquendo de augmento ver formarum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e420">
+          <pc type="pilcrow"/> notandum tamen quod differenter 
+          <lb ed="#S" n="130"/>fit vera augmentatio hominis et aliorum animalium nam in augmentatione hominis 
+          <lb ed="#S" n="131"/>eadem <add place="margin-center">anima</add> intellectiva numero perficit maiorem corporeitatem et 
+          <lb ed="#S" n="132"/>plurem materiam quam ante non sit de <del rend="strikethrough">ali</del> animalibus aliorum animalium
+          <pb ed="#S" n="147-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quorumcumque et ideo homo manet idem numero semper quo ad principalem formam 
+          <lb ed="#S" n="2"/>hominis non sit in augmentatibus aliorum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e446">
+          <pc type="pilcrow"/> Ex hiis elici potest vel iuxta 
+          <lb ed="#S" n="3"/>hoc corrolarie dici cum <name xml:id="aw98wa-xg3509-Nd1e452">firalf</name> intelligendo sic dictum illud ut iam ex<lb ed="#S" break="no" n="4"/>posui 
+          quod aliquid augeri potest dupliciter intelligi proprie scilicet et communiter proprie dicitur illud 
+          <lb ed="#S" n="5"/>augeri cui aliquid advenit et tale totum manet idem numero post aug<lb ed="#S" break="no" n="6"/>mentum 
+          quod ante idem supple vulgariter loquendo et sic loquitur philosophus primo de 
+          <lb ed="#S" n="7"/>generatione et sic sola animata augentur sed quo ad hoc aliter supponitur 
+          <lb ed="#S" n="8"/>differentia augmentis animalium ab aliis et de ydemptitate et univoce dicatur 
+          <lb ed="#S" n="9"/>ut supra animal enim nec attrahit ad omnem partem sui notabilem cibum 
+          <lb ed="#S" n="10"/>ultimum <subst><add>ut</add> <del rend="expunctuation">et</del></subst> quaelibet pericula notabilis augeatur et <unclear>parum</unclear> vell nihil per hoc 
+          <lb ed="#S" n="11"/>pars quaelibet debilitetur nec sit alibi in subiectis communiter autem bene dicit 
+          <lb ed="#S" n="12"/>iste et bene dicitur aliquid augeri quia sibi addatur aliquid ex quo et ipso 
+          <lb ed="#S" n="13"/>fit aliquid magis in sua species et sic in animata augentur et sic etiam ca<lb ed="#S" break="no" n="14"/>ritas 
+          augetur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e488">
+          <pc type="pilcrow"/> ad 3m etiam huius dubii principalis dicendum quod de vi vocis 
+          <lb ed="#S" n="15"/>loquendo nulla forma potest intendi vel remitti sed auctores hoc 
+          <lb ed="#S" n="16"/>dicentes intelligunt si non exprimant quod ideo alia forma dicatur in<lb ed="#S" break="no" n="17"/>tendi 
+          quia additur sibi alia ex qua et illa fit intensior et quod ideo forma 
+          <lb ed="#S" n="18"/>alia dicatur remitti quia subtrahitur ab ista aliqua pars ut sit sic 
+          <lb ed="#S" n="19"/>forma relicta remissior quam ista quae praefuit non quod aliqua 
+          <lb ed="#S" n="20"/>vera numero primo fuit intensa et post remissa vel econverso stricte 
+          seu proprie et non ingresse loquendo de eodem secundum numerum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e506">
+          <pc type="pilcrow"/> 2m dubium principale 
+          <lb ed="#S" n="21"/>an forma habeat latitudinem veram intensivam vel gradualem 
+          <lb ed="#S" n="22"/>et est dicendum quod sic quia forma habet in se plures partes <add>realiter deitas <unclear>constituentes</unclear> eam qualitative</add> ad modum quo plures 
+          <lb ed="#S" n="23"/>partes distincte situaliter constituunt proportionaliter aliquid per se unum extensi<lb ed="#S" break="no" n="24"/>ve
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e525">
+          <pc type="pilcrow"/> 3m dubium an ad secundum quo <unclear>convenienter</unclear> concedendum est formam aug<lb ed="#S" break="no" n="25"/>mentari 
+          debeat dici quod augmentatio sit motus vel mutatio dicendum est quod est 
+          <lb ed="#S" n="26"/>ut sit et est ut non nam si forma talis sit in subiecto et similiter illud 
+          <lb ed="#S" n="27"/>quod sibi advenit tunc augmentatio talis si fiat successive est mo<lb ed="#S" break="no" n="28"/>tus 
+          et subiectum movetur isto motu non forma quia subiectum aliter tunc se habet quam 
+          <lb ed="#S" n="29"/>prius non forma quia non praefuit et dato etiam quod praefuisset non diceretur for<lb ed="#S" break="no" n="30"/>ma 
+          moveri sed subiectum quia non est ibi nisi unicus motus et unico motu 
+          <lb ed="#S" n="31"/>non videtur moveri nisi unicum motum per se loquendo sed si simul moveatur 
+          <lb ed="#S" n="32"/>localiter hoc accidit et tunc motus iste st ista forma non subiectum quia 
+          <lb ed="#S" n="33"/>formae illi verae convenit diffinitio motus et ideo ipsa est motus talis subiecti et 
+          <lb ed="#S" n="34"/>si praeter hic dicas quod subiectum sit ista alteratio subiectum non posset alterari quin 
+          <lb ed="#S" n="35"/>alteraretur duabus alterationibus quod non diceretur rationabiliter si vero talis 
+          <lb ed="#S" n="36"/>augmentatio fiat in subiecto subito tunc ipsa est mutatio est non motus si vero 
+          <lb ed="#S" n="37"/>fieret non in subiecto sicut bene posset a deo fieri nec esset talis augmentatio 
+          <lb ed="#S" n="38"/>motus nec mutatio quia nihil ibi moveretur et omni motu aliquid movetur mo<lb ed="#S" break="no" n="39"/>tus 
+          tamen iste bene posset fieri et esse sine hoc quod esset motus
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e564">
+          <pc type="pilcrow"/> Haec valet 
+          <lb ed="#S" n="40"/>dicere quod immo forma mutatur quia pars praecedens aliter se habet nunc quam prius 
+          <lb ed="#S" n="41"/>quia unitur cui non prius et aliquid sibi acquiritur quod non prius et pars 
+          <lb ed="#S" n="42"/>totius igitur aliter se habet nunc quam prius et per consequens movetur per diffinitionem motus
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e575">
+          <lb ed="#S" n="43"/><pc type="pilcrow"/>hic argumentum in simili salvetur circa principium 3ii quia per hoc argumentum argueretur 
+          quod filius dei mutabatur in incarnatione requirere ibi quia aliter se 
+          <lb ed="#S" n="44"/>habere secundum locum vel secundum formam in se receptam est moveri vel mutari 
+          <lb ed="#S" n="45"/>non sic aut de aliter se habere solum relative et in ordine ad aliud quia 
+          <lb ed="#S" n="46"/>per hoc contingere potest propter novitatem vel mutationem in alio ad quod aliter 
+          <lb ed="#S" n="47"/>se habet nunc quam prius igitur cum in tali casu habeatur novum totum illius 
+          <lb ed="#S" n="48"/>novitas est sufficiens ut pars parti unita dicatur se habere relative 
+          <lb ed="#S" n="49"/>aliter nunc quam prius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e594">
+          <pc type="pilcrow"/> Dices si subiectum est quod movetur ista augmentatione 
+          <lb ed="#S" n="50"/>et iste motus est augmentatio igitur subiectum augmentatur consequens falsum quia 
+          <lb ed="#S" n="51"/>subito nihil accrescit suae speciei nec ipsum est magis quam ante
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e604">
+          <pc type="pilcrow"/> prima 
+          <lb ed="#S" n="52"/>si caritas augetur et ista augmentatio est motus igitur caritas movetur quod 
+          <lb ed="#S" n="53"/>falsum est parte
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e613">
+          <pc type="pilcrow"/> Item si caritas augmentatur ista augmentatio non dis<lb ed="#S" break="no" n="54"/>tinguitur 
+          a caritate sed est ipsa caritas igitur augmentatio augmentetur 
+          <lb ed="#S" n="55"/>et cum augmentatio sit etiam alteratio igitur alteratio augmentabitur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e622">
+          <pc type="pilcrow"/> prima 
+          <lb ed="#S" n="56"/>augmentatio et alteratio sunt motus distincti quia habent distinctos 
+          <lb ed="#S" n="57"/>terminos et caritas est terminus alterationis igitur non est terminus augmentationis et per 
+          <lb ed="#S" n="58"/>consequens non augetur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e633">
+          <pc type="pilcrow"/> ad primum negandam est consequentia quia accidit illi 
+          <lb ed="#S" n="59"/>augmentationi quod sit motus et dato quod sicut necesse est secundum philosophum 
+          <lb ed="#S" n="60"/>omnem augmentationem talem esse motum adhuc non tenet consequentia quia ista suc<lb ed="#S" break="no" n="61"/>cessiva 
+          <del rend="underline">acquisitio</del> acquisitio aliter denominat subiectum et aliter formam 
+          <lb ed="#S" n="62"/>et respectu alterius et alterius est ipsa augmentatio et motus et ideo 
+          <lb ed="#S" n="63"/>non tenet huius consequentia quia praemissae non sunt vere ad vim vocis 
+          <lb ed="#S" n="64"/>forma augmentatur ut visum est ita igitur deficit ista consequentia 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>sicut ista calefacere est agere sed ignis calefacit a quam igitur ignis 
+          <lb ed="#S" n="66"/>agit aliquam per idem ad 2m consequentiam non valet quia aliter denominatur ibi 
+          <lb ed="#S" n="67"/>subiectum et aliter forma ab eodem
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e663">
+          <pc type="pilcrow"/> ad 3m dicendum quod licet augmentatio 
+          <lb ed="#S" n="68"/>ista sit caritas tamen non est ista caritas quae augmentatur sed 
+          <lb ed="#S" n="69"/>ista qua prior augmentatur ad unum sensum praexpositum et ideo non 
+          <lb ed="#S" n="70"/>sequitur quod augmentatio augmentatur si autem ipsum totum diceretur auctum ad 
+          <lb ed="#S" n="71"/>motum magis inproprium loquendi vel aeque proprium ad hoc non tenet consequentia quia 
+          <lb ed="#S" n="72"/>ad hoc non totum diceretur augmentatio sed pars apposita et dato quod aliquis 
+          <lb ed="#S" n="73"/>vellet ad aliquem verum intellectum quomodo non continent ista verba conce<lb ed="#S" break="no" n="74"/>dere 
+          quod ista augmentatio per accidens augmentatur tamen tunc ex hoc 
+          <lb ed="#S" n="75"/>ultra non sequetur ad talem inproprium modum loquendi quia aug<lb ed="#S" break="no" n="76"/>mentatio 
+          ista licet ipsa sit vere alteratio alteraretur sed augmen<lb ed="#S" break="no" n="77"/>tatio 
+          formae et alteratio subiecti sicut ipsa non est motus formae 
+          <lb ed="#S" n="78"/>sed subiecti ut praedictum est
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e692">
+          <pc type="pilcrow"/> ad 4m dicendum quod in proposito non sunt mo<lb ed="#S" break="no" n="79"/>tus 
+          distincti sed unus qui tamen non respectu unius et eiusdem sed respectu 
+          <lb ed="#S" n="80"/>distinctorum est alteratio et augmentatio ut visum est
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e702">
+          <pc type="pilcrow"/> 4m dubium 
+          <lb ed="#S" n="81"/>esse posset an aliqua parva caritas possit <add place="margin-right">in infinitum esse in</add> fieri vel acquiri 
+          <lb ed="#S" n="82"/>sine aliqua interruptione et credo quod sit per deum sicut et per parvum spa<lb ed="#S" break="no" n="83"/>tium 
+          potest pertransiri
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e716">
+          <pc type="pilcrow"/> declaratur istud per hoc quod omni motu aug<lb ed="#S" break="no" n="84"/>mentationis 
+          uniformi convenit dare tardiorem in duplo et 
+          <lb ed="#S" n="85"/>quadruplo et sic secundum omnem huius certam proportionem igitur deus illius cre<lb ed="#S" break="no" n="86"/>atae 
+          caritatis cuius mediantem primam produceret successive in anima per u<lb ed="#S" break="no" n="87"/>num 
+          diem uniformiter posset primam medietatem residui pro<lb ed="#S" break="no" n="88"/>ducere 
+          continue uniformiter secundo die sicut in mensura adaequata per aug<lb ed="#S" break="no" n="89"/>mentationem 
+          duplo remissiorem et medietatem istius quod ad hoc 
+          <lb ed="#S" n="90"/>restat in 3o die et sic sine termino procedendo sed non naturaliter ut 
+          <lb ed="#S" n="91"/>stet processus physicus 8 physicorum <pc type="virgula">//</pc> 5m dubium an aliquae duae 
+          <lb ed="#S" n="92"/>caritates possunt simul incipere acquiri et hoc sit quia continuetur 
+          <lb ed="#S" n="93"/>acquisitio utriusque per aequale tempus pracies et plus per totum tempus 
+          <lb ed="#S" n="94"/>habeatur de una quam de alia et tamen in fine aequaliter et est dicendum 
+          <lb ed="#S" n="95"/>quod sic declaratur illud per simile de ascensionibus signorum causa in 
+          <lb ed="#S" n="96"/>spera recta quam in speris obliquis ex tractatu de spera <unclear><c>c</c></unclear> de 
+          <lb ed="#S" n="97"/>ascensionibus signorum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e757">
+          <pc type="pilcrow"/>6m dubium an deus possit in du<lb ed="#S" break="no" n="98"/>cere 
+          infinita formam in successione parvi temporis et videtur quod sic 
+          <lb ed="#S" n="99"/>quia quantum inducit de facto immediate primae diei tantum potest in<lb ed="#S" break="no" n="100"/>mediate 
+          primae medietatis sequentis et sic in infinitum igitur in fine diei 
+          <lb ed="#S" n="101"/>habetur forma infinita
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e770">
+          <pc type="pilcrow"/> ad istud dicendum quod si non sit repungnantia 
+          <lb ed="#S" n="102"/>formam huius esse in entibus conclusio esset concedenda si autem repungnet ut
+          <lb ed="#S" n="103"/>communius tenetur dicendum quod non et ad argumentum dicendum esset quod isto modo finite 
+          <lb ed="#S" n="104"/>potest deus procedere quotiens sibi placet de quo alias plura di<lb ed="#S" break="no" n="105"/>cam
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e783">
+          <pc type="pilcrow"/> 7m dubium principale utrum caritas possit augeri 
+          <lb ed="#S" n="106"/>per actum instantaneum et movetur istud dubium occasione determina<lb ed="#S" break="no" n="107"/>itionis 
+          <name xml:id="aw98wa-xg3509-Nd1e791">magistri ricardis firanf</name> qui arguit et tenet quod non quia si sic sequeretur 
+          <lb ed="#S" n="108"/>quod quilibet viator posset in parvo tempore acquirere sibi tantam 
+          <lb ed="#S" n="109"/>caritatem quantam habuit anima christi vel maiorem consequens inconveniens 
+          <lb ed="#S" n="110"/>et consequentiam probat quia capiatur caritas quam aliquis viator meretur per 
+          <lb ed="#S" n="111"/>unum actum instantaneum et vocetur <c>a</c> caritas creata animae christi non exce<lb ed="#S" break="no" n="112"/>dit 
+          a infinite sic igitur caritas vel gratia animae christi decies ma<lb ed="#S" break="no" n="113"/>ior 
+          <c>a</c> tunc cum iste viator in minime tempore dando posset decies 
+          <lb ed="#S" n="114"/>immo centies finite quotiens dabitur caritas animae christi excedere 
+          <lb ed="#S" n="115"/><c>a</c> causare actum instantaneum qualem prius aequae bonum secundum omnes circumstantias 
+          <lb ed="#S" n="116"/>vel meliorem sequitur quod ipse poterit in tempore dando quantumcumque parvo 
+          <lb ed="#S" n="117"/>pertingere per merita sua instantanea ad caritatem tantam vel maio<lb ed="#S" break="no" n="118"/>rem 
+          quanta est caritas animae christi
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e824">
+          <pc type="pilcrow"/>assumptum probatur scilicet quod in minimo 
+          <lb ed="#S" n="119"/>tempore dando ipse potuit decies vel centies in quovis alio 
+          <lb ed="#S" n="120"/>numero placuerit elicere consimilem actum qualem prius et aequae 
+          <lb ed="#S" n="121"/>augmentatum meriti et gratiae suae quia ponatur quod antequam eliciat 
+          <lb ed="#S" n="122"/>aliquem de illis aequae bonis actibus habeat deliberationes suf<lb ed="#S" break="no" n="123"/>ficientes 
+          respectu diversorum obiectorum vel actuum huius manentes per totum illud 
+          <lb ed="#S" n="124"/>tempus et faciat actum primum de numero dandorum mediante una istarum 
+          <lb ed="#S" n="125"/>deliberationum in prima medietate istius dandi temporis et secundum <unclear>in primum</unclear> 
+          <lb ed="#S" n="126"/>medietate residui medietate alia deliberatione et <unclear>3am</unclear> in 3a 
+          <lb ed="#S" n="127"/>parte proportionata temporis dati et sic procedendo usque ad completum actuum 
+          <lb ed="#S" n="128"/>numeri praetaxandi nec oportet quod fiat exspectatio per magis tempus quia 
+          <lb ed="#S" n="129"/>deliberatio et dispositio per omnia potentiae requisita ad actum vo<lb ed="#S" break="no" n="130"/>lendi 
+          tandem modo iam expresso habentur per casum in principio et 
+          <lb ed="#S" n="131"/>habebuntur in qualibet parte proportionali respectu actus tunc causandi secundum or<pb ed="#S" n="148-r"/><cb ed="#S" n="a"/><lb ed="#S" break="no" n="1"/>dinem 
+          iam praetactum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e867">
+          <pc type="pilcrow"/> ad illud respondi distinctione prima primi quaestione 8 quod actus instantaneae 
+          <lb ed="#S" n="2"/>elicitus necessario continatur per tempus <del rend="underline">se</del> secundum se totum per partem ante partem ista 
+          <lb ed="#S" n="3"/>quod non ex toto cessabit citra finem alicuius temporis parvi in cuius 
+          <lb ed="#S" n="4"/>principio si sententietur mediate deliberatione habita tunc vel praehabita quod 
+          <lb ed="#S" n="5"/>tunc est dilectio dei causanda et sequatur elective conformis illi sententiae <add place="margin-center">seu</add> 
+          <lb ed="#S" n="6"/><add place="margin-left"><unclear>dictamini practico</unclear></add> non est in potestate talis naturae intellectualis citra finem parvi temporis unius 
+          <lb ed="#S" n="7"/>scilicet perceptibilis minimi vel maximi non perceptibilis secundum circumstantias et dispositio<lb ed="#S" break="no" n="8"/>nex 
+          praecise tunc habitas sententiare quod circa vel tunc non est actus 
+          <lb ed="#S" n="9"/>habendus <add place="margin-above">vel quod tunc vel tunc sit alias talis dilectio causanda</add> quia tempus dandum debet esse minimum tempus secundum dispositiones <unclear>prae<lb ed="#S" break="no" n="10"/>ti?as</unclear> 
+          quae tunc habentur ex ipso perceptibile vel maximum ab eo non perceptibile 
+          <lb ed="#S" n="11"/>et ideo nec in discursu istius temporis dum currunt partes iste propor<lb ed="#S" break="no" n="12"/>tionales 
+          iuxta ymaginationem argumenti facti nec in principio poterit <unclear>sententieri</unclear> distincte 
+          <lb ed="#S" n="13"/>quod in tali parte est 2us vel 3us actus causandus et in 4a 4us et sic de<lb ed="#S" break="no" n="14"/>inceps 
+          quia non eset in potestate naturali talis intellectus creati aliquam istarum 
+          <lb ed="#S" n="15"/>partium distincte percipere qualiter igitur meritorie elicere posset tot 
+          <lb ed="#S" n="16"/>actus similes cum non possit primum dimittere citra sine temporis dan<lb ed="#S" break="no" n="17"/>di 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e923">
+          <pc type="pilcrow"/> Ex istis sic expressis solvuntur multa argumenta praedicta doc<lb ed="#S" break="no" n="18"/>torum 
+          contra necessariam continuationem actus elici in principio dati temporis 
+          <lb ed="#S" n="19"/>usque in finem huius arguit enim primo sic in contrarium quia ponatur 
+          <lb ed="#S" n="20"/>inquit quod voluntas velit ex deliberatione ante illud tempus non habere 
+          <lb ed="#S" n="21"/>actum istum ultra medietatem talis parvi terminis dati et si hoc 
+          <lb ed="#S" n="22"/>vel igitur habebit actum istum post <sic>post</sic> mediantem dati temporis istius vel 
+          <lb ed="#S" n="23"/>non si non tunc habita deliberatione praevia poterit ipsum di<lb ed="#S" break="no" n="24"/>mittere 
+          et habere actum alium quandocumque ex tunc voluerit si non potest 
+          <lb ed="#S" n="25"/>non continuare actum istum in vitae continuat quod est contra <name xml:id="aw98wa-xg3509-Nd1e946">anselmum</name> de libero 
+          <lb ed="#S" n="26"/>arbitrio capitulo 5 ligari inquit potest homo invictus quia nolens potest 
+          <lb ed="#S" n="27"/>occidi velle autem non potest invitus quia velle non potest no<lb ed="#S" break="no" n="28"/>lens 
+          velle simile dicit <ref xml:id="aw98wa-xg3509-Rd1e955">augustinus de duabus animabus capitulo 6</ref>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e958">
+          <pc type="pilcrow"/> di<lb ed="#S" break="no" n="29"/>cereetur 
+          forte quod ipsi <unclear>locuntur</unclear>lear de velle proprie dicto scilicet de velle libero 
+          <lb ed="#S" n="30"/>pro tunc quando est liberum sed volitio elicita in principio dati temporis 
+          <lb ed="#S" n="31"/>non est post primum instans libera pro isto tempore
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e971">
+          <pc type="pilcrow"/> Contra arguit 
+          <lb ed="#S" n="32"/>doctor iste quia licet prima pars huius responsiones vera sit valet quod ipsi 
+          <lb ed="#S" n="33"/>locuntur de velle libero et proprie dicto secunda tamen pars qua dicitur quod vo<lb ed="#S" break="no" n="34"/>litio 
+          huius pro tempore isto post primum eius instans non est libera sed necessario 
+          <lb ed="#S" n="35"/>habita sit inquam necessario quod non est in potestate istius vocis quin 
+          <lb ed="#S" n="36"/>si habeat huius actum in primo instanti istius temporis habet istum vel aliquid eius 
+          <lb ed="#S" n="37"/>post medietatem illius dati temporis quia dicit augustinus ubi supra qui non 
+          <lb ed="#S" n="38"/>cogitur facere aliquid vel non facit illud vel volens facit tum igitur 
+          <lb ed="#S" n="39"/>voluntas non <del rend="expunctuation">g</del> cogatur retinere huiusmodi actum post medietatem temporis dati 
+          <lb ed="#S" n="40"/>vel igitur non retinet eum tunc vel si retinet volens retinet 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e998">
+          <lb ed="#S" n="41"/><pc type="pilcrow"/> ad istum argumentum patet primo quod supponit falsum in cuius contrario fundat 
+          <lb ed="#S" n="42"/>se supposita principalis responsio quia haec responsio supponit quod talis voluntas possit 
+          <lb ed="#S" n="43"/>discernere inter medietates cum venerit dandi parvi temporis et distincte 
+          <lb ed="#S" n="44"/>percipere quando erit prima istius temporis medietas et non secunda et quando secunda 
+          <lb ed="#S" n="45"/>et non prima et ita de partibus partium quod negavi nec iste probat illud 
+          <lb ed="#S" n="46"/>autem quod ego capio hic contrarium suae supponi probavi <sic>seriosius</sic> ubi 
+          <lb ed="#S" n="47"/><ref xml:id="aw98wa-xg3509-Rd1e1017">supra distinctione prima</ref> sed quod hic non solvat argumentum potest argui isto modo quia da<lb ed="#S" break="no" n="48"/>to 
+          quod talis intellectus non possit <sic>distinctincte</sic> perpendere tempus minus 
+          <lb ed="#S" n="49"/>distincte novit tamen vel nosse potest talis intellectus quod tempus illud parvum 
+          <lb ed="#S" n="50"/>cum sic de numero continuorum habet partes infinitas et per consequens voluntas potest vel<lb ed="#S" break="no" n="51"/>le 
+          diligere deum praecise per unam medietatem <unclear>istius</unclear> temporis primam si velit 
+          <lb ed="#S" n="52"/><sic>velit</sic> igitur sic et tunc quaerendum utrum habebit istum actum post 
+          <lb ed="#S" n="53"/>medietatem istius vel non et consequente rper omnia potest ulterius argui sicut prius 
+          <lb ed="#S" n="54"/>ad istud concedo quod voluntas sciens omne tempus habere duas medietates et 
+          <lb ed="#S" n="55"/>per consequens a tempus sic a illud parvum tempus si ipsa descriptum concedo 
+          <lb ed="#S" n="56"/>in consequentiam quod ista voluntas potest velle <unclear>di?ris</unclear> deum praecise primo instanti <c>a</c> temporis 
+          <lb ed="#S" n="57"/>et deinceps usque ad medium <c>a</c> quia tamen non est in potestate istius 
+          <lb ed="#S" n="58"/>voluntatis percipere distincte aut scire quando vere fuerit medium ipsius 
+          <lb ed="#S" n="59"/><c>a</c> ideo ipsa non potest exequi illud quod nunc vellet per instanti medio futuro 
+          <lb ed="#S" n="60"/>ipsius <c>a</c> quia nec in principio a percipit illud instans medium licet sciat quod 
+          <lb ed="#S" n="61"/>si <c>a</c> est tempus habet medium instans unde concedo quod si ipsa isto 
+          <lb ed="#S" n="62"/>modo velit in principio <c>a</c> quando ponit primo actum mediante dictamine
+          <lb ed="#S" n="63"/>intellectus quod ipsa non potest exequi sicut eligit exsequendum immo 
+          <lb ed="#S" n="64"/>si tunc eliciat istam dilectionem quam simul cum hoc vellet non 
+          <lb ed="#S" n="65"/>remanere ultra primam intellectionem temporis minimi ab ea distincte 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>perceptibilis ipsa non habet in sua naturali potentia quin actus ille remaneat 
+          <lb ed="#S" n="67"/>plus quam vellet cum ipsa non possit iterum citra finem temporis dati 
+          <lb ed="#S" n="68"/>noviter deliberate dicere nunc non diligas vel nunc actum prae<lb ed="#S" break="no" n="69"/>habitum 
+          suspendas unde breviter in tali casu ipsa vult sibi et tali 
+          <lb ed="#S" n="70"/>potentiae activae inpossibile et cum arguitur quod tunc post primam medietatem a <unclear>terminis</unclear>
+          <lb ed="#S" n="71"/>voluntas diligeret invite vel volet invite contra <name xml:id="aw98wa-xg3509-Nd1e1095">anselmum</name>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1098">
+          <pc type="pilcrow"/> Responsio sicud 
+          <lb ed="#S" n="72"/>alias quod non sequitur quod in secunda parte <c>a</c> ipsa similiter et absolute volet seu 
+          <lb ed="#S" n="73"/>diliget invite sed secundum quid solum invite quod non simpliciter invite 
+          <lb ed="#S" n="74"/>patet ex hoc quia sicut ipsa in principio a temporis vult habere dilectionem 
+          <lb ed="#S" n="75"/>illam quae vocetur <c>c</c> dilectionem ideo non invite habet illam ista 
+          <lb ed="#S" n="76"/>secundum dicta in secunda parte vel medietate a temporis volet habere <c>c</c> quia ista 
+          <lb ed="#S" n="77"/>habebit per totum <c>a</c> ad minus velle ipsius <c>c</c> sicut et ipsum <c>c</c> et 
+          <lb ed="#S" n="78"/>ex quo in 2a meditate a temporis volet habere <c>c</c> habebit <c>c</c> non simpliciter 
+          <lb ed="#S" n="79"/>invite propter auctoritatem anselmi allegatam quod secundum quid invite habebit 
+          <lb ed="#S" n="80"/>ista voluntas <c>c</c> in 2a medietate <c>a</c> temporis sicut patet ex hoc quod per concessa <add place="margin-right">argumenta</add> 
+          <lb ed="#S" n="81"/>a me et per casum in principio a temporis vult <c>c</c> fore talis voluntas 
+          <lb ed="#S" n="82"/>in prima medietate a temporis et non ultra igitur si illi actus perseve<lb ed="#S" break="no" n="83"/>rent 
+          per totum <c>a</c> tempus tunc mensura medietate a temporis adhuc vult 
+          <lb ed="#S" n="84"/>voluntas ista <c>c</c> non fore in secunda medietate a temporis et tamen tunc erit per 
+          <lb ed="#S" n="85"/>casum igitur tunc erit consequentia suum velle quo vult <c>c</c> non fore in 2a medietate 
+          <lb ed="#S" n="86"/>a temporis vult igitur in 2a medietate a temporis <c>c</c> esse et ideo non simpliciter 
+          <lb ed="#S" n="87"/>invite habebit tunc <c>c</c> et tamen quia licet tunc volet esse simul tamen habebit 
+          <lb ed="#S" n="88"/>voluntate quod tunc non esset <c>c</c> et tunc habebit illum ideo secundum quid invite sic 
+          <lb ed="#S" n="89"/>igitur intelligendo anselmum quod non potest simpliciter invite velle volitione 
+          <lb ed="#S" n="90"/>libera proprie sicut tenet ista responsio quam inprobat doctor iste 
+          <lb ed="#S" n="91"/>ille multa velle naturalia praecedentia omnem deliberationem post deliberationem 
+          <lb ed="#S" n="92"/>saepissime recipiat vel saltem sic possibile quod recipiat velit 
+          <lb ed="#S" n="93"/>nolit
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1191">
+          <pc type="pilcrow"/> verumptamen aliter forte et melius potest dici quod anselmus in<lb ed="#S" break="no" n="94"/>telligit 
+          quod nemo potest invitus primo casuare velle proprie liberum et tamen 
+          <lb ed="#S" n="95"/>velit nolit si tale eliciat retinebit et tamen probatur contrarium per 
+          <lb ed="#S" n="96"/>illud augustinus quod aliquid non cogitur facere vel non facit illud vel vo<lb ed="#S" break="no" n="97"/>lens 
+          facit illud
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1204">
+          <pc type="pilcrow"/>Si haec auctoritas applicetur ad primam productionem 
+          <lb ed="#S" n="98"/>instantaneam et liberam istius dilectionis <c>c</c> de qua et eius continuatione est 
+          <lb ed="#S" n="99"/>hic sermo auctoritas facit pro me quia <c>c</c> consequenter et libere et non 
+          <lb ed="#S" n="100"/>coactive nec necessitate libertati contraria causabatur et hoc sonat 
+          <lb ed="#S" n="101"/>ipsa auctoritas quae exprimit facere et tantum continuare vel conservare 
+          <lb ed="#S" n="102"/>si vero applicetur ipsa auctoritas ad <subst><add>continuationem</add> <del>conservationem</del></subst> <c>c</c> dico quod voluntas libere
+          <lb ed="#S" n="103"/>in principio a temporis causando <c>c</c> cogit seipsam et necessitat ad 
+          <lb ed="#S" n="104"/>continuandum <c>c</c> vel aliquam eius partem nec hoc est inconveniens etiam secundum aucto<lb ed="#S" break="no" n="105"/>res 
+          vult enim anselmus quod voluntas potest seipsam necessitare et cogere 
+          <lb ed="#S" n="106"/>in casu ut in <ref xml:id="aw98wa-xg3509-Rd1e1243">libello de concordia capitulo 3</ref> ubi dicit sic sicut <ref xml:id="aw98wa-xg3509-Rd1e1246">alias 
+          <lb ed="#S" n="107"/>in quaestione 10a primi libri allegavi</ref> opus voluntatis cui datum est ut quod 
+          <lb ed="#S" n="108"/>vult sic et quod non vult non sic voluntarium sive spontaneum 
+          <lb ed="#S" n="109"/>est quoniam spontanea voluntate fit et <unclear>unifariam<!--correction here --></unclear> est necessariam quia et 
+          <lb ed="#S" n="110"/>voluntate cogitur fieri sed has necessitates facit voluntatis libertas quae prius quam 
+          <lb ed="#S" n="111"/>sic eas cavere potest
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1264">
+          <pc type="pilcrow"/> sic dicam in casu isto quod voluntas libere 
+          <lb ed="#S" n="112"/>causando actum aliquem necessitat se ipsam et cogit ad continuationem
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1271">
+          <lb ed="#S" n="113"/><pc type="pilcrow"/> 2o arguit praedictus doctor sit si voluntas in principio <c>a</c> temporis libere 
+          <lb ed="#S" n="114"/>causans <c>c</c> dilectionem necessitaretur eam tenere per tempus <c>a</c> si ceterae circum<lb ed="#S" break="no" n="115"/>stantiae 
+          per omnia uniformes perseverent ut dixi quid igitur necessi<lb ed="#S" break="no" n="116"/>tat 
+          voluntatem ad tenendum <c>c</c> per <c>a</c> tempus non potest dici quod passio 
+          <lb ed="#S" n="117"/>alia quia ponatur quod nullam habebit vel oportet igitur quod cognitio adhuc 
+          <lb ed="#S" n="118"/>necessitet vel quod ipsa voluntas si autem cognitio necessitaret voluntatem 
+          <lb ed="#S" n="119"/>ad tenendum huius volitionem tunc sequitur quod quam non aliquid fortius nollet vel 
+          <lb ed="#S" n="120"/>non vellet habere aliquam volitionem huius tanto fortius et diu<lb ed="#S" break="no" n="121"/>tius 
+          haberet istam quia quanto aliquis volitionem aliquam nollet tanto 
+          <lb ed="#S" n="122"/>magis cognosceret illud quod nollet habere et parte cognitio est causa recen<lb ed="#S" break="no" n="123"/>tionis 
+          igitur fortior cognitio fortioris retentionis igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1309">
+          <pc type="pilcrow"/> nec 
+          <lb ed="#S" n="124"/>potest dici quod voluntas necessitet se quia voluntas nollet habere istam vo<lb ed="#S" break="no" n="125"/>litionem 
+          post primam medietatem temporis <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1320">
+          <pc type="pilcrow"/> ad istud dico quod ipsamet 
+          <lb ed="#S" n="126"/>voluntas supposito uniformi concursu omnium aliarum causarum puta 
+          <lb ed="#S" n="127"/>cognitionis <unclear>concedentis</unclear> volitionem <c>c</c> et huius necessitat ad continuan<lb ed="#S" break="no" n="128"/>dum 
+          <c>c</c> dilectionem omnis enim aliae causae ibi concurrentes agunt quantum possunt
+          <pb ed="#S" n="148-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quantum est ex parte earum et ideo si voluntas ponat set libere ad idem
+          <lb ed="#S" n="2"/>sequitur effectus et permanebit et omnia alia uniformiter perma<lb ed="#S" break="no" n="3"/>nebunt
+          donec voluntas libere cesset ab actu <c>c</c> sicut et libere eum 
+          <lb ed="#S" n="4"/>causavit non est autem in potestate <del rend="underline">voluntatis</del> alicuius creaturae ferentis se 
+          <lb ed="#S" n="5"/>in aliquid subito et sine medio suspendere totaliter motum illum quia tunc 
+          <lb ed="#S" n="6"/>foret instans instanti immediatum sicut alias declaravi et hoc 
+          <lb ed="#S" n="7"/>praecise si motus talis creaturae vel latio in aliquid sit productio 
+          <lb ed="#S" n="8"/>vere rei sicut est in proposito isto sed quando voluntas cum omnibus aliis 
+          <lb ed="#S" n="9"/>causis partialibus requisitis principiat active dilectionem ipsis cau<lb ed="#S" break="no" n="10"/>sis 
+          uniformiter aptatis respectu obiecti <c>c</c> dilectionis in principio 
+          <lb ed="#S" n="11"/><c>a</c> temporis et post nulla est causa quare <c>c</c> effectus cessaret cum 
+          <lb ed="#S" n="12"/>habeat causas sufficientes praesentes aptatas ad eius con<lb ed="#S" break="no" n="13"/>servationem 
+          a quibus sufficienter valeat dependere usque ad 
+          <lb ed="#S" n="14"/>instans quo aliqua de causis naturalibus illis incipiat a 
+          <lb ed="#S" n="15"/>moveri vel inpederi cuius oppositum in praesenti casu huius argumenti sup<lb ed="#S" break="no" n="16"/>ponitur 
+          vel usque ad instans quo placeat voluntati libere tunc essa<lb ed="#S" break="no" n="17"/>re 
+          cum illud tunc seu instans venerit non enim velle habitum in principio 
+          <lb ed="#S" n="18"/><c>a</c> temporis de non habenda <c>c</c> dilectione ultra primam medietatem minimi 
+          <lb ed="#S" n="19"/>temporis a se perceptibilis sufficit sine pluri ad hoc quod dilectio <c>c</c> 
+          non recipiatur ultra medietatem a temporis cum quia hoc est proprium so<lb ed="#S" break="no" n="20"/>li 
+          divinae voluntati quod per hoc quod nunc vult alias aliquid fieri vel 
+          <lb ed="#S" n="21"/>destrui quod eo ipso tunc fiat vel cesset quod modo vult tunc fieri 
+          <lb ed="#S" n="22"/>vel cessare ipse enim solus est qui dixit et facta sunt tum 
+          <lb ed="#S" n="23"/>quia velle illud quo vult post medietatem a temporis in percepta<lb ed="#S" break="no" n="24"/>tum 
+          distincte ut praedixi <c>c</c> non esse non repugngnat ipsi <c>c</c> di<lb ed="#S" break="no" n="25"/>lectioni 
+          cum compatiatur <c>c</c> in principio <c>a</c> et per totam primam medietatem 
+          <lb ed="#S" n="26"/><c>a</c> etiam secundum doctorem istum igitur per illud velle habitum in principio <c>a</c> 
+          <lb ed="#S" n="27"/>de non continuatione <c>c</c> ultra medietatem <c>a</c> numquam cessabit 
+          <lb ed="#S" n="28"/><c>c</c> dilectio nisi aliud sit in causa nec poni poterit aliud in causa nisi 
+          <lb ed="#S" n="29"/>ipsa voluntas cum omnia alia ponantur uniformiter se habere igitur oportet quod ipsa 
+          <lb ed="#S" n="30"/>voluntas velit isto tunc adveniente habere actum alium vel quod ve<lb ed="#S" break="no" n="31"/>lit 
+          tunc vel eligat aliud electione vel <sic>volutione</sic> repungnan<lb ed="#S" break="no" n="32"/>te 
+          <c>c</c> dilectioni vel quod velit isto tunc veniente tunc <c>c</c> non esse 
+          <lb ed="#S" n="33"/>sed haec non sunt voluntati possibilia ex se quia per principalem responsionem <c>a</c> tempus 
+          <lb ed="#S" n="34"/>est minimum tempus ab ista voluntate existentibus praecise illis dispositionibus 
+          <lb ed="#S" n="35"/>distincte perceptibile vel maximum quod ab ea percipi non potest et 
+          <lb ed="#S" n="36"/>quod dandum sic tale alias per philosophum demonstravi sed si citra finem illius 
+          <lb ed="#S" n="37"/><c>a</c> postquam in principio <c>a</c> sententiasset tunc volendum vel iux<lb ed="#S" break="no" n="38"/>ta 
+          dictamen sententiat nunc esse volendum posset iterato habere 
+          <lb ed="#S" n="39"/>cognitionem dicentem tunc esset cessandum vel tunc aliud esse volendum 
+          <lb ed="#S" n="40"/><c>a</c> non esset tmepus minimum ab ea perceptibile secundum dispositiones tunc habi<lb ed="#S" break="no" n="41"/>tas 
+          praecise quia omne tempus est ab ea distincte perceptibile cuius 
+          <lb ed="#S" n="42"/>extrema distincte potest advertere hoc non <add place="abovel-line">est</add> distincte percipere tempus aliquod 
+          <lb ed="#S" n="43"/>sequitur igitur quod voluntas citra finem <c>a</c> non poterit de se habere velle aliquod 
+          <lb ed="#S" n="44"/>repugnans <c>c</c> stantibus praecise eisdem omnibus circumstantis quibus 
+          <lb ed="#S" n="45"/>prius aliis a voluntate nec etiam libere cessare ab ipso quia hoc 
+          <lb ed="#S" n="46"/>non posset nisi libere iuxta dictamen aliquod vel contra dictamen latum <unclear>perceptibilitatis</unclear> 
+          <lb ed="#S" n="47"/>super alius instans sic dicendo nunc fac vel nunc cessa et hoc non 
+          <lb ed="#S" n="48"/>potest de se ut probavi igitur citra finem a cessare non poterit <c>a</c> 
+          <lb ed="#S" n="49"/><c>c</c> actum et causa est iam reddita satis plane
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1509">
+          <pc type="pilcrow"/> ad formam argumenti 
+          <lb ed="#S" n="50"/>dico quod ipsa voluntas <add place="margin-left">eo quod in principio libere causat actum vel</add> eo quod libere tunc vult actum esse quem habet vel contraire 
+          <lb ed="#S" n="51"/>est causa necessitans se ipsam ad continuationem <c>c</c> post <c>a</c> si cetera 
+          <lb ed="#S" n="52"/>omnia uniformiter quantum sufficit ad propositum se habebunt et cum inprobabitur 
+          <lb ed="#S" n="53"/>hoc quod voluntas nollet habere <c>c</c> post primam medietatem <c>a</c> temporis dico 
+          <lb ed="#S" n="54"/>quod in isto casu voluntas vult sibi inpossibile deducere ad effectum sicut 
+          <lb ed="#S" n="55"/>et si vellet praecise per instans habere aliquam volitionem sic quod nec ipsa nec aliquid 
+          <lb ed="#S" n="56"/>eius postea remaneret quia non est in eius potestate naturali scire 
+          <lb ed="#S" n="57"/>quando praecise erit lapsa prima medietas <c>a</c> temporis ut praedixi sicut 
+          <lb ed="#S" n="58"/>enim secundum <ref xml:id="aw98wa-xg3509-Rd1e1546">philosophum in de sensu et sensato</ref> quanto decrescit sensibilis qualitas 
+          <lb ed="#S" n="59"/>tanto oportet dare sensum fortiorem vel non percipietur parva qua<lb ed="#S" break="no" n="60"/>litas 
+          secundum extensionem ad quam dividendo pervenietur immo secundum 
+          <lb ed="#S" n="61"/>eum oporteret si qualitas sensibilis quantumcumque parva debeat vel 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="62"/>possit distincte percipi a sensu quod sicut divisio continui potest in infini<lb ed="#S" break="no" n="63"/>tum
+          procedere ita et <sic>vigoratio</sic> sensus et consequens est inpossibile apud 
+          <lb ed="#S" n="64"/>potentiam nullae creaturae igitur antecedens illud totum esset falsissimum si omni tempore quantum<lb ed="#S" break="no" n="65"/>cumque 
+          parvo in infinitum procedendo per divisionem versus minus posset esse 
+          <lb ed="#S" n="66"/>data virtute creatura tempus minus percipi distincte aliis conditio<lb ed="#S" break="no" n="67"/>nibus 
+          uniformiter cum praecisione se habentibus sicut prius igitur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1573">
+          <pc type="pilcrow"/> 3o 
+          <lb ed="#S" n="68"/>arguit doctor si oporteat <c>c</c> si tenetur in principio a temporis continuari 
+          <lb ed="#S" n="69"/>per totum <c>a</c> vel igitur per totum illud tempus manet actus iste aeque intensus 
+          <lb ed="#S" n="70"/>sicut fuit in primo instanti vel non si sic tunc lapso isto par<lb ed="#S" break="no" n="71"/>vo 
+          tempore continuabitur ultra per tantumdem tempus nisi alia circumstantia re<lb ed="#S" break="no" n="72"/>mittatur 
+          quod non oportet contingere nec voluntas ipsa conservans <c>c</c> re<lb ed="#S" break="no" n="73"/>mittere 
+          igitur remanebit actus <c>c</c> ita fortis in fine <c>a</c> 
+          <lb ed="#S" n="74"/>temporis igitur necesse est ipsum ulterius continuari per aequale tempus ipsi 
+          <lb ed="#S" n="75"/><c>a</c> et pari ratione 3o et 4o et sit sine fine consequens illatum impossibile 
+          <lb ed="#S" n="76"/>igitur antecedens scilicet via data
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1609">
+          <pc type="pilcrow"/> Item si maneret actus uniformiter 
+          <lb ed="#S" n="77"/><subst><add place="margin-center">fortis</add> <del rend="expunctuation">actus</del></subst> et intensus per huius tempus pari ratione ita foret in angelis 
+          <lb ed="#S" n="78"/>beatis quia non videretur posse dari ratio diversitatis quare non 
+          <lb ed="#S" n="79"/>et si sic tunc si viderent deum velle unum et postea statim 
+          <lb ed="#S" n="80"/>oppositum vel unum aliud <add place="above-line">non</add> possunt conformare se voluntati divinae in <unclear>falsum</unclear>
+          <lb ed="#S" n="81"/>illud tempus et per consequens pro tunc haberent tales actus invite
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1636">
+          <lb ed="#S" n="82"/><pc type="pilcrow"/> Item similiter fuisset in christo et sic postquam fuit mortuus voluit 
+          <lb ed="#S" n="83"/>se iterum mori quia in instanti mortis suae voluit se ipsum mori 
+          <lb ed="#S" n="84"/>et si hoc igitur secundum istam responsionem de necessitate ista volitio qua voluit 
+          <lb ed="#S" n="85"/>ipsum tunc mori quando moriebatur continuabatur ultra consequens falsum quia 
+          <lb ed="#S" n="86"/>irrationabiliter voluit ipsum mori qui mortuus iam esset
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1650">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="87"/>si ista volitio <c>c</c> manet unformis per totum <c>a</c> quaero aut potest 
+          <lb ed="#S" n="88"/>corrumpi subito vel non sed oportet quod corrumpatur successive si subito 
+          <lb ed="#S" n="89"/>igitur infra illud tempus poterit corrumpi si necessario continuatur per tempus igitur 
+          <lb ed="#S" n="90"/>ultra illud instans quod erit finis talis parvi necessario permanebit 
+          <lb ed="#S" n="91"/>sicut est argutum <ref xml:id="aw98wa-xg3509-Rd1e1669">superius in <unclear>prima</unclear> forma huius partis principalis argumenti</ref>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1675">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="92"/>quod non manet uniformis videtur quia si sic maneret per totum 
+          <lb ed="#S" n="93"/><c>a</c> inaequali gradu tunc conatus voluntatis quo conaretur in 
+          <lb ed="#S" n="94"/>principio talis temporis non intenderet actum illud consequens falsum ut videtur 
+          <lb ed="#S" n="95"/>igitur non videtur quod <add place="margin-center">actus</add> maneat <add place="margin-right">uniformis</add> per totum tempus illud modicum si detur alia pars 
+          <lb ed="#S" n="96"/>quod actus iste non maneat continue in aequali gradu per illud tempus <c>a</c> sequitur continue 
+          <lb ed="#S" n="97"/>quod naturaliter remittitur per illud tempus donec in fine illius temporis cesset esset quod non 
+          <lb ed="#S" n="98"/>videtur verum quia sicut agens istum actum potuit subito per te pro<lb ed="#S" break="no" n="99"/>ducere 
+          vel saltem non per partem ante partem pro eo quod ad eius receptionem 
+          <lb ed="#S" n="100"/>erat passum satis dispositum et actum sufficiens et sufficienter 
+          <lb ed="#S" n="101"/>praesens non videtur ratio quin actus iste subito poterit corrumpi igitur non 
+          <lb ed="#S" n="102"/>requiritur quod successive et partialiter cesset esse
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1714">
+          <pc type="pilcrow"/> Item sicut ibi non est aliqua 
+          <lb ed="#S" n="103"/>resistentia quin <c>c</c> actus subito producatur ita nec quin subito 
+          <lb ed="#S" n="104"/>corrumpatur quid enim resisteret hic vel ibi dato etiam quod successive 
+          <lb ed="#S" n="105"/>oporteret actum istum produci vel destrui sequeretur quod esset ibi verus 
+          <lb ed="#S" n="106"/>motus scilicet acquisitio partis post partem actus talis et pari ratione 
+          <lb ed="#S" n="107"/>foret verus motus in productione actus cognitionis vel scientiae contra <ref xml:id="aw98wa-xg3509-Rd1e1731">philosophum 7 
+          <lb ed="#S" n="108"/>physicorum</ref>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1737">
+          <pc type="pilcrow"/> <unclear>Haec</unclear> valet respondere quod non sequitur quod sit ibi verus motus quia 
+          <lb ed="#S" n="109"/>non est ibi materia quia ita vere ista successio mensuratur tempore sicut si esset 
+          <lb ed="#S" n="110"/>materia sufficit igitur ad verum motum successiva formae productio in subiecto re<lb ed="#S" break="no" n="111"/>ceptivo 
+          ipsius vel destructio successiva
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1750">
+          <pc type="pilcrow"/> ad istud argumentum cum inquiritur 
+          <lb ed="#S" n="112"/>an actus <c>c</c> manebi aeque intensus per totum <c>a</c> tempus vel non dico 
+          <lb ed="#S" n="113"/>quod utraque pars potest contingere si enim omnes aliae concausae illius actus et circum<lb ed="#S" break="no" n="114"/>stantiae 
+          eius intensionem promoventes maneant uniformes per totum 
+          <lb ed="#S" n="115"/>tempus <c>a</c> nec noviter aliquid inpediat quod non prius tunc manebit 
+          <lb ed="#S" n="116"/>actus aeque intensus usque ad finem <c>a</c> temporis exclusive si 
+          <lb ed="#S" n="117"/>alia de concausis eius activis remittatur vel infra tempus <c>a</c> a<lb ed="#S" break="no" n="118"/>liunde 
+          <unclear>causaliter</unclear> vel per deum vel quovis alio modo inpediatur quam 
+          <lb ed="#S" n="119"/>in principio a temporis tunc vel infra a cessabit vel remitteretur actus 
+          <c>c</c> sed hoc non stabit per ipsam voluntatem sed aliunde proveniet ut 
+          <lb ed="#S" n="120"/>probavi et tunc non remanebunt omnes et praecise eodem circumstantiae 
+          <lb ed="#S" n="121"/>sicut prius contra causam argumenti
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1792">
+          <pc type="pilcrow"/> ad primam igitur formam cum probatur dato quod 
+          <lb ed="#S" n="122"/><c>c</c> dilectio maneat uniformis tunc pari ratione per tantumdem tempus 
+          <lb ed="#S" n="123"/>continebatur actus illius iterum et iterum et ita sine termino ceteris pari<lb ed="#S" break="no" n="124"/>bus 
+          dico quod non sequitur ymmo libere poterit voluntas ratione suae liberta<pb ed="#S" n="149-r"/><cb ed="#S" n="a"/><lb ed="#S" break="no" n="1"/>tis 
+          cessare totaliter ab isto actu in ultimo instanti temporis a sicud et totaliter 
+          <lb ed="#S" n="2"/>istam pro<del rend="expunctuation">d</del>duxit in primo instanti temporis <c>a</c> sicut enim in hiis quae fiunt subito 
+          <lb ed="#S" n="3"/>est dare primum instans esse eorum et non ultimum instans non esse eorum ita in hiis quae simul 
+          <lb ed="#S" n="4"/>desinit esse est dare primum non esse eorum et non ultimum esse eorum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1821">
+          <pc type="pilcrow"/> dico igitur
+          <lb ed="#S" n="5"/>quod in instanti ultimo a temporis potest voluntas ab actu <c>c</c> quod totaliter unifor<lb ed="#S" break="no" n="6"/>mem 
+          usque tunc habuit simul ac subito tunc cessare magister aut 
+          <lb ed="#S" n="7"/>iste tunc ymaginatur quod in isto instanti deberet esse ita ita fortis et inten<lb ed="#S" break="no" n="8"/>sus 
+          sicut ante et certe hoc non oportet et tamen ita potest contingere et si 
+          <lb ed="#S" n="9"/>hoc placeat tunc voluntati noviter tunc ad hoc ceteris paribus maneret 
+          <lb ed="#S" n="10"/>iterum per tempus tantumdem seu aequale ipsi <c>a</c> infra quod ceteris paribus ab 
+          <lb ed="#S" n="11"/>actu isto cessare non potuit et ita de fine 2i temporis vel 
+          <lb ed="#S" n="12"/>3i vel 4i non dico tamen quod si habet actum istum ita fortem sicut prius 
+          <lb ed="#S" n="13"/>in fine temporis dati quod iterum eo ipso haberet iterum per tantumdem tempus et 
+          <lb ed="#S" n="14"/>sic de aliis quia hoc non oportet sed si cetera sint paria ut dixi tunc 
+          <lb ed="#S" n="15"/>oportet enim si in fine dati temporis noviter velit actum huius tunc habere vel 
+          <lb ed="#S" n="16"/>retinere et cetera sint paria quae <sic>muant</sic> ad actum conservandum 
+          <lb ed="#S" n="17"/>sed forte si in isto finali destrueretur et non ex nova complacentia 
+          <lb ed="#S" n="18"/>teneret actum causale esset quantum ad voluntatem actum istum cessare 
+          <lb ed="#S" n="19"/>ante finem secundi temporis aequalis vel non sed si advertatur tunc aliquid ut prius 
+          <lb ed="#S" n="20"/>nam cum voluntas sic causa libera in omni instanti quibus voluerit animadverso <add place="margin-center">dum</add>
+          <lb ed="#S" n="21"/><add place="margin-left">fuerit</add> potest ipsum libere actum tantum praehabitum amittere vel novum eli<lb ed="#S" break="no" n="22"/>cere 
+          omnibus aliis requisitis sicut prius quo potest intellectus cum venerit 
+          tale instans realiter dictare nunc est tale obiectum diligendum vel nunc est 
+          <lb ed="#S" n="23"/>tale vel tale volendum potest voluntas ratione suae <unclear>libere</unclear> <unclear>potestatis</unclear> actum 
+          <lb ed="#S" n="24"/>ab ea <unclear>libere</unclear> <unclear>potestatum</unclear> dimittere vel casuabile elicere sicut tunc senten<lb ed="#S" break="no" n="25"/>tiat 
+          intellectus sed hoc onstensus est supra quod hoc non potest intellectus facere 
+          <lb ed="#S" n="26"/>infra tempus <c>a</c> in cuius principio causabatur per <unclear><!-- might something before casum -->casum</unclear> actus <c>c</c> con<lb ed="#S" break="no" n="27"/>formiter 
+          <unclear>mundo</unclear> intellectus igitur non oportet quod in fine temporis <c>a</c> habeat voluntas 
+          <lb ed="#S" n="28"/>actum <c>c</c> cuius oppositum supponit iste esse dandum quod non est verum 
+          <lb ed="#S" n="29"/>nec ipse probavit ideo deficit argumentum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1915">
+          <pc type="pilcrow"/> ad 2am formam concedo quod 
+          <lb ed="#S" n="30"/>ceteris paribus ita esset in angelis beatis de actibus illis quos libere 
+          <lb ed="#S" n="31"/>causant et libere dimittunt si cetera sint paria hic et ibi nisi quod minus 
+          <lb ed="#S" n="32"/>tempus potest ex natura sua vel ex natura sui intellectus percipere angelus quam 
+          <lb ed="#S" n="33"/>homo purus et praecise quam homo pro statu naturae lapsae in quo corpus 
+          <lb ed="#S" n="34"/>quod corrupitur aggravat animam et cum probatur quod non quia tunc si deum vi<lb ed="#S" break="no" n="35"/>derent 
+          velle unum in principio istius parvi temporis et statim post oppositum 
+          <lb ed="#S" n="36"/>etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1936">
+          <pc type="pilcrow"/> dicendum quod illud antecedens non subest potentiae activae naturali angeli bene tamen 
+          <lb ed="#S" n="37"/>subest divinae omnipotentiae in medio illius parvi temporis facere eos sen<lb ed="#S" break="no" n="38"/>tire 
+          vel firmiter credere quod deus vult quod alii velint et dico 
+          <lb ed="#S" n="39"/>quod habito tali iudicio potest nunc se involito simul cum illo mundo 
+          <lb ed="#S" n="40"/>in eis a do tanto libere vel necessario conformare et ita posset viator 
+          <lb ed="#S" n="41"/>sed simile circa ipsum fieret a deo sed tunc dimittitur casus argumenti quia tunc 
+          <lb ed="#S" n="42"/>non habet praecise ista adiutoria vel dispositiones seu circumstantia quas prius 
+          <lb ed="#S" n="43"/>et ita receditur ab isto quod supponit <ref xml:id="aw98wa-xg3509-Rd1e1955">Responsio prius data</ref>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1958">
+          <pc type="pilcrow"/> Et quod principale 
+          <lb ed="#S" n="44"/>supposuit argumentum et solum probatur una veritas cuius oppositum nullus dedit 
+          <lb ed="#S" n="45"/>deus enim in casu isot faceret illum angelum habere quod <unclear>de</unclear> iudicium citra 
+          <lb ed="#S" n="46"/>finem minimi temporis ab angelo naturaliter perceptibilis de nunc volendo vel non 
+          <lb ed="#S" n="47"/>volendo quod prius voluit vel non voluit vel aliquo simili cuius iu<lb ed="#S" break="no" n="48"/>dicium
+          praehabito opposito in principio illius temporis parvi angelus ille infra 
+          <lb ed="#S" n="49"/>limites istius parvi temporis habere non poterat per naturam
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e1978">
+          <pc type="pilcrow"/> ad 3am forma 
+          <lb ed="#S" n="50"/>de christo dico quod duplici voluntate voluit mori divina scilicet et humana 
+          <lb ed="#S" n="51"/>et harum utraque ab instanti conceptionis usque ad instans mortis suae 
+          <lb ed="#S" n="52"/>voluit mori in futuro et per divinam volitionem formaliter solum per instanti 
+          <lb ed="#S" n="53"/>mortis voluit praesentialiter mori sicut et praecise in instanti isto mori<lb ed="#S" break="no" n="54"/>ebatur 
+          et hoc supposito quod anima simul et subito separetur a corpore 
+          <lb ed="#S" n="55"/>et qualibet eius parte quia deus volitione divina non vult aliquid esse nisi cum 
+          <lb ed="#S" n="56"/>praesentialiter est et idem dico de anima christi si deus ipse fuit illi 
+          <lb ed="#S" n="57"/>animae volitio qua formaliter voluit christum mori de hac igitur christi 
+          <lb ed="#S" n="58"/>volitione nulla est penitus ad propositum difficultas sed loquendo de creata 
+          <lb ed="#S" n="59"/>volitione animae christi certum est quod ipsa ante mortem voluit tali 
+          <lb ed="#S" n="60"/>volitione christum mori in futuro sed utrum ipsa voluerit tunc principaliter 
+          <lb ed="#S" n="61"/>christum mori cum actualiter moriebatur supposito quod christi mors 
+          <lb ed="#S" n="62"/>et aliorum sit instantanea fides non determinat 
+            <add>
+              sic igitur instans mortis christi <c>b</c> dico quod fides non certificat nos utrum anima 
+              christi per creatam volitionem unico fortius non utrum per ab ipsa creata 
+              volitionem <c>b</c> existente voluerit etiam praesenti christum mori
+            </add>
+          dico tamen quod sive per a deo
+          <lb ed="#S" n="63"/>in ea tan<del rend="expunctuation">n</del>tam volitionem sine ab ea tantam volitionem <c>b</c> existente 
+          <lb ed="#S" n="64"/>fit <c>b</c> instans mortis christi ipsa voluit christum in <c>b</c> mori vel tunc 
+          <lb ed="#S" n="65"/>mori licet non credam aliquid indivisibile mathematicum si daretur esse <add place="margin-center">naturaliter</add>
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>ab aliqua creatura distincte perceptibile ipsa post illud instans voluit christum mori
+          <lb ed="#S" n="67"/>quia ipsa non potuit simul et semel subito desistere ab hoc velle 
+          <lb ed="#S" n="68"/>alioquin instans instanti posset succedere sine medio quia subito desinere et instantaneae 
+          <lb ed="#S" n="69"/>et in instanti idem significant secundum intellectum cui sub est veritas et illud seriosius de<lb ed="#S" break="no" n="70"/>claravi 
+          alias nec est apud me inconveniens quod ipsa manserit in actu 
+          <lb ed="#S" n="71"/>isto per tempus quo minus ab ea non perceptibile per naturam stantibus omni<lb ed="#S" break="no" n="72"/>bus 
+          et praecise illis dispositibus quibus prius aliis quae sint ad propositum 
+          <lb ed="#S" n="73"/>si suae natura quo ad hoc fuerit derelicta nec est hoc mirum si at<lb ed="#S" break="no" n="74"/>tendatur 
+          quod christum mori in <c>b</c> instanti non est nisi animam esse christi esse in <c>b</c> 
+          <lb ed="#S" n="75"/>primo separatam <c>b</c> transiit per momentum parvum temporis voluerit ita anima 
+          <lb ed="#S" n="76"/>se ipsam esse primo in <c>b</c> a suo corpore separatam
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2072">
+          <pc type="pilcrow"/> dices immo sequitur 
+          <lb ed="#S" n="77"/>quod anima voluerit aliquid esse vel quod aliquid voluerit absolute et ardenter esse 
+          <lb ed="#S" n="78"/>vel fieri et tamen suum volitum non optinuerit contram patet quia post <c>b</c> instans 
+          <lb ed="#S" n="79"/>voluit sic primo esse separata a suo corpore et hoc effici non po<lb ed="#S" break="no" n="80"/>tuit 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2088">
+          <pc type="pilcrow"/> dicendum quod sufficit quod fuerit cum ipsa numquam voluit quod christus 
+          <lb ed="#S" n="81"/>post <c>b</c> moreretur immo voluit contrarium et ideo non sequitur quod non opti<lb ed="#S" break="no" n="82"/>nuerit 
+          quod volebat licet illud acutius voluerit quam optinuerit 
+          <lb ed="#S" n="83"/>saltem quantum ad circumstantiam aliquam ex parte voliti concurrentem quia 
+          <lb ed="#S" n="84"/>scilicet ipsum <c>b</c> non ita diu mansit sicut ipsa voluit christum mo<lb ed="#S" break="no" n="85"/>ri 
+          in <c>b</c> et deus etiam ista voluerit eam diutius velle qui aliter 
+          <lb ed="#S" n="86"/>non posse sibi dedit infinite tamen citius per divinam potentiam po<lb ed="#S" break="no" n="87"/>terat 
+          dimittere actum illum sincategorimatice sumpto hoc adverbio infini<lb ed="#S" break="no" n="88"/>te 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2117">
+          <pc type="pilcrow"/> aliter posset dici ad hominem et multum leviter secundum principia <name xml:id="aw98wa-xg3509-Nd1e2121">eiusdem 
+          <lb ed="#S" n="89"/>doctoris</name> quod <c>a</c> <c>b</c> instanti et deinceps ista volitio non mansit 
+          <lb ed="#S" n="90"/>volitio vel quia forte qualitas illa ab illo instanti et deinceps con<lb ed="#S" break="no" n="91"/>servabatur 
+          a solo deo et secundum ipsum talis qualitas quae nata est esse 
+          <lb ed="#S" n="92"/>volitio numquam est volitio nisi dum causatur active a voluntate 
+          <lb ed="#S" n="93"/>vel quia secundum alios talis qualitas non est volitio nisi ad placitum 
+          <lb ed="#S" n="94"/>voluntatis
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2143">
+          <pc type="pilcrow"/> Sed hanc responsionem tenere non possum quia philosophus inititur principiis 
+          <lb ed="#S" n="95"/>oppositis ut alias declaravi
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2150">
+          <pc type="pilcrow"/> ad 4am formam dicendum quod ista potest 
+          <lb ed="#S" n="96"/>corrumpi subito vel successive sed non ceteris paribus citra finem <unclear>cris</unclear>
+          <lb ed="#S" n="97"/><c>a</c> sed primo subito in eius fine et argumentum in contrarium patet ex 
+          <lb ed="#S" n="98"/>responsione ad primam formam
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2164">
+          <pc type="pilcrow"/> ad 5am formam dicendum quod voluntatem co<lb ed="#S" break="no" n="99"/>nari 
+          non est nisi niti habere perfectam et indistinctam cognitionem 
+          <lb ed="#S" n="100"/>vel contemplationem et secundum optimas et <unclear>placibilitas</unclear> et magis <unclear>allectivas</unclear> 
+          <lb ed="#S" n="101"/>conditiones obiecti sic enim de colligere se et vires alias ut 
+          <lb ed="#S" n="102"/>habeantur aliae circumstantiae praeviae in optimo est conatus magus 
+          <lb ed="#S" n="103"/>ad bene et intense volendum quia omnibus aliis paribus licet 
+          <lb ed="#S" n="104"/>ex libertate sua possit voluntas indifferunt velle et non velle 
+          <lb ed="#S" n="105"/>tamen si volet nolet ita intense sicut exigunt circumstantiae concurren<lb ed="#S" break="no" n="106"/>tes 
+          et per consequens quam diu omnia alia paria sunt et ipsa nolet ipsa aequaliter 
+          <lb ed="#S" n="107"/>et aequae intense nolet volet igitur intense usque ad terminum temporis <c>a</c> 
+          si conetur <c>a</c> usque <c>a</c> et extunt usque ad finem omnia re<lb ed="#S" break="no" n="108"/>quisita 
+          uniformiter disponantur sed ex tunc et tunc etiam potest libere non 
+          <lb ed="#S" n="109"/>velle illud quod prius quantum autem ad formam argumenti consequentia est neganda quia 
+          <lb ed="#S" n="110"/>talis conatus ante actum facit multum ad intensionem actus 
+          <lb ed="#S" n="111"/>cum quia facit apponere illa quae posita augent actionem cum quia 
+          <lb ed="#S" n="112"/>facit amovere illa quae inpedirent actus intensionem si tum ista 
+          <lb ed="#S" n="113"/>omnia procurentur et maneant usque in finem a temporis sicut principale 
+          <lb ed="#S" n="114"/>supponunt argumentum actus remanebit aequaliter intensus usque in fi<lb ed="#S" break="no" n="115"/>nem 
+          <c>a</c> sed tunc cum suspendi poterit ex motu libero voluntatis sicut 
+          <lb ed="#S" n="116"/>est superius declaratum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2221">
+          <pc type="pilcrow"/> praeterea duae formae probantes quod non oportet actum 
+          <lb ed="#S" n="117"/><c>c</c> successive deficere vel desinere probant verum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2229">
+          <pc type="pilcrow"/> ad formam 3am 
+          <lb ed="#S" n="118"/>quae probat quod actus <c>c</c> nec potest produci nec corrumpi successive quia tunc eius 
+          <lb ed="#S" n="119"/>productio vel corrumptio esset vere motus concedo quod satis est hoc possibile et hoc est 
+          <lb ed="#S" n="120"/>etiam demonstrabile incremento luminis vel visionis ad successivam ap<lb ed="#S" break="no" n="121"/>proximationem 
+          obiecti visibilis vel etiam corporis luminosi Et ad <ref xml:id="aw98wa-xg3509-Rd1e2244">philosophum 7 physicorum</ref> 
+          <lb ed="#S" n="122"/>dicendum quod intelligit vel quod non est necessariam ex natura formarum talium vel earum 
+          <lb ed="#S" n="123"/>receptem quod ipse producantur vel deficiant successive quod concedo 
+          <lb ed="#S" n="124"/>vel aliter quod philosophus innititur ibi huic medio quod ad talia non est motus 
+          <lb ed="#S" n="125"/>vel mutatio quae sunt ad aliquid et ideo exponendus est ibi philosophus 
+          <lb ed="#S" n="126"/>sicut exponi alibi illud dictum ad idem
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2258">
+          <pc type="pilcrow"/> argumenta alia 
+          <lb ed="#S" n="127"/>fecit iste doctor non pauca quae repetunt et resumunt ista 
+          <lb ed="#S" n="128"/>sicut vera quorum iam opposita declaravi ideo ista pertranseo ut so<pb ed="#S" n="149-v"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>luta
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2272">
+          <pc type="pilcrow"/> 2o principaliter probatur aliter ab isto doctore quod caritas non augetur per meri<lb ed="#S" break="no" n="2"/>tum 
+          instantaneum quia si sic igitur per multum temporale augeretur in infinitum quia meritum 
+          <lb ed="#S" n="3"/>temporale excederet meritum instantaneum improportionaliter consequentia probatur ex hoc quia si augeretur 
+          <lb ed="#S" n="4"/>caritas per meritum instantaneum igitur per meritum ultimi instantis sequitur intentum quod pro quo 
+          <lb ed="#S" n="5"/>licet instanti tantum augeretur sicut pro ultimo instanti probatur quia non est maior ratio 
+          <lb ed="#S" n="6"/>de uno quam de alio ymmo non est ad hoc instans per totum illud tempus quin si 
+          <lb ed="#S" n="7"/>desisteret in primo instanti ista quod foret ultimum quin in isto mereretur sicut et 
+          <lb ed="#S" n="8"/>modo quod autem per meritum ultimi instantis augeretur caritas probat quia pro tunc 
+          <lb ed="#S" n="9"/>meretur per istum actum praemium aeternum aliter enim frustra teneret illum 
+          <lb ed="#S" n="10"/>actum pro tunc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2296">
+          <pc type="pilcrow"/> Item si actus voluntatis esset pro tunc primo contra praeceptum 
+          <lb ed="#S" n="11"/>esse demeretorius et modo est ista bonus et ista voluntas circumstantias habet sicut esset tunc in a<lb ed="#S" break="no" n="12"/>liis 
+          ergo modo est meritorius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2305">
+          <pc type="pilcrow"/> praeterea si actus <unclear>continuatus</unclear> per tale tempus foret 
+          <lb ed="#S" n="13"/>demeritorius pro ultimo instanti foret demeritorius aliter enim esset aliquis actus ma<lb ed="#S" break="no" n="14"/>lus 
+          pro quo non deberetur poena per consequens actus bonus pro tunc foret 
+          <lb ed="#S" n="15"/>meritorius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2318">
+          <pc type="pilcrow"/> Item si pro illo instanti non deberetur aliquod praemium tunc sequeretur quod 
+          <lb ed="#S" n="16"/>deus inaequaliter merentes aequaliter paremiaret posito casu communi de 
+          <lb ed="#S" n="17"/>duobus aequaliter merentibus usque ad <c>a</c> quorum unus habet actum meri<lb ed="#S" break="no" n="18"/>torium 
+          in <c>a</c> et alius non sit <c>a</c> ultimum instans temporis dandi
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2336">
+          <pc type="pilcrow"/> ad 
+          <lb ed="#S" n="19"/>istud dicendum quod prima consequentia non valet si sic igitur per meritum temporale id est 
+          <lb ed="#S" n="20"/>durans per tempus meretur praemium infinitum quia viator per bonum 
+          <lb ed="#S" n="21"/>actum tunc solum noviter meretur quando actus est sub libero <unclear>dm?o</unclear>
+          <lb ed="#S" n="22"/>voluntatis ita quod pro illa mensura est in naturali libertate voluntatis prae<lb ed="#S" break="no" n="23"/>via 
+          secundum naturam actui ponendo actum natura posterius licet for<lb ed="#S" break="no" n="24"/>san 
+          simul duratione habere vel non vel tenere vel non <sic>non</sic> autem 
+          <lb ed="#S" n="25"/>pro mensura pro qua vel in qua non potest non habere actum 
+          <lb ed="#S" n="26"/>talem sed dato quod quis libere causet actum bonum volendi in principio temporis
+          <lb ed="#S" n="27"/>minimi ab eo perceptibilis naturaliter secundum dispositiones praecisas praesentes non 
+          <lb ed="#S" n="28"/>est in potestate naturali talis voluntatis quin habeat illum actum si 
+          <lb ed="#S" n="29"/>cetera sint paria usque in finem huius temporis igitur ex illa continuatione 
+          <lb ed="#S" n="30"/>non noviter meretur nec noviter est laudabilis neque novo praemi<lb ed="#S" break="no" n="31"/>o 
+          ex hoc dignus et ideo non sequitur quod improportionaliter plus mereatur per meri<lb ed="#S" break="no" n="32"/>tum 
+          illud temporale quam per instantaneum immo si praecise duret per tempus illud 
+          <lb ed="#S" n="33"/>minimi distincte a tali virtue naturaliter cognoscibile secundum circumstantias 
+          <lb ed="#S" n="34"/>praecisas tunc habitas tunc nihil plus meretur ex continuatione tali sibi tota<lb ed="#S" break="no" n="35"/>liter 
+          non imputabili ultra eius instantaneam productionem liberam ut prae<lb ed="#S" break="no" n="36"/>dixi 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2384">
+          <pc type="pilcrow"/> Et cum probatur consequentia quia si augetur gratia per meritum ultimi instantis 
+          <lb ed="#S" n="37"/>igitur et per meritum cuiuslibet dicendum quod consequentia non valet deforma unde potest con<lb ed="#S" break="no" n="38"/>tingere 
+          quod <add place="above-line">non</add> augeat sibi gratiam per meritum instantis ultimi da<lb ed="#S" break="no" n="39"/>ti 
+          temporis minimi ab eo distincte perceptibilis si enim ex distractione 
+          <lb ed="#S" n="40"/>sola et non ex nova electione nec vere nec interpretative perseveret 
+          <lb ed="#S" n="41"/>in actu illo bono in ultimo instanti minimi temporis ab eo perceptibilis in 
+          <lb ed="#S" n="42"/>cuius temporis principio elective causavit illum tunc nullum penitus meritum 
+          <lb ed="#S" n="43"/>noviter sibi ex hoc <unclear>a crescit</unclear> plus quam ex hoc solo quod in 
+          <lb ed="#S" n="44"/>principio temporis illius causaverit istum nec unquam donec ex nova e<lb ed="#S" break="no" n="45"/>lectione 
+          vere vel interpretative habita perseveret in actum huius libere 
+          <lb ed="#S" n="46"/>praecausato sed quotiens noviter in illum complacuerit in tantum quod illum 
+          <lb ed="#S" n="47"/>principaret noviter si non esset totiens ut aestimo ad <unclear>istum</unclear> sibi prae<lb ed="#S" break="no" n="48"/>mium 
+          ascribitur sicut ei noviter tunc ab ipso libere causaretur quia si re<lb ed="#S" break="no" n="49"/>maneant 
+          praecise eadem adiutoria seu circumstantiae ad<lb ed="#S" break="no" n="50"/>iuvantes 
+          quae in principio temporis illius post potest ex natura sua in ultimo instanti 
+          <lb ed="#S" n="51"/>illius temporis habere novam electionem vel complacentiam in actu illo quia 
+          <lb ed="#S" n="52"/>tunc primo posset dmitti ideo tunc primo si in electione nova 
+          <lb ed="#S" n="53"/>perserveretur ulterius in hoc actu et non ex distractione ceteris paribus mere
+          <lb ed="#S" n="54"/>cur noviter sibi praemium et gratiam augeri et ideo patet quod illa consequentia 
+          <lb ed="#S" n="55"/>superius facta est neganda si meritum ultimi instantis auget gratiam 
+          <lb ed="#S" n="56"/>igitur pari ratione cuius licet alterius praecedentis quia nec citius posset actum istum 
+          dimittere ex suis naturalibus ut probavi 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2441">
+          <pc type="pilcrow"/> 4or media quae probant 
+          <lb ed="#S" n="57"/>quod in ultimo instanti meretur si aptarentur ad posse et non ad esse 
+          <lb ed="#S" n="58"/>concessa est conclusio quam deducerent sed quia non iuvant nisi quatenus 
+          <lb ed="#S" n="59"/>oporteret quod et meritum ultimi instantis auget et hoc verum non est 
+          <lb ed="#S" n="60"/>quod scilicet hoc oporteret ideo pro quanto ad hoc aptari possent
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2454">
+          <pc type="pilcrow"/> Responsio 
+          <lb ed="#S" n="61"/>ad primum quod frustra quo ad crementum meritum continuatur ul<lb ed="#S" break="no" n="62"/>tra 
+          ultimum instans vel etiam habetur in isto nisi ex electione nova vere 
+          <lb ed="#S" n="63"/>vel interpretative tunc habita habeatur sed tali posita ad aug<lb ed="#S" break="no" n="64"/>mentum 
+          gratiae haberetur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2467">
+          <pc type="pilcrow"/> ad 2m concedo quod si elective vere vel inter<cb ed="#S" n="b"/><lb ed="#S" break="no" n="65"/>pretative
+          perseveraret vel permaneret in ultimo instanti contra prohibitionem
+          <lb ed="#S" n="66"/>noviter sibi factam ab antiquo in actu usque tunc licite et for<lb ed="#S" break="no" n="67"/>te 
+          meritorie habito concedo quod demeritorius esset tunc sibi et in simili casu
+          <lb ed="#S" n="68"/>electio nova facret quod actus ille retentus non habita tali pro<lb ed="#S" break="no" n="69"/>hibitione 
+          tunc noviter gratiam augmentaret
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2484">
+          <pc type="pilcrow"/> ad 3m dico quod pre<lb ed="#S" break="no" n="70"/>cepta 
+          negativa obligant ad semper et praeceptum tale habetur de non 
+          <lb ed="#S" n="71"/>perseverando inculpa morali seu morali demerito ideo nisi ita 
+          <lb ed="#S" n="72"/>cito cesset noviter <add>a voluntate</add> sic demeritoria sicut potest peccat quia in ultimo instanti 
+          <lb ed="#S" n="73"/>temporis dati cessare posset ut datum est ideo nisi cesset tunc vere 
+          <lb ed="#S" n="74"/>vel interpretative in illius retentionem iudicabitur consentire et ideo concedo quod 
+          <lb ed="#S" n="75"/>in ultimo instanti dati temporis est ceteris omnibus cum precesione u<lb ed="#S" break="no" n="76"/>niformiter 
+          se habentibus actus iste noviter demeritorius sed de actu 
+          <lb ed="#S" n="77"/>meritorio non est ita quia nullus viator abligatur totiens mere<lb ed="#S" break="no" n="78"/>ri 
+          noviter sicut posset sed si super hoc haberet quis praeceptum quod 
+          <lb ed="#S" n="79"/>esset satis difficile ad tenendum tunc peccaret etiam nisi noviter 
+          <lb ed="#S" n="80"/>talem actionem eligeret vel actum demeritorium vel nisi in praehabitum complaceret 
+          <lb ed="#S" n="81"/>vere vel interpretative et si spontaneae modo <unclear>nd</unclear> hoc non obligatus 
+          <lb ed="#S" n="82"/>noviter se habeat in instanti isto quod actum huius noviter poneret nisi 
+          <lb ed="#S" n="83"/>esset praehabitus crescit eius meritum et si non habeat non <unclear>del</unclear> cres<lb ed="#S" break="no" n="84"/>cit 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2528">
+          <pc type="pilcrow"/> ad 4m dicendum quod si alter eorum ex nova electione ultra vel inter<lb ed="#S" break="no" n="85"/>pretativa 
+          habeat actum in <c>a</c> et alter ab eo cessat in <c>a</c> 
+          <lb ed="#S" n="86"/>non causando aliquem alium aeque bonum et tunc retinenti non debetur 
+          <lb ed="#S" n="87"/>plus de praemio sequeretur inconveniens ad quod deducitur ibi sed 
+          <lb ed="#S" n="88"/>si ex sola distractione habeatur ille actus ab uno istorum 
+          <lb ed="#S" n="89"/>in <c>a</c> et ab alio non habetur iste nec alius meritorius sed indifferens 
+          <lb ed="#S" n="90"/>aliquis vel nullius tunc non sequitur conclusio illata quia tunc non inaequaliter me<lb ed="#S" break="no" n="91"/>rentur 
+          ad hunc sensum quod alter eorum plus boni mereatur quam 
+          <lb ed="#S" n="92"/>alter verum est tamen tunc quod alter illorum diutius continuat actum meritorium 
+          <lb ed="#S" n="93"/>quam alter sed sicut prior continuatio non fuit novi praemii meritoria 
+          <lb ed="#S" n="94"/>ita nec continuatio illa utrique tamen illorum in priori merito perserve<lb ed="#S" break="no" n="95"/>rat 
+          sive isto modo actum continuat sive non si demeritum nullum obstet
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2563">
+          <lb ed="#S" n="96"/><pc type="pilcrow"/> 3o principaliter arguit <name xml:id="aw98wa-xg3509-Nd1e2568">iste doctor</name> sic si per meritum instantaneum augeatur 
+          <lb ed="#S" n="97"/>caritas sequitur quod aliquis in una hora posset augere suam caritatem 
+          <lb ed="#S" n="98"/>infinite quia si in instanti possit eam augere tam in omni parte proportionali 
+          <lb ed="#S" n="99"/>horae possit plus ad hoc facere quam in instanti et in hora sunt par<lb ed="#S" break="no" n="100"/>tes 
+          proportionales infinite igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2581">
+          <pc type="pilcrow"/> hic respondetur ut recitat <name xml:id="aw98wa-xg3509-Nd1e2585">doctor 
+          <lb ed="#S" n="101"/>ille</name> et verum est quod ita respondit <name xml:id="aw98wa-xg3509-Nd1e2590">okeltensis</name> et econverso iam in parte 
+          <lb ed="#S" n="102"/>sustinui illud idem <add place="margin-right">licet in multis</add> de multo continuationis vel frequentationis ac<lb ed="#S" break="no" n="103"/>tuum 
+          discordem ab ipso et <unclear>in prolem</unclear> eum sicut patebit in <ref xml:id="aw98wa-xg3509-Rd1e2602">6a 
+          <lb ed="#S" n="104"/>quaestione libri distinctione</ref>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2608">
+          <pc type="pilcrow"/> dico ergo ad propositum illud quod non in omni proportionali parte 
+          <lb ed="#S" n="105"/>temporis tantum facit ad agumentum gratiae actus continuatio sicut 
+          <lb ed="#S" n="106"/>ipsius instantanea libera causatio immo additur quod sola continuatio meriti non 
+          <lb ed="#S" n="107"/>augmentat gratiam
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2619">
+          <pc type="pilcrow"/> Sed contra tunc ita bonum esset homini <unclear>co?rere</unclear> 
+          <lb ed="#S" n="108"/>sicut dictum continue summe diligere si continuatio ista non augeret meritum 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2628">
+          <lb ed="#S" n="109"/><pc type="pilcrow"/> Item si sic tunc in casu unus simplicissimus habens actum remissimum 
+          <lb ed="#S" n="110"/>magis meretur infra illud tempus quam summe contemplans deum continue 
+          <lb ed="#S" n="111"/>per illud tempus consequentia probatur quia actus contemplantis excedit actum 
+          <lb ed="#S" n="112"/>simplicis in certo sic quod in decuplo ergo si simplex ille infra tempus 
+          <lb ed="#S" n="113"/>datum decies replicaret actum suum ipse tantum vel plus mere<lb ed="#S" break="no" n="114"/>retur 
+          sicut contemplans ille per suum continuatum quod in videtur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2645">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="115"/>inprudenter continuaret aliquis bonum opus suum quia magis meritorium 
+          <lb ed="#S" n="116"/>esset sibi dimittere actum et iterum similiter operari hoc enim faceret 
+          <lb ed="#S" n="117"/>ad meritum continuatio non nam aliter sequeretur quod continuatio per infinitas 
+          <lb ed="#S" n="118"/>partes proportionales temporis vel per instantia infinita augeret caritatem 
+          <lb ed="#S" n="119"/>in infinitum quod falsum est
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2661">
+          <pc type="pilcrow"/> Item tunc illud consilium apostoli non esset pru<lb ed="#S" break="no" n="120"/>denter 
+          datum sine intermissione orate Item Iacobus in caa<lb ed="#S" break="no" n="121"/>nonica 
+          sua multum valet <unclear>deptatio</unclear> iusti assidua
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2673">
+          <pc type="pilcrow"/> Item de 
+          <lb ed="#S" n="122"/>moyse legitur quod quando cessavit orare praevabuit amalectus 
+          <lb ed="#S" n="123"/>israel et quando oravit continue fuit econtra
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2682">
+          <pc type="pilcrow"/> Item 10 ethicorum lau<lb ed="#S" break="no" n="124"/>dat 
+          vel multum felicitatem speculativam quia ipsa est continua
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2689">
+          <pc type="pilcrow"/> Item continua<lb ed="#S" break="no" n="125"/>tio 
+          in malo est chaurizatio ire dei iacob 5 capitulo elo<lb ed="#S" break="no" n="126"/>quens 
+          divitibus conservantibus divitias usque ad <unclear>putrefactionem</unclear> 
+          <lb ed="#S" n="127"/>etc dicit persistentes in avaritia cordis duritia di<lb ed="#S" break="no" n="128"/>vitiae 
+          in quid <unclear>vestrae</unclear> putrefactae sunt et vestigata vestra <unclear>atine<lb ed="#S" break="no" n="129"/>is</unclear>
+          comesta sunt aurum et argentum vestrum erugmavit 
+          <lb ed="#S" n="130"/>et erugo eorum in testimonium erit vobis et manducabit 
+          carnes vestras sicut ignis charuizabit nobis iram in no<pb ed="#S" n="150-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>vissimis 
+          diebus Et ad Romanos 2 and divitias bonitatis eius et <unclear>patiem</unclear> 
+          <lb ed="#S" n="2"/>et <unclear>longa?itatis</unclear> eius contempnis secundum duritiam tuam et cor inpoenitens 
+          <lb ed="#S" n="3"/>chaurizas tibi iram in die ire et revelationis iusti iudicii 
+          <lb ed="#S" n="4"/>dei qui reddet unicuique secundum opera eius etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2729">
+          et si perseverantia a
+          <lb ed="#S" n="5"/>in malo auget demeritum ergo et continuatio boni auget meritum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2734">
+          <pc type="pilcrow"/> Item si 
+          <lb ed="#S" n="6"/>sic sequitur quod <unclear>continuans</unclear> malitiam suam non propter hoc esset magis penien<lb ed="#S" break="no" n="7"/>dus 
+          quam non continuans cum est contra <ref xml:id="aw98wa-xg3509-Rd1e2744">augustinus de vera et falsa poenitentia</ref> et ponitur 
+          <lb ed="#S" n="8"/>in <ref xml:id="aw98wa-xg3509-Rd1e2749" target="http://scta.info/resource/gd-p2c33q3d5-Dd1e109"><!-- target imprecise -->canone de poenitentia distinctione 5 in principio</ref> unde dicit augustinus sic consideret 
+          <lb ed="#S" n="9"/>in quid peccator qualitatem terminis in loco in tempore in perseverantia 
+          <lb ed="#S" n="10"/>et in ipsius vitii multiplici executione etc et post consideret quantum per<lb ed="#S" break="no" n="11"/>severavit 
+          et defleat quod perseveranter peccavit etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2760">
+          <pc type="pilcrow"/> Item si sic 
+          <lb ed="#S" n="12"/>sequeretur quod summe deum odiens continue per tempus aliquod minus peccaret 
+          <lb ed="#S" n="13"/>quam si terminum illud odium interrumpet per mendacium iocosum 
+          <lb ed="#S" n="14"/>et odium <unclear>praestissimi</unclear> resumeret
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2774">
+          <pc type="pilcrow"/> Item si sic sequeretur quod volens occi<lb ed="#S" break="no" n="15"/>dere 
+          mille varios et ex aequali malitia continuata exequens non magis pec<lb ed="#S" break="no" n="16"/>caret 
+          quam qui ceteris paribus occideret solum unum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2783">
+          <pc type="pilcrow"/> Si dicas 
+          <lb ed="#S" n="17"/>quod immo quia actus exterior est peior quia laesivus et offensivus plurium 
+          <lb ed="#S" n="18"/>igitur pari ratione videtur quod sic magis offensivus dei executio talis inpe<lb ed="#S" break="no" n="19"/>tus 
+          respectu multorum quam si respectu unius tantum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2794">
+          <pc type="pilcrow"/> Item si voluntas interius non 
+          <lb ed="#S" n="20"/>sic peior propter continuationem actus interioris mali igitur nec actus 
+          <lb ed="#S" n="21"/>exteriores ex eorum continuatione et sit continue flagellans proximum suum 
+          <lb ed="#S" n="22"/>vel serrans eum sicut fuit de ysaia serrato non magis pec<lb ed="#S" break="no" n="23"/>caret 
+          quam si una vite flagellaret et <unclear>interium</unclear> dimitteret 
+          <lb ed="#S" n="24"/>et iterum flagellaret et sic <unclear>interpolatim</unclear>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2814">
+          <pc type="pilcrow"/> Item si continuatio peccati 
+          <lb ed="#S" n="25"/>non faceret ad demeriti augmentum sequeretur quod veniale additum 
+          <lb ed="#S" n="26"/>mortale praecedenti esset aliter gravius si noviter fieret quam continuatio morta<lb ed="#S" break="no" n="27"/>lis 
+          quia pro veniali debetur nova poena et pro continuatione mortalis non
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2825">
+          <lb ed="#S" n="28"/><pc type="pilcrow"/> Item sequeretur quod ecclesia erraret in poeniendo continuationem malitiae Item 
+          <lb ed="#S" n="29"/>si sic sequeretur quod per quaecumque actum satisfactorium posset homo satisfacere 
+          <lb ed="#S" n="30"/>pro quolibet delicto quia ita diu posset actus iste continuari quod esset 
+          <lb ed="#S" n="31"/>satisfactorius pro gravissimo delicto ergo si ista bonus est in principio sicut 
+          <lb ed="#S" n="32"/>postea per continuationem patet intentum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2839">
+          <pc type="pilcrow"/> Item <unclear>deuvan?o</unclear> cum discipuli 
+          <lb ed="#S" n="33"/>dixissent christo doce nos orare et ipse dixisset eis cum 
+          <lb ed="#S" n="34"/>oratis dicite pater noster etc postea immediate subiunxit parabolam 
+          <lb ed="#S" n="35"/>de habente amicum ad quem cum de via amicus ivit ad amicum 
+          <lb ed="#S" n="36"/>propinquum petens tres panes cui ille quia persevaerit pulsans 
+          <lb ed="#S" n="37"/>dedit eu ei quotquot habuit necessarios volens per hoc ostendere efficaci<lb ed="#S" break="no" n="38"/>am 
+          continuationis orationis ad eum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2860">
+          <pc type="pilcrow"/> Item luc 18 dicit salvator 
+          <lb ed="#S" n="39"/>oportet semper orare et ponit exemplum de <unclear>in</unclear> quo iudice <unclear>iundicante</unclear> vi<lb ed="#S" break="no" n="40"/>duatur 
+          de adversario suo propter instantiam suam in petendo
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2873">
+          <pc type="pilcrow"/> Praeterea arguit 
+          <lb ed="#S" n="41"/>sicut ipsi sit etiam opinantes laudant secularis unde et diu 
+          <lb ed="#S" n="42"/>durantes quia diu bene patiuntur quod debent et equos non deficientes in
+          <lb ed="#S" n="43"/>via et non homines bona opera continuantes ergo male
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2884">
+          <pc type="pilcrow"/> ad ista 
+          <lb ed="#S" n="44"/>pater pro maiori parte ex responsionibus prius datis bene enim volo quod 
+          <lb ed="#S" n="45"/>longa continuatio boni actus volendi procedentis ex caritate ymmo omnis continuatio 
+          <lb ed="#S" n="46"/>sive brevis sive longa aequivalens vere vel interpretative pluribus causationibus 
+          <lb ed="#S" n="47"/>talis actus sicut omnis ex <unclear>ca?re</unclear> iteratio boni operis auget meritum et 
+          <lb ed="#S" n="48"/>caritatem viae et procurant maius in caelo praemium et quantum praetacta 
+          <lb ed="#S" n="49"/>media huius doctoris illud probant ipsis inhaereo et ista innitor et similiter 
+          <lb ed="#S" n="50"/>dico quod multo fortius et continuatio actus mali aequivalens vere 
+          <lb ed="#S" n="51"/>vel interpretative novae similis actus mali aequivalens vere 
+          <lb ed="#S" n="52"/>vel interpretative novae similis actus causationi vel novae compla<lb ed="#S" break="no" n="53"/>centiae 
+          in eundem auget demeritum unde et glossa ordinaria super 
+          <lb ed="#S" n="54"/>decretum in argumento conclusio allegatum super verbum perseveranter dicit iteratio 
+          <lb ed="#S" n="55"/>enim aggravat 25 questione 2 1a nos et super verbum perseveravit dicit 
+          <lb ed="#S" n="56"/>nam perseverantia auget deductum 24 quaestione 1 cisina et ratio huius conclusionis 
+          <lb ed="#S" n="57"/>patet prius quia talis contrahitio ab instanti et deinceps quo posset quis ab actu 
+          <lb ed="#S" n="58"/>cessare subest noviter libero <del rend="expunctuation">ar</del> divino voluntatis et ideo in malum ex 
+          <lb ed="#S" n="59"/>tunc inputatur quia tenetur quilibet citius quo potest culpam mortalem di<lb ed="#S" break="no" n="60"/>mittere 
+          inchoatam et ideo a termino temporis minimi ab ipso distincte 
+          <lb ed="#S" n="61"/>perceptibilis quo primo potest advertere se teneri dimittere tale malum et 
+          <lb ed="#S" n="62"/>non dimittit omittit noviter peccando mortaliter non ponendo 
+          <lb ed="#S" n="63"/>actum displicentiae talis actus ab actu quo poterit citius non 
+          <lb ed="#S" n="64"/>cessando vere vel interpretative intelligitur noviter consentire et hoc quia 
+          <lb ed="#S" n="65"/>ut supra dixi praecepta dei negativa obligant ad semper in actibus 
+          <lb ed="#S" n="66"/>autem bonis <unclear>continuatis</unclear> non totaliter vadit ita quia ibi continuatio ex<cb ed="#S" n="b"/><lb ed="#S" n="67"/>pleta 
+          actus ex caritate semper iuvat
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2949">
+          <pc type="pilcrow"/> 2o tamen dico quod continuatio boni actus 
+          <lb ed="#S" n="68"/>quam non potest quis non habere per sua potentiam si causet actum continuatio vi<lb ed="#S" break="no" n="69"/>geret 
+          per minimum tempus a tali perceptibile distincte et naturaliter nisi habeat 
+          <lb ed="#S" n="70"/><unclear>dam?</unclear> adiutorium vel aliud extrinsecum quo minus tempus distincte pos<lb ed="#S" break="no" n="71"/>sit 
+          ab eo percipi et quo adiutorio citius quam ante finem dicti 
+          <lb ed="#S" n="72"/>temporis valeat ab huius actu libere cessare et tamen non vult 
+          <lb ed="#S" n="73"/>sed ex caritate retinet illum vel complacet in illum propter deum et sic auget 
+          <lb ed="#S" n="74"/>sibi meritum continuatio in quam per tale tempus minimum ceteris omnibus uni<lb ed="#S" break="no" n="75"/>formiter 
+          et cum praecisione existentibus ut prius non auget gratiam nec meri<lb ed="#S" break="no" n="76"/>tum 
+          intensive et pro quanto dicta argumenta adducerentur contra istud 
+          <lb ed="#S" n="77"/>per quod esset satis obviandum huic magistro qui nititur probare quod 
+          <lb ed="#S" n="78"/>nullum sit meritum instantaneum sed omne continuum et temporale et quod omnis continuatio 
+          <lb ed="#S" n="79"/>boni actus ex caritate procedentis est noviter meritoria cuius oppositum est 2a 
+          <lb ed="#S" n="80"/>conclusio
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e2983">
+          <pc type="pilcrow"/> Responderem ad primum quod si homo de libertate eliceret bonum 
+          <lb ed="#S" n="81"/>actum <unclear>ibi</unclear> esset vigilis quod infra terminum dati temporis non dormiret et si 
+          <lb ed="#S" n="82"/>faceret ita parva dormitio quantum ad meritum non noceret dummodo 
+          <lb ed="#S" n="83"/>in fine eiusdem temporis ad iterato unde volendum vel unde agendum 
+          <lb ed="#S" n="84"/>ita vigil existeret sicut primo et notum est satis quod hanc conclusionem 
+          <lb ed="#S" n="85"/>non inprobat illud medium
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3001">
+          <pc type="pilcrow"/> 2m non procedit contra secundum conclusionem me<lb ed="#S" break="no" n="86"/>am 
+          tamen loquatur de tempore infra quod unum simplex saepe possit 
+          <seg type="correction">inter<del rend="expunctuation">ro</del>mittere</seg> et resumere actum suum et per consequens ille contemplans 
+          <lb ed="#S" n="87"/>interi possit aequivalenter a tantum contemplationis vere vel interpre<lb ed="#S" break="no" n="88"/>tative 
+          totiens resumere sicut ille licet eum continet toto illo 
+          <lb ed="#S" n="89"/>tempore indefesse 3m satis est solutum prius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3022">
+          <pc type="pilcrow"/> ad 4m consilium 
+          <lb ed="#S" n="90"/>illud apostoli non respicit illud parvum tempus sed ulteriorem et magnam 
+          <lb ed="#S" n="91"/>seu diutinam continuationem validam actus boni per tempus infra 
+          <lb ed="#S" n="92"/>quod libere posset quis desistere ab actu bono nam consilium est 
+          <lb ed="#S" n="93"/>regula possibilis fieri et dimitti immo illud tempus de quo ego loquor est <add place="margin-right">terminare</add>
+          <lb ed="#S" n="94"/>continue tali quaestione pro instanti cum non possit minus percipere ut praedixi et si 
+          <lb ed="#S" n="95"/>quis vellet tempus vel aliud continuum ponere componi ex impercepti<lb ed="#S" break="no" n="96"/>biliter 
+          divisibilibus et vocare talia indivisibilia quia talia vel minora 
+          <lb ed="#S" n="97"/>animalibus non posset a nobis percipi non obstarem et satis no<lb ed="#S" break="no" n="98"/>tum 
+          est cuilibet theologo non protervo quod sanctorum auctoritates commendantes 
+          <lb ed="#S" n="99"/>continuationem vel perseverantiam in bono et dampnantes perseverantiam 
+          <lb ed="#S" n="100"/>in malo ultra causationem instantaneam boni vel mali actus continuati de continuatione 
+          <lb ed="#S" n="101"/>inevitabili supposita causatione talis actus per tempus tale minimum 
+          <lb ed="#S" n="102"/>et non perceptibiliter divisibile non loquerentur idem dico de aristotele quo 
+          <lb ed="#S" n="103"/>ad passum illum ubi commendat felicitatem speculativam eo quod permansiva est 
+          <lb ed="#S" n="104"/>Et per illud patet etiam ad 5 6 7 8 9 10 similiter est supra solutum in 
+          <lb ed="#S" n="105"/>simili
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3065">
+          <pc type="pilcrow"/>ad 11 dicendum quod ex malitia voluntatis continuata praecise per tempus <c>a</c> 
+          <lb ed="#S" n="106"/>nec mille homines nec unicum posset quis occidere sine pluri ideo 
+          <lb ed="#S" n="107"/>argumentum illud nullatenus inprobat illum modum dicendi oporteret enim non semel sed sae<lb ed="#S" break="no" n="108"/>pissime 
+          actus <subst><add place="margin-right">interiores</add> <del rend="underline">interionis</del></subst> malos <seg type="correction">revo<subst><del>c</del><add place="above-line">v</add></subst>are</seg> ante quam malitia 
+          <lb ed="#S" n="109"/>voluntatis circa tot homines compleretur et bene volo quod receptio voluntaria 
+          <lb ed="#S" n="110"/>actuum consimilium aggravat demeritum frequentatum unde iste so<lb ed="#S" break="no" n="111"/>lus 
+          actus primus communis quo ex malitia vellet mille homines 
+          <lb ed="#S" n="112"/>iniuste occidere numquam sine plurali circa eorum aliquem compleretur 
+          <lb ed="#S" n="113"/>oportet enim addere actus alios malos occidiendi quibus determinat 
+          <lb ed="#S" n="114"/>primo occidere nunc istum istorum tunc illum et ita deinceps patet ergo quod 
+          <lb ed="#S" n="115"/>haec ratio contra conclusionem ultimam efficanter non inpungnat
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3109">
+          <pc type="pilcrow"/> ad 12m patet 
+          <lb ed="#S" n="116"/>per idem quia per continuationem quam posui non adde demeritum no<lb ed="#S" break="no" n="117"/>viter 
+          vel penam super poenam debitam subite male electioni non 
+          <lb ed="#S" n="118"/>complebitur unquam servatio alicuius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3120">
+          <pc type="pilcrow"/> ad 13 neganda est consequentia si antecedens 
+          <lb ed="#S" n="119"/>intelligatur de continuatione ista brevi secundae conclusionis quia si in principo <unclear>c?is</unclear> 
+          <c>a</c> fert se advertenter et noviter voluntas pro tunc in aliquid non est in eius 
+          <lb ed="#S" n="120"/>naturali potestate citra terminum <c>a</c> ceteris paribus cum praecisione ferre se in aliquid 
+          <lb ed="#S" n="121"/>pro alio instanti citra finem temporis <c>a</c> advertenter et ex deliberatione pro 
+          <lb ed="#S" n="122"/>tunc noviter habita neque venialiter neque mortaliter et causa superius 
+          <lb ed="#S" n="123"/>est iam dicta bene tamen deo argumento ut prius dedi quod diutina con<lb ed="#S" break="no" n="124"/>tinuatio 
+          actus culpabilis <unclear>mortaliter<!-- correction here --></unclear> plus aggravat quam faceret 
+          <lb ed="#S" n="125"/>aliquod veniale quia mortalis poenam meretur sensus aeternam non sit 
+          <lb ed="#S" n="126"/>nova commissio venialis
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3155">
+          <pc type="pilcrow"/> ad 14m neganda est consequentia quia ecclesia non 
+          <pb ed="#S" n="150-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>posuit istam brevem continuationem secundae conclusionis punitatione alia quam causationem 
+          <lb ed="#S" n="2"/>instantaneam actus mali sicut supra respondi ad auctoritates
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3168">
+          <pc type="pilcrow"/>ad 25 per idem 
+          <lb ed="#S" n="3"/>et similiter omnino dicendum est ad 16 et 17 et 18 de duratione secula<lb ed="#S" break="no" n="4"/>rium 
+          et cursus equi licet non sic multum ad propositum quia eundo 
+          <lb ed="#S" n="5"/>ad praecisam durationem saepe diutius durant seculares unius parum 
+          <lb ed="#S" n="6"/>valentes quam seculares alterius in 4lo meliores sed cetera non 
+          <lb ed="#S" n="7"/>sunt paria isto casu difficilius enim est quam diu durent in la<lb ed="#S" break="no" n="8"/>boribus 
+          <unclear>it?andi</unclear> novus et semper novus quam parum et ideo dico 
+          <lb ed="#S" n="9"/>quod similiter est in proposito nec certis hoc negavit quin iste qui suti<lb ed="#S" break="no" n="10"/>net 
+          tribulationes vel adversitates alias vel difficultates maio<lb ed="#S" break="no" n="11"/>res 
+          ex continuatione diutina boni actus vel bonae vitae plus mere<lb ed="#S" break="no" n="12"/>atur 
+          quam ille qui solum instantaneae simile fecit eodm modo certe dif<lb ed="#S" break="no" n="13"/>ficilius 
+          est aequo sustinere laborem cursus diurni quam 
+          <lb ed="#S" n="14"/>horarium et ideo si illum bene sustinet plus laudatur quam <subst><del rend="underline">quam</del> <add place="margin-center">instantaneum</add></subst> 
+          <lb ed="#S" n="15"/><del>si istum</del> ista dixit certe <name xml:id="aw98wa-xg3509-Nd1e3211">magister</name> contra quem argui doctor iste quod 
+          <lb ed="#S" n="16"/>si circumstantiam temporis maioris comitetur maior difficultas 
+          <lb ed="#S" n="17"/>tunc maior continuatio meritum magis auget 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3219">
+          <pc type="pilcrow"/> Contra me non procedit 
+          <lb ed="#S" n="18"/>ratio quia concedo quod diutiva continuatio boni operis auget gratiam et ma<lb ed="#S" break="no" n="19"/>li 
+          operis aggravat peccatum si cetera sint paria quae concurrunt
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3228">
+          <lb ed="#S" n="20"/><pc type="pilcrow"/> 8m dubium principle potest esse utrum aliquis viator possit diligendo 
+          <lb ed="#S" n="21"/>diu vel alias bene volendo mereri augmentum gratiae in primo 
+          <lb ed="#S" n="22"/>instanti quo infundatur sibi gratia et videtur quod sic <pc type="punctus"/> quia sicud arguit multipiciter 
+          <lb ed="#S" n="23"/>quidam pro conclusione hac aliquis viator potest exempla caritatem vel gratiam 
+          <lb ed="#S" n="24"/>incipere diligere deum cum aliquibus circumstantiis bonis ex genere et 
+          <lb ed="#S" n="25"/>continuando actum illum usque ad certum instans et in instanti isto et ultra 
+          <lb ed="#S" n="26"/><add>et</add> potest habere actum illum circumstantanatum cum omnibus circumstan<lb ed="#S" break="no" n="27"/>tiis 
+          requisitis ad meritum et cum gratia isto instanti primo sic ista 
+          <lb ed="#S" n="28"/><del rend="expunctuation">in eo</del> tunc sit talis in instanti illo primo merebitur per actum illum dilectionis 
+          <lb ed="#S" n="29"/>sed non potest mereri gratiam primam ergo merebitur per actum istum gratiam 
+          <lb ed="#S" n="30"/>primam augeri in isto instanti quia non differt deus circumstantiam suam et hanc 
+          <lb ed="#S" n="31"/>rationem sic intelligo et tunc est bona aliter non concludit videlicet 
+          <lb ed="#S" n="32"/>quod in illo instanti quo primo habuit gratiam sic habeat se voluntas erga 
+          <lb ed="#S" n="33"/>obiectum istius actus quod illum eliceret si alias non haberet si enim 
+          <lb ed="#S" n="34"/>distractus habeat illum ita quod eius habitio non tunc sit sibi im<lb ed="#S" break="no" n="35"/>putabilis 
+          noviter non oportet quod tunc sic noviter meritorius actus 
+          <lb ed="#S" n="36"/>iste
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3274">
+          <pc type="pilcrow"/> 2o sic si christus meruit <add place="margin-above">in</add> primo instanti quaedam bona <add place="margin-right">sibi</add> 
+          gratiam secundum <unclear>os</unclear> quaestione si inquam ipse <del rend="underline">et ideo si</del> non recepisset gratiam sum<lb ed="#S" break="no" n="37"/>mam 
+          cuius fuit capax in primo instanti ostensis sibi obiectis di<lb ed="#S" break="no" n="38"/>ligibilibus 
+          sicut fuerit iam et datis sibi naturalibus ita perfectis 
+          <lb ed="#S" n="39"/>sicut iam habuit de facto eliciendo actus in <unclear>causando <!-- correction here --></unclear> quos 
+          <lb ed="#S" n="40"/>eliciebat in primo instanti vel remissiores per illos meruisset 
+          <lb ed="#S" n="41"/>augmentum gratiae suae sicut videtur ergo aliae creaturae potuerunt in casu 
+          <lb ed="#S" n="42"/>proportionali augere caritatem suam prima ista ratio capit multa du<lb ed="#S" break="no" n="43"/>bia 
+          licet sit probabilis et isti propterea non immitar
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3310">
+          <pc type="pilcrow"/> 3o sic 
+          <lb ed="#S" n="44"/>totam gratiam praeexistentem in eo potest aliquis in hoc instanti intendere 
+          <lb ed="#S" n="45"/>nunc eliciendo dilectionem sed non magis difficile nec plus sequitur in<lb ed="#S" break="no" n="46"/>conveniens 
+          si nunc primo debetur gratia quod mereatur quis augmentum 
+          <lb ed="#S" n="47"/>gratiae nunc ergo etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3323">
+          <pc type="pilcrow"/> 2o sic iste viator cui dabitur gratia 
+          <lb ed="#S" n="48"/>in aliquo instanti futuro demeri tunc primo poterit et ponere obicem libere 
+          <lb ed="#S" n="49"/>infusioni gratiae ergo potest libere elicere actum meritorium pro illo instanti 
+          <lb ed="#S" n="50"/>primo quia non est rationale quod possit tunc peccare et non mereri et ex 
+          <lb ed="#S" n="51"/>quo tunc habebit gratiam per casum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3336">
+          <pc type="pilcrow"/> 5o sic si non augetur eodem 
+          <lb ed="#S" n="52"/>instanti quo infunditur et hoc retento casu primi argumenti vel casu 
+          <lb ed="#S" n="53"/>meliori deus differret dare gratiam quam aliquis mereretur eodem 
+          <lb ed="#S" n="54"/>instanti consequens contra anselmum de casu dyaboli capitulo 3o in hoc enim 
+          <lb ed="#S" n="55"/>casu deus esse causa non acceptationis gratiae similiter si differret 
+          <lb ed="#S" n="56"/>deus dare illo instanti gratiam quo quis mereretur iam vel ergo 
+          <lb ed="#S" n="57"/>sine medio daret eam ante omnem actum meritorium futurum 
+          <lb ed="#S" n="58"/>et gratiam debitam tali actui futuro aut non si sic instans <add place="margin-center">esset</add> immediatum 
+          <lb ed="#S" n="59"/>instanti quod est inconveniens si non sine medio tunc differret donec
+          <lb ed="#S" n="60"/>tum ista alia gratia daretur immo donec infinite darentur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3364">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="61"/>tunc si sine medio peccaret vel ante instans collationis gratiae meritae
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="62"/>vel primo in illo in quo si non peccaret reciperet gratiam etiam in peccato 
+          <lb ed="#S" n="63"/>huius perseveraret numquam reciperet praemium nec gratiam pro actu illo 
+          <lb ed="#S" n="64"/>quod non videtur conveniens haec magister ille in <unclear>sub?a</unclear>
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3382">
+          <pc type="pilcrow"/> Idem ut videtur sequetur 
+          <lb ed="#S" n="65"/>si morietur ante illud instans Item eo ipso quod actuali dilectione 
+          <lb ed="#S" n="66"/>habens gratiam meretur melior est quam alius habens in eodem 
+          <lb ed="#S" n="67"/>instanti aequalem gratiam et qui tunc non actualiter mereretur et si est 
+          <lb ed="#S" n="68"/>melior isto alio ergo habet maiorem gratiam vel meliorem illo 
+          <lb ed="#S" n="69"/>alio per <ref xml:id="aw98wa-xg3509-Rd1e3397">regulam augustinis ipse prope finem euch</ref> quam saepe superius al<lb ed="#S" break="no" n="70"/>legavi
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3402">
+          <pc type="pilcrow"/> Sed contra si per actum meritorium posset augeri caritas 
+          <lb ed="#S" n="71"/>in primo instanti in quo infunditur cum nullus actus sit meritorius nisi per 
+          <lb ed="#S" n="72"/>caritatem habitam qua ratione caritas cum primo infunditur reddit 
+          <lb ed="#S" n="73"/>actum aliquem meliorem quam esset sine ista pari ratione et caritas 
+          <lb ed="#S" n="74"/>merita reddit actum gratiosiorem quam esset sine illa et per consequens iterum 
+          <lb ed="#S" n="75"/>illud meritum augeret caritatem et caritas meritum et sic sine 
+          <lb ed="#S" n="76"/>fine consequens inconveniens igitur et antecedens
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3420">
+          <pc type="pilcrow"/> Hic supponendum est in primis 
+          <lb ed="#S" n="77"/>quod alias declaravi <ref xml:id="aw98wa-xg3509-Rd1e3426">17 primi quaestione 6 articulo 2 in solutione primi du<lb ed="#S" break="no" n="78"/>bii</ref>
+          quod portio quam quis suae priori caritati prioritate temporis vel 
+          <lb ed="#S" n="79"/>negatur meretur per bonum actum apponi non reddit ipsum actum 
+          <lb ed="#S" n="80"/>quo acquisita est magis meritorium quam reddatur meritorius per 
+          <lb ed="#S" n="81"/>caritatem priorem a qua processit quia sequitur tunc mutua talis re<lb ed="#S" break="no" n="82"/>flexio 
+          sine fine sed bene econverso actus procedens ex praeexistente 
+          <lb ed="#S" n="83"/>caritate meretur eam augeri seu potius est meritum quo agetur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3443">
+          <lb ed="#S" n="84"/><pc type="pilcrow"/> Ex hoc ad dubium dicendum mihi videtur quod in primo instanti quo infunditur 
+          <lb ed="#S" n="85"/>caritas a deo posset contingere quod ex illa eliceret actum bonum sicut 
+          <lb ed="#S" n="86"/>et sol in primo instanti suae creationis illuminavit medium ideo potest contingere 
+          <lb ed="#S" n="87"/>ut quis in primo instanti quo sibi infunditur prima caritas ex ipsa tunc actualiter 
+          <lb ed="#S" n="88"/>mereatur et per consequens quod ipse sit melior quam si non tunc ex illa li<lb ed="#S" break="no" n="89"/>bere 
+          mereretur sed haberet illam sine merito libere elicito sed si est me<lb ed="#S" break="no" n="90"/>lior 
+          quam esset praecise ex priori caritate ergo habet maiorem caritatem quam 
+          <lb ed="#S" n="91"/>illam ex regula augustini praetacta in ultimo argumento ergo propositum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3464">
+          <lb ed="#S" n="92"/><pc type="pilcrow"/> argumenta ergo ad primam partem huius dubii concedo concludere verum verum 
+          <lb ed="#S" n="93"/>primum quid isto modo modificatum ut ibi exposui in fine 
+          <lb ed="#S" n="94"/>eiusdem rei quam materialiter ille facit se rationi non innitor et sequen<lb ed="#S" break="no" n="95"/>tia 
+          placent mihi
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3477">
+          <pc type="pilcrow"/> ad argumentum ergo in contrarium neganda est consequentia et 
+          <lb ed="#S" n="96"/>ratio negationis patet ubi supra primo libro
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3484">
+          <pc type="pilcrow"/> Sed contra istam solutionem 
+          <lb ed="#S" n="97"/>potest instari quia si quis potest in primo instanti quo sibi infunditur prima 
+          <lb ed="#S" n="98"/>gratia mereri augmentum ipsius sic ergo quod quis mereatur tantam quan<lb ed="#S" break="no" n="99"/>ta 
+          sibi infunditur sine meritis tunc arguo sic ista gratia aucta 
+          <lb ed="#S" n="100"/>tota simul data est ergo non est ratio quare aliquid eius detur ex 
+          <lb ed="#S" n="101"/>merito plus quam quod tota sic detur in illo instanti sed si tota detur ex 
+          <lb ed="#S" n="102"/>merito mereretur aliquis primam gratiam consequens falsum et contra apostolum quia 
+          <lb ed="#S" n="103"/>tunc non foret gratia et contra <name xml:id="aw98wa-xg3509-Nd1e3503">magistrum</name> et sanctos loquentes contra pe<lb ed="#S" break="no" n="104"/>lagium 
+          potest negari consequentia quia potest dici <unclear>de</unclear> in satis scire <unclear>di?re <del rend="expunctuation">re</del></unclear> inter<lb ed="#S" break="no" n="105"/>medietates 
+          quam illarum meruit et quam non 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3518">
+          <pc type="pilcrow"/> Contra  gratia 
+          <lb ed="#S" n="106"/>aucta est forma simplex non habens partes realiter distinctas ergo si 
+          <lb ed="#S" n="107"/>ad eius habetur ex merito tota habetur ex merito
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3527">
+          <pc type="pilcrow"/> dicetur quod immo habet 
+          <lb ed="#S" n="108"/>partes realiter inter se distinctas 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3534">
+          <pc type="pilcrow"/> Contra deus potest facere unum angelum 
+          <lb ed="#S" n="109"/>perfectiorem in substantia quam nunc sic et tamen si hoc non posset fieri nisi 
+          <lb ed="#S" n="110"/>per additionem iste angelus componeretur ex angelis
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3543">
+          <pc type="pilcrow"/> item tota 
+          <lb ed="#S" n="111"/>gratia data in primo instanti informavit animam aeque primo quo ad 
+          <lb ed="#S" n="112"/>omnes suas partes ergo qualemcumque activitatem vel meliorationem 
+          <lb ed="#S" n="113"/>fecit <unclear>re?a</unclear> dilectionis tunc habitae unus gradus illius gratiae ta<lb ed="#S" break="no" n="114"/>lem 
+          et causatam et alter ergo si secundum unam medietatem sequitur quod et secundum se 
+          <lb ed="#S" n="115"/>totam fuit principium merendi et per consequens ex nullo actu suo esset 
+          <lb ed="#S" n="116"/>tunc sua gratia aucta quod est propositum alioquin sequitur mutua 
+          <lb ed="#S" n="117"/>eorum augmentatio sine termino
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3566">
+          <pc type="pilcrow"/> Item quod totam activitatem habeat in 
+          <lb ed="#S" n="118"/>illo instanti videtur quia si non tunc ista gratia secundum ad sui esset <unclear>minimis</unclear> 
+          potens quam secundum aliud eius aequale consequens falsum quia nihil de est perfectio<lb ed="#S" break="no" n="119"/>nis 
+          plus uni quam alteri
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3577">
+          <pc type="pilcrow"/> Respondet hic magister qui prius quod non 
+          <lb ed="#S" n="120"/>sunt in re distincti gradus in caritate sed unus tantum secundum rem et 
+          <lb ed="#S" n="121"/>multi secundum rationem unde concedo inquit quod tota ista meretur sed non 
+          <lb ed="#S" n="122"/>ut tanta est sed mereatur ea quatenus est tanta in potentia 
+          <lb ed="#S" n="123"/>quanta est alia caritas subdupla in hoc casu et meretur 
+          <pb ed="#S" n="151-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>eandem simili modo capiendo unde quod infertur quod tunc mereri posset
+          <lb ed="#S" n="2"/>quis primam gratiam quod erat error pelagii nego inquit consequentiam 
+          <lb ed="#S" n="3"/>ad intellectum contra pelagium acceptum qui fuit quod per actum praevenientem 
+          <lb ed="#S" n="4"/>omnem gratiam gratum scientem posset homo mereri primam gratiam vel <unclear>appositionem</unclear> primae 
+          <lb ed="#S" n="5"/>gratiae quin tamen consequens ad intellectum alium sit verum non video <unclear>in quid<!-- inquit? --></unclear> 
+          <lb ed="#S" n="6"/>meretur enim istam gratiam praesuppositam merito suo uno modo sicut in 
+          <lb ed="#S" n="7"/>posterioribus instantibus est concedendum supposita continua augmentatione gratiae et 
+          <lb ed="#S" n="8"/>quod non sit <unclear>cumulus</unclear> formarum sed una et eadem maneat a prin<lb ed="#S" break="no" n="9"/>cipio 
+          usque ad finem nam hoc supposito potest declarari illud tunc 
+          <lb ed="#S" n="10"/>sit istam gratiam meruit et haec est prima gratia quia nulla fuit 
+          <lb ed="#S" n="11"/>prior ista ergo meruit primam gratiam non tamen per actum praecedentem 
+          <lb ed="#S" n="12"/>eius infusionem eam meruit infundi vel antequam infun<lb ed="#S" break="no" n="13"/>deretur 
+          nec volo inquit sine modificatione dicere quod meruit primam 
+          <lb ed="#S" n="14"/>gratiam quia non meruit quod foret prima quia praecessit origine 
+          <lb ed="#S" n="15"/>meritum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3636">
+          <pc type="pilcrow"/>Quod vero ponit cumulationem formarum satis clare possunt e<lb ed="#S" break="no" n="16"/>vadere 
+          <unclear>in quidditate</unclear> et bene ponendo quod talis uno gradu meretur alium 
+          <lb ed="#S" n="17"/>quibus simul <unclear>fixerint</unclear> creati suspendit tamen deus ad placitum suum 
+          <lb ed="#S" n="18"/>respectu huius menti alterius illarum quae est origine posterior causationem et 
+          <lb ed="#S" n="19"/>ita dicendum est si fuerit negata <unclear>cumulo</unclear> formarum quod non poterit ad meritum 
+          <lb ed="#S" n="20"/>facere in primo instanti sed quod tanta ec poterit habere totam causalitatem suam 
+          <lb ed="#S" n="21"/>respectu illius actus ita quod possit tota ut tanta ut in instanti dum 
+          <lb ed="#S" n="22"/>sic reatur et sic respondet <name xml:id="aw98wa-xg3509-Nd1e3662">iste magister</name> et multum consequentis secundum duas vias 
+          <lb ed="#S" n="23"/>quarum tamen prima in <ref xml:id="aw98wa-xg3509-Rd1e3666">prima questione huius secundi</ref> multipliciter inprobavi et ideo secunda eius 
+          <lb ed="#S" n="24"/>responsio magis valet sed primam ideo hic posui ut sciant qualiter tenen<lb ed="#S" break="no" n="25"/>tes 
+          istam consequenter iuvant se quod tamen dicit iste quod non sunt mul<lb ed="#S" break="no" n="26"/>ti 
+          gradus in caritate distincti in rei sed unus tantum secundum rem et multi secundum 
+          <lb ed="#S" n="27"/>rationem illud ultimum non bene capio maxime cum istum modum loquendi 
+          <lb ed="#S" n="28"/>in suo simili dampnet <del rend="strikethrough">articulus</del> parysiensis articulus <ref xml:id="aw98wa-xg3509-Rd1e3682">prima quaestione huius 2i libri</ref> po<lb ed="#S" break="no" n="29"/>situs 
+          contra responsionem similem de distinctione secundum rationem graduum caritatis 
+          <lb ed="#S" n="30"/>qui articulus est 46us 6i <del rend="expunctuation">articuli</del> capituli articulorum et dicit sic quod alius est 
+          <lb ed="#S" n="31"/>intellectus ratione secundum quod deus intelligit se et alia error quod licet  sit alia 
+          <lb ed="#S" n="32"/>ratio non tamen alius intellectus secundum rationem haec ille sic in propositum licet alia 
+          <lb ed="#S" n="33"/>et alia sit ratio seu contemptio qua caritas concipitur ut maior et qua con<lb ed="#S" break="no" n="34"/>cipitur 
+          ut minor non est tamen caritas alia et alia secundum rationem seu 
+          <lb ed="#S" n="35"/>gradus alius et alius ratione immo quod sint gradus realiter ab invicem distincti 
+          <lb ed="#S" n="36"/>prima quaestione ut ostenderem laboravi ideo haec responsio dimittatur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3706">
+          <pc type="pilcrow"/> sed contra ista 
+          <lb ed="#S" n="37"/>potest adhuc instari sic si gratia prima apposita vel data omnino gratis 
+          <lb ed="#S" n="38"/>sine meritis in tanto vel tanto gradu tum actum istis circumstantiis <unclear>circum<lb ed="#S" break="no" n="39"/>stantiae</unclear> 
+          potuit facere ad tantum augmentum gratiae gratis datae tunc 
+          <lb ed="#S" n="40"/>primo et sine meritis infusae ergo maior gratia dupla vel templa cum 
+          <lb ed="#S" n="41"/>eodem actum praecise aliunde aeque bene per omnia circumstante potuis<lb ed="#S" break="no" n="42"/>set 
+          in plus de communi lege et si hoc tunc per gratiam appositam ex vi
+          <lb ed="#S" n="43"/>meriti fuisset actus melior in ratione meriti et sequitur mutua me<lb ed="#S" break="no" n="44"/>lioratio 
+          sine fine consequens falsum igitur antecedens prima consequentia patet quia alioquin 
+          <lb ed="#S" n="45"/>actus idem melius et melius bene circumstantionatus tantumdem appositi 
+          <lb ed="#S" n="46"/>per viam meriti de gratia meruisset et ista consequentia patet ex hoc quod duplex 
+          <lb ed="#S" n="47"/>gratia est melior circumstantia respectu eiusdem actus omnino quam gratia 
+          <lb ed="#S" n="48"/>subdupla quod non videtur dicendum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3740">
+          <pc type="pilcrow"/> hic respondet magister qui prius quod ista 
+          <lb ed="#S" n="49"/>consequentia est neganda tanta gratia facit ad tantum augmentum gratiae ergo 
+          <lb ed="#S" n="50"/>ceteris paribus et manente eodem actu maior faceret ad maius augmentum 
+          <lb ed="#S" n="51"/>tum et tamen probatur ista consequentia conclusionem inquit concedo ad quam deducitur scilicet quod si 
+          <lb ed="#S" n="52"/>in primo instanti cum minori gratia data sine meritis tantum actum et aliis 
+          <lb ed="#S" n="53"/>ita bene circumstantium elicuisset tantam et non minorem gratiam ad 
+          <lb ed="#S" n="54"/>di meruisset non enim video quin si duo habentes gratiam inaequalem 
+          <lb ed="#S" n="55"/>fecerint actus <del rend="underline">aequalitates</del> aequales in omnibus aliis aequaliter merebuntur 
+          <lb ed="#S" n="56"/>neque sequitur habens gratiam maiorem est magis acceptatus deo ex gratia sua 
+          <lb ed="#S" n="57"/>ergo operatio sua aequalis operationi alterius est plus accepta alioquin in 
+          <lb ed="#S" n="58"/>casu habens maiorem gratiam et faciens actum remissorem alicuius 
+          <lb ed="#S" n="59"/>generis plus meretur quam alius faciens intentiorem ceteris paribus 
+          <lb ed="#S" n="60"/>consequens falsum ut videtur
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3774">
+          <pc type="pilcrow"/> Contra tamen istum magistrum potest argui quia mirum 
+          <lb ed="#S" n="61"/>videtur ex quo concedit actum eundem vel aequale melius <unclear>circumstantum</unclear> 
+          <lb ed="#S" n="62"/>in multis aliis circumstantiis esse meliorem quare hic negabit consequentia doc<lb ed="#S" break="no" n="63"/>tores 
+          aliquos de circumstantia caritatis quae censetur circumstantia quaestione optima 
+          <lb ed="#S" n="64"/>actus boni unde apparet mihi contra eum quod ista consequentia sic satis bona 
+          <lb ed="#S" n="65"/>gratia tanta superveniens operi praecedenti eidem et aequaliter praeter circumstantiam
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>gratiae bene circumstanto reddit illum meritorium ergo maior gratia superveniens
+          <lb ed="#S" n="67"/>redderet istum magis meritorium in causis praecise ista consequentia videtur bona 
+          <lb ed="#S" n="68"/>et iste actus praecise per gratiam supervenientem in tanto gradu fit 
+          <lb ed="#S" n="69"/>meritorius qui prius in nullo erat meritorius ergo si maior gratia ad esset 
+          <lb ed="#S" n="70"/>magis esset meritorius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3806">
+          <pc type="pilcrow"/> praeterea vel intelligit magister iste dictum suum de actu
+          <lb ed="#S" n="71"/>quem caritas coefficit vel quem non coefficit sed cui supervenit et 
+          <lb ed="#S" n="72"/>reddit ipsum meritorium qui alias non esset meritorius sicut in casu sui 
+          <lb ed="#S" n="73"/>primi argumenti per conclusione affirmativa huius 8i dubii principalis si primo modo tunc non 
+          <lb ed="#S" n="74"/>est possibile nisi deo inpedimente quod omnia alia fuit paria praeter caritates 
+          <lb ed="#S" n="75"/>et tamen quod actus sit aequalis ex maiori caritate proveniens et qui ex 
+          <lb ed="#S" n="76"/>minori quod si voluntas sit utrobique aeque fortis et cognitio et conatus 
+          <lb ed="#S" n="77"/>et aliae circumstantiae ad <unclear>iutreres</unclear> et passum aeque praesens vel aeque dis<lb ed="#S" break="no" n="78"/>positum 
+          <unclear>vigor?o</unclear> caritatis ex una parte faciet effectum meliorem 
+          <lb ed="#S" n="79"/>si loquitur in 2o casu tunc conclusio ad quam deducit sicut ad inconveniens 
+          <lb ed="#S" n="80"/>esset vera quia sicut arguitur per medium praecedens si ex sola super<lb ed="#S" break="no" n="81"/>veniente 
+          caritate redderetur actus existens meritorius sine effica<lb ed="#S" break="no" n="82"/>cia 
+          respectu eius non videtur rationabile quin ex maiori caritate red<lb ed="#S" break="no" n="83"/>deretur 
+          magis meritorius quare enim plus negabitur ista conclusio quam haec ista persona 
+          <lb ed="#S" n="84"/>praecise per gratiam redditur accepta ergo per maiorem si <del rend="expunctuation">ceteris</del> cetera 
+          <lb ed="#S" n="85"/>essent paria redderetur acceptior et hoc supposito patet illud esse verum 
+          <lb ed="#S" n="86"/>ad quod deducit minorando unum de actibus aequalibus in diversis 
+          <lb ed="#S" n="87"/>ceteris paribus et augmentando vel maiorando gratiam in altero 
+          <lb ed="#S" n="88"/>duorum scilicet in isto in quo diminuitur caritas ista quod maioratio 
+          <lb ed="#S" n="89"/>gratiae responderet diminutioni actus illam ergo conclusionem de illo actu loquendo 
+          <lb ed="#S" n="90"/>quem non active principiat sed reddit meritorium aliunde ex sola 
+          <lb ed="#S" n="91"/>assistentia non oportet fugere sed oportet sibi concedere sicut veram
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3864">
+          <pc type="pilcrow"/> praeterea 
+          <lb ed="#S" n="92"/>si actus aliunde per omnia aequae bene <unclear>circumstantionati</unclear> sint aeque meritorii 
+          <lb ed="#S" n="93"/>non obstante quod alter eorum circumstantiaretur dupla caritate respectu 
+          <lb ed="#S" n="94"/>caritatis qua alter tamen si in uno eorum deficeet minimus voluntarius 
+          <lb ed="#S" n="95"/>conatus vel unus parvus gradus cognitionis requisitus ad dilectio<lb ed="#S" break="no" n="96"/>nis 
+          intentionem esset ista dilectio minor et tunc minus meritoria <add place="margin-right">quam</add> di<lb ed="#S" break="no" n="97"/>lectio 
+          in alio causata maior sequitur quod minimus gradus conatus vel 
+          <lb ed="#S" n="98"/>minimus gradus cognitionis id est valde parvis magis promovet sub 
+          <lb ed="#S" n="99"/>ratione meriti dilectionem dei vel proximi propter deum quam tota cari<lb ed="#S" break="no" n="100"/>tas 
+          seu gratia quam posset causare in tali persona ultra gratiam bap<lb ed="#S" break="no" n="101"/>tismalem 
+          consequens est inconveniens et consequentia patet cuilibet advertenti
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3896">
+          <pc type="pilcrow"/> Item 
+          <lb ed="#S" n="102"/>caritas in tali casu ex quo non principiat bonum actum non 
+          <lb ed="#S" n="103"/>videtur reddere illum actum acceptum deo seu meritorium nisi pro quanto 
+          <lb ed="#S" n="104"/>actus talis ultra hoc quod est ex genere suo moraliter bonus 
+          <lb ed="#S" n="105"/>nisi quatenus reddit personam talem caram et acceptam deo unde 
+          <lb ed="#S" n="106"/>constat quod homini saepe placet opus aliquod in persona sibi cara 
+          <lb ed="#S" n="107"/>quod in persona alia non placeret unde est illud respexit deus ad 
+          <lb ed="#S" n="108"/><name xml:id="aw98wa-xg3509-Nd1e3914">abel</name> et ad munera eius et ideo quia plus placet deo opus 
+          <lb ed="#S" n="109"/>quod procedit a persona placente videtur quod si a persona sibi magis cara et 
+          <lb ed="#S" n="110"/>magis placentem procederet plus placeret ponamus quod utraque a<lb ed="#S" break="no" n="111"/>gat 
+          secundum ultimum conatum suum actum talem quod non efficiat 
+          <lb ed="#S" n="112"/>caritas
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e3926">
+          <pc type="pilcrow"/> aliter igitur respondeo ad argumentum quod prima consequentia est bona sed 
+          <lb ed="#S" n="113"/>2a non valet et causa quare reddita <add place="above-line">est</add> ubi supra liber 1 et haec sint 
+          <lb ed="#S" n="114"/>dicta de actu qui non procedit effective a caritate sed qui solum 
+          <lb ed="#S" n="115"/>ex assistentia caritatis redditur meritorius ut prius dixi sed de 
+          <lb ed="#S" n="116"/>actu qui a caritate procederet tunc concedo cum magistro priori illud 
+          <lb ed="#S" n="117"/>quod non sequitur magis carus habet actum aequalem cum minus caro meri<lb ed="#S" break="no" n="118"/>torium 
+          utrobique ergo magis carus magis illo meretur quia si omnia 
+          <lb ed="#S" n="119"/>essent paria utrobique oporteret quod actus perveniens active a 
+          <lb ed="#S" n="120"/>maiori caritate esset intensior ergo si praecise sci aequalis actus in quibus 
+          <lb ed="#S" n="121"/>procedit a maiori conatu vel ab aliqua alia circumstantia in illo 
+          <lb ed="#S" n="122"/>meliori quam in isto et certe potest contingere quod plus acceptat 
+          <lb ed="#S" n="123"/>deus maioritatem conatus respectu huius actus aequalis super co<lb ed="#S" break="no" n="124"/>natum 
+          magis cari quam econtra excessis caritatis cari super 
+          <lb ed="#S" n="125"/>caritatem minus cari respectu eiusdem vel aequalis actus ut alias etiam in 
+          <lb ed="#S" n="126"/>primo seriosius declaravi et ita potest contingere quod actus magis 
+          <lb ed="#S" n="127"/>cari aequlis sic magis meritorius et potest contingere quod aeque secundum quod ex<lb ed="#S" break="no" n="128"/>cessus 
+          minus cari conatus super conatum alterius potest prae<lb ed="#S" break="no" n="129"/>ponderare 
+          in acceptatione divina respectu huius actus excessis
+          <pb ed="#S" n="151-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>caritatis etc quod minus proveniat magnitudo actus in magis caro 
+          <lb ed="#S" n="2"/>ab excessu caritatis super caritatem quam excessus conatus super co<lb ed="#S" break="no" n="3"/>natum 
+          et pro hoc etiam quod non ordinat actum aequalem magis cari seu plus 
+          <lb ed="#S" n="4"/>acceptati esse magis meritorium loquendo de actu quem conprincipiat ipsa cari<lb ed="#S" break="no" n="5"/>tas 
+          active et hic bene saudet magister quin <del rend="expunctuation">bene</del> prius sit quia secundum 
+          <lb ed="#S" n="6"/>beatum gregorium in omelia de confessoribus cum augentur dona etiam ratio<lb ed="#S" break="no" n="7"/>nes 
+          crescunt donorum et ex hoc infert quod tanto igitur esse humili<lb ed="#S" break="no" n="8"/>or 
+          atque ad serviendum esse promptior quisque debet ex mimere quanto 
+          <lb ed="#S" n="9"/>se obligatorem esse conspicit in reddenda ratione et addit quod servum 
+          <lb ed="#S" n="10"/>bonum pro <unclear>appertato</unclear> lucro remunerat <unclear>secundum</unclear> vero a bono opere 
+          <lb ed="#S" n="11"/>corpentem dampnat
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4006">
+          <pc type="pilcrow"/> Ex isto sic arguitur plus exigit deus ab 
+          <lb ed="#S" n="12"/>eo cui plus dedit et plus debet qui plus accepit ergo non satis facit 
+          <lb ed="#S" n="13"/>si praecise reddat aequale cum illo qui minus accepit et per consequens non 
+          <lb ed="#S" n="14"/>solum non est plus remunerandus immo videtur vituperandus et ar<lb ed="#S" break="no" n="15"/>guendus 
+          de corpore post et negligentia sibi dati possent tamen contin<lb ed="#S" break="no" n="16"/>gere 
+          casus ut praedixi quod ex aequali actu magis mereretur si haberet minus 
+          <lb ed="#S" n="17"/>claram cognitionem quam minus carus propter quod forte non obstante ex<lb ed="#S" break="no" n="18"/>cessu 
+          suae caritatis super caritatem alterius nisi plus conaretur agere 
+          <lb ed="#S" n="19"/>bene quam alter facit non haberet actum dilectionis aequae intensum sicut 
+          <lb ed="#S" n="20"/>ille et per consequens potest contingere quod praeponderet apud deum <unclear>ins?us</unclear> 
+          eius excessu caritatis respectu alterius in ordine ad aequalem actum
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4032">
+          <lb ed="#S" n="21"/><pc type="pilcrow"/> 9m dubium principale potest esse contra conclusionem principalem praecedentis dubii quia si 
+          <lb ed="#S" n="22"/>quis posset mereri gratiam suam primam cum primo infunditur augeri 
+          <lb ed="#S" n="23"/>tunc aliquis viator posset augere suum meritum in hoc instanti per unum tale 
+          <lb ed="#S" n="24"/>velle meritorium volo diligere dum post hoc instans consequens falsum quia 
+          <lb ed="#S" n="25"/>in nullo certo augeret ut videtur quia non plus esset ista volitio respectu 
+          <lb ed="#S" n="26"/>unius temporis sequentis quam respectu alterius cuiuslibet nec plus respectu unius gra<lb ed="#S" break="no" n="27"/>dus 
+          dilectionis quam respectu alterius sed maior gradus et maius 
+          <lb ed="#S" n="28"/>tempus si per velle praesens <add place="margin-left">taxent</add> taxentur habenda in futurae faciant plus ad 
+          <lb ed="#S" n="29"/>meritum ceteris paribus quam minora
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4059">
+          <pc type="pilcrow"/> de istis ergo cum in proposito 
+          <lb ed="#S" n="30"/>non taxetur aliquid certum in certo quocumque non erit gratia aucta 
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4066">
+          <pc type="pilcrow"/> Respon<lb ed="#S" break="no" n="31"/>det 
+          hic magister qui prius et bene concedo inquit quod voluntas <subst><del>per</del> <add>potest</add></subst> augere 
+          <lb ed="#S" n="32"/>suum meritum per unam talem volitionem volo diligere post hoc 
+          <lb ed="#S" n="33"/>instans et concedo quod non est taxandum hoc meritum iuxta unum 
+          <lb ed="#S" n="34"/>gradum futurae dilectionis plus quam iuxta unum alium quem habet dilectio<lb ed="#S" break="no" n="35"/>nis 
+          gradum nec iuxta unum tempus futurorum quodcumque plus quam iuxta 
+          <lb ed="#S" n="36"/>unum <del rend="expunctuation">alium</del> aliud sed iuxta qualitatem dilectionis quam habet vere vel in 
+          <lb ed="#S" n="37"/>temptative respectu dei dum sic vult confuse si enim penes quantitatem 
+          <lb ed="#S" n="38"/>temporis futuri quo in effectu sic diliget vel gradus dilectionis futurae a<lb ed="#S" break="no" n="39"/>licuius 
+          argui deberet quantitas huius meriti dicant inquit mihi qui hoc 
+          <lb ed="#S" n="40"/>sentiunt quantum erit istud meritum et quare non est ista dilectio 
+          <lb ed="#S" n="41"/>ita meritoria sicut si taxaretur tempus vel gradus sic volo omni 
+          <lb ed="#S" n="42"/>tempore et omni gradu dilectionis diligere post hoc <add place="margin-left">instans</add> si deus voluerit 
+          <lb ed="#S" n="43"/>me sic velle certissimum enim inquit est quod qui sic vult volitio post 
+          <lb ed="#S" n="44"/>hoc diligere confuse vult omni tempore diligere et omni gradu dilectio<lb ed="#S" break="no" n="45"/>nis 
+          confuse inquam id est non plus uno quam alio vel si non 
+          <lb ed="#S" n="46"/>ditant ergo quo gradu et quo non quaero etiam quantum iste meretur qui 
+          <lb ed="#S" n="47"/>sic vult volo dare deo decimas omnium bonorum meorum quae habebo 
+          <lb ed="#S" n="48"/>in futurorum aut volo dare pauperibus decimam partem omnium bonorum 
+          <lb ed="#S" n="49"/>meorum quae habebo in futurum si penes quantitatem illam deberet meritum 
+          <lb ed="#S" n="50"/>illius taxari meritum maius vel minus iuxta hoc quod plus vel 
+          <lb ed="#S" n="51"/>minus foret iste habiturus iam foret contingens ad utrumlibet istum 
+          <lb ed="#S" n="52"/>habere iam tantam gratiam quantam habet patet consequentia de se et falsitas consequentis 
+          <lb ed="#S" n="53"/>similiter ergo respectu iam habitae dilectionis dei in praesenti tantum debet attendi di<lb ed="#S" break="no" n="54"/>lectionis 
+          meritum igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4134">
+          <pc type="pilcrow"/> ad argumentum principale quaestionis patet ex solutione primi dubii 
+          <lb ed="#S" n="55"/>principalis quod de vi vocis loquendo nulla ibi caritas augetur sed per aug<lb ed="#S" break="no" n="56"/>mentationem 
+          quae est ibi provenit una composita perfectior praecedenti
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4143">
+          <pc type="pilcrow"/> Contra 
+          <lb ed="#S" n="57"/>tunc ista <unclear>compositor</unclear> ex quo acquirebatur per augmentationem successivam continuam 
+          <lb ed="#S" n="58"/>tunc in fine habebit partes infinitas totaliter distinctas quarum 
+          <subst><del>una</del> <add>nulla</add><!-- correction not quite clear --></subst> sic pars alterius consequens falsum quia omnes pars totius <unclear>homoge?i</unclear> 
+          est pars partis alicuius eiusdem totius igitur in tali toto millae 
+          <lb ed="#S" n="59"/>sunt partes quarum nulla sic pars alterius et consequentiam primam probo sic quia 
+          <lb ed="#S" n="60"/>si augmentatio sic successiva et continua prius acquiritur medietas
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="61"/>prior quam aliquid habeatur medietatis tunc secuturae eo quod nulla pars prioris 
+          <lb ed="#S" n="62"/>medietatis numquam erit pars secuturae medietatum et pari ratione nec econverso 
+          <lb ed="#S" n="63"/>eodem modo arguam de medietatibus secundae vel primae medietatis et de 
+          <lb ed="#S" n="64"/>medietatibus proportionalium partium sic sequentium ordinate sed tales sunt infini<lb ed="#S" break="no" n="65"/>tae 
+          ibi ergo ista componi in fine motus continebat partes infinitas 
+          <lb ed="#S" n="66"/>quarum nulla sic pars alterius
+        </p>
+        <p xml:id="aw98wa-xg3509-d1e4182">
+          <pc type="pilcrow"/> Responsio quod non sequitur nec est verum quod sicut 
+          <lb ed="#S" n="67"/>in caritate tali composita partes infinitae nec etiam finitae quarum nulla sit 
+          <lb ed="#S" n="68"/>pars alterius cum earum quaelibet sic pars totius et pars cuiusdam partis etc 
+          <lb ed="#S" n="69"/>sicut satis notum est cuilibet subtiliter advertenti et hoc probat 
+          <lb ed="#S" n="70"/>satis supra posita inprobatio consequentis primo illate ad vim sermonis 
+          <lb ed="#S" n="71"/>eundo nihilominus tamen probatio consequentiae declarat istam consequentiam esse bonam et 
+          <lb ed="#S" n="72"/>consequens esse verum sicut et antecedens quod in caritate habita in fine talis pro<lb ed="#S" break="no" n="73"/>cessus 
+          si ipse sic successivus et continuus sicut partes infinitae totaliter dis<lb ed="#S" break="no" n="74"/>tincte 
+          quarum nulla sic pars alterius earumdem istud sequitur necessario 
+          <lb ed="#S" n="75"/>et est verum et sic ut communius uti communitas quaestione indifferenter primo consequente 
+          <lb ed="#S" n="76"/>pro isto ultimo sed tamen ad vim vocis multum differunt ut ostendi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

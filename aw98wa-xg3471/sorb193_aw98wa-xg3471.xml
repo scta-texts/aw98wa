@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestio 1 [Sorb193 Transcription]</title>
+        <title>Quaestio 2 [Sorb193 Transcription]</title>
         <author ref="#Wodeham">Adam Wodeham</author>
         <respStmt>
           <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
@@ -12,7 +12,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Quaestio 1 [Sorb193 Transcription]</title>
+          <title>Quaestio 2 [Sorb193 Transcription]</title>
           <date when="2025-01-25">January 25, 2025</date>
         </edition>
       </editionStmt>

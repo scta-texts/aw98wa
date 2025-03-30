@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4 [Sorb193 Transcription]</title>
+          <date when="2025-03-25">March 25, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-03-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="151-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3543"><!-- b2q4-->
+        <head xml:id="aw98wa-xg3543-Hd1e101">Quaestio 4</head>
+        <p xml:id="aw98wa-xg3543-d1e103">
+          <lb ed="#S" n="77"/> Quarto circa distinctione primam secundi quaero utrum viator operi<lb ed="#S" break="no" n="78"/>bus 
+          meritoriis insistendo ex hiis carior deo
+          <lb ed="#S" n="79"/>fiat
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e112">
+          et videtur quod non quia tunc ex eis acquireret maio<lb ed="#S" break="no" n="80"/>rem 
+          caritatem hoc falsum quia qualiter fieret ista maio<lb ed="#S" break="no" n="81"/>ratio 
+          non sine additione ex quaestionibus praecedentibus nec per additionem 
+          <lb ed="#S" n="82"/>quia deus ipse solus augere potest effective caritatem et ipse ista potest 
+          <lb ed="#S" n="83"/>eam augere sine additione sicut per additionem et superfluum est 
+          <lb ed="#S" n="84"/>per plura fieri quod aeque potest fieri per pauciora minor patet <unclear>que</unclear> non est maioris 
+          <lb ed="#S" n="85"/>potentiae ut videtur parvam caritatem facere magnam sine additione 
+          <lb ed="#S" n="86"/>quam sit quod legitur <ref xml:id="aw98wa-xg3543-Rd1e131">mattheus 14</ref> <quote xml:id="aw98wa-xg3543-Qd1e133" source="http://scta.info/resource/mt14_19@8-26 http://scta.info/resource/mt14_20@1-13 http://scta.info/resource/mt14_21@1-11">acceptis quin panibus et duobus pis<lb ed="#S" break="no" n="87"/>cibus 
+          aspiciens in caelum benedixit et fregit dedit discipulis 
+          <lb ed="#S" n="88"/>suis discipuli autem turbis et manducaverunt et saturati sunt 
+          <lb ed="#S" n="89"/>et tulerunt reliquas 12 cophinos fragmentorum plenos man<lb ed="#S" break="no" n="90"/>ducantium 
+          autem fuit numeris 5 milia virorum exceptis mulieri<lb ed="#S" break="no" n="91"/>bus 
+          et parvulis</quote> et simile fecit alias de 7 panibus et paucis pis<lb ed="#S" break="no" n="92"/>ticulis 
+          respectu 4or milium qui <quote xml:id="aw98wa-xg3543-Qd1e149" source="http://scta.info/resource/mt15_37@2-15">comederunt omnes et saturati sunt et 
+          <lb ed="#S" n="93"/>superfluit de fragmentis tulerunt 7 sportas plenas</quote> <ref xml:id="aw98wa-xg3543-Rd1e154">matthaeus 15</ref> 
+          <lb ed="#S" n="94"/>et <ref xml:id="aw98wa-xg3543-Rd1e158">mattheus 16</ref> <unclear>increpans</unclear> discipulos <quote xml:id="aw98wa-xg3543-Qd1e162" source="http://scta.info/resource/mt16_8@9-14 http://scta.info/resource/mt16_9@1-13 http://scta.info/resource/mt16_10@1-10">modice inquit fidei <unclear>quod</unclear> non<lb ed="#S" break="no" n="95"/>dum 
+          intelligitis neque recordamini 5 panum in 4 milia hominum 
+          <lb ed="#S" n="96"/>et quod cophinos sumpsistis neque 7 panum in 4o milia ho<lb ed="#S" break="no" n="97"/>minum 
+          et quot sportas sumpsistis</quote>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e174">
+          <pc type="pilcrow"/> Ex hiis potest argui si deus 
+          <lb ed="#S" n="98"/>substantias ita paucas et parvas ista potuit multiplicare sine ap<lb ed="#S" break="no" n="99"/>positione 
+          materiae extrinsecae igitur et modicam caritatem sine additione po<lb ed="#S" break="no" n="100"/>terit 
+          maiorare
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e185">
+          <pc type="pilcrow"/> In oppositum arguitur per illud <ref xml:id="aw98wa-xg3543-Rd1e189">augustinus epistola quadam ad Ierominum</ref> 
+          et ponitur <ref xml:id="aw98wa-xg3543-Rd1e191" target="http://scta.info/resource/pl-l3d36c2-d1e146@208-249">3o sententiarum distinctione 36 capitulo 2</ref> <quote xml:id="aw98wa-xg3543-Qd1e194">ut generaliter inquid breviterque com<lb ed="#S" break="no" n="101"/>plectar 
+          quam de virtute<!-- possible correction here --> habeo <seg type="correction"><subst><del rend="expunctuation">m</del><add>n</add></subst>otionem</seg> virtus est caritas qua <sic>illud</sic> 
+          <lb ed="#S" n="102"/>quod diligendum est diligitur haec et in aliis maior in aliis minor 
+          <lb ed="#S" n="103"/>in aliis nulla est plenissima vero quae iam non possit 
+          <lb ed="#S" n="104"/>augeri quamdiu hic homo vivit <seg type="correction">in nemine</seg></quote> est ergo semper potest 
+          <lb ed="#S" n="105"/>viator fieri carior deo quam sit
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e223">
+          <pc type="pilcrow"/> Ista quaestio introducta est ad 
+          <lb ed="#S" n="106"/>applicandum illi materiae <unclear>so?pa?ta</unclear> quaedam cuiusdam subtilis magistro 
+          <lb ed="#S" n="107"/>et solvendum tractando illa per modum dubiorum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e234">
+          <pc type="pilcrow"/> Primum ergo dubium sit u<lb ed="#S" break="no" n="108"/>trum 
+          <name xml:id="aw98wa-xg3543-Nd1e240">petrus</name> in <c>a</c> sit carior deo quam <name xml:id="aw98wa-xg3543-Nd1e244">linus</name> fuit immediate ante <c>a</c> 
+          <lb ed="#S" n="109"/>ponatur casus quod <c>a</c> sic ultimum instans terminans <c>b</c> horam et quod in primo 
+          <lb ed="#S" n="110"/>instanti <c>b</c> <del rend="expunctuation">hom</del> horae sint petrus et linus aequaliter deo cari et quod ab <add place="margin-right">illo</add> instanti 
+          <lb ed="#S" n="111"/>continue fiat unus minus carus deo per totam <c>b</c> horam uniformiter sit 
+          <lb ed="#S" n="112"/>quod in <c>a</c> instanti primo per talem uniformem minorationem cesset esse carus 
+          <lb ed="#S" n="113"/>ista quod in nullo instanti illius horae fuerit ista parvum carus quin postea minus carus 
+          <lb ed="#S" n="114"/>hoc posito argui potest ad partem affirmativam sit petrus in <c>a</c> est 
+          <lb ed="#S" n="115"/>carus et fuit per totum <c>b</c> aeque carus sit ista et linus in aliquo instanti 
+          <lb ed="#S" n="116"/><c>b</c> horae fuit minus carus <unclear>m?to</unclear> quam petrus in <c>a</c> et linus in quolibet 
+          <lb ed="#S" n="117"/>instanti inter instans illud dandum et <c>a</c> fuit carus et minus carus quam in illo 
+          <lb ed="#S" n="118"/>instanti dando ut patet ex casu igitur petrus in <c>a</c> est carior quam 
+          <lb ed="#S" n="119"/>linus fuerit immediate ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e307">
+          <pc type="pilcrow"/> Item petrus in <c>a</c> est plus quam 
+          <lb ed="#S" n="120"/>duplo carior quam linus fuit immediate ante <c>a</c> et plus quam triplo 
+          <lb ed="#S" n="121"/>et plus quam quadruplo et sic in infinitum ergo petrus in a est in 
+          <lb ed="#S" n="122"/>infinitum carior quam linus fuit carus immediate ante <c>a</c> et 
+          <lb ed="#S" n="123"/>assumptum probari potest quia omnem proportionem ymaginabile contingit inve<lb ed="#S" break="no" n="124"/>nire 
+          inter instans aequalitatis quo isti erant aeque cari et instans
+          <pb ed="#S" n="152-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quo secundum ymaginationem casus linus cessat esse carus et quacumque istarum 
+          <lb ed="#S" n="2"/>proportionum inter instans aequalitatis et ultimum instans est proportio qua petrus est 
+          <lb ed="#S" n="3"/>in <c>a</c> carior quam fuit linus immediate ante <c>a</c> maior ex quo patet veritas 
+          <lb ed="#S" n="4"/>assumpti antecedentis
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e346">
+          <pc type="pilcrow"/> Et istud ultimo acceptum patet per exemplum quia si su<lb ed="#S" break="no" n="5"/>mantur 
+          duae librae aequales et diminuatur una continue quousque corrum<lb ed="#S" break="no" n="6"/>patur 
+          omnem proportionem ymaginablem contingit invenire inter terminum aequalitatis il<lb ed="#S" break="no" n="7"/>larum 
+          duarum linearum et ultimum terminum corrumptionis alterius earumdem al<lb ed="#S" break="no" n="8"/>tera 
+          in eodem statu permanente ergo similiter in proposito
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e359">
+          <pc type="pilcrow"/> ad oppositum arguitur sic 
+          <lb ed="#S" n="9"/>si hoc vel ergo petrus in <c>a</c> est in infinitum carior quam linus fuit immediate ante 
+          <lb ed="#S" n="10"/><c>a</c> vel solum finite si primum ergo petrus in <c>a</c> est infinite carus cum comparatum 
+          <lb ed="#S" n="11"/>praesupponat positivum si ergo in infinitum est carior igitur infinite carus si detur 2m 
+          <lb ed="#S" n="12"/>quod petrus in <c>a</c> solum finite est carior quam linus fuit immediate 
+          <lb ed="#S" n="13"/>ante <c>a</c> sic ergo gratia exempli quod in decuplo sit carior
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e384">
+          <pc type="pilcrow"/> Contra inter instans 
+          <lb ed="#S" n="14"/>quo petrus fuit decuplo carior lino et <c>a</c> lapsum est tempus et 
+          <lb ed="#S" n="15"/>in medio istius temporis fuit petrus plus quam decuplo carior lino ex quo 
+          <lb ed="#S" n="16"/>petrus semper mansit aeque carus et linus continue fiebat minus 
+          <lb ed="#S" n="17"/>carus ergo falsum est quod petrus in <c>a</c> sit decuplo carior 
+          <lb ed="#S" n="18"/>quam linus immediate ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e407">
+          <pc type="pilcrow"/> Et simili modo argueretur quaecumque alia proportio 
+          <lb ed="#S" n="19"/>daretur et quod in aliquo instanti ante <c>a</c> fuerit petrus praecise decuplo carior <name xml:id="aw98wa-xg3543-Nd1e415">lino</name> 
+          <lb ed="#S" n="20"/>patet per propositionem supra positam et probatam quod omnem proportionem ymaginabilem habuit 
+          <lb ed="#S" n="21"/>petrus secundum caritatem ad linum inter terminum aequalitatis et ultimum terminum corrum<lb ed="#S" break="no" n="22"/>ptionis 
+          quo scilicet huius desint habere caritatem
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e425">
+          <pc type="pilcrow"/> Praetera in aliquo instanti ante <c>a</c> 
+          <lb ed="#S" n="23"/>petrus fuit decuplo carior lino secundum casum et proportionem praeaccep<lb ed="#S" break="no" n="24"/>tam 
+          et in aliquo instanti ante <c>a</c> fuit triplo carior et sic de quacumque a<lb ed="#S" break="no" n="25"/>lia 
+          proportione numerali ymaginabili in infinitum sed proportio excessus qua 
+          <lb ed="#S" n="26"/>petrus in <c>a</c> est carior quam linus fuit immediate ante <c>a</c> est 
+          <lb ed="#S" n="27"/>maior quacumque istarum proportionum ergo petrus in <c>a</c> est in infinitum carior 
+          <lb ed="#S" n="28"/>quam linus fuit carus immediate ante <c>a</c> nam omnis proportio maior 
+          <lb ed="#S" n="29"/>proportione dupla et tripla et sic in infinitum est infinita sic in proposito 
+          <lb ed="#S" n="30"/>igitur
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e460">
+          <pc type="pilcrow"/> Respondetur a quodam quod haec consequentia non valet petrus in <c>a</c> est plus quam 
+          <lb ed="#S" n="31"/>triplo carior quam huius fuit immediate ante <c>a</c> et plus quam 4lo et 
+          <lb ed="#S" n="32"/>sic in infinitum ergo caritas petri <add place="margin-left">in <c>a</c></add> est infinita sive ergo petrus in <c>a</c> est 
+          <lb ed="#S" n="33"/>infinite carus nec in proposito comparatus praesupponit suum positivum 
+          <lb ed="#S" n="34"/>et causa utriusque est quia nullus est gradus certus caritatis ex parte 
+          <lb ed="#S" n="35"/>liiii ad quem fiebat comparatio caritatis petri
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e486">
+          <pc type="pilcrow"/> Sed contra si petrus 
+          <lb ed="#S" n="36"/>in <c>a</c> sic in infinitum carior quam linus fuit carus immediate ante <c>a</c> 
+          <lb ed="#S" n="37"/>ergo in infinitum fuit linus minus carus immediate ante <c>a</c> quam petrus 
+          <lb ed="#S" n="38"/>sic carus in <c>a</c> et consequentia patet quia tunc plus quam in duplo minus 
+          <lb ed="#S" n="39"/>carus fuit linus immediate ante <c>a</c> quam petrus in <c>a</c> et plus quam in 3lo 
+          <lb ed="#S" n="40"/>minus carus et sic in infinitum ergo in infinitum fuit linus minus carus 
+          <lb ed="#S" n="41"/>immediate ante <c>a</c> quam petrus in <c>a</c> et ista consequentia patet per hoc quod so<lb ed="#S" break="no" n="42"/>la 
+          proportio in infinita est maior proportione 2la et 3la et sic in infini<lb ed="#S" break="no" n="43"/>tum 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e525">
+          <pc type="pilcrow"/> Et antecedens istius ultime consequentiae patet quia plus quam in 2lo fuit 
+          <lb ed="#S" n="44"/>linus <add place="margin-left">nimus</add> carus immediate ante <c>a</c> quam ipsemet fuerit in principio <c>b</c> horae 
+          <lb ed="#S" n="45"/>et plus quam in 3lo minus carus et sic in infinitum ergo in infinitum fuit 
+          <lb ed="#S" n="46"/>linus minus carus immediate ante <c>a</c> <add place="margin-below">quam ipsemet fuerit in principio <c>b</c> horae</add> ergo cum petrus in <c>a</c> sit praecise 
+          <lb ed="#S" n="47"/>aeque carus sicut linus in principio <c>b</c> horae per causam ergo ad omne idem ean<lb ed="#S" break="no" n="48"/>dem 
+          habebunt proportionem et per consequens petrus in <c>a</c> est in infinitum carior 
+          <lb ed="#S" n="49"/>quam huius fuit carus immediate ante <c>a</c> <add place="margin-below"><unclear>ut</unclear> quod plus quam in duplo fuit linus minus carus immediate ante <c>a</c></add> <del rend="underline">et</del> quam ipsemet in principio <c>b</c> horae 
+          <lb ed="#S" n="50"/>et plus quam triplo minus carus et sit in infinitum probatur et huius in medio 
+          <lb ed="#S" n="51"/>instanti <c>b</c> horae fuit in duplo minus carus quam ipsemet in principio 
+          <lb ed="#S" n="52"/><c>b</c> horae per casum quia continue et uniformiter fuit minus carus et minus per 
+          <lb ed="#S" n="53"/>totam <c>b</c> horam et per consequens in principio 3ae partis proportionalis videlicet in principio post
+          <lb ed="#S" n="54"/>terminoris medietatis residui fuit in 4lo minus carus quam ipse<lb ed="#S" break="no" n="55"/>met
+          in principio <c>b</c> horae et sic in infinitum procedendo cum tales partes proportionales 
+          <lb ed="#S" n="56"/>sint infinite et ultra quamcumque istarum proportionum fuit linus 
+          <lb ed="#S" n="57"/>minus carus inmediate ante <c>a</c> ergo in infinitum fuit huius immediate 
+          <lb ed="#S" n="58"/>ante <c>a</c> minus carus quam ipsemet in principio <c>b</c> horae quod erat proban<lb ed="#S" break="no" n="59"/>dum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e613">
+          <pc type="pilcrow"/> dicendum quod propositio proposita vera est in ad argumentum in contrarium concedendum 
+          <lb ed="#S" n="60"/>est quod in infinitum est petrus in <c>a</c> carior quam linus fuit carus 
+          <lb ed="#S" n="61"/>immediate ante <c>a</c> quia plus quam duplo et plus quam 3lo et sic in infinitum 
+          <lb ed="#S" n="62"/>et similiter concedendum est quod in infinitum fuit linus minus carus immediate 
+          <lb ed="#S" n="63"/>ante <c>a</c> quam petrus sit clarus in <c>a</c> sicut probavit unum argumentum ad 
+          <lb ed="#S" n="64"/>hoc sed neganda est ulterior consequentia ergo petrus in <c>a</c> est infinite
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>carus et causa est quia nullus fuit <del rend="expunctuation">ultimum</del> ulterius et remissius gradus caritatis 
+          <lb ed="#S" n="66"/>secundum quem linus in essendo carus immediate ante <c>a</c> comparabatur <unclear>caritati</unclear> petri 
+          <lb ed="#S" n="67"/>in <c>a</c> unde ad veritatem huius propositionis in infinitum est petrus carior in 
+          <lb ed="#S" n="68"/><c>a</c> quam linus fuit immediate ante <c>a</c> sufficit quod petrus in <c>a</c> sic ca<lb ed="#S" break="no" n="69"/>rus 
+          et quod linus immediate ante <c>a</c> fuit carus et quod nullus fuerit minimus 
+          <lb ed="#S" n="70"/>gradus quo ipse fuit carus sine medio ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e675">
+          <pc type="pilcrow"/> et ad regulam 
+          <lb ed="#S" n="71"/>illam comparatum praesupponit positivum et hoc debet intelligi quando fit comparatio 
+          <lb ed="#S" n="72"/>inter certos gradus aliarum formarum sed sit non est in proposito 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e684">
+          <pc type="pilcrow"/> 2m 
+          <lb ed="#S" n="73"/>dubium est ante haec sit concedenda supposito casu ponendo petrus 
+          <lb ed="#S" n="74"/>immediate post <c>a</c> habebit caritatem maiorem quam habebit linus immediate 
+          <lb ed="#S" n="75"/>post <c>a</c> vel haec quam per eadem habeo petrus erit carior immediate 
+          <lb ed="#S" n="76"/>post <c>a</c> quam linus erit carus immediate post <c>a</c> ponatur quod in <c>a</c> instanti 
+          <lb ed="#S" n="77"/>praesenti sicut caritas petri et caritas lini aequales et continue per totam 
+          <lb ed="#S" n="78"/>horam post <c>a</c> instans aequaliter fiant magis cari 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e715">
+          <pc type="pilcrow"/> Et tunc arguitur quod propositio proposita 
+          <lb ed="#S" n="79"/>sic vera quia petrus in <c>a</c> nec habet maiorem caritatem quam linus 
+          <lb ed="#S" n="80"/>habebit immediate post <c>a</c> et aliquando petrus habebit maiorem caritatem 
+          <lb ed="#S" n="81"/>quam habebit linus immediate post <c>a</c> et nullum erit tempus post <c>a</c> ante 
+          <lb ed="#S" n="82"/>quam habebit maiorem caritatem quam linus habebit immediate post <c>a</c> igitur 
+          <lb ed="#S" n="83"/>sine medio post <c>a</c> seu immediate post <c>a</c> habebit petrus maiorem 
+          <lb ed="#S" n="84"/>caritatem quam linus habebit immediate post <c>a</c> <add>et quod nullum erit tempore etc probatio quia in a instanti</add> innitaret caritatem habet petrus quam linus habebit immediatione post <c>a</c> et aliquando petrus habebit maiorem caritatem quam linus habebit immediate post <c>a</c> ergo aliquando incipiet vel 
+          <lb ed="#S" n="85"/>nunc incipit petrus habere maiorem caritatem quam linus habebit im<lb ed="#S" break="no" n="86"/>mediate 
+          post <c>a</c> si nunc incipit habere habetur intentum quod tunc immediate 
+          <lb ed="#S" n="87"/>post <c>a</c> habebit maiorem etc si non nunc sed post incipiet sic 
+          <lb ed="#S" n="88"/>illud instans <c>c</c> ergo ante <c>c</c> non erit haec vera licet formetur petrus habet 
+          <lb ed="#S" n="89"/>maiorem caritatem quam linus habuit immediate post <c>a</c> sed hic est falsum quia 
+          <lb ed="#S" n="90"/>inter <c>a</c> et <c>c</c> erit tempus medium in cuius multis partibus erit vera vel for<lb ed="#S" break="no" n="91"/>metur 
+          aliter ratio sive inceipere sic si nunc petrus habet minorem quam etc 
+          <lb ed="#S" n="92"/>et aliquando habebit maiorem etc vel ergo immediate post <c>a</c> et habetur in<lb ed="#S" break="no" n="93"/>tentum 
+          vel terminus aliquod <del rend="expunctuation">lil</del> labetur antequam habebit maiorem quam etc 
+          <lb ed="#S" n="94"/>et sic illud sed hoc falsum quia in medio illius temporis assignabilis foret haec 
+          <lb ed="#S" n="95"/>vera petrus habet maiorem caritatem quam linus habuti immediate post <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e803">
+          <lb ed="#S" n="96"/><pc type="pilcrow"/> Contra petrus et linus immediate post <c>a</c> habebit aeequales caritates ergo pe<lb ed="#S" break="no" n="97"/>trus 
+          non habebit maiorem immediate post <c>a</c> quam habebit huius immediate 
+          <lb ed="#S" n="98"/>post <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e820">
+          <pc type="pilcrow"/> praeterea si petrus habebit maiorem caritatem immediate post <c>a</c> quam 
+          <lb ed="#S" n="99"/>etc ergo linus habebit minorem caritatem immediate post <c>a</c> quam 
+          habebit petrus immediate post <c>a</c> consequentia est bona ut videtur sed consequens falsum 
+          <lb ed="#S" n="100"/>quia per casum in omni instanti post <c>a</c> habebunt caritates aequales
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e838">
+          <pc type="pilcrow"/> ad illud dubium 
+          <lb ed="#S" n="101"/>dicendum quod <add place="margin-right">probleumata</add> <del rend="expunctuation">probatur</del> est verum in forma qua proponitur et causa est quia nullum tempus 
+          <lb ed="#S" n="102"/>erit lapsum antequam petrus habebit caritatem maiorem quam habe<lb ed="#S" break="no" n="103"/>bit 
+          huius immediate post <c>a</c> et haec convertitur cum propositione prima haec tamen falsa 
+          <lb ed="#S" n="104"/>est maiorem caritatem habebit petrus immediate post <c>a</c> quam linus habebit im<lb ed="#S" break="no" n="105"/>mediate 
+          post <c>a</c> quia nec illam quam nunc habet habebit maiorem immediate 
+          <lb ed="#S" n="106"/>post <c>a</c> quam habebit linus immediate post <c>a</c> cum non possit habere 
+          <lb ed="#S" n="107"/>maiorem quam habet sine additione caritatis alterius ex superius declaratis 
+          <lb ed="#S" n="108"/>et <seg type="correction"><subst><del rend="expunctuation">ex</del><add place="above-line">con</add></subst>positum</seg> ex alia et ista non foret ista nec aliam habebit immediate 
+          <lb ed="#S" n="109"/>post <c>a</c> sicut patet inducitve quia nullam aliam nisi per successivam eius 
+          <lb ed="#S" n="110"/>productionem
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e893">
+          <pc type="pilcrow"/> primum argumentum probat verum propositum et rationes in oppositum ostendunt 
+          <lb ed="#S" n="111"/>non oppositum illius sed istius maiorem caritatem habebit petrus in<lb ed="#S" break="no" n="112"/>mediate
+          post <c>a</c> quam habebit huius immediate post
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e904">
+          <pc type="pilcrow"/> 3m dubium est ante 
+          <lb ed="#S" n="113"/>supposito casu ponendo petrus habebit tantam caritatem ante <c>a</c> 
+          <lb ed="#S" n="114"/>sicut unquam habebit ponatur quod petrus continue intendat caritatem 
+          <lb ed="#S" n="115"/>suam usque ad <c>a</c> instans crastine diei ita tame quod <c>a</c> sic primum instans 
+          <lb ed="#S" n="116"/>non esse petri et sic <c>c</c> tempus terminatum ad <c>a</c> instans per quod <c>c</c> petrus vivum 
+          <lb ed="#S" n="117"/>praecise tunc probatur propositio assumpta sic petrus habebit caritatem per totum <c>c</c> 
+          <lb ed="#S" n="118"/>tempus et petrus numquam habebit caritatem maiorem quam in <c>c</c> tempore ergo 
+          <lb ed="#S" n="119"/>petrus habebit tantam caritatem in <c>c</c> tempore sicut unquam habebit antecedens 
+          <lb ed="#S" n="120"/>patet ex casu et consequentia patet de se ut videtur
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e946">
+          <pc type="pilcrow"/> Praeterea petrus habebit tantam ca<lb ed="#S" break="no" n="121"/>ritatem 
+          patet per casum ergo petrus tantam caritatem habebit ante <c>a</c> sicut 
+          <lb ed="#S" n="122"/>unquam habebit 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e957">
+          <pc type="pilcrow"/> contra si petrus habebit tanta caritatem ante <c>a</c> sicud 
+          <lb ed="#S" n="123"/>unquam habebit ergo in aliquo instanti ante <c>a</c> petrus habebit tantam 
+          <lb ed="#S" n="124"/>caritatem sicut etc
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e970">
+          <pc type="pilcrow"/> Contra si petrus habebit tanta caritatem ante <c>a</c> sicud 
+          <lb ed="#S" n="125"/>unquam habebit ergo in aliquo instanti ante <c>a</c> petrus habebit tantam 
+          <lb ed="#S" n="126"/>caritatem sicut etc consequentia patet de se sic ergo illud instans <c>b</c> et probo hoc 
+          <lb ed="#S" n="127"/>esse falsum quia inter <c>b</c> et <c>a</c> erit tempus medium in cuius posteriori mediate 
+          <lb ed="#S" n="128"/>petrus habebit maiorem caritatem quam in <c>b</c> vel inmediate propinqui<lb ed="#S" break="no" n="129"/>ori 
+          ipsi <c>b</c> ergo petrus non habebit tantam caritatem in <c>b</c> sicut un<lb ed="#S" break="no" n="130"/>quam 
+          habebit quod erat probandum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1005">
+          <pc type="pilcrow"/> Praeterea ut ex casu patet in quolibet instanti 
+          <lb ed="#S" n="131"/>ante finem temporis <c>c</c> petrus habebit minorem quam ipsemet habebit et 
+          <lb ed="#S" n="132"/>in fine <c>c</c> temporis petrus non habebit caritatem ergo in <c>c</c> tempore pe<lb ed="#S" break="no" n="133"/>trus 
+          non habebit tantam caritatem sicut ipsemet habebit ergo nec ante 
+          <lb ed="#S" n="134"/><c>a</c> habebit tantam caritatem sicut unquam habebit
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1027">
+          <pc type="pilcrow"/> dicendum quod propositio proposita 
+          <lb ed="#S" n="135"/>falsa est sicut unde probant argumenta in contrarium Et ad primum argumentum 
+          <lb ed="#S" n="136"/>neganda est consequentia petrus habebit caritatem per totum <c>c</c> tempus etc et 
+          <lb ed="#S" n="137"/>causa est quia ista petrus habebit tantam caritatem ante <c>a</c> sicut 
+          <lb ed="#S" n="138"/>etc convertitur cum ista in aliquo instanti ante <c>a</c> petrus habebit tan<lb ed="#S" break="no" n="139"/>tam 
+          caritatem sicut unquam habebit et similiter haec petrus in <c>c</c> tempore habe<lb ed="#S" break="no" n="140"/>bit 
+          tantam etc convertitur cum ista in aliquo instanti <c>c</c> temporis habebit 
+          <lb ed="#S" n="141"/>tantam caritatem sicut unquam habebit modo non sequitur petrus habe<lb ed="#S" break="no" n="142"/>bit 
+          caritatem in <c>c</c> tempore et philosophus non habebit maiorem caritatem 
+          <lb ed="#S" n="143"/>quam habebit in <c>c</c> tempore ergo in aliquo instanti <c>c</c> temporis petrus 
+          <lb ed="#S" n="144"/>habebit tantam caritatem sicut unquam habebit et ideo nec conver<lb ed="#S" break="no" n="145"/>tible 
+          cum consequente sequitur scilicet quod philosophus habebit tantam caritatem ante <c>a</c> 
+          sicut unquam habebit
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1075">
+          <pc type="pilcrow"/> aliter potest responderi sicud prius quod talis consequentia non valet 
+          <lb ed="#S" n="146"/>cum verbis de futuro et causa est quia non supponitur in antecedente aliquis 
+          <lb ed="#S" n="147"/>gradus maximus seu intensissimus caritatis quem petrus habebit in 
+          <lb ed="#S" n="148"/><c>c</c> tempore vel ante <c>a</c> ymmo casus ponit oppositum huius quod tamen 
+          <lb ed="#S" n="149"/>requireretur ad hoc quod consequentia valeret et ideo in talibus casibus 
+          <lb ed="#S" n="150"/>et consimilibus ubi non erit maximus gradus acquirendus 
+          <lb ed="#S" n="151"/>sed potius sequitur oppositum bene enim sequitur petrus habebit caritatem in <c>c</c> et non 
+          <lb ed="#S" n="152"/>habebit maiorem caritatem quam habebit in <c>c</c> et nullus est gradus caritatis 
+          <lb ed="#S" n="153"/>intensissimus quem petrus habebit in <c>c</c> ergo petrus non habebit tantam 
+          <lb ed="#S" n="154"/>caritatem in <c>c</c> sicut ipsemet habebit cum verbis tamen de praesenti bene 
+          <lb ed="#S" n="155"/>valet quia cum et talibus gradus maximus caritatis supponitur
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1113">
+          <pc type="pilcrow"/> ad 2m negan<lb ed="#S" break="no" n="156"/>dum 
+          est antecedens et causa data est
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1120">
+          <pc type="pilcrow"/> 4m dubium an haec sit vera sup<lb ed="#S" break="no" n="157"/>posito 
+          casu ponendo maiorem dilectionem vel caritatem habebit philosophus 
+          <lb ed="#S" n="158"/>quam habebit huius ante <c>a</c> ponatur quod petrus et huius continue per <c>b</c> horam 
+          <lb ed="#S" n="159"/>intedant suas caritates aequaliter praecise et quod in ultimo instanti <c>b</c> ho<lb ed="#S" break="no" n="160"/>rae 
+          quod sit <c>a</c> sicut petrus et huius primo corrupti quo posito arguitur 
+          <lb ed="#S" n="161"/>ad partem affirmativam sic dielctiones aequales habebunt isti in 
+          <lb ed="#S" n="162"/>quolibet instanti ante <c>a</c> et in nullo instanti ante <c>a</c> habebit linus dilectionem 
+          <lb ed="#S" n="163"/>ita intensam quin petrus habebit intentiorem et per consequens ma<lb ed="#S" break="no" n="164"/>iorem 
+          dilectionem habebit philosophus quam habebit linus ante <c>a</c> minor 
+          <lb ed="#S" n="165"/>pater quia omnem gradum dilectionis quam habebit linus ante <c>a</c> excedit 
+          <lb ed="#S" n="166"/>aliquis gradus dilectionis quam habebit petrus ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1166">
+          <pc type="pilcrow"/> Praeterea in quolibet instanti ante 
+          <lb ed="#S" n="167"/><c>a</c> habebit huius minorem dilectionem dilectione quam habebit petrus ante 
+          <lb ed="#S" n="168"/><c>a</c> ergo maiorem dilectionem habebit per quam habebit linus ante <c>a</c> consequentia 
+          <lb ed="#S" n="169"/>patet quaestio per conversionem et assumptum probatur quia quaelibet eius <unclear>singularis</unclear> vera est nam 
+          <lb ed="#S" n="170"/>quocumque instans demonstraretur post illud ante <c>a</c> habebit petrus maiorem di<lb ed="#S" break="no" n="171"/>lectionem 
+          quia per casum continue intendetur in eo caritas usque ad instans 
+          <lb ed="#S" n="172"/><c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1194">
+          <lb ed="#S" n="173"/> Sed contra nec ante <c>a</c> nec in <c>a</c> nec post <c>a</c> habebit petrus 
+          <lb ed="#S" n="174"/>maiorem dilectionem quam habebit linus ante <c>a</c> ergo numquam habebit 
+          <lb ed="#S" n="175"/>petrus maiorem etc consequentia patet et assumptum quia nec in <c>a</c> nec post 
+          <lb ed="#S" n="176"/><c>a</c> quia tunc petrus non erit per casum nec ante <c>a</c> quia acceptio quocumque instanti 
+          <lb ed="#S" n="177"/>ante <c>a</c> sic illud <c>c</c> habebit linus maiorem dilectionem quam in <c>c</c> 
+          <lb ed="#S" n="178"/>ergo in <c>c</c> non habet petrus maiorem dilectionem quam habebit linus 
+          <lb ed="#S" n="179"/>ante <c>a</c> et sicut argumentum est de <c>c</c> instanti sic arguendum est de quolibet 
+          <lb ed="#S" n="180"/>instanti ante <c>a</c> ergo in nullo instanti ante <c>a</c> habebit petrus maiorem dilectionem 
+          <lb ed="#S" n="181"/>quam habebit huius ante <c>a</c> assumptum patet quo ad quamlibet eius partem per 
+          <lb ed="#S" n="182"/>casum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1253">
+          <pc type="pilcrow"/> Praeterea per totum tempus ante <c>a</c> erunt dilectio petri et dilectio li<lb ed="#S" break="no" n="183"/>ni 
+          aequales per casum ergo in nullae instanti ante <c>a</c> habebit petrus maiorem di<lb ed="#S" break="no" n="184"/>lectionem 
+          quam habebit linus ante <c>a</c> quia per casum petrus non erit nec in 
+          <lb ed="#S" n="185"/><c>a</c> nec post <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1274">
+          <pc type="pilcrow"/> ad illud negandum est <unclear>proble?a</unclear> quia in nullo instanti ante <c>a</c> 
+          ut de <c>c</c> probatum est habebit petrus maiorem dilectionem quoniam habebit 
+          <lb ed="#S" n="186"/>linus ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1290">
+          <pc type="pilcrow"/> ad primum argumentum in contrarium neganda est consequentia quia 
+          <lb ed="#S" n="187"/>convertibile cum consequente non sequitur ex praemissis non enim sequitur in nullo instanti 
+          <lb ed="#S" n="188"/>ante <c>a</c> habebit linus dilectionem ita intensam quin petrus habebit in<lb ed="#S" break="no" n="189"/>tensiorem 
+          ergo in aliquo instanti ante <c>a</c> habebit petrus maiorem dilectionem 
+          <lb ed="#S" n="190"/>quam linus habebit ante <c>a</c> et causa duplex est prima quia nullum erit instans 
+          <lb ed="#S" n="191"/>ultimum in quo petrus vel linus habebit caritatem secunda et maior quia nullus 
+          <lb ed="#S" n="192"/>erit ulterius gradus et intensissimus dilectionis quem habebit 
+          <lb ed="#S" n="193"/>petrus vel et huius ante <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1319">
+          <pc type="pilcrow"/> ad 2m similiter neganda est consequentia ob
+          <lb ed="#S" n="194"/>causas praedictas
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1326">
+          <pc type="pilcrow"/> 5m dubium est an supposito casu ponendo
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="195"/>haec sit vera petrus habebit caritatem praecise ita intesam sicud habebit linus ante 
+          <lb ed="#S" n="196"/><c>b</c> Ponatur quod petrus et linus in primo instanti a temporis sint aeque cari et quod per
+          <lb ed="#S" n="197"/>totum tempus <c>a</c> suas caritates aequaliter intendant et quod in ultimo instanti a temporis 
+          <lb ed="#S" n="198"/>quod vocetur <c>b</c> sic linus corrumptus et quod tunc vivat petrus et per modicum 
+          <lb ed="#S" n="199"/>tempus ultra <c>b</c> suam caritatem intendat et sit <c>a</c> tempus mensuras esse 
+          <lb ed="#S" n="200"/>lini hoc posito propositio proposita probatur quia per totum tempus <c>a</c> erunt caritates 
+          <lb ed="#S" n="201"/>petri et lini aeque intense ex casu igitur dilectio petri erit ita in<lb ed="#S" break="no" n="202"/>tensa 
+          praecise sicut dilectio lini erit ante <c>b</c> vel arguitur sicut supra 
+          <lb ed="#S" n="203"/>cum hoc verbo habebit si quis calumpniam velit hic ponere 
+          <lb ed="#S" n="204"/>quam non ibi
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1369">
+          <pc type="pilcrow"/> Praeterea dilectio petri est minor quam dilectio lini erit ante 
+          <lb ed="#S" n="205"/><c>b</c> et dilectio petri est maior quam dilectio lini erit ante <c>b</c> ergo in aliquo instanti 
+          <lb ed="#S" n="206"/>erit dilectio petri ita intensa praecise sicut dilectio lini erit ante 
+          <lb ed="#S" n="207"/><c>b</c> totum antecedens patet ex casu et consequentiam probo quia capio totum cuius per 
+          <lb ed="#S" n="208"/>quod dilectio petri est minor quam erit dilectio lini ante <c>b</c> et totum tempus 
+          <lb ed="#S" n="209"/>per quod est maior et sic <c>c</c> primum et de 2m tunc <c>c</c> et <c>d</c> tempora continuantur 
+          <lb ed="#S" n="210"/>per aliquod instans sic illud <c>g</c> tunc in <c>g</c> instanti vel habebit petrus di<lb ed="#S" break="no" n="211"/>lectionem 
+          ita intensam praecise sicut erit dilectio lini ante <c>b</c> 
+          et habetur propositum vel in <c>g</c> per aliquam latitudinem habebit petrus maiorem in <c>g</c> 
+          quam erit dilectio lini ante <c>b</c> et tamen ista latitudo sit divisibiliter et per cuius 
+          <lb ed="#S" n="212"/>acquirenda mensura metaphysicae temporis in quo ista latitudo acquireretur ante 
+          <lb ed="#S" n="213"/><c>g</c> habebit petrus maiorem dilectionem quam erit dilectio lini ante 
+          <lb ed="#S" n="214"/><c>b</c> et si hoc ergo <c>c</c> non erit totum tempus per quod petrus habebit 
+          <lb ed="#S" n="215"/>maiorem dilectionem quam erit dilectio lini ante <c>b</c> vel in <c>g</c> habe<lb ed="#S" break="no" n="216"/>bit 
+          minorem quam erit dilectio lini ante <c>b</c> et si haec ergo per aliquam 
+          <lb ed="#S" n="217"/>latitudinem et per consequens cum ista non subito acquireretur sequitur quod pro
+          <lb ed="#S" n="218"/>isto tempore habebit petrus minorem dilectionem quam erit dilectio lini 
+          <lb ed="#S" n="219"/>ante <c>b</c> et si hoc ergo <c>d</c> non erit adaequatum tempus per quod petrus 
+          <lb ed="#S" n="220"/>habebit maiorem dilectionem quam erit dilectio lini ante <c>b</c> quod est iterum 
+          <lb ed="#S" n="221"/>contra positum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1455">
+          <pc type="pilcrow"/> vel post formetur haec ratio sicut formatur a <unclear>ric</unclear> 8 <unclear>so<lb ed="#S" break="no" n="222"/>patae</unclear> 
+          sic capio totum tempus per quod petrus habebit maiorem dilectionem quam 
+          <lb ed="#S" n="223"/>habebit linus ante <c>b</c> et totum tmpus per quod non habebit maiorem quam habe<lb ed="#S" break="no" n="224"/>bit 
+          linus ante <c>b</c> quae duo tempora copulantur ad invicem et sic instans co<lb ed="#S" break="no" n="225"/>pulans 
+          <c>g</c> et consequenter formetur ratio sicut iam et tunc melius pro<lb ed="#S" break="no" n="226"/>cedet 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1482">
+          <pc type="pilcrow"/> ad oppositum arguitur in nullo instanti <c>a</c> temporis habebit petrus dilectionem ita 
+          <lb ed="#S" n="227"/>intensam praecise sicut erit dilectio lini ante <c>b</c> ut patet satis 
+          <lb ed="#S" n="228"/>ex superius declaratis nec in aliquo instanti post <c>b</c> nec in <c>b</c> habebit petrus 
+          <lb ed="#S" n="229"/>dilectionem ita intensam praecise sicut est dilectio lini ante <c>b</c> quia in 
+          <lb ed="#S" n="230"/><c>b</c> et post <c>b</c> semper habebit petrus dilectionem maiorem quam erit 
+          <lb ed="#S" n="231"/>dilectio lini ante <c>b</c> quia in <c>b</c> et post <c>b</c> habebit petrus maior est 
+          <lb ed="#S" n="232"/>dilectionem quam ipsemet habuit ante <c>b</c> ergo et maiorem quam dilectio 
+          <lb ed="#S" n="233"/>lini fuerit ante <c>b</c> probo consequentiam semper enim ante <c>b</c> dilectio petrus 
+          <lb ed="#S" n="234"/>et dilectio lini fuerint aequales ergo etc
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1531">
+          <pc type="pilcrow"/> Praeterea si sic et modo non 
+          <lb ed="#S" n="235"/>habet petrus dilectionem ita intensam praecise sicud et dilectio 
+          <lb ed="#S" n="236"/>lini ante <c>b</c> ergo petrus incipit vel incipiet habere dilectionem 
+          <lb ed="#S" n="237"/>ita intensam sicut dilectio lini erit ante <c>b</c> sed hoc est falsum sicud 
+          <lb ed="#S" n="238"/>patet inspicienti ad expositionem huius verbi incipit ergo dicendum quod <unclear>probleu?a</unclear> 
+          <lb ed="#S" n="239"/>falsum est sicut probat actum in oppositum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1553">
+          <pc type="pilcrow"/> ad primum argumentum neganda est consequentia
+          <lb ed="#S" n="240"/>et causa est quia nullus erit intensisimus gradus dilectionis quem 
+          <lb ed="#S" n="241"/>habebit petrus vel linus ante <c>b</c> concedendum est enim in casu isto et consimili<lb ed="#S" break="no" n="242"/>bus 
+          tamen verbo <del rend="underline">lquen</del> futuro quod nec petrus habebit dilectionem ante <c>b</c> 
+          <lb ed="#S" n="243"/>ita intensam praecise sicut erit dilectio lini ante <c>b</c> nec habebit 
+          <lb ed="#S" n="244"/>ante <c>b</c> maiorem dilectionem quam erit dilectio lini ante <c>b</c> nec 
+          <lb ed="#S" n="245"/>habebit <unclear>minorem</unclear> dilectionem quam erit dilectio lini ante <c>b</c> et una 
+          <lb ed="#S" n="246"/>causa tum aliis praetactis est quod iste terminus quam in utraque propositione 
+          <lb ed="#S" n="247"/>confundit et similiter iste terminus sicud in utraque propositione qua ponitur
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1593">
+          <lb ed="#S" n="248"/><pc type="pilcrow"/> ad 2m neganda est consequentia et ad probationem secundum formam quae ibi ponitur dicendum 
+          <lb ed="#S" n="249"/>quod procedit ex falsa ymaginatione quia ex casu non est dare aliquod 
+          <lb ed="#S" n="250"/>totum tempus in quo dilectio petri est minor seu in quo petrus 
+          <lb ed="#S" n="251"/>habet dilectionem minorem quam dilectio lini erit ante <c>b</c> quia solum 
+          <lb ed="#S" n="252"/>per praesens instans habet petrus minorem dilectionem quam habebit linus ante 
+          <lb ed="#S" n="253"/><c>b</c> primo iterum dico quod in <c>a</c> instanti habebit petrus dilectionem in maiorem quam 
+          <lb ed="#S" n="254"/>erit dilectionem lini ante <c>b</c> et constat secundum casum quod inter haec instantia 
+          <lb ed="#S" n="255"/><unclear>interrumpitur</unclear> tempus medium cuius oppositum ymaginatur argumentum fiat ergo argumentum 
+          <lb ed="#S" n="256"/>in forma quo ponitur immediate ante argumentum ad oppositum et tunc est 
+          <lb ed="#S" n="257"/>bonum argumentum et multo difficilius primo
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1627">
+          <pc type="pilcrow"/> vel si quis positam formam ve<pb ed="#S" n="153-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>lit 
+          meliorare dicat sic capio totum tempus in quo haec est 
+          <lb ed="#S" n="2"/>vera dilectionem minorem habet petrus quam erit dilectio lini ante 
+          <lb ed="#S" n="3"/><c>b</c> et totum tempus in quo haec erit vera si ambae forentur maiorem di<lb ed="#S" break="no" n="4"/>lectionem 
+          habet petrus quam fuit dilectio <add place="margin-left">lini</add> ante <c>b</c> haec duo tempora copulabuntur 
+          <lb ed="#S" n="5"/>per instans sic illud <c>g</c> sic enim posito casu sumitur sola vera et proce<lb ed="#S" break="no" n="6"/>dit 
+          ratio probabiliter
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1656">
+          <pc type="pilcrow"/> Et si hoc modo fiat argumentum vel sicut 
+          <lb ed="#S" n="7"/>prius immediate ante argumentum ad oppositum dubii 3ii principalis ad hoc 
+          <lb ed="#S" n="8"/>ut prius neganda est principalis consequentia et ad probationem quando arguitur de <c>g</c> in<lb ed="#S" break="no" n="9"/>stanti 
+          medio inter <c>c</c> et <c>d</c> dicendum quod in <del rend="expunctuation">ge</del> <c>g</c> habebit petrus di<lb ed="#S" break="no" n="10"/>lectionem 
+          maiorem quam erit dilectio lini ante <c>b</c> et neganda est ul<lb ed="#S" break="no" n="11"/>terior 
+          consequentia tamen infertur igitur in <c>g</c> instanti medio inter <c>c</c> et <c>d</c> per aliquid 
+          <lb ed="#S" n="12"/>dilectio petri erit maior quam dilectio lini erit ante <c>b</c> sed 
+          <lb ed="#S" n="13"/>bene sequitur quod in <c>b</c> instanti erit dilectio petri maior per aliquid quam 
+          <lb ed="#S" n="14"/>erit dilectio lini ante <c>b</c> per nihil tamen erit dilectio etc et causa est quia 
+          <lb ed="#S" n="15"/>nunquam habuit linus dilectionem ita magnam quin adhuc habuit ma<lb ed="#S" break="no" n="16"/>iorem 
+          ante <c>b</c> vel formetur causa hic cum habebit 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1712">
+          <pc type="pilcrow"/> aliud dubium an 
+          <lb ed="#S" n="17"/>supposito casu ponendo haec sit vera petrus habebit dilectionem duplo ma<lb ed="#S" break="no" n="18"/>iorem 
+          quam erit dilectio lini in <c>a</c> instanti ponatur casus quod <c>b</c> sit una 
+          <lb ed="#S" n="19"/>hora et <c>a</c> ultimum instans illius horae et quod dilectiones petri et lini in principio 
+          <lb ed="#S" n="20"/><c>b</c> temporis sint aequales et quod intendant suas dilectiones per totam 
+          <lb ed="#S" n="21"/><c>b</c> horam ita tamen quod petrus sic velocius per <c>b</c> horam suam dilectionem 
+          <lb ed="#S" n="22"/>intendat continue quam linus suam quod in omni instanti citra ultimum habeeat 
+          <lb ed="#S" n="23"/>petrus 2lam et quod petrus sic incorrupto esse in <c>a</c> instanti et vivat linus 
+          <lb ed="#S" n="24"/>in <c>a</c> isto posito arguitur ad partem affirmativam sic dilectio petri et 
+          <lb ed="#S" n="25"/>dilectio lini simul incipiunt intendi vel ipsi simul incipiunt 
+          <lb ed="#S" n="26"/>suas dilectiones intendere et per aequale tempus omnino intendent et 
+          <lb ed="#S" n="27"/>per totum illud tempus intendet petrus suam <unclear>velocius</unclear> modo praetacto quam 
+          <lb ed="#S" n="28"/>linus suam ergo per totum illud tempus habebit <del>linus</del> petrus dilectionem 2lo 
+          <lb ed="#S" n="29"/>intensiorem quam linus <add place="margin-left">et linus</add> per casum in <c>a</c> nullam habebit dilectionem nec 
+          <lb ed="#S" n="30"/>gradum dilectionis nisi quae acquiret in <c>b</c> tempore ergo petrus 
+          <lb ed="#S" n="31"/>habebit dilectionem duplo intentiorem quam habebit linus in <c>a</c> instanti
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1778">
+          <lb ed="#S" n="32"/><pc type="pilcrow"/> praeterea si non ergo per aliam latitudinem deficiet ne habeat dilectionem duplo 
+          <lb ed="#S" n="33"/>intensiorem quam erit dilectio lini in <c>a</c> sed hoc falsum quia quacumque 
+          <lb ed="#S" n="34"/>latitudine domonstrata si per illam deficeret a gradu duplo ab ista 
+          <lb ed="#S" n="35"/>quaquam habebit linus in <c>a</c> instanti ergo si petrus viveret in <c>a</c> instanti ista latitudo 
+          <lb ed="#S" n="36"/>foret acquisita in petro in <c>a</c> instanti praecise consequentia patet quia si petrus viveret 
+          <lb ed="#S" n="37"/>in <c>a</c> instanti ipse haberet in eodem instanti gradum dilectionis duplum ad 
+          <lb ed="#S" n="38"/>illum quod habebit linus in <c>a</c> instanti
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1810">
+          <pc type="pilcrow"/> praeterea sic ista quod deus conservet in 
+          <lb ed="#S" n="39"/><c>a</c> instanti vel post non <unclear>ob?ce</unclear> corruptione petri in <c>a</c> instanti totam dilectionem 
+          <lb ed="#S" n="40"/>quam acquiret petrus usque ad <c>a</c> instans istam habebit petrus quia nullam 
+          <lb ed="#S" n="41"/>acquiret nisi quam habebit et ista erit dupla secundum intentionem ad 
+          <lb ed="#S" n="42"/>illam quam habebit linus in <c>a</c> instanti ergo etc
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1833">
+          <pc type="pilcrow"/> ad partem negativam arguo 
+          <lb ed="#S" n="43"/>sic si sic vel ergo ante <c>a</c> habebit petrus dilectionem duplo maiorem 
+          <lb ed="#S" n="44"/>quam erit dilectio lini in <c>a</c> et hoc est manifeste falsum cum in nullo instanti ante 
+          <lb ed="#S" n="45"/><c>a</c> habebit in duplo maiorem quia in a primo esset dilectio petri si 
+          <lb ed="#S" n="46"/>tunc viveret in 2lo maior in illa quam linus habebit in <c>a</c> instanti ut 
+          <lb ed="#S" n="47"/>patet ex casu vel in <c>a</c> vel post <c>a</c> habebit petrus dilectionem duplo ma<lb ed="#S" break="no" n="48"/>iorem 
+          quam erit dilectio lini in <c>a</c> et hoc falsum quia per casum petri non 
+          <lb ed="#S" n="49"/>erit in <c>a</c> nec post <c>a</c>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1871">
+          <pc type="pilcrow"/> praeterea si petrus dilectionem habebit duplo ma<lb ed="#S" break="no" n="50"/>iorem 
+          etc et non habet nunc duplo maiorem etc igitur incipit 
+          <lb ed="#S" n="51"/>vel incipiet habere duplo maiorem quam erit dilectio lini 
+          <lb ed="#S" n="52"/>in <c>a</c> et hoc falsum quia manifestum est quod non incipit habere du<lb ed="#S" break="no" n="53"/>plo 
+          maiorem etc <add place="margin-bottom">igitur si habebit duplo maiorem etc incipiet habere duplo maiorem</add> sed hoc est falsum quia nec in <c>a</c> nec post <c>a</c> 
+          erit ergo oportebit ponere quod ante <c>a</c> incipiet habere petrus 
+          <lb ed="#S" n="54"/>dilectionem duplo maiorem quam dilectio lini erit in <c>a</c> sic illud <c>c</c> instans 
+          <lb ed="#S" n="55"/>ante <c>a</c> in quo petrus incipiet habere dilectionem duplo maiore et<lb ed="#S" break="no" n="56"/>c 
+          et tunc cum inter <c>c</c> et <c>a</c> instantia erit aliquod tempus medium et 
+          <lb ed="#S" n="57"/>immediate posteriori illius temporis habebit petrus maiorem dilectionem quam 
+          <lb ed="#S" n="58"/>immediate priori et propinquiori ipsi <c>c</c> et per concessu immediate propinqui<lb ed="#S" break="no" n="59"/>ori 
+          ipsi <c>c</c> vel in ipso <c>c</c> petrus habebit dilectionem duplo ma<lb ed="#S" break="no" n="60"/>iorem 
+          quam erit dilectio lini in <c>a</c> ergo inmediate posteriori et 
+          <lb ed="#S" n="61"/>propinquiori ipsi <c>a</c> habebit petrus dilectionem plus quam 2plo maiorem 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="62"/>quam erit dilectio lini in <c>a</c> instanti et per consequens per tempus ante <c>a</c> petrus 
+          <lb ed="#S" n="63"/>plus quam duplo velocius intendet dilectionem suam quam linus 
+          <lb ed="#S" n="64"/>suam 9 falsum et contra casum quia positum est et quod praecise sit velocius 
+          <lb ed="#S" n="65"/>intendet petrus usque <c>a</c> suam caritatem quam linus quod in omni instanti citra 
+          <lb ed="#S" n="66"/><c>a</c> habeat caritatem duplam ad linum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1957">
+          <pc type="pilcrow"/> dicendum quod probeleuma est 
+          <lb ed="#S" n="67"/>falsum sicut probant rationes in oppositum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1964">
+          <pc type="pilcrow"/> ad primum pro ipso neganda est 
+          <lb ed="#S" n="68"/>consequentia et causa est quia non uterque istorum manebit in fine 
+          <lb ed="#S" n="69"/><c>b</c> temporis
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1974">
+          <pc type="pilcrow"/> ad 2m similiter neganda est consequentia et causa est quia nullus erit 
+          <lb ed="#S" n="70"/>gradus incensissimus quem habebit petrus
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1981">
+          <pc type="pilcrow"/> ad 3m dicendum quod istam 
+          <lb ed="#S" n="71"/>non habebit petrus quia in nullo instanti habebit eam et ad probationem potest 
+          <lb ed="#S" n="72"/>dici quod aliam acquireret id est erit in acquirendo aliam quam non 
+          <lb ed="#S" n="73"/>habebit cuius causa non est nisi quia ipse non erit quando ista erit in comple<lb ed="#S" break="no" n="74"/>to 
+          esse si autem intelligeretur aliam acquiret id est est in alicuius 
+          <lb ed="#S" n="75"/>acquisito esse et tamen quod istam non habebit haec non starent simul 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e1997">
+          <lb ed="#S" n="76"/><pc type="pilcrow"/> ad argumentum principale quod 5 panes in se divina potentia multiplici sunt 
+          <lb ed="#S" n="77"/>sine additione ergo similiter potest parva caritas fieri magna sine additione 
+          <lb ed="#S" n="78"/>respondet in aliter sententiarum in simili de multiplicatione coste in se ipsa de qua 
+          <lb ed="#S" n="79"/>fiebat corpus primae in litteris unde libro 2o distinctione 18 capitulo 4 solet 
+          <lb ed="#S" n="80"/>inquid quaeri utrum de costa illa sine additione rei extrinsece 
+          <lb ed="#S" n="81"/>facta sic multipliciter et contra dicentes quod non arguit ibi sic si ad perficiendum 
+          <lb ed="#S" n="82"/>corpus mulieris deus extrinsecum augmentum addidisset maius illud 
+          <lb ed="#S" n="83"/>esset quam ipsa costa ideoque potius de isto quam de costa multipliciter 
+          <lb ed="#S" n="84"/>facta deberet dici de quo plures accepisset sic partes Restat 
+          <lb ed="#S" n="85"/>ergo ut de sola proprius substantiae costa sine omni extrinseco per divinam potentiam 
+          <lb ed="#S" n="86"/>in se ipsa multiplicata mulieris <del rend="expunctuation">cul</del> corpus dicatur factum eo 
+          <lb ed="#S" n="87"/>sane miraculo quo postea de quinque panibus ihesu <unclear>ce?ti</unclear> 
+          <lb ed="#S" n="88"/>benedictione multiplicis quinque milia hominum satiata sunt haec iste
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2034">
+          <pc type="pilcrow"/>Et eadem rationem <unclear>q</unclear> de verbo ad verbum potuit <name xml:id="aw98wa-xg3543-Nd1e2040">hugo</name> de 
+          <lb ed="#S" n="89"/>sacramentis libro 1 parte 6 capitulo 36 et argumentum idem contra priorem opinionem quam <name xml:id="aw98wa-xg3543-Nd1e2044">magister</name> 
+          recitat et inprobat ponit <name xml:id="aw98wa-xg3543-Nd1e2047">hugo</name> contra eam ibidem capitulo 37 post medium 
+          <lb ed="#S" n="90"/>capituli ista verva essent bene pulchra si esset bene intelligibile quod dixerunt 
+          <lb ed="#S" n="91"/>et faceret hoc meritum pro opinionem similiter pulchra in verbis quae ponit ca<lb ed="#S" break="no" n="92"/>ritatem 
+          primo parvam sine omni addito multiplicari vel per viam multi<lb ed="#S" break="no" n="93"/>plicionis 
+          maioriari in se ipsa
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2059">
+          <pc type="pilcrow"/> sed hic in primis quaererem utrum 
+          <lb ed="#S" n="94"/>materia coste fiebat tota in corporis mulieris ita ut verum 
+          <lb ed="#S" n="95"/>sit dicere quod <add place="above-line">a</add> erat <c>b</c> vel <c>a</c> est <c>b</c> vel non sit <c>a</c> nomen materiae 
+          <lb ed="#S" n="96"/>illius coste et <c>b</c> nomen materiae totius corporis mulieris ita quod nulla alia 
+          <lb ed="#S" n="97"/>fuerit materia in muliere iam facta quam prius coste praecise et 
+          <lb ed="#S" n="98"/>hoc non est bene ymaginabile nisi per rarefactionem solum fuerit ma<lb ed="#S" break="no" n="99"/>iorata 
+          et tunc etiam multiplicatio illa non differret a rarefactione 
+          <lb ed="#S" n="100"/>sicut probari potest <ref xml:id="aw98wa-xg3543-Rd1e2092">x super genese in fine</ref> nec esset talis multitudo opus solius 
+          <lb ed="#S" n="101"/>dei vel soli deo possibile contra beatum augustinus super genese ut recitat 
+          <lb ed="#S" n="102"/>magister ubi prius penultimo capitulo distinctione 18 et corpus etiam mulieris fuisset 
+          <lb ed="#S" n="103"/>inproportionaliter nimis rarum vel non esset debita correspondentia in materia et 
+          <lb ed="#S" n="104"/>forma in corpore illius mulieris nec est bene ymaginabile quod ista 
+          <lb ed="#S" n="105"/>materia extendatur usque ad statam tantae mulieris sicut fuit 
+          <lb ed="#S" n="106"/>praeterea multipliciter et quod materia sic extensa esset ita densa sicut prius 
+          <lb ed="#S" n="107"/>vel sicut requirit forma mulieris sine omni novitate materiae 
+          <lb ed="#S" n="108"/>concreatae vel appositae et si fuerit concreatio novae materiae licet non per se 
+          <lb ed="#S" n="109"/>creatio alicuius materiae nichil faceret hoc argumentum ad propositum de aug<lb ed="#S" break="no" n="110"/>mentatione 
+          caritatis quia non plus <unclear>qu?tur</unclear> ibi
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2119">
+          <pc type="pilcrow"/> Praeterea non oportet hic multum cu<lb ed="#S" break="no" n="111"/>rare 
+          magistri opinionem vel hugonis si velint dicere quod materia ista 
+          <lb ed="#S" n="112"/>fuerit multiplicata id est facta magna sine nova parte extrinsecus ap<lb ed="#S" break="no" n="113"/>posita 
+          vel concreata quia opinionem eorum mulieri ducit eos ad unum 
+          <lb ed="#S" n="114"/>inconveniens ab omnibus communiter negatum scilicet quod numquam fuit 
+          <lb ed="#S" n="115"/>nec erit de substantia alicuius hoinis quo ad manet nisi quod realiter 
+          <lb ed="#S" n="116"/>fuerit in primo homine dicit <unclear>omne</unclear> sic distinctione 30 secundi quod mulier non formaliter 
+          <lb ed="#S" n="117"/>in primo homine fuisse dicitur omne quod in humanis corporibus est 
+          <lb ed="#S" n="118"/>descendit quae a primo parente lege propagationis et in se 
+          <lb ed="#S" n="119"/>auctum et multiplicatum est natura exteriori substantia in illud transeunte 
+          <lb ed="#S" n="120"/>et ipsum in futuro resurget transmisit enim <name xml:id="aw98wa-xg3543-Nd1e2147">adam</name> modicum 
+          <lb ed="#S" n="121"/>quod de substantia sua in corpora filiorum quando eos procreavit 
+          <lb ed="#S" n="122"/>id est modicum aliquid de massa substantiae eius divisum est et in de forma 
+          <lb ed="#S" n="123"/>cum corpus filii sui quia multiplicatione rei extrinsece adiectione 
+          <lb ed="#S" n="124"/>auctum est et de illo quidem augmento ad id idem separatur 
+          <pb ed="#S" n="153-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>unde formantur posteriorum corpora et ita progreditur pro creationis ordo lege 
+          <lb ed="#S" n="2"/>propagationis usque ad finem generis humani
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2167">
+          <pc type="pilcrow"/> Quod sequenti capitulo dicit 
+          <lb ed="#S" n="3"/>posse ostendi ratione quia puer qui statim post ortum moritur in illa 
+          <lb ed="#S" n="4"/>statatur resurget quam habiturus erat si viveret usque ad aetatem 
+          <lb ed="#S" n="5"/>3o annorum parva fuit in ortu in resurrectione tamen magna erit nisi 
+          <lb ed="#S" n="6"/>sui in se multitudine unde apparet quod etiam si viveret non aliunde sed 
+          <lb ed="#S" n="7"/>in se augeretur ista substantia sicut costa de qua facta est multipliciter 
+          <lb ed="#S" n="8"/>et sicut <add place="margin-left">panes</add> <del rend="expunctuation">partes</del> evangelista haec iste
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2191">
+          <pc type="pilcrow"/> Et idem tenet hugo ubi 
+          <lb ed="#S" n="9"/>supra libro primo de sacra partis 6 capitulo 37 dicens sit non itaque cos<lb ed="#S" break="no" n="10"/>te 
+          illi extrinsecus aliquid additum est sed ipsa ex semet ipsa 
+          <lb ed="#S" n="11"/>divina virtute operante multiplicata est quemadmodum postea naturam 
+          <lb ed="#S" n="12"/>humanam a primis parentibus in subsequentem generationem somantam 
+          <lb ed="#S" n="13"/>iam a modico in tantum multiplicatam criminus ut multa hominem 
+          <lb ed="#S" n="14"/>milia ex ea iam <unclear>excervisse</unclear> videamus haec
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2211">
+          <pc type="pilcrow"/> Sed haec non 
+          <lb ed="#S" n="15"/>videntur vera nec doctor quae <unclear>conte?nt</unclear> ergo antecedens primum datu <c>a</c> 
+          magistro et hugonis nisi intelligatur melius quam ipsi exprimant non 
+          <lb ed="#S" n="16"/>est verum quod aut haec non sit vera patet quia talis multiplicatio secundum hugonem 
+          <lb ed="#S" n="17"/>ubi supra proximo est opus solius dei sicut et creatio ergo 
+          <lb ed="#S" n="18"/>et generatio humana non est quo ad corpus <unclear>pviam</unclear> naturae vel non 
+          <lb ed="#S" n="19"/>est hominis ab homine propagatio per naturam
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2233">
+          <pc type="pilcrow"/> Item secundum philosophum semen 
+          <lb ed="#S" n="20"/>de quo generatur homo secundum corpus non est de substantia hominis secundum actum 
+          <lb ed="#S" n="21"/>sed est tibi superfluum illi individuo generati
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2243">
+          <pc type="pilcrow"/> Item constat ratio 
+          <lb ed="#S" n="22"/>superius facta in prima quaestione huius secundi quod pede musce posset 
+          <lb ed="#S" n="23"/>deus nullo sibi addito vel subtracto facere per sui multiplicationem in se 
+          <lb ed="#S" n="24"/>meliorem et maiorem nullam secundum saltem bonitatem quantitativam quam 
+          <lb ed="#S" n="25"/>forte materialiter vel corporaliter mille mundana corpora si darentur 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2256">
+          <lb ed="#S" n="26"/><pc type="pilcrow"/> Istam tamen viam curiosius inprobandam successioni meo et aliis 
+          <lb ed="#S" n="27"/>medicis derelinquo et hoc solum capio quod si verum different multipliciter 
+          <lb ed="#S" n="28"/>et hugo in hac parte non iuvaret pro opinione de augmento 
+          <lb ed="#S" n="29"/>caritatis et formarum aliarum quia formae tales secundum intentionem licet ab ac<lb ed="#S" break="no" n="30"/>tivis 
+          diversis uniformiter augmentatur sic scilicet quod si una per addi<lb ed="#S" break="no" n="31"/>tionem 
+          et quaelibet sed aliae per additionem sit quod non per talem multitudinem ergo 
+          <lb ed="#S" n="32"/>et caritas minor patet quia aqua igni superposita fit calida et calior 
+          <lb ed="#S" n="33"/>per actionem naturalem ignis sed talis multiplicatio secundum eam ponentes fit a solo 
+          <lb ed="#S" n="34"/>deo active igitur ultima minor patet per magistrum ubi supra ubi gratia 
+          <lb ed="#S" n="35"/>distinctione 18 secundi capitulo 4 ubi facit istam consequentiam angeli nullam possunt creare 
+          <lb ed="#S" n="36"/>nullam ergo nec formare costam in mulierem neque carnis supplementum 
+          <lb ed="#S" n="37"/>in locum coste solus enim deus id est trinitas est creator facta 
+          <lb ed="#S" n="38"/>est ergo femina <del rend="expunctuation">deo</del> a deo etiam si costa ministrata sit per ange<lb ed="#S" break="no" n="39"/>los 
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2293">
+          <pc type="pilcrow"/> Item hugo ubi supra capitulo 37 sen vel sextae partis ponit 6 
+          <lb ed="#S" n="40"/>modos operandi et post ex hiis 6 operibus 4 soli deo possibilia sunt 
+          <lb ed="#S" n="41"/>de nihilo enim aliquid facere et de aliquo aliqua in maius et de aliquibus 
+          <lb ed="#S" n="42"/>aliquid in minus sive de aliquo nihil solus deus potest et opus primum est 
+          <lb ed="#S" n="43"/>opus creationis 2m est opus multiplicationis etc
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2306">
+          <pc type="pilcrow"/> Praeterea videtur quod magister 
+          <lb ed="#S" n="44"/>et hugo non negent immo ponant in tali multiplicatione novum 
+          <lb ed="#S" n="45"/>aliquid fieri et concreari et quod non neget nisi additum materiae praeexistentis quia 
+          <lb ed="#S" n="46"/>aliter consequentia magistri iam proximo posita quod angeli non potuerit facere 
+          <lb ed="#S" n="47"/>illam multiplicationem quia nullam habent consequens possusnt communicare naturam non valeret 
+          <lb ed="#S" n="48"/>hugo similiter ubi supra proximo rursum inquid cum de aliquo plus sic 
+          <lb ed="#S" n="49"/>aliquid fit quia nisi in eo quod iam aliquid est aliquid fieret ipsum quo dpostea plus 
+          <lb ed="#S" n="50"/>ibi est non esset ecce quam plane ponit quod ibi sic aliquid in illo quod 
+          <lb ed="#S" n="51"/>praefuit parvum ut haberetur maius aliter ergo potest dici uno modo 
+          <lb ed="#S" n="52"/>tenendo opinionem quam circa hoc inprobat magister pro qua respondet doctor 
+          <lb ed="#S" n="53"/>nostri rationi magister et hugo quod licet materiae coste fuerit addita materia 
+          <lb ed="#S" n="54"/>vel praeiacens vel de novo creata non tamen magis debuit dici 
+          <lb ed="#S" n="55"/>corpus membris factum de illa materia quam de costam quia non fuit factum 
+          <lb ed="#S" n="56"/>de illa materia nisi costa medietate facta prius transmutatione istius 
+          <lb ed="#S" n="57"/>materiae in costam
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2341">
+          <pc type="pilcrow"/> vel aliter quod sicut videmus quod ad haben<lb ed="#S" break="no" n="58"/>dum 
+          hominis perfectam quantitatem plus superaddi de materia quam fuerit 
+          <lb ed="#S" n="59"/>in semine et tamen magis dicimus corpus perfectum esse ex semine quam 
+          <lb ed="#S" n="60"/>ex illa superaddita materia ita hic
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2352">
+          <pc type="pilcrow"/> Istas responsiones ponit 
+          <lb ed="#S" n="61"/><ref xml:id="aw98wa-xg3543-Rd1e2357" target="http://scta.info/resource/kzz7yh-f53797-d1e412              http://scta.info/resource/kzz7yh-f53797-d1e421              http://scta.info/resource/kzz7yh-f53797-d1e433              http://scta.info/resource/kzz7yh-f53797-d1e462"><!-- target imprecise -->Richardus de media villa libro 2 distinctione 18 quaestione 1 in responsione ul<lb ed="#S" break="no" n="62"/>timi 
+          argumenti</ref>
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2365">
+          <pc type="pilcrow"/> ad 2m argumentum magistri quod ista sic in propagatione decremen<lb ed="#S" break="no" n="63"/>to 
+          primi dicendum quod consequentia ista non valet quia sufficit quod resurgat 
+          <lb ed="#S" n="64"/>in materia alia quam eius anima informavit vel quae unquam fuit 
+          <lb ed="#S" n="65"/>pars fetus vel embrionis et certe ista est maior quam re<lb ed="#S" break="no" n="66"/>quiratur 
+          ad staturam hominis magis si tota simul collecta fu<cb ed="#S" n="b"/><lb ed="#S" break="no" n="67"/>erit 
+          ergo etc
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2382">
+          <pc type="pilcrow"/> Aliter posset hoc teneri per viam iam proximo tactam in 
+          <lb ed="#S" n="68"/>ultima auctoritate posita de hugone <unclear>quod<del rend="expunctuation">uid</del></unclear> ibi crearetur vel concrearetur 
+          <lb ed="#S" n="69"/>plus de simili et quod sic fieret ibi maius quam ante non per appositionem 
+          <lb ed="#S" n="70"/>materiae extrinsecae praexistentis et tamen non <unclear>differetur</unclear> illa creari proprie sed ad 
+          <lb ed="#S" n="71"/>creari sicut secundum philosophum primo de generatione augmentatio <add place="margin-right">non</add> differt a generatione 
+          <lb ed="#S" n="72"/>est tamen vera ad generationem et ista via esset clara
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2408">
+          <pc type="pilcrow"/> aliis etiam duobus 
+          <lb ed="#S" n="73"/>modis clarissimis potest salvari praetacta coste et 5 panum 
+          <lb ed="#S" n="74"/>multiplicatio sine omni appositione vel concreatione vel ad creationem etiam materiae no<lb ed="#S" break="no" n="75"/>vae 
+          unus modus esset quod unumquemque istorum panum deus appo<lb ed="#S" break="no" n="76"/>suisset 
+          in suis frustis mediate ministerio discipulorum mille 
+          <lb ed="#S" n="77"/>hominibus esse modo quo posset eundem panem numero integrorum po<lb ed="#S" break="no" n="78"/>nere 
+          intentum distinctis locis eiusdem mensae per istam potentiam quo 
+          <lb ed="#S" n="79"/>potest facere et de facto facit idem corpus in multis locis distinctis 
+          <lb ed="#S" n="80"/>nam idem corpus suum numero eest ubicumque est aliqua hostia con<lb ed="#S" break="no" n="81"/>secrata 
+          et minori miraculo secundum valentes doctores et secundum veritatem 
+          <lb ed="#S" n="82"/>posset in tot locis ponere corpus christi non sit sacramenti sed secundum essen<lb ed="#S" break="no" n="83"/>di 
+          modum quantitativum et naturalem et si sic fieret 100 homines pos<lb ed="#S" break="no" n="84"/>sent 
+          se reficere de tali pane ecce una possibilitas satis 
+          <lb ed="#S" n="85"/>clara
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2441">
+          <pc type="pilcrow"/>2us modus aeque clarus esset secundum quem nullus gusta<lb ed="#S" break="no" n="86"/>ret 
+          panem quoniam alius iste scilicet sic ista quod quibus istorum 5 pa<lb ed="#S" break="no" n="87"/>num 
+          ymaginetur dividi in 100 frusta aequalia et tunc habebuntur 
+          <lb ed="#S" n="88"/>ibi 500 frusta aqualia faciat ergo deus sicut notum est fi<lb ed="#S" break="no" n="89"/>deli 
+          cuilibet ipsum posse cuiuslibet istorum 500 frustorum materiam per<lb ed="#S" break="no" n="90"/>fici 
+          non solum forma priori sua sed etiam indistinctis <add place="margin-right"><unclear>fitubus</unclear></add> <del>actibus</del> cuiuslibet aliorum 
+          <lb ed="#S" n="91"/>500 frustorum et similiter cuiuslibet alterius frusti materia perficiatur illis 
+          <lb ed="#S" n="92"/>formis aliis 500 quo factio habentur 240000 frustorum 
+          <lb ed="#S" n="93"/>aequalia quorum nullum est aliud neque pars alterius licet pars alia essentia<lb ed="#S" break="no" n="94"/>lis 
+          unius sit pars alterius essentialis et econtra natura tamen integralis unius 
+          <lb ed="#S" n="95"/>est pars alterius eorumdem integralis volendo nunc integralem 
+          <lb ed="#S" n="96"/>partem aliquam compositam ex materia et forma et si ista frustra de 
+          <lb ed="#S" n="97"/>quantis unus panis continebat 100 distribuantur in 5 mi<lb ed="#S" break="no" n="98"/>lia 
+          hominum cuilibet homini venient 50 frusta quae aequivalerent <unclear>di<lb ed="#S" break="no" n="99"/>midium</unclear> panem et hoc videretur satis pro una vite et si tot 
+          <lb ed="#S" n="100"/>non sufficiant fiat divino prima in partes <unclear>mimitiores</unclear> et pro<lb ed="#S" break="no" n="101"/>venit 
+          cuilibet portio bene maior ecclesiae vera multiplicatio et nota fi<lb ed="#S" break="no" n="102"/>delibus 
+          esse possibilis sine materia extrinseca addita pars 5 panibus et 
+          <lb ed="#S" n="103"/>forte multas vias aeque claras nobis ignotas novit deus 
+          <lb ed="#S" n="104"/>cui non est inpossibile omne verbum
+        </p>
+        <p xml:id="aw98wa-xg3543-d1e2497">
+          <pc type="pilcrow"/> via magistri et hugonis quam 
+          <lb ed="#S" n="105"/>praetendunt verba prima facie et ex qua ostendunt istam viam 
+          <lb ed="#S" n="106"/>propagandi hominis per multiplicationem solam sine addito novae materiae est 
+          <lb ed="#S" n="107"/>via magnae fidei non necessarie sed sine intellectu sicut esset ista via 
+          <lb ed="#S" n="108"/>quae poneret dei omnipotentiam posse facere duo contradictoria simul 
+          <lb ed="#S" n="109"/>vera si autem intelligant dicta sua secundum aliquem de tribus mo<lb ed="#S" break="no" n="110"/>dis 
+          ultimo tactis sicut de primo eorum videtur verisimile quod tamen 
+          <lb ed="#S" n="111"/>non assero licet auctoritas ultima hugonis illum innuant tunc 
+          <lb ed="#S" n="112"/>possunt quantum ad propositum spectat de augmentatione formarum per locum 
+          <lb ed="#S" n="113"/>a simili rationabiliter sustineri sed si in nullo istorum modorum intelligen<lb ed="#S" break="no" n="114"/>da 
+          auctoritas evangelii modum augmentationis formarum inprobat 
+          <lb ed="#S" n="115"/>praenotatum igitur etc
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
