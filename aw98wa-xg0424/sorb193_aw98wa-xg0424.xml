@@ -523,17 +523,17 @@
         </p>
         <p xml:id="aw98wa-xg0424-d1e1260">
           <pc type="pilcrow"/> Item 
-          <lb ed="#S" n="20"/>magister ibidem capitulo 7 et est ex 6 de trinitate capitulo 4 deo est hoc esse 
-          <lb ed="#S" n="21"/>quod fortem esse vel sapientem vel iustum esse humano autem 
-          <lb ed="#S" n="22"/><unclear>divino</unclear> non est hoc esse quod est fortem esse aut <unclear>p?dentem</unclear> aut iustum 
-          <lb ed="#S" n="23"/>potest enim <add place="margin-left">esse animus</add> <del>amittere</del> et nullam istarum habere virtutum
+          <lb ed="#S" n="20"/><ref xml:id="aw98wa-xg0424-Rvvnn11" target="http://scta.info/resource/pll1d8c5-d1e3486@37-60" corresp="#aw98wa-xg0424-Qja8811">magister ibidem capitulo 7</ref> et est ex <ref xml:id="aw98wa-xg0424-Raa9911" corresp="#aw98wa-xg0424-Qja8811">6 de trinitate capitulo 4</ref> deo est hoc esse 
+          <lb ed="#S" n="21"/>quod fortem esse vel sapientem vel iustum esse <quote xml:id="aw98wa-xg0424-Qja8811" source="http://scta.info/resource/adt-l6-d1e801@107-132">humano autem 
+          <lb ed="#S" n="22"/>animo non est hoc esse quod est fortem esse aut prudentem aut iustum 
+          <lb ed="#S" n="23"/>potest enim <subst><add place="margin-left">esse animus</add> <del>amittere</del></subst> et nullam istarum habere virtutum</quote>
         </p>
         <p xml:id="aw98wa-xg0424-d1e1282">
-          <pc type="pilcrow"/>Item magister
-          <lb ed="#S" n="24"/>capitulo 6 et sumitur <unclear>a libro</unclear> 11 de civitate dei capitulo 10 propter haec ita natura divina <unclear>d</unclear> 
+          <pc type="pilcrow"/>Item <ref xml:id="aw98wa-xg0424-Rx8sh7h" target="http://scta.info/resource/pll1d8c8-d1e3583@103-137" corresp="#aw98wa-xg0424-Qanx987">magister
+          <lb ed="#S" n="24"/>capitulo 6</ref> et sumitur a <ref xml:id="aw98wa-xg0424-Rj1a889" corresp="#aw98wa-xg0424-Qanx987">libro 11 de civitate dei capitulo 10</ref> <quote xml:id="aw98wa-xg0424-Qanx987" source="http://scta.info/resource/adcd-l11-d1e1581@1-37">propter haec ita natura divina <unclear>scilicet</unclear> 
           <lb ed="#S" n="25"/>dicitur simplex quod non est aliud habens et aliud illud quod habet sicut in ceteris 
           <lb ed="#S" n="26"/>rebus est non enim habens liquorem liquor est nec corpus color est 
-          <lb ed="#S" n="27"/>nec anima sapientia est haec ille
+          <lb ed="#S" n="27"/>nec anima sapientia est</quote> haec ille
         </p>
         <p xml:id="aw98wa-xg0424-d1e1300">
           <pc type="pilcrow"/> Nec est difficultas nisi ad glosam 
