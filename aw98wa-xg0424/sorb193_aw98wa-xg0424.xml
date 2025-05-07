@@ -514,12 +514,12 @@
           <pc type="pilcrow"/> Teneo igitur quod <name xml:id="aw98wa-xg0424-Nd1e1240">augustinus</name> loqutiru de amore et 
           <lb ed="#S" n="12"/>nota possibili ac virtuali quae est ipsa anima non autem de 
           <lb ed="#S" n="13"/>habituali vel actuali cognitione quia actualis cognitio secundum eum est 
-          <lb ed="#S" n="14"/>res distincta nam libro 6 de trinitate capitulo 6 ut recitat magister 6 distinctione 
-          <lb ed="#S" n="15"/>primi probat in ipsa anima non esse unam simplicitatem essentiam cum non aliud
+          <lb ed="#S" n="14"/>res distincta nam <ref xml:id="aw98wa-xg0424-Rff11aa">libro 6 de trinitate capitulo 6</ref> ut recitat <ref xml:id="aw98wa-xg0424-Rac3a44" target="http://scta.info/resource/pll1d8c4-d1e3475@80-129" corresp="#aw98wa-xg0424-Qssjj11">magister <unclear>8<!-- possibly corrected from 6; abbreviatio says 6 --></unclear> distinctione 
+          <lb ed="#S" n="15"/>primi</ref> probat <quote xml:id="aw98wa-xg0424-Qssjj11" source="http://scta.info/resource/adt-l6-d1e811@81-122">in ipsa anima non esse unam simplicitatem essentiam cum non aliud
           <lb ed="#S" n="16"/>sic artificiosum esse aliud inhertem aliud acutum aliud memorem 
           <lb ed="#S" n="17"/>aliud cupiditas aliud timor aliud tristitia aliud laetitia possunt que hic et 
           <lb ed="#S" n="18"/>alia innumeralia in anime natura inveniri et alia sine illis et 
-          <lb ed="#S" n="19"/>alia magis et alia minus manifestum est enim non simplicitatem etc
+          <lb ed="#S" n="19"/>alia magis et alia minus manifestum est enim non simplicitatem</quote> etc
         </p>
         <p xml:id="aw98wa-xg0424-d1e1260">
           <pc type="pilcrow"/> Item 
