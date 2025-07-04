@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7 [Sorb193 Transcription]</title>
+          <date when="2025-06-28">June 28, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-06-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="164-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3648"><!-- b2q7-->
+        <head xml:id="aw98wa-xg3648-Hd1e101">Quaestio 7</head>
+        <p xml:id="aw98wa-xg3648-d1e103">
+          <lb ed="#S" n="104"/> Septimo quaero circa distinctionem primam secundi utrum deus possit cre<lb ed="#S" break="no" n="105"/>are 
+          finitam caritatem aliquam qua non possit creare ma<lb ed="#S" break="no" n="106"/>iorem 
+          vel aliquam aliam ita magnam secundum extensionem quod 
+          <lb ed="#S" n="107"/>non possit maiorem illa producere et sic de similibus 
+          <lb ed="#S" n="108"/>quod sic videtur per <ref xml:id="aw98wa-xg3648-Rd1e116">philosophum 2o de anima</ref> ubi dicit quod omnium natura constantium determinata 
+          <lb ed="#S" n="109"/>est ratio magnitudinis et augmenti <pc type="punctus"/> Item per <ref xml:id="aw98wa-xg3648-Rd1e122">commentatorem 3o physicorum commento 
+          <lb ed="#S" n="110"/>60</ref> ubi est processus ad formam quantum contigit esse in potentia tantum con<lb ed="#S" break="no" n="111"/>tigit
+          esse in actu sed in augmento caritatis vel magnitudinis 
+          <lb ed="#S" n="112"/>est processus ad perfectionem et formam igitur <sic>contingint</sic> dare in actu ibi 
+          <lb ed="#S" n="113"/>maximum possibile
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e137">
+          <pc type="pilcrow">¶</pc> Sed contra per philosophum 2o de anima si apponerentur 
+          <lb ed="#S" n="114"/>combustibilia ignis potest crescere in infinitum potest et caritas et sic de similibus 
+          <lb ed="#S" n="115"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e147">
+          <pc type="pilcrow">¶</pc> Praeterea aliter non videretur deus iuste et sufficienter posse pu<lb ed="#S" break="no" n="116"/>nire 
+          quemlibet delinquentem probatio consequentiae quia accipiamus unum qui circa principium 
+          <lb ed="#S" n="117"/>mundi dampnatus est aeternaliter pro culpa mortali qua me<lb ed="#S" break="no" n="118"/>ruit 
+          secundum dei legem communem puniri maxima ista pena sibi 
+          <lb ed="#S" n="119"/>possibili et alium qui post mille annos a principio dampnationis 
+          <lb ed="#S" n="120"/>primi pro culpa per omnia aequali incurrit poenam dampnationis aeternae 
+          <lb ed="#S" n="121"/>et sic de aliis gradatim quaero igitur aut 2us habebit poenam inten<lb ed="#S" break="no" n="122"/>siorem 
+          primo vel pro semper vel pro alia finita datione et 3us 2o et 
+          <lb ed="#S" n="123"/>sic procedendo quantum <unclear>libuerit</unclear> et habetur intentum quod non erit da<lb ed="#S" break="no" n="124"/>re 
+          poenam maximam possibilem secundum intentionem vel non et tunc non 
+          <lb ed="#S" n="125"/>iuste punietur secundus nec aliquis posterior nam ex quo per omnia 
+          <lb ed="#S" n="126"/>aequaliter <unclear>de liquido</unclear> quo ad gravitatem culpae igitur debet aeque 
+          <lb ed="#S" n="127"/>graviter puniri saltem secundum aequivalentiam sed hoc non esset si praecise poena 
+          <lb ed="#S" n="128"/>aequalis secundum intentionem infligeretur sibi sicut primo quia primus 
+          <lb ed="#S" n="129"/>tunc per mille annos <sic>percasset</sic> poenam et iste posterior non et 
+          <lb ed="#S" n="130"/>tamen ex nunc praeter illos mille annos aequaliter torquebuntur hoc 
+          <lb ed="#S" n="131"/>dato igitur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e194">
+          <pc type="pilcrow">¶</pc> In ista quaestione primo ponendae sunt conclusiones aliquae dein<pb ed="#S" n="164-v"/><cb ed="#S" n="a"/><lb ed="#S" break="no" n="1"/>de
+          movebuntur dubia aliqua ipsas inpungnatia et solventur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e205">
+          <pc type="pilcrow">¶</pc> de primo 
+          <lb ed="#S" n="2"/>articulo dico primo hanc conclusionem quod etiam dato quod esset dare maximam caritatem 
+          <lb ed="#S" n="3"/>creabilem vel aliquam ad hoc alicui caritati assignabili <del rend="expunctuation">aliquae</del> assignabili posset 
+          <lb ed="#S" n="4"/>in infinitum fieri additio ita quod cum priori in quodam ordine sumptibilium 
+          <lb ed="#S" n="5"/>esset dare maiorem possibilem per huius additionem etiam in infinitum procedendo 
+          <lb ed="#S" n="6"/>haec patet quia divisa una tali forma vel quanto potest reliqua pars 
+          <lb ed="#S" n="7"/>dividi in infinitum immedietates et medietates medietatum et sic de<lb ed="#S" break="no" n="8"/>inceps 
+          et altera semper medietas addi integro residua alterius divi<lb ed="#S" break="no" n="9"/>denda 
+          etc et hanc conclusionem ponit philosophus plane 3o physicorum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e231">
+          <pc type="pilcrow">¶</pc> 2o dico quod 
+          <lb ed="#S" n="10"/><ref xml:id="aw98wa-xg3648-Rd1e237"><name xml:id="aw98wa-xg3648-Nd1e238">okam</name> libro 1 distinctione 17 quaestione 8</ref> quod in augmentatione extensiva quae esset per 
+          <lb ed="#S" n="11"/>additionem alterius eiusdem rationis prioribus semper requisitis ut<lb ed="#S" break="no" n="12"/>pote 
+          aquae ad aquam et per consequens humiditatis ad humiditatem et frigidi<lb ed="#S" break="no" n="13"/>tatis 
+          ad firgiditatem et sic de aliis quocumque dato potest fieri ma<lb ed="#S" break="no" n="14"/>ius 
+          et hoc tam secundum partes eiusdem proportionis faciendo additionem 
+          <lb ed="#S" n="15"/>modo quo tangit praecedens conclusio quam secundum partes eiusdem quantitatis hanc 
+          <lb ed="#S" n="16"/>probat <name xml:id="aw98wa-xg3648-Nd1e254">okam</name> et stat ratio in 3bus propositionibus quas ponit in principio 2i articuli 
+          <lb ed="#S" n="17"/>consequenter probando eas quae et apud me snt vere et evidentes 
+          <lb ed="#S" n="18"/>vel evidenter probabiles et duas quidam primas sufficienter probat quarum prima 
+          <lb ed="#S" n="19"/>est haec in sententia quod deus non potest tot individua creare in eadem <unclear>s?e</unclear>
+          <lb ed="#S" n="20"/>quin possit plura causare 2a quod quocumque individuo posito in specie 
+          <lb ed="#S" n="21"/>in qua possunt esse plura potest deus aliud individuum eiusdem rationis cre<lb ed="#S" break="no" n="22"/>are 
+          illo non destructo 3a est quod quaecumque eiusdem rationis sunt aequaliter 
+          <lb ed="#S" n="23"/>unibilia sicut alia illius speciei si tamen alia
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e274">
+          <pc type="pilcrow">¶</pc>  Sed in probatione 3ae secum non 
+          <lb ed="#S" n="24"/>teneo propter instantias mihi <unclear>nostras</unclear> de multis habitibus effectuum ad causas sed econtra 
+          <lb ed="#S" n="25"/>de habitibus causarum ad effectus non credo esset instantiam quin si istae causae in<lb ed="#S" break="no" n="26"/>trinsece 
+          vel extrinsece possent causare talem effectum quin quaelibet similes 
+          <lb ed="#S" n="27"/>possent similem non dico eundem nec dico quod aequalem sed similem 
+          <lb ed="#S" n="28"/>sit autem est in proposito quia esse unibilia adinvicem est posse in<lb ed="#S" break="no" n="29"/>trinsece 
+          causare effectum resultatem ex eorum unione ex hoc sequitur ista 
+          <lb ed="#S" n="30"/>3a proposito okam quod quaecumque sunt eiusdem rationis sunt aequaliter unibilia 
+          <lb ed="#S" n="31"/>vel aequaliter non unibilia ista scilicet quod si haec duo sunt unibilia quaelibet alia duo 
+          <lb ed="#S" n="32"/>sunt unibilia et haec non nec <unclear>alium</unclear> alia duo eiusdem speciei existentia iam 
+          <lb ed="#S" n="33"/>et non unica sit enim intelligatur pro quibusdam cavillationibus fieri pos<lb ed="#S" break="no" n="34"/>sibilibus
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e308">
+          <pc type="pilcrow">¶</pc> <del rend="expunctuation">uli</del> vel aliter fiat ratio in singulari et tantumdem ad propositum 
+          <lb ed="#S" n="35"/>valebit et erit liberior ad in pactionem posse uniri alteri 
+          <lb ed="#S" n="36"/>suae speciei ad causationem provenientis alicuius suae speciei convenit hoc 
+          <lb ed="#S" n="37"/>individuo igitur cuilibet eiusdem speciei simile poterit convenire scilicet uniri al<lb ed="#S" break="no" n="38"/>teri 
+          suae speciei ad constitutionem cuiusdam totius similiter absurdum 
+          <lb ed="#S" n="39"/>prima facie apparet quin aqua facta finita quantumcumque magna aqua sibi im<lb ed="#S" break="no" n="40"/>meditate 
+          secundum situm contiguate concurreret ad unitatem resultantis 
+          <lb ed="#S" n="41"/>eodem modo argui potest de augmentatione gratiae intensiva
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e332">
+          <pc type="pilcrow">¶</pc> 2o ad idem 
+          <lb ed="#S" n="42"/>probabiliter arguit <ref xml:id="aw98wa-xg3648-Rd1e339">magister geraldus odonis libro 3o distinctione 4 quaestione prima</ref> ubi 
+          <lb ed="#S" n="43"/>probat hanc conclusionem primo sic quocumque quanto cuius speciem non variat ad 
+          <lb ed="#S" n="44"/>deo quantitatis et extra quod potest esse aliquid eiusdem rationis potest esse maius quantum in 
+          <lb ed="#S" n="45"/>eadem specie sed quaelibet gratia possibilis est huius quantum igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e349">
+          <pc type="pilcrow">¶</pc> ad e<lb ed="#S" break="no" n="46"/>videntiam 
+          maioris notandum quod tripliciter posset contingere quod aliquo dato 
+          <lb ed="#S" n="47"/>non posset deus causare maius in speciei illius dati primo si illud et in<lb ed="#S" break="no" n="48"/>divisibile 
+          et hoc excluditur per hoc quod dicitur in maiore omne quantum 2o 
+          <lb ed="#S" n="49"/>quod variatio quantitatis variet speciem ideo non potest deus unum tri<lb ed="#S" break="no" n="50"/>narium 
+          facere maiorem alio quia omnis unitas addita va<lb ed="#S" break="no" n="51"/>riaret 
+          speciem numeri et eodem modo haec est causa quare deus non potest fa<lb ed="#S" break="no" n="52"/>cere 
+          unum <unclear>bicu?tum</unclear> maius alio sed hoc etiam excluditur in maiore 3o 
+          <lb ed="#S" n="53"/>ex eo quod in tota speciei non posset esse nisi unicum individuum sicut 
+          <lb ed="#S" n="54"/>si tempus sic infinitum a parte ante et post 2m <unclear>philosophum</unclear> in cuius speciei non sunt 
+          <lb ed="#S" n="55"/>simul compossibilia plura individua deus non potest facere aliud tempus ma<lb ed="#S" break="no" n="56"/>ius 
+          pro eo quod non potest esse aliud individuum in speciei temporis praeter illud et partes 
+          <lb ed="#S" n="57"/>suas isto tempore quod nunc est supposito haec est ratio quare repungnantia 
+          <lb ed="#S" n="58"/>et contradictio est quod sic aliquod individuum maius et perfectius deo hoc ex<lb ed="#S" break="no" n="59"/>cluditur 
+          etiam per istam particulam maioris extra quod potest esse aliquod indivi<lb ed="#S" break="no" n="60"/>duum 
+          eiusdem rationis ubicumque igitur nulum istorum inpedit ibi quolibet 
+          <lb ed="#S" n="61"/>dato potest a deo fieri maius sed in proposito nichil istorum inpe<lb ed="#S" break="no" n="62"/>dit 
+          gratia enim est quod quodam quantum nec eius variatio secundum maius et 
+          <lb ed="#S" n="63"/>minus variat speciem et similiter extra quantamcumque datam potest dari aliud 
+          <lb ed="#S" n="64"/>individuum puta extra individuum gratiae in anima christi aliud individuum 
+          <lb ed="#S" n="65"/>in anima pauli
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e403">
+          <pc type="pilcrow">¶</pc> Et hoc confirmatur licet philosophus negaret possibilitatem 
+          <lb ed="#S" n="66"/>aliorum mundorum vel maioris mundi catholici cum non nota 
+          <lb ed="#S" n="67"/>magis videtur quar enon possit quacumque gratia maiorem facere quam quare 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="68"/>non possit quantocumque corpore maius facere hoc autem potest unde <name xml:id="aw98wa-xg3648-Nd1e417">augustinus</name> epistola 
+          <lb ed="#S" n="69"/>4 ad nebridium si minimum in corporibus esse non finitur cur non 
+          <lb ed="#S" n="70"/>et nec maximum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e424">
+          Item 2o sic quocumque quanto eiusdem rationis in toto et partibus 
+          <lb ed="#S" n="71"/>potest deus facere maius qui si totum est eiusdem rationis cum partibus suis 
+          <lb ed="#S" n="72"/>et aliae partes eiusdem rationis possit inveniri et iste poterunt pro<lb ed="#S" break="no" n="73"/>ribus 
+          addi et fiet maius sed gratia est eiusdem rationis in toto 
+          <lb ed="#S" n="74"/>et partibus quantumcumque magna detur quicumque enim gradus eiusdem rationis 
+          <lb ed="#S" n="75"/>additus perficit speciem sicut dicit et <unclear>philosophus</unclear> de delectione quod quemcumque particula 
+          <lb ed="#S" n="76"/>addita perficit eam igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e442">
+          <pc type="pilcrow">¶</pc>  3o sic si quod minus videtur in esse in est et 
+          <lb ed="#S" n="77"/>illud quod magis videtur sed minus videtur quod quacumque figatur data possit dari 
+          <lb ed="#S" n="78"/>maior quam de gratia et tamen hoc est verum igitur et de gratia prima 
+          <lb ed="#S" n="79"/>pars minoris quod minus videatur hoc de figura patet quia quaelibet finita de 
+          <lb ed="#S" n="80"/>ratione sua includit finitatem et terminum ut patet de trangulo 
+          <lb ed="#S" n="81"/>intus diffinitione ponitur quod sic figatur 3us lineis contenta ecce quod 
+          <lb ed="#S" n="82"/>terminatio et finitas cadit in eius diffinitione 
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e461">
+          <pc type="pilcrow">¶</pc> 2a pars patet scilicet quod omni 
+          <lb ed="#S" n="83"/>figura data possibile sic dare maiorem quia cuiuscumque tranguli quovis 
+          <lb ed="#S" n="84"/>latere potest dari maius latus illo triangulo possibile est dare triangulum 
+          <lb ed="#S" n="85"/>maiorem sed quocumque latere cuiuscumque trianguli dati possibile est dare 
+          <lb ed="#S" n="86"/>latus longius sive maius quod patet ex demonstratione qua probatur <unclear>3lum</unclear> angulum 
+          <lb ed="#S" n="87"/>habere 3 angulos aequales duobus hoc enim probatur per hoc quod angulus extrin<lb ed="#S" break="no" n="88"/>secus 
+          valet duos intrinsecos et hoc supponit latus unum in longius 
+          <lb ed="#S" n="89"/>produci posse igitur etc haec ille
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e484">
+          <pc type="pilcrow">¶</pc> praeterea quod maxime videtur moverea ad 
+          <lb ed="#S" n="90"/>contrarium videtur esse quod tunc sequeretur ut multis videtur quod deus posset causare 
+          <lb ed="#S" n="91"/>caritatem infinitam vel aquam infinitam ut patet per argumenta scoti et 
+          <lb ed="#S" n="92"/>aliorum argumentum et tenentium contrarium sed hoc movere non debet 
+          <lb ed="#S" n="93"/>sicut bene arguit <name xml:id="aw98wa-xg3648-Nd1e498">okam</name> ubi supra inprobando scotum et gadefridum quare 
+          <lb ed="#S" n="94"/>Et etiam aliter probo hoc quia per eadem eorum media tunc sequeretur quod deus posset 
+          <lb ed="#S" n="95"/>facere multitudinem infinitam quod constat includere contradictionem et consequentia patet 
+          <lb ed="#S" n="96"/>tibi et cuilibet advertenti igitur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e507">
+          <pc type="pilcrow">¶</pc> 3a conclusio sic de augmentatione extensi<lb ed="#S" break="no" n="97"/>va 
+          secundum unam dimensionem cum dimensione secundum aliam dimensionem sine appositione 
+          <lb ed="#S" n="98"/>extrinsecorum totaliter sed praecise ex transpositione partium scilicet quod de quanto quantum<lb ed="#S" break="no" n="99"/>cumque 
+          parvo posset fieri tunica vel pallium circumdatum caeli utpote 
+          <lb ed="#S" n="100"/>de folio vel gutta aquae per divisionem secundum unam divisionem et appositionem secundum 
+          <lb ed="#S" n="101"/>aliam partibus omnibus a corrumptionibus conservatis haec patet sufficienter 
+          <lb ed="#S" n="102"/>ex quaestionibus de divisibilitate et compositione continui ex partibus infinitis quas alias 
+          <lb ed="#S" n="103"/>diligentissime protractam
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e529">
+          <pc type="pilcrow">¶</pc> 4o dico cum <name xml:id="aw98wa-xg3648-Nd1e534">okam</name> quod in augmentatione quae 
+          <lb ed="#S" n="104"/>est per solam rarefactionem probabile est licet non sic plene evidens 
+          <lb ed="#S" n="105"/>quod non potest procedere secundum omnem divisionem in infinitum secundum duplum et 
+          <lb ed="#S" n="106"/>quadruplum et sic procedendo ad maius secundum partes eiusdem proportionis 
+          <lb ed="#S" n="107"/>vel maioris licet idem corpus possit miraculose simul esse non 
+          <lb ed="#S" n="108"/>in toto locis aequalibus sibi quin in pluribus per suadeo hanc sicut <name xml:id="aw98wa-xg3648-Nd1e547">okam</name> 
+          <lb ed="#S" n="109"/>ubi prius aliter deus posset aerem quantitatis unius <unclear>ulne?</unclear> ra<lb ed="#S" break="no" n="110"/>refacere 
+          ad quantitatem mille mundorum immo non tot quin plurium sine 
+          <lb ed="#S" n="111"/>fine <name xml:id="aw98wa-xg3648-Nd1e558">firalf</name> tamen tenet contrarium de materia prima quantumcumque parva nec potest esse ple<lb ed="#S" break="no" n="112"/>na 
+          <lb ed="#S" n="113"/>evidentia pro una parte vel pro alia ideo sub dubio hoc re<lb ed="#S" break="no" n="114"/>linquo 
+          licet mihi verisimilius sic naturam rei hoc non permittere quamvis
+          <lb ed="#S" n="115"/>claram causam nesciam assignare
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e569">
+          <pc type="pilcrow">¶</pc> 5o apparet mihi similiter cum <name xml:id="aw98wa-xg3648-Nd1e574">okam</name> ubi 
+          <lb ed="#S" n="116"/>supra et multis aliis doctoribus quod omnis forma augmentabilis secundum intentionem 
+          <lb ed="#S" n="117"/>in infinitum potest intensive crescere modo superius exposito et conces<lb ed="#S" break="no" n="118"/>so 
+          in 2a quaestione huius distinctione de modo augmenti formarum hoc est non est 
+          <lb ed="#S" n="119"/>dare ita intensa quin possit a deo fieri duplo intensior et 
+          <lb ed="#S" n="120"/>4lo et sic in infinitum haec munda est sicut 2a
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e588">
+          <pc type="pilcrow">¶</pc> Item hanc conclusionem 
+          <lb ed="#S" n="121"/>aliter probavi supra quaestione 5lo articulo 7 respondendo ad argumenta <name xml:id="aw98wa-xg3648-Nd1e595">skeleton</name>
+          <lb ed="#S" n="122"/>ultimo loco posita contra me per modum reductionum et hoc per 3am 
+          <lb ed="#S" n="123"/>media quare ea ibi
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e602">
+          <pc type="pilcrow">¶</pc> 6o dico quod licet sic absolute qualibet tali 
+          <lb ed="#S" n="124"/>forma possit dari duplo intensior non tamen quodlibet subiectum re<lb ed="#S" break="no" n="125"/>ceptum 
+          talis formae est naturaliter capax duple et 4le etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e612">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="126"/> intellectum 5 quaestione huius secundi ibi expositum et hic statim replicandum hoc 
+          <lb ed="#S" n="127"/>patuit supra quaestione 5 huius distinctione et prima quaestione primi sicut enim vas corporale 
+          <lb ed="#S" n="128"/>et circumscriptivum potest repleri ita quod non potest plus capere naturaliter 
+          <lb ed="#S" n="129"/>etc ita est de subiecto capaci formae secundum intensionem verumptamen 
+          <lb ed="#S" n="130"/>forte sicut non est negandum quin hoc vasae repleto hic unio 
+          <lb ed="#S" n="131"/>possit deus tantum inponere simul de unio et iterum et iterum quotiens 
+          <lb ed="#S" n="132"/>voluit ita non apparet quin ultra formam tantam quanta naturalis 
+          <lb ed="#S" n="133"/>capacitas subiecti repleretur posset deus in eo subiective ponere aliam 
+          <lb ed="#S" n="134"/>et aliam et sic quotiens sibi libuerit actum tamen naturale sicut non
+          <pb ed="#S" n="165-r"/>
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="1"/>potest simul ponere duo corpora in eodem loco adaequato ita est <seg type="correction">da<subst><add place="above-line">r</add><del rend="strikethrough">t</del></subst>e</seg>
+          <lb ed="#S" n="2"/>formam ita intensam in subiecto quolibet vel magis loquendo in quolibet <unclear>tantam<!-- causatam --></unclear>
+          <lb ed="#S" n="3"/>quod actum naturale non posset in subiecto illo causare intensiorem
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e661">
+          <pc type="pilcrow">¶</pc> Sed 
+          <lb ed="#S" n="4"/>contra praedicta potest argui multipliciter primo per modum dubiorum per argumenta 
+          <lb ed="#S" n="5"/>scoti libro 3o suo distinctione 13 quaestione 1 et ponuntur in <name xml:id="aw98wa-xg3648-Nd1e670">okam</name> in principio responsionis ad 
+          <lb ed="#S" n="6"/>quaestione 8 distinctione 17 primi libri primo sic accepta alia gratia determinata puta a quaero 
+          <lb ed="#S" n="7"/>ascendendo aut erit status ad aliquam suppremam et habetur propositum aut 
+          <lb ed="#S" n="8"/>non sed poterit procedi in infinitum et tunc sequitur quod quanto aliqua magis 
+          <lb ed="#S" n="9"/>extendit <c>a</c> tanto est perfectior et per consequens <unclear>alium alia <!-- this pairing frequently occurs but I'm not sure I've got it right --></unclear> quae in infinitum excedit 
+          <lb ed="#S" n="10"/>est in infinitum perfectior et ista erit in se intensive infinita et cum 
+          <lb ed="#S" n="11"/>ipsa ab intellectu divino videatur sicut unum creabile poterit tunc una 
+          <lb ed="#S" n="12"/>creatione creari
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e696">
+          <pc type="pilcrow">¶</pc> 2o sic et accipitur ab aristotele 3 physicorum <unclear>c d</unclear> in<lb ed="#S" break="no" n="13"/>finito 
+          quantum convenit esse in potentia tantum convenit esse in actu et ideo necesse fuit in 
+          <lb ed="#S" n="14"/>forma quaecumque perfecta ponere terminum maximum possibilem
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e708">
+          <pc type="pilcrow">¶</pc> 3o quantam<lb ed="#S" break="no" n="15"/>cumque 
+          realitatem potest deus dare tantam potest creare ponatur 
+          <lb ed="#S" n="16"/>igitur in esse quod tantam creet quantam potest creare igitur non potest manifestare
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e718">
+          <lb ed="#S" n="17"/><pc type="pilcrow">¶</pc> ad ista respondet <name xml:id="aw98wa-xg3648-Nd1e724">okam</name> quod non concludunt quia aequaliter probant quod deus 
+          <lb ed="#S" n="18"/>potest facere tot individua alicuius speciei quod non potest facere plura
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e729">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="19"/>primum igitur concedetur quod ultra <c>a</c> potest procedi in infinitum et cum dicitur quod 
+          <lb ed="#S" n="20"/>quanto alia caritas excedit <c>a</c> tanto erit perfectior conceditur sed non 
+          <lb ed="#S" n="21"/>sequitur igitur quae in infinitum excedit est in infinitum perfectior quia inplicatur 
+          <lb ed="#S" n="22"/>quod aliqua caritas in infinitum excedat <c>a</c> quod est manifeste falsum quia 
+          <lb ed="#S" n="23"/>quaecumque accipiatur illa est finita etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e752">
+          <pc type="pilcrow">¶</pc> Si dices quod videt quodlibet factibile 
+          <lb ed="#S" n="24"/>igitur si omni caritate data potest fieri maior in infinitum videt hoc et per consequens 
+          <lb ed="#S" n="25"/>videt caritatem infinitam Responsio quod deus videt quodlibet factibile et videt hoc 
+          <lb ed="#S" n="26"/>est actualiter cognoscit quod in infinitum potest fieri maior caritas 
+          <lb ed="#S" n="27"/>sumendo ly infinitum id est quod non est dare aliquam caritatem quin ea possit 
+          <lb ed="#S" n="28"/>fieri maior sed ex hoc non sequitur quod videt aliquam in infinitum maio<lb ed="#S" break="no" n="29"/>rem 
+          quia nulla talis est factibilis nec per consequens visibilis a deo etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e771">
+          <lb ed="#S" n="30"/><pc type="pilcrow">¶</pc> ad rationem aliam quae sumitur a philosopho dicitur quod philosophus negaret talem pro<lb ed="#S" break="no" n="31"/>cessum 
+          et poneret terminum in omni tali processu qui non causatur ex 
+          <lb ed="#S" n="32"/>infinitate partium alicuius unius totius et ideo nec auctoritas sua nec 
+          <lb ed="#S" n="33"/>commentatoris est in hac parte recipienda <pc type="punctus"/>
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e787">
+          <pc type="pilcrow">¶</pc> ad 3m dicit quod propositio talis 
+          <lb ed="#S" n="34"/>de possibili in sensu <unclear>divisionis</unclear> vel etiam aequivalens sensui divisionis non debet poni 
+          <lb ed="#S" n="35"/>in esse sed tantum in sensu composito unde haec est vera videns potest 
+          <lb ed="#S" n="36"/>esset caecus et cum haec est inpossibilis videns est caecus verumptamen si 
+          <lb ed="#S" n="37"/>praedicta propositio ponatur in esse debet sic poni quantam deus creat tan<lb ed="#S" break="no" n="38"/>tam 
+          dat tunc nihil est ad propositum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e806">
+          <pc type="pilcrow">¶</pc> Sed contra solutiones <name xml:id="aw98wa-xg3648-Nd1e811">okam</name> quas et econverso 
+          <lb ed="#S" n="39"/>teneo potest argui per philosophum 3 physicorum circa particulam 60 ubi <unclear>consequens</unclear> qualiter 
+          <lb ed="#S" n="40"/>diversimode procedit in infinitum ad deo et divino dicit parum ante illud casum 
+          <lb ed="#S" n="41"/>accidit aut contrarium quia additio sic procedit in infinitum quod tum non 
+          <lb ed="#S" n="42"/>est dare omni magnitudine aliquam magnitudinem maiorem excellentem 
+          <lb ed="#S" n="43"/>in quantitate sed in diminuatione et divisione proceditur sic in infinitum quia omni 
+          <lb ed="#S" n="44"/>quantitate quantumcumque parva est dare minorem quod autem non sic procedatur 
+          <lb ed="#S" n="45"/>in infinitum in additione in permanentibus quae non tantum habent esse in 
+          <lb ed="#S" n="46"/>fieri sicut dies et <unclear>ag?o</unclear> ita quod non est omni magnitudine dare maio<lb ed="#S" break="no" n="47"/>rem 
+          nec etiam est possibile quod omn magnitudine fiat maior secundum 2lum et 
+          <lb ed="#S" n="48"/><unclear>2lum</unclear> etc probat philosophus quia tunc esset vel esse posset aliquod corpus actu in<lb ed="#S" break="no" n="49"/>finitum 
+          sicut dixerunt <unclear>philologi</unclear> quod extra corpus mundi est aliquod corpus 
+          <lb ed="#S" n="50"/>puta aer vel simile actu sed consequens est inpossibile secundum philosophum igitur antecedens 
+          <lb ed="#S" n="51"/>consequentiam supponit nec probat philosophus dicens is non est possibile infinitum cor<lb ed="#S" break="no" n="52"/>pus 
+          sensibile esse in actu quod neque potentia utique erit secundum appositum 
+          <lb ed="#S" n="53"/>sed aut sicut dictum est econtrario dividi id est cum non sit possibile esse 
+          <lb ed="#S" n="54"/>aliquod corpus actu infinitum manifestum est quod neque omni magnitudine 
+          <lb ed="#S" n="55"/>est aliqua maior neque possibile est omni magnitudine esse maiorem 
+          <lb ed="#S" n="56"/><unclear>supp</unclear> in duplo vel quadruplo et deinceps sed econtrario divisioni 
+          <lb ed="#S" n="57"/>ut patet <unclear>tri?</unclear> modus quo in infinitum crescat magnitudo absque ex<lb ed="#S" break="no" n="58"/>cessu 
+          unius pedis et hoc vult commentator commento 60 in ratio stat in 
+          <lb ed="#S" n="59"/>hoc quod ista est consequentia philosophi
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e870">
+          <pc type="pilcrow">¶</pc> Respondet <name xml:id="aw98wa-xg3648-Nd1e875">okam</name> et probabiliter in reportatione super 
+          <lb ed="#S" n="60"/>3m quod ista consequentia non est formalis et evidens omni magnitudine 
+          <lb ed="#S" n="61"/>potest esse maior magnitudo igitur alia potest esse magnitudo infinita quod 
+          <lb ed="#S" n="62"/>autem consequentia talis non valeat pater secundum eum quia quantumcumque omni magnitudine 
+          <lb ed="#S" n="63"/>data posset fieri maior magnitudo et maior ex quibus tamen ille 
+          <lb ed="#S" n="64"/>processus non poterit terminari quin semper acceptum poterit esse finitum 
+          <lb ed="#S" n="65"/>immo nisi unica additione adderetur infinitum semper acceptum de 
+          <lb ed="#S" n="66"/>necessitate erit finitum quaero enim utrum processus iste finietur vel non 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="67"/>si finietur erog non vadit in infinitum et per consequens vel aliquando erit additio 
+          <lb ed="#S" n="68"/>unius infiniti vel totum erit finitum si non stabiliter sed ibitur in in<lb ed="#S" break="no" n="69"/>finitum 
+          in addendo finitum aequale vel maius igitur quocumuque huius ad<lb ed="#S" break="no" n="70"/>dito 
+          semper totum acceptum erit finitum et per consequens si numquam pro<lb ed="#S" break="no" n="71"/>cessus 
+          finietur numquam pervenitur ad infinitum et ita quamvis sine 
+          <lb ed="#S" n="72"/>fine fieret vel fieri posset additio numquam cum ex hoc haberetur infinitum 
+          <lb ed="#S" n="73"/>in actu sicut numquam iste processus finietur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e910">
+          <pc type="pilcrow">¶</pc> ad philosophum igitur 
+          <lb ed="#S" n="74"/>respondet quod philosophus intendit istam consequentiam omni magnitudine finita est 
+          <lb ed="#S" n="75"/>maior magnitudo igitur alia est magnitudo infinita similiter intendit 
+          <lb ed="#S" n="76"/>istam consequentiam haec est possibilis omni magnitudine finita est magni<lb ed="#S" break="no" n="77"/>tudo 
+          alia maior igitur haec est possibilis aliqua magnitudo est in<lb ed="#S" break="no" n="78"/>finita 
+          ita scilicet quod dictum philosophi sumatur in sensu compositionis et utraque istarum 
+          <lb ed="#S" n="79"/>consequentiarum est necessaria secundum eum et bene credo quod gratia materiae licet non 
+          <lb ed="#S" n="80"/>gratia formae concludat infinitam non vere sed per aequivalentiam prima consequentia 
+          <lb ed="#S" n="81"/>patet quia si haec sic vera omni magnitudine finita est magnitudo ma<lb ed="#S" break="no" n="82"/>ior 
+          accipio tamen totam magnitudinem aggregatam vel compositam ex omnibus 
+          <lb ed="#S" n="83"/>magnitudinibus existentibus per modum circuli vel qualitercumque continuato<lb ed="#S" break="no" n="84"/>rum 
+          vel contiguatorum quod aggregatum vocetur <c>a</c> et quaero de <c>a</c> aut est 
+          <lb ed="#S" n="85"/>finitum vel infinitum si infinitum habetur propositum si finitum et <c>a</c> est total 
+          <lb ed="#S" n="86"/>magnitudo igitur non est ea alia maior magnitudo et per consequens non omni 
+          <lb ed="#S" n="87"/>magnitudine est alia magnitudo maior igitur ex opposito si omni 
+          <lb ed="#S" n="88"/>magnitudine finita est magnitudo maior igitur alia magnitudo est infinita et haec erat 
+          <lb ed="#S" n="89"/>consequentia probanda igitur 2a etiam consequentia est bona per illam regulam si antecedens alicuius 
+          <lb ed="#S" n="90"/>consequentiae est possibile et consequens est possibile et hoc ut addit <name xml:id="aw98wa-xg3648-Nd1e958">okam</name> suf<lb ed="#S" break="no" n="91"/>ficit 
+          ad intentionem philosophi quia non intendit plus dicere nisi quod quam<lb ed="#S" break="no" n="92"/>vis 
+          haec sit vera omni magnitudine est minor magnitudo et 
+          <lb ed="#S" n="93"/>tamen tantum quod omni magnitudine potest esse minor magnitudo licet etiam quod ista est 
+          <lb ed="#S" n="94"/>de facto quia aliter de facto esset aliqua magnitudo quae non haberet par<lb ed="#S" break="no" n="95"/>tem 
+          quod est inpossibile non tamen est haec vera omni magnitudine est magni<lb ed="#S" break="no" n="96"/>tudo 
+          maior nec unquam potest esse vera nec sequitur formaliter omni magni<lb ed="#S" break="no" n="97"/>tudine 
+          potest esse maior magnitudo igitur haec est possibilis omni magnitudine 
+          <lb ed="#S" n="98"/>finita est maior magnitudo sicut non sequitur omne falsum contingens potest 
+          <lb ed="#S" n="99"/>esse verum igitur haec est possibilis omne falsum contingens est verum haec iste
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e981">
+          <lb ed="#S" n="100"/><pc type="pilcrow">¶</pc> Tamen leviter responderet sibi protervus aliquis cum accipit magnitudinem agrega<lb ed="#S" break="no" n="101"/>tam 
+          ex omnibus magnitudinibus existentibus quod in illo sunt omnes etc
+          <lb ed="#S" n="102"/>et iterum quod non probat aliquam esse infinitam ex antecedente dato sed esse infinitas 
+          <lb ed="#S" n="103"/><unclear>multiplice</unclear> nec quod etiam probat aggregatum aliquod esse infinitum inchoatum ab 
+          <lb ed="#S" n="104"/>alia finita magnitudine quia diceret omne acceptum vel acceptibile 
+          <lb ed="#S" n="105"/>esse finitum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1000">
+          <pc type="pilcrow">¶</pc> Aliter tamen dicitur vel dici potest quod secundum philosophum bene sequitur omni magni<lb ed="#S" break="no" n="106"/>tudine 
+          finita potest esse maior igitur <unclear>omni</unclear> finita est maior Et 
+          <lb ed="#S" n="107"/>tunc si haec inferri possit aliquam esset infinitam quod non credo de forma igitur 
+          <lb ed="#S" n="108"/>aliqua est infinita quia apud eum prima causa causat naturaliter et necessario quidquid 
+          <lb ed="#S" n="109"/>causare potest et quantum etiam et ideo si qualibet finita potest causare maiorem 
+          <lb ed="#S" n="110"/><del rend="expunctuation">causat</del> de causa alia a deo constat quod non omni finita potest causare 
+          <lb ed="#S" n="111"/>maiorem <add place="margin-right">finitam</add> quia nulla talis potest causare quantum aequale celo quia nec habet unde 
+          <lb ed="#S" n="112"/>et non potest agere nisi de potentia alicuius subiecti et haec responsio vadit etiam ad 
+          <lb ed="#S" n="113"/>sensum divisum et quod de forma non teneant istae consequentiae patent in simili 
+          <lb ed="#S" n="114"/>quia omni finita magnitudine cognoscit deus vel ymaginatur maiorem et 
+          <lb ed="#S" n="115"/>tamen nullam ymaginatur vel apprehendit infinitam quia tunc talem posset 
+          <lb ed="#S" n="116"/>producere
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1038">
+          <pc type="pilcrow">¶</pc> Contra secundum philosophus 2o metaphysicae <unclear>concedit</unclear> ymaginari <unclear>li?am</unclear> infinitam esse 
+          <lb ed="#S" n="117"/>id est non habere termini et hoc est verum Et circa hoc adde si vis 
+          <lb ed="#S" n="118"/>quod etiam similis consequentia non valet de minori vel de numero vel de mul<lb ed="#S" break="no" n="119"/>titudibus 
+          finitis vel quod etiam non sequitur omni imaginatione finita potest esse ma<lb ed="#S" break="no" n="120"/>ior 
+          finita igitur alia finita potest esse infinita et sic de similibus immo 
+          <lb ed="#S" n="121"/>quod plus est non sequitur gratia formae omni magnitudine finita est 
+          <lb ed="#S" n="122"/>alia finita maior igitur alia est infinita finita maior quia consequens 
+          <lb ed="#S" n="123"/>includit contradictoria secundum ymaginationem et antecedens non licet secundum veritatem 
+          <lb ed="#S" n="124"/>exemplum de facto omni multitudine finita partium in existentium toti totaliter 
+          <lb ed="#S" n="125"/>ab invicem distinctarum est multitudo finita maior et tamen non 
+          <lb ed="#S" n="126"/>sequitur igitur aliqua est infinita finita multitudo
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1070">
+          <pc type="pilcrow">¶</pc> ad philosophum igitur dico 
+          <lb ed="#S" n="127"/>quod supposuit quod nullus poneret quod omni finita magnitudine posset esse ma<lb ed="#S" break="no" n="128"/>ior 
+          nisi qui poneret esse vel esse posse infinitam et contra talem bene arguit 
+          <lb ed="#S" n="129"/>quia inprobat 2m quo inprobato inprobatur et primum secundum talem
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1082">
+          <pc type="pilcrow">¶</pc> contra 
+          <lb ed="#S" n="130"/>secundum omni magnitudine posset esse magnitudo maior et processus 
+          <lb ed="#S" n="131"/>in infinitum in addendo secundum 2lum et 4lum etc falsum esse quod dicit <ref xml:id="aw98wa-xg3648-Rd1e1091">philosophus 3o 
+          <pb ed="#S" n="165-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>physicorum capitulo penultimo circa partem 69</ref> ubi dicit quodlibet divisibile sic magni<lb ed="#S" break="no" n="2"/>tudo 
+          quaelibet in infinitum et ideo infinitae sint possibiles divisiones sue de<lb ed="#S" break="no" n="3"/>cisiones 
+          magnitudinis potentia quidam inquit in actu vero non et ideo numeris 
+          <lb ed="#S" n="4"/>sicut potest crescere licet non sic actu infinitus quia eius crementum in infini<lb ed="#S" break="no" n="5"/>tum 
+          possibile non est separabile a decisione continui neque manet huius in<lb ed="#S" break="no" n="6"/>finitas 
+          sed sic semper sint tempus et numeris temporis tamen in magnitudinibus 
+          <lb ed="#S" n="7"/>ad maius non est ire in infinitum quantum enim convenit potentia esset et actu 
+          <lb ed="#S" n="8"/>convenit tantum esse quare quoniam finita est nulla magnitudo sensibilis non convenit 
+          <lb ed="#S" n="9"/>omnis excellentia esse magnitudinis determinate esset enim utique aliquid 
+          maius celo
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1119">
+          <pc type="pilcrow">¶</pc> ad illud dicerem sicut prius quod haec fuit via philosophi <unclear>tenen<lb ed="#S" break="no" n="10"/>tis</unclear> 
+          quod omnis causa productam magnitudinis mere naturalis cuius etiam posuit esse 
+          <lb ed="#S" n="11"/>deum non posse prodcere nisi de materia <pc type="punctus"/> materia autem apud eum non est 
+          <lb ed="#S" n="12"/>nova generaliter loquendo de prima ista autem antiqua quam posuit 
+          <lb ed="#S" n="13"/>potest tantumdem extendi apud eum quod non ultra et ideo apud 
+          <lb ed="#S" n="14"/>eum non potest esse alia magnitudo maior celo et contentis infra 
+          <lb ed="#S" n="15"/>ipsum simul et ideo apud eum ad litteram magnitudo maxima 
+          <lb ed="#S" n="16"/>possibilis erat factibilis vel iam existens in entibus
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1145">
+          <pc type="pilcrow">¶</pc>  aliter tamen respondet <name xml:id="aw98wa-xg3648-Nd1e1150">okam</name> 
+          <lb ed="#S" n="17"/>quod philosophus loquitur de additione possibili fieri per subtractionem ab alio iam existen<lb ed="#S" break="no" n="18"/>te 
+          ut addatur alteri et constat satis quod de tali veritatem haberet dictum 
+          <lb ed="#S" n="19"/>philosophi nam si esset talis additio magnitudinis in infinitum secundum partes eiusdem 
+          <lb ed="#S" n="20"/>quantitatis vel maioris sumptibilis a corpore aliquo existente necessario esset 
+          <lb ed="#S" n="21"/>vel esse posset magnitudo infinita quia necessario sequeretur quod in illo a quo 
+          <lb ed="#S" n="22"/>debent auferri omnia illa addenda essent infinita aequalia ad in<lb ed="#S" break="no" n="23"/>vicem 
+          vel quorum quodlibet esse aequale huic singulari demonstrato significando 
+          <lb ed="#S" n="24"/>aliquod vel maius ex totaliter abinvicem distincta et per consequens magnitudo 
+          <lb ed="#S" n="25"/>ista omnia contingens esset actu infinita et quia quaelibet magnitudo posset intelligi 
+          <lb ed="#S" n="26"/>addi unica additione ad aliam si detur in actu ideo oportet 
+          <lb ed="#S" n="27"/>ut omnes istae possibilitates quibus adduntur diversae partes sint 
+          <lb ed="#S" n="28"/>unius possibilis addi in actu sed secus est de numero nam inpossibilis 
+          <lb ed="#S" n="29"/>est quod fiat una divisio quin alia divisio remaneat in potentia 
+          <lb ed="#S" n="30"/>nam eo ipso quod haec <unclear>li?a</unclear> dividitur restabit alia pars eiusdem 
+          <lb ed="#S" n="31"/><unclear>li?e</unclear> dividenda non sic autem est in additione nam non eo ipso 
+          <lb ed="#S" n="32"/>quod haec pars additur oportet quod alia pars sit addenda sed posset totum 
+          <lb ed="#S" n="33"/>simul addi et quaelibet eius pars non autem omnes additiones numeri 
+          <lb ed="#S" n="34"/>sunt partes numerales unius numeri quae possent simul addi 
+          <lb ed="#S" n="35"/>immo post additionem unius numeri provenientis ex divisione continui crescat 
+          <lb ed="#S" n="36"/>semper possibilitas ut addatur alius per ulteriorem divisionem partium continui quae 
+          <lb ed="#S" n="37"/>numquam possunt omnes simul dividi Et ista est expositio commentatoris commento 69 
+          <lb ed="#S" n="38"/>sicut patet nam quotiens quaero hoc est verum in quacumque etiam quantitate ponatur 
+          <lb ed="#S" n="39"/>magnitudo in ista quantitate potest poni magnitudo in actu maxima 
+          <lb ed="#S" n="40"/>et tamen non est sic de numero <pc type="punctus"/> dicit quod additio cuiuslibet partis geni<lb ed="#S" break="no" n="41"/>te 
+          id est addite est possibilitas alia a possibilitate alterius et non 
+          <lb ed="#S" n="42"/>sunt omnes partes unius possibilitatis <unclear>demonstratae</unclear> <pc type="punctus"/> hic est non sunt partes 
+          <lb ed="#S" n="43"/>unius quae posset unica additione addi numero sicut nec omnes divisio<lb ed="#S" break="no" n="44"/>nes 
+          continui sunt partes unius quod simul posset dividi secundum omnia digibilia 
+          <lb ed="#S" n="45"/>in eo sed omnes adere unum post aliud aliter autem est in additione 
+          <lb ed="#S" n="46"/>magnitudinis et ideo subdit in additione autem eius <unclear>s?p</unclear> magnitudinis cuius 
+          <lb ed="#S" n="47"/>partis possibilitas est pars unius possibilitatis demonstratae id est pars totius 
+          <lb ed="#S" n="48"/>quod secundum se totum posset simul addi et ideo subdit et additio quae est 
+          <lb ed="#S" n="49"/>de magnitudine demonstrata est de genere istius additionis 
+          <lb ed="#S" n="50"/>et causa in hoc est quia potentiae quae sunt in additione cuiuslibet partis 
+          <lb ed="#S" n="51"/>partium <unclear>mensurae</unclear> sunt partes unius potentiae et non est ista in numero 
+          <lb ed="#S" n="52"/>quoniam mensura est una et continua et numerus non id est omnes par<lb ed="#S" break="no" n="53"/>tes 
+          addendae sunt partes unius magnitudinis continue quae posset ita 
+          <lb ed="#S" n="54"/>simul addit sint pars sua et non est ita de numero etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1249">
+          <pc type="pilcrow">¶</pc> aliter potest 
+          <lb ed="#S" n="55"/>leviter dici de philosopho nec repungnat iam dictis quia praeponendo <unclear>li</unclear> quantum 
+          <lb ed="#S" n="56"/>et sumendo ipsum syncategorematice in parte subiecti ita quod tantumdem sic dictum 
+          <lb ed="#S" n="57"/><del rend="strikethrough">actum</del> quantum contingit esse in potentia tantum contingit esse in actu id est quantacumque magni<lb ed="#S" break="no" n="58"/>tudo 
+          est possibilis tanta potest esse actu propositio est verissima in 
+          <lb ed="#S" n="59"/>sensu diviso etiam dato quod sic possibile procedere in infinitum secundum duplum 
+          <lb ed="#S" n="60"/>et quadruplum et sic in infinitum quia non significat nisi quod in quacumque 
+          <lb ed="#S" n="61"/>quantitate est alia magnitudo possibilis de facto quod verum esset etiam tunc sicut 
+          <lb ed="#S" n="62"/>etiam unius est ad eundem modum loquendi quantum numerum convenit esse in potentia 
+          <lb ed="#S" n="63"/>tantum convenit esse in actu sed sicud non econtra unde nec dicitur vere quod tantum 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="64"/>numerum convenit esse in actu quantum convenit esse in potentia hoc enim notat quod tantus 
+          <lb ed="#S" n="65"/>numerus fieri posset in actu quod maior eo modo posset esse quod falsum est et 
+          <lb ed="#S" n="66"/>ideo inpossibile est quod tantus numerus sic in actu quantus potest esse praeponendo 
+          <lb ed="#S" n="67"/>illud <unclear>sincategorema</unclear> quantus ita est ex alia parte quia haec est falsa causa 
+          <lb ed="#S" n="68"/>tam magnitudinem convenit esse in actu quantam convenit esse in potentia quia hoc significat quod 
+          <lb ed="#S" n="69"/>tanta potest esse actu quod maior non esset possibilis ideo dictum philosophi 
+          <lb ed="#S" n="70"/>verum est nec in aliquo est econtra augmentum magnitudinis vel formae in 
+          <lb ed="#S" n="71"/>infinitum sumptum ad veritatem vocis verumptamen secundum veritatem licet 
+          <lb ed="#S" n="72"/>philosophus exprimat primam tamen per antecedentia et consequentia patet quia intendit 
+          <lb ed="#S" n="73"/>etiam dicere conversam sicut patet satis ex verbis auctoritatis superius allega<lb ed="#S" break="no" n="74"/>tae 
+          et hoc deviat a verbo theologiae quo tenetur ultra omne mag<lb ed="#S" break="no" n="75"/>nitudinem 
+          factam vel factibilem deum posse facere magnitudinem ma<lb ed="#S" break="no" n="76"/>iorem
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1312">
+          <pc type="pilcrow">¶</pc> dices secundum iam dicta deus non posset facere tantam magni<lb ed="#S" break="no" n="77"/>tudine 
+          quantam potest facere
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1320">
+          <pc type="pilcrow">¶</pc> Item si deus quantam potest facere tantam potest 
+          <lb ed="#S" n="78"/>facere ponatur in esse Respondet <name xml:id="aw98wa-xg3648-Nd1e1327">ockam</name> ad 2m illorum quod non debet poni 
+          <lb ed="#S" n="79"/>in esse talis de possibili nisi ad sensum compositum et <unclear>divisum non divisum</unclear> vel sic 
+          <lb ed="#S" n="80"/>ponatur in esse tantam facit quantam facit non sic autem causatam facit 
+          <lb ed="#S" n="81"/>quantam potest facere sicut ymaginatur argumentum 2m scoti
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1339">
+          <pc type="pilcrow">¶</pc> Dico tamen quod 
+          <lb ed="#S" n="82"/>in exadvertentia <unclear>communicat</unclear> terminos unde eodem ordine sumptis illis terminis 
+          <lb ed="#S" n="83"/>tantum et quantum potest poni sic in esse quantam facit tantam potest facere nec sequitur aliquid 
+          <lb ed="#S" n="84"/>mali sicut quando permutantur <unclear>c?</unclear> illi
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1356">
+          <pc type="pilcrow">¶</pc> ad primum autem dicendum quod verum 
+          <lb ed="#S" n="85"/>est de virtute vocis loquendo sicut et illud quod idem significant deus non potest 
+          <lb ed="#S" n="86"/>tantam facere magnitudinem quin possit facere maiorem sicut nec potest fa<lb ed="#S" break="no" n="87"/>cere 
+          tantam multitudinem finitam animarum quantam potest facere haec enim de vi<lb ed="#S" break="no" n="88"/>rtute 
+          sermonis sumpta significat quod posset facere tantam multitudinem finitarum 
+          <lb ed="#S" n="89"/>animarum quod non posset facere maiorem et hanc constat falsam esse
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1373">
+          <pc type="pilcrow">¶</pc>  2m 
+          <lb ed="#S" n="90"/>dubium contra eandem 5 conclusionem est an deus possit facere maximam 
+          <lb ed="#S" n="91"/>gratiam possibile et videtur quod sic quia potest facere infinitam gratiam quia tantam 
+          <lb ed="#S" n="92"/>potest facere quantam comprehendit vel cognoscit sed infinita apprehen<lb ed="#S" break="no" n="93"/>dit 
+          et intuetur igitur infinita potest facere sed si faceret infinita non 
+          <lb ed="#S" n="94"/>posset facere maiorem quia nec alia maior esset possibilis igitur deus posset 
+          <lb ed="#S" n="95"/>facere maximam gratiam factibilem
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1392">
+          <pc type="pilcrow">¶</pc>  Quod autem cognoscat gratiam infini<lb ed="#S" break="no" n="96"/>tam 
+          probari potest ut videtur per hoc quod iste qui omnem possibilem apprehen<lb ed="#S" break="no" n="97"/>dit 
+          distincte et in quantacumque quantitate possibilem nec potest maiorem ap<lb ed="#S" break="no" n="98"/>prehendere 
+          quam actualiter apprehendit cum omni finita apprehensa 
+          <lb ed="#S" n="99"/>apprehendat maiorem videtur apprehendere infinitam possibilem et si hoc 
+          <lb ed="#S" n="100"/>igitur poterit infinitam producere immo etiam poterit producere infinita quia 
+          <lb ed="#S" n="101"/>non erit ei inpossibile omne verbum immo si negetur consequentia fiat 
+          <lb ed="#S" n="102"/>tota deductio de quantitate factibilis gratiae et redibit plenarie 
+          <lb ed="#S" n="103"/>argumentum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1416">
+          <pc type="pilcrow">¶</pc> Contra talis maxima possibilis non est gratia finita nec in<lb ed="#S" break="no" n="104"/>finita 
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1424">
+          <pc type="pilcrow">¶</pc> Responsio quod non quia non est aliqua maxima possibilis ergo non potest 
+          <lb ed="#S" n="105"/>facere maximam possibilem consequentia nota est antecedens probo quia nulla fini<lb ed="#S" break="no" n="106"/>ta 
+          gratia possibilis est aut potest esse maxima possibilis quia ultra omnem 
+          <lb ed="#S" n="107"/>finitem potest maiorem ex qua conclusione et eius probationibus nec in<lb ed="#S" break="no" n="108"/>finito 
+          alia eset maxima factibilis quia nihil infinitum est factibile 
+          <lb ed="#S" n="109"/>secundum communiter opinantes et probatur a simili de corpore quia nullum corpus 
+          <lb ed="#S" n="110"/>infinitum secundum extentionem est factibile quia causale nec esset mobile 
+          <lb ed="#S" n="111"/>et immobile sicut rationibus philosophicis potest argui ex primo caeli et mundi 
+          <lb ed="#S" n="112"/>et forte alia contradictoria possent ex hoc inferri de quibus super se 
+          <lb ed="#S" n="113"/>deo ista vice
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1449">
+          <pc type="pilcrow">¶</pc> ad argumentum in contrarium ad illam propositum causatam 
+          <lb ed="#S" n="114"/>potest facere etc potest responderi ut supra tantam potest facere quantam 
+          <lb ed="#S" n="115"/>potest facere verum est tamen ut ibi in simili dictum est quia quantam et 
+          <lb ed="#S" n="116"/>quantamcumque apprehendit tantam facere potest sed minor neganda est 
+          <lb ed="#S" n="117"/>cum accipitur quod infinitam apprehendit si ly infinitam sumatur cathegorimatice 
+          <lb ed="#S" n="118"/>licet sic vera si sumatur sincategorematice et cum probatur ista minor in sensu naturae 
+          <lb ed="#S" n="119"/><unclear>eo</unclear> negandum est quod sumitur sicut et illud qui omnem finitam possibilem 
+          <lb ed="#S" n="120"/>apprehendit distincte etc posita de finita loquendo sicut ibi indistincte 
+          <lb ed="#S" n="121"/>certum est enim quod deus non potest facere finitam aliquam infinitam et cum 
+          <lb ed="#S" n="122"/>ad hoc esset tanta evidentia sicut in assumpto Eodem modo potest 
+          <lb ed="#S" n="123"/>exemplari de multitudine finita quia nulla est multitudo maxima fini<lb ed="#S" break="no" n="124"/>ta 
+          possibilis neque finita neque infinita tamen assumptum non habet maiorem 
+          <lb ed="#S" n="125"/>colorem quam haberet quod posset facere multitudinem finitam infinitam ubi 
+          <lb ed="#S" n="126"/>cum contradictoria includuntur igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1484">
+          <pc type="pilcrow">¶</pc> 3m dubium an tale augmentum 
+          <pb ed="#S" n="166-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>continuum caritatis prosit homini in quo fit et videtur quod sic quia deus et natura nihil agit 
+          <lb ed="#S" n="2"/>frustra sed videretur quod frustra fieret nisi prodesset illi in quo fieret 
+          <lb ed="#S" n="3"/>si alias bene se haberet igitur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1501">
+          <pc type="pilcrow">¶</pc> Praeterea quanto plus crescit caritas in 
+          <lb ed="#S" n="4"/>aliquo tanto fit iste carior deo et tanto opera eius ex caritate pro<lb ed="#S" break="no" n="5"/>cedentia 
+          ceteris paribus sunt magis meritoria igitur prodest quod concedo 
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1511">
+          <pc type="pilcrow">¶</pc> Sed contra 
+          <lb ed="#S" n="6"/>quod eius augmentum non prosit homini videtur quia operans ex maiori caritate 
+          <lb ed="#S" n="7"/>aliquem actum minus meretur quam operans consimilem actum secundum quantitatem ex 
+          <lb ed="#S" n="8"/>minori caritate cuius probatio est quia ista actio est <unclear>sibi</unclear> facilior igitur ceteris 
+          <lb ed="#S" n="9"/>paribus minus difficilis et per consequens minus laudibilis aut virtuosa cum virtus 
+          <lb ed="#S" n="10"/>sic circa difficile 2o ethicorum et si operans aequale ex minori caritate fit 
+          <lb ed="#S" n="11"/>magis laudabilis igitur magis meretur
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1533">
+          <pc type="pilcrow">¶</pc> ad illud Respondet <name xml:id="aw98wa-xg3648-Nd1e1538">firalf</name> cum probatur quod o<lb ed="#S" break="no" n="12"/>perans 
+          accipit aequalem etc hic nichil asserendo dico quod conclusio est 
+          <lb ed="#S" n="13"/>vera nec sequitur ex hac conclusione quod augmentum caritatis abest quia habens 
+          <lb ed="#S" n="14"/>maiorem caritatem potest virtuosius operari si velit quam alius ce<lb ed="#S" break="no" n="15"/>teris 
+          paribus quia si uterque secundum ultimum suae potentiae operetur tunc habens me<lb ed="#S" break="no" n="16"/>liorem 
+          caritatem fruentius <add place="margin-left">operatur</add> et melius potest tamen esse quod habens maio<lb ed="#S" break="no" n="17"/>rem 
+          caritatem non tantum conetur bene operari sicut habens minorem et 
+          <lb ed="#S" n="18"/>credo quod tunc minus meretur <name xml:id="aw98wa-xg3648-Nd1e1558">henricus</name> 8 quolibet quaestione 16 secundum istum quod aequaliter 
+          <lb ed="#S" n="19"/>merentur sed hoc erit ut mihi videtur rarissime sed plurimum inaequa<lb ed="#S" break="no" n="20"/>liter 
+          sicut in alia quaestione diffusius prosecutus sum sed potest contingere quod aequaliter 
+          <lb ed="#S" n="21"/>et potest contingere quod plus et potest contingere quod minus secundum <unclear>relatas</unclear> ibi <sic>tac<lb ed="#S" break="no" n="22"/>tactas</sic> 
+          ideo responsio <name xml:id="aw98wa-xg3648-Nd1e1574">firaf</name> in proposito non est vera nisi partialiter intel<lb ed="#S" break="no" n="23"/>lecta
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1580">
+          <pc type="pilcrow">¶</pc> 4m dubium potest esse de illo qui continue meretur per mo<lb ed="#S" break="no" n="24"/>mentum 
+          aliquod augmendo meritum suum si hoc sit tamen possibile in casu 
+          <lb ed="#S" n="25"/>aliquo secundum cursum legis ordinate dubium inquam videtur an talis continue habe<lb ed="#S" break="no" n="26"/>at 
+          maiorem caritatem et maiorem et teneo quod immo quia si continue 
+          <lb ed="#S" n="27"/>augmentatur eius meritum continue fit melior et ideo acceptor quam 
+          <lb ed="#S" n="28"/>ante et sic hoc igitur continue fit carior et carior et habens maiorem 
+          <lb ed="#S" n="29"/>et maiorem caritatem per consequens quia unusquisque tanto meliorem quanto 
+          <lb ed="#S" n="30"/>maiorem <add place="margin-left">habet</add> caritatem secundum augustinum enchiridion capitulo 83
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1604">
+          <pc type="pilcrow">¶</pc> Sed contra illud potest sic argui 
+          <lb ed="#S" n="31"/>quia si sic possibile quod aliquis fiat per terminus aliquod continue carior et carior 
+          <lb ed="#S" n="32"/>et habens continue <del rend="expunctuation">malo</del> maiorem caritatem et maiorem quam prius cum quilibet 
+          <lb ed="#S" n="33"/>secundum legem dei ordinatam praemiandus intellectio praemietur secundum correspondentiam 
+          <lb ed="#S" n="34"/>ad caritatem suam habitam in via ponatur quod aliquis talis dum sic se habet 
+          <lb ed="#S" n="35"/>infieri subito moriatur ita quod mereatur augmendo meritorie glosam 
+          <lb ed="#S" n="36"/>suam usque ad instans mortis suae miraculose factae quia aliter perderet 
+          <lb ed="#S" n="37"/>usum rationis ante instans mortis <unclear>ante</unclear> cum numquam in via habuerit talis 
+          <lb ed="#S" n="38"/>maximam caritatem quam habuit in vita hac non esset aliquod 
+          <lb ed="#S" n="39"/>maximum praemium sibi debitum et per consequens <del rend="expunctuation">sibi</del> deus talem in null certo 
+          <lb ed="#S" n="40"/>gradu praemiaret consequens videtur inconveniens igitur illud ex quo sequitur scilicet quod 
+          <lb ed="#S" n="41"/>aliquis possit continue per aliquod tempus mereri augmentum gratiae quod 
+          <lb ed="#S" n="42"/>aut non esset aliquis summus gradus caritatis talis sic merentis usque ad finem vi<lb ed="#S" break="no" n="43"/>tae 
+          suae probatur quia si aliquis esset gradus maximus suae caritatis ille haberet 
+          <lb ed="#S" n="44"/>gradum illum in aliquod instanti in quo esset sic igitur quod in <c>a</c> instanti et hoc non quia 
+          <lb ed="#S" n="45"/>vel <c>a</c> esset immediatum instanti in quo <unclear>moritur</unclear> et hoc non vel meritum 
+          <lb ed="#S" n="46"/>et tunc cum per positum meruit usque ad finem vitae suae post <c>a</c> habuit 
+          <lb ed="#S" n="47"/>maiorem caritatem quam in <c>a</c> et eadem ratione argueretur de quo<lb ed="#S" break="no" n="48"/>libet 
+          alio instanti et ista sequitur propositum quod nullus fuit summus gradus suae caritatis 
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1668">
+          <lb ed="#S" n="49"/><pc type="pilcrow">¶</pc> hic respondetur et bene quod si ista esset possibile quoniam sine facto dei non esset hoc possibile 
+          <lb ed="#S" n="50"/>quod homo continue usque ad instans mortis augmentaret meritum vel fiat 
+          <lb ed="#S" n="51"/>argumentum de instanti finite usum rationis tunc non esset aliquis gradus maximus 
+          <lb ed="#S" n="52"/>caritatis quem talis haberet in vita sua sed tunc deberetur praemi<lb ed="#S" break="no" n="53"/>um
+          secundum gradum quem habuisset si in isto instant vixisset quia illum meru<lb ed="#S" break="no" n="54"/>it 
+          <pc type="punctus"/> Sed contra per nullum actum meruit iste illud gradum beatitudinis vel 
+          <lb ed="#S" n="55"/>gratiae ponatur quod continue intendebat actum suum quia haec est ista via <del rend="strikethrough">sit 
+          <lb ed="#S" n="56"/>a</del> quam sub dubio credidi forsitan esse possibile quod quis augmentet 
+          <lb ed="#S" n="57"/>continue meritum suum si <unclear>libera</unclear> aliqua bona aut meritoria vo<lb ed="#S" break="no" n="58"/>litio 
+          continue cresceret <unclear>pert?<del rend="expunctuation">n</del>s</unclear> aliquas qualescumque isto igitur posito talis 
+          <lb ed="#S" n="59"/>per nullum gradum actus sui meruit tantam gratiam vel beatitudinem 
+          <lb ed="#S" n="60"/>quantam habebit quia omnis quem habuit in vita fuit pars et 
+          <lb ed="#S" n="61"/>nulla pars fuit sufficiens ad hoc nec meruit beatitudinem sibi 
+          <lb ed="#S" n="62"/>danda per totum actum aliquem quem habuit quia nullus fuit max<lb ed="#S" break="no" n="63"/>imus 
+          gradus actus sui meritorii quia nihil fuit in vita illius max<lb ed="#S" break="no" n="64"/>imus 
+          gradus per quem meruit secundum casum propositum
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1721">
+          <pc type="pilcrow">¶</pc> ad illud respondet 
+          <lb ed="#S" n="65"/><name xml:id="aw98wa-xg3648-Nd1e1727">firaf</name> quia retento casu argumenti per nullam actionem suam seu per nullum 
+          <lb ed="#S" n="66"/>gradum actionis suae meruit talis gradum praemii quem reci<cb ed="#S" n="b"/><lb ed="#S" break="no" n="67"/>piet 
+          sed per infinitas partes suae meritoriae actionis meruit illum 
+          <lb ed="#S" n="68"/>gradum tamquam per merita particula respectu illius gradus praemii
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1738">
+          <pc type="pilcrow">¶</pc> Et si 
+          <lb ed="#S" n="69"/>arguas quod ex hoc sequitur quod non meruit gradum illum quia per nullam actionem 
+          <lb ed="#S" n="70"/>meritoriam unam nec per alias multas quia nec per infinitas nec per quas<lb ed="#S" break="no" n="71"/>cumque 
+          praecise posset dici inquid quod praecise meruit gradum illum per actio<lb ed="#S" break="no" n="72"/>nes 
+          infinitas quia tamen ista responsio est obscura et alibi negat 
+          <lb ed="#S" n="73"/>talis etiam <add place="margin-right">negat</add> deum cognoscere infinita cum ly infinita stet categorematice <!-- note check all earlier instances of "caritate" as they might be categorematice --> sive 
+          <lb ed="#S" n="74"/>sincategorematice etiam non videtur clara responsio quia non dat per quas infinitas 
+          <lb ed="#S" n="75"/>praecipue
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1765">
+          <pc type="pilcrow">¶</pc> Ideo dico sicut alias in simili quod meruit illam por<lb ed="#S" break="no" n="76"/>tionem 
+          beatitudinis vel illam caritatem quam primo habuit in instanti mortis 
+          <lb ed="#S" n="77"/>per actionem usque tunc <sic>augmentatam</sic> quae tunc primo esset si persona ista 
+          <lb ed="#S" n="78"/>superesset nec aliquod istius penitus superfluo acquirendum concedo igitur quod me<lb ed="#S" break="no" n="79"/>ruit 
+          beatitudinem iam per gradum dilectionis qui numquam fuit sed qui 
+          <lb ed="#S" n="80"/>fuisset nisi in hoc instanti partes eius usque tunc genite destruerentur 
+          <lb ed="#S" n="81"/>et simul cum hoc nihil eius nunc produceretur si non fieret destructio 
+          <lb ed="#S" n="82"/>sed solum primo esset in producto esse
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1788">
+          <pc type="pilcrow">¶</pc> ad primum argumentum principale dicendum quod 
+          <lb ed="#S" n="83"/>auctoritas philosophi vera est secundum cursum communem naturalem non aut est vera nec 
+          <lb ed="#S" n="84"/>intelligenda de quantitate in termino quantitatis maximo possibili secundum dei omni <lb ed="#S" n="85"/>potentiam 
+          absolutam
+        </p>
+        <p xml:id="aw98wa-xg3648-d1e1800">
+          <pc type="pilcrow">¶</pc> ad 2m responsum est in <ref xml:id="aw98wa-xg3648-Rd1e1805">primo dubio articuli 2i</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
