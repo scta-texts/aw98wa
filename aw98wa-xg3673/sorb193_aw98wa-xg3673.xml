@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8 [Sorb193 Transcription]</title>
+          <date when="2025-07-04">July 04, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="164-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3673"><!-- b2q8-->
+        <head xml:id="aw98wa-xg3673-Hd1e101">Quaestio 8</head>
+        <p xml:id="aw98wa-xg3673-d1e103">
+          <lb ed="#S" n="86"/>Octavo quaero utrum secundum proportionem caritatis viae succe<lb ed="#S" break="no" n="87"/>dat 
+          pro praemio proportionaliter magnitudo gloriae
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e110">
+          videtur quod non quia 
+          <lb ed="#S" n="88"/>deus ipse est praemium cuiuslibet beati non solum obiecti 
+          <lb ed="#S" n="89"/>tantum sed formale igitur omnium beatorum est penitus idem 
+          <lb ed="#S" n="90"/>et aequale praemium non aut <unclear>omnium</unclear> erat in via caritas eadem vel 
+          <lb ed="#S" n="91"/>aequalis igitur
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e123">
+          <pc type="pilcrow">¶</pc> assumptum probatur quia a quocumque beato potest secundum legem dei or<lb ed="#S" break="no" n="92"/>dinatam 
+          <lb ed="#S" n="93"/>quaelibet creatura cognosci distincte in verbo per cognitionem suam 
+          <lb ed="#S" n="94"/>beatificam et non per cognitionem beatificam creatam quia tunc illa vel esset corrump<lb ed="#S" break="no" n="95"/>tibilis 
+          <lb ed="#S" n="96"/>de communi lege et tunc non esset beatitudo <add place="margin-right">quia beatitudo</add> non eset beatitudo nisi sic 
+          <lb ed="#S" n="97"/>sine fine perpetuanda <pc type="punctus"/> vel 2o ipsa esset infinitae perfectionis cognitio quia 
+          <lb ed="#S" n="98"/>infinitarum cognitio cuiuslibet distinctae utrumque illatum est inconveniens igitur cognitio 
+          <lb ed="#S" n="99"/>beatifica talis beati est cognitio increata quod est intentum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e151">
+          <pc type="pilcrow">¶</pc> 2o probatur 
+          <lb ed="#S" n="100"/>idem assumptum quia aliter summe beatus non posset stante sua beatitudine 
+          <lb ed="#S" n="101"/>in summo habere ita perfectam cognitionem in genere proprio de creatura alia sicut 
+          <lb ed="#S" n="102"/>infimus beatus habens naturalia paria consequens inconveniens et consequentia patet quia 
+          <lb ed="#S" n="103"/>anima repleta una cum forma creata non potest illa replen<lb ed="#S" break="no" n="104"/>te 
+          ista simul tantum capere disparata sicut par anima in naturalibus non sit 
+          <lb ed="#S" n="105"/>replata alioquin non toto intensissimas quin plures specierum diversa<lb ed="#S" break="no" n="106"/>rum 
+          posset simul naturaliter recipere quod repungnare uter cuilibet creaturae igitur 
+          <lb ed="#S" n="107"/>etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e175">
+          <pc type="pilcrow">¶</pc> 3o probatur idem assumptum quia deus per substantiam suam loquitur ad crea<lb ed="#S" break="no" n="108"/>turas 
+          intelligibiles illuminandas secundum <ref xml:id="aw98wa-xg3673-Rd1e182">augustinum 8 super genesem capitulo 12 de 
+          <lb ed="#S" n="109"/>magnis 34 de parvis</ref>
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e188">
+          <pc type="pilcrow">¶</pc> ad oppositum quanto quis fuerit melior in 
+          <lb ed="#S" n="110"/>vita tanto erit gloriosior in patria sicut <unclear>dictat</unclear> ratio et sancti cla<lb ed="#S" break="no" n="111"/>mant 
+          sed quanto quis in via fuerit deo carior vel ma<lb ed="#S" break="no" n="112"/>iorem 
+          habuit caritatem tanto est melior secundum regulam augustinus in enchiridion 
+          <lb ed="#S" n="113"/>capitulo 83 igitur quanto quis in via maiorem habuit caritatem sententialiter 
+          <lb ed="#S" n="114"/>tanto habebit in patria gloriam ampliorem
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e207">
+          <pc type="pilcrow">¶</pc> In ista quaestione 
+          <lb ed="#S" n="115"/>conclusio est certa quod immo et satis suadet haec ratio in oppositum quaestionis sed 
+          <lb ed="#S" n="116"/>ipsa est introducta ad declarandum et defendendum conclusionem 
+          <lb ed="#S" n="117"/>contrarium illi quam tenuit quidam socius dicens in prima lectione quod verbum 
+          <lb ed="#S" n="118"/>divinum est cognitio et visio creaturae intellectuali et probavit eam per 3a me<lb ed="#S" break="no" n="119"/>dia 
+          iam praetacta cuius oppositum tenui contra eum in prima lectione 
+          <lb ed="#S" n="120"/>mea meam tunc probans et suam tunc inpugnans unito bre<lb ed="#S" break="no" n="121"/>vi 
+          medio per sententiam scilicet concilii vieniensis positam extra deo contionibus cle 
+          <lb ed="#S" n="122"/>in titulo de hereticis ad nostrum <pc type="punctus"/> quia ibi determinatur contra opinionem begar<lb ed="#S" break="no" n="123"/>dorum 
+          quam dampnat decretalis illa quod anima indiget lumine 
+          <lb ed="#S" n="124"/>gloriae ipsam elevante ad deum videndum et eo <unclear>beate</unclear> fruen<lb ed="#S" break="no" n="125"/>dum 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e241">
+          <pc type="pilcrow">¶</pc> Sed lumen illud gloriae quo contra opinionem ibi dampnatam indiget 
+          <lb ed="#S" n="126"/>anima ut deum videat et illo <unclear>beate</unclear> fruatur secundum decreta<lb ed="#S" break="no" n="127"/>lem 
+          non est lumen gloriae quod deus est nec est 
+          <lb ed="#S" n="128"/>ipsa anima quia nunquam aliquis opinatus est ista non re<lb ed="#S" break="no" n="129"/>quiri 
+          ad videndum deum et eo <unclear>beate</unclear> fruendum id est positam et 
+          <lb ed="#S" n="130"/>obiectum igitur est lumen aliud creatum ad hoc necessaria requisitum sed nullum 
+          <lb ed="#S" n="131"/>nisi visio creata vel fruitio creata quia sine lumine alio a visi<lb ed="#S" break="no" n="132"/>one 
+          et fruitione de <unclear>sancti acto</unclear> a deo et ab anima potest anima deum 
+          <lb ed="#S" n="133"/>videre et eo frui sicut reputavi ut dixi quod demonstrabile et 
+          <lb ed="#S" n="134"/>iste recitat igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e273">
+          <pc type="pilcrow">¶</pc> Et tunc consequenter respondi 3us mediis prae<lb ed="#S" break="no" n="135"/>notatis 
+          eiusdem socii <pc type="punctus"/> sed in oppositum impar replicavit idem
+          <pb ed="#S" n="166-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>primo respondo meae rationi iam recitate 2o inpungnans responsiones datas a 
+          <lb ed="#S" n="2"/>me
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e292">
+          <pc type="pilcrow">¶</pc> ad 3a argumenta sua praetacta <pc type="punctus"/> videndum est igitur primo an sua solutio 
+          <lb ed="#S" n="3"/>quam dat rationi meae sic sufficiens 2o an sufficienter repungnet responsiones 
+          <lb ed="#S" n="4"/>meas ad media sua datas
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e305">
+          <pc type="pilcrow">¶</pc> de primo respondit rationi meae praenota<lb ed="#S" break="no" n="5"/>tae 
+          in hunc modum quaerit a me quid intelligam per lumen gloriae gloriae cum dicit de<lb ed="#S" break="no" n="6"/>cretalis 
+          quod anima indiget lumine gloriae ipsam elevante vel deum vel 
+          <lb ed="#S" n="7"/>habitum infusum a deo vel visionem et dilectionem non ultimum eum quia visio 
+          <lb ed="#S" n="8"/>et dilectio perviae sunt ab ipsa anima tum quia visio et dilectio praesupponit 
+          <lb ed="#S" n="9"/>tale lumen igitur oportet quod intelligam per tale lumen quale dicit decretalis 
+          <lb ed="#S" n="10"/>animam indigere ad hoc ut sic beata talem qualitatem quae nata 
+          <lb ed="#S" n="11"/>sic disponere animam ad videndum deum sicut lux disponit medium 
+          <lb ed="#S" n="12"/>ut per illam contenta in medio clarius videantur vel aliquid aliud distinctum 
+          <lb ed="#S" n="13"/>ab anima et a visione et dilectione modo non sequitur anima indiget tali 
+          <lb ed="#S" n="14"/>habitu aliquo quod non sit deus nec anima igitur visio verbi beatifica est 
+          <lb ed="#S" n="15"/>aliquid distinctum a deo nulla est inquit evidentia in argumento quia 
+          <lb ed="#S" n="16"/>oppositum consequentis stat <unclear>cum</unclear> antecedente haec ille
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e339">
+          <pc type="pilcrow">¶</pc> hic in primis dico tum illo 
+          <lb ed="#S" n="17"/>quod nulla est evidentia aut color informa ad quam dicit quod nulla est in ea 
+          <lb ed="#S" n="18"/>evidentia sed ista est forma sua non mea et ideo suam 
+          <lb ed="#S" n="19"/>solvit quam fingit et non meam licet argumentative fingat me 
+          <lb ed="#S" n="20"/>intendere formam illam meam autem formam <sic>illesam</sic> pertransiit et 
+          <lb ed="#S" n="21"/>intactam argui enim sic anima secundum decretalem non potest deum vi<lb ed="#S" break="no" n="22"/>dere 
+          sine lumine gloriae distincto a deo vel ab anima tunc sic aliquod lumen distinctum 
+          <lb ed="#S" n="23"/>a deo et ab anima requiritur necessaria ad hoc quod anima videat 
+          <lb ed="#S" n="24"/>deum et fruatur sed nullum lumen aliud a visione et dilectione ad hoc re<lb ed="#S" break="no" n="25"/>quiritur 
+          igitur lumen quod sit dilectio vel visio ad hoc requiritur quod nec 
+          <lb ed="#S" n="26"/>sic deus nec anima ipsa huius formae quod sic arguerim testis 
+          <lb ed="#S" n="27"/>est quaternus tam suus quam meus in hac forma non potest esse calump<lb ed="#S" break="no" n="28"/>nia 
+          quia praemissae inferunt conclusionem nec oppositum conclusionis potest stare cum 
+          <lb ed="#S" n="29"/>praemissis notum est cuilibet advertenti et sibi etiam nulli dubium igitur cum dicit 
+          <lb ed="#S" n="30"/>ad formam cui respondit quod oppositum consequentis stat cum antecedente hoc est verum 
+          <lb ed="#S" n="31"/>de forma sua cui respondit non de mea cui respondere debuis<lb ed="#S" break="no" n="32"/>set 
+          quam tamen optime ponit recitando sed quando debuit respondere col<lb ed="#S" break="no" n="33"/>legit 
+          formam aliam et non meam debuisset igitur calumpniam po<lb ed="#S" break="no" n="34"/>nere 
+          in materia et non informa
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e386">
+          <pc type="pilcrow">¶</pc> hanc autem propositionem in qua totum pon<lb ed="#S" break="no" n="35"/>derus 
+          stat divisit pone in forma cui respondit licet non in forma quam 
+          <lb ed="#S" n="36"/>de me recitavit scilicet quod ultra deum et animam nullum aliud linum <c>a</c> 
+          <lb ed="#S" n="37"/>visione et fruitione ad hoc requiritur in tantum quod sicut mihi recitan<lb ed="#S" break="no" n="38"/>de 
+          <del rend="expunctuation">me</del> perhibet testimonium dixi me reputare illud esse demonstrabile 
+          <lb ed="#S" n="39"/>Et per hoc ultra patet quod frustra petit a me quid in argumento 
+          <lb ed="#S" n="40"/>meo intelligam per lumen gloriae distinctum a deo et ab anima cum decre<lb ed="#S" break="no" n="41"/>talis 
+          dicit animam huius lumine indigere expressum est enim <c>a</c> me 
+          <lb ed="#S" n="42"/>reputare esse demonstrabile quod nullum lumen praeter deum et animam a visione aliud 
+          <lb ed="#S" n="43"/>et fruitione ad hoc requiri et cum arguit quod iste intellectus stare non 
+          <lb ed="#S" n="44"/>possit apud me tum quia pono ut dicit quod visio et dilectio sunt 
+          <lb ed="#S" n="45"/>ab ipsa anima tum quia visio et dilectio praesupponunt tale lumen
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e423">
+          <pc type="pilcrow">¶</pc> dico 
+          <lb ed="#S" n="46"/>ad primum quod si loquatur iste socius de visione dei quae non est 
+          <lb ed="#S" n="47"/>fruitio dei sed sibi naturaliter praesupposita non pono nec posui quod ipsa 
+          <lb ed="#S" n="48"/>active sic ab anima beata vere licet meritorie sic ab aima quae me<lb ed="#S" break="no" n="49"/>ruit 
+          illam quamvis enim si hoc diceretur sustineri utique posset <add place="margin-center">tamen</add> proba<lb ed="#S" break="no" n="50"/>bilius 
+          semper iudicani et iudico quod illa sit a solo deo ac<lb ed="#S" break="no" n="51"/>tive 
+          tum quia licet anima active conprincipet suas visiones respectu creaturarum 
+          <lb ed="#S" n="52"/>naturaliter agentium et moventium ad sui visiones ut posui de 
+          <lb ed="#S" n="53"/>deo tum quia non potest naturaliter agere in aliquo sui notitiam sed tantum 
+          <lb ed="#S" n="54"/>libere quia si vult videtur secundum augustinum et si non vult non videtur probabilius 
+          <lb ed="#S" n="55"/>videtur quod a solo deo provenit eius visio effective tum quia cre<lb ed="#S" break="no" n="56"/>dibile 
+          est quod visionem praeviam fruitioni nobiliorem possit anima 
+          <lb ed="#S" n="57"/>recipere quam efficere quamvis tali habita anima sufficiat tum in<lb ed="#S" break="no" n="58"/>fluentia 
+          dei generali respectu dei clare visi amorem coefficere frui<lb ed="#S" break="no" n="59"/>tivum 
+          sicud alias declaravi tum 3o quia tunc cum anima in causando 
+          <lb ed="#S" n="60"/>visionem agat mere naturaliter et secundum ultimum potentiae 
+          <lb ed="#S" n="61"/>suae videtur quod nisi deus generalem subtraheret influentiam vel dimi<lb ed="#S" break="no" n="62"/>nueret
+          anima vel creatura intellectualis nobilior in naturalibus rariter cla<lb ed="#S" break="no" n="63"/>rius 
+          videret deum quod est <ref xml:id="aw98wa-xg3673-Rd1e470">articulus parysiensis condempnatus</ref> quia talis visio 
+          <lb ed="#S" n="64"/>habetur ibi secundum exigentiam meritorum detur tamen isti socio gratia 
+          <lb ed="#S" n="65"/>disputationis quod anima active conprincipat visionem respectu dei deo libere 
+          <lb ed="#S" n="66"/>coagente quoniam secundum veritatem conclusio ista non potest sufficienter 
+          <lb ed="#S" n="67"/>probari nec sufficienter in probari quod noviter causet eam quando 
+          <lb ed="#S" n="68"/>placet deo noviter coagere ad eam et quod non potest anima <del rend="expunctuation">non</del>
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="69"/>nobiliorem recipere visionem quam coefficere iuxta illud philosophi quod sicut 
+          <lb ed="#S" n="70"/>anima per hoc quod est intellectus possibilis est quo omnia fieri ita per hoc quod 
+          <lb ed="#S" n="71"/>ipsa est intellectus agens ipsa est quo omnia facere quantum scilicet spectat 
+          <lb ed="#S" n="72"/>ad cognitiones respectu realiter ab ipsa intelligibilium causandas et recipien<lb ed="#S" break="no" n="73"/>das
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e500">
+          <pc type="pilcrow">¶</pc> Et pro solvendo argumento 3o facto in contrarium dicendum foret quod licet quaelibet 
+          <lb ed="#S" n="74"/>creata intellectualis beata esset in se active visionem dei secundum ultimum suum 
+          <lb ed="#S" n="75"/>potentiae et ideo si deus uniformiter influeret id eset coageret ex parte sui 
+          <lb ed="#S" n="76"/>semper creatura talis nobilior clarius et perfectius deum videret quia tamen 
+          <lb ed="#S" n="77"/>deus <add place="margin-center">non</add> uniformiter concurrit sed secundum proportionem ad caritatem in via colla<lb ed="#S" break="no" n="78"/>tam 
+          et ad merita ideo non sequitur quod nobilior creatura visionem dei 
+          <lb ed="#S" n="79"/>habeat clariorem unde deus agit ibi secundum specialem influentiam secundum 
+          <lb ed="#S" n="80"/>exigentiam meritorum sed ulterius dico quod ad illud si detur non sequitur propter hoc 
+          <lb ed="#S" n="81"/>quod ultra lumen quod deus est et lumen naturale quod est ipse intellectus a<lb ed="#S" break="no" n="82"/>gens 
+          creaturae intelligibilis sic aliud lumen creatum ibi necessariam distinctum 
+          <lb ed="#S" n="83"/>ab ipsa visione et aliis actibus beatificis scilicet dandis Et cum 2o 
+          <lb ed="#S" n="84"/>probat quod immo quia visio et dilectio praesupponunt tale lumen aliud illud nego 
+          <lb ed="#S" n="85"/>si intelligatur de praesuppositione necessaria omnino <unclear>sicut</unclear> videtur procedere decretalis
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e537">
+          <lb ed="#S" n="86"/> <pc type="pilcrow">¶</pc> Ex hoc ego arguo primo sit quia illud lumen praemium si necessario requiritur igitur causa 
+          <lb ed="#S" n="87"/>quam aliqua per se causa unionis vel fruitionis cui praesupponitur cum omnis 
+          <lb ed="#S" n="88"/>effectus cum igitur illud lumen praevium si detur non sit finis nec object fruitio<lb ed="#S" break="no" n="89"/>nis 
+          vel visionis sicut notum est nec est receptum <add place="margin-right">visionis</add> vel frui <add place="above-line">omnis</add> cui po<lb ed="#S" break="no" n="90"/>nere 
+          praesupponitur cum quia tunc anima non esset immediate beata sicut nec immediate reci<lb ed="#S" break="no" n="91"/>peret 
+          beatitudinem tum quia illum lumen primo et immediate videret deum 
+          <lb ed="#S" n="92"/>et frueretur quae ambo sunt in convenientia igitur oportet illud lumen gloriae poni 
+          <lb ed="#S" n="93"/>vel ipsam formam beatitudinis id est ipsam visionem vel fruitionem quod est intentum 
+          <lb ed="#S" n="94"/>vel actum solummodo respectu visionis et si hoc cum omne factibile a deo 
+          <lb ed="#S" n="95"/>mediate activo creato possit esse immediate a deo active circumscripto omni 
+          <lb ed="#S" n="96"/>alio activo nam oppositum est <ref xml:id="aw98wa-xg3673-Rd1e572">articulus parysiensis dampnatus</ref> et oppositum etiam 
+          <lb ed="#S" n="97"/>videretur esse contra articulum fidei de dei omnipotentia igitur in nullo genere causae 
+          <lb ed="#S" n="98"/>necessarium est tale lumen distinctum a deo et ab anima et ab actibus animae id est 
+          <lb ed="#S" n="99"/>ab operationibus actualiubs ante dictis igitur cum per decretalem sicut et ad<lb ed="#S" break="no" n="100"/>mittit 
+          iste socius anima indigeat lumine quod nec sit deus nec anima 
+          <lb ed="#S" n="101"/>ad hoc quod ipsa beatifice elevetur illud lumen erit operatio beatificis 
+          <lb ed="#S" n="102"/>ante dicta
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e589">
+          <pc type="pilcrow">¶</pc> 2o arguo ad hoc idem sic <unclear>habitis</unclear> principio receptivo summe 
+          <lb ed="#S" n="103"/>per amotionem omnis inpediti disposito et principio sufficienti activo 
+          <lb ed="#S" n="104"/>et fine agendi et hiis approximatis debite potest sequi effectus 
+          <lb ed="#S" n="105"/>quibuscumque aliis praemiis effectum circumstantiis sed ut iam argutum est 
+          <lb ed="#S" n="106"/>anima ipsa est principium summe dispositum ad recipiendum beati<lb ed="#S" break="no" n="107"/>tudinem 
+          si amoveantur inpedimenta omnia ipsam indisponentia et 
+          <lb ed="#S" n="108"/>deus ipse est omnipotens principium <unclear>efficientium</unclear> cuiuscumque effectibilis et finis etiam sufficiens quare <add place="margin-right">non</add> 
+          <lb ed="#S" n="109"/>vel unde deus possit moveri metaphysicae per modum finis ad agen<lb ed="#S" break="no" n="110"/>dum 
+          est deus ipse et utilitas creaturae beatificandae igitur quibuscumque aliis cir<lb ed="#S" break="no" n="111"/>cumscriptis 
+          potest deus animam active beatificare igitur aliud ab ipsis non re<lb ed="#S" break="no" n="112"/>quiritur 
+          necessario ad hoc ipsum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e624">
+          <pc type="pilcrow">¶</pc> 3o principaliter arguo idem sic si lumen gloriae 
+          <lb ed="#S" n="113"/>quod nec sic ipse deus nec anima nec ipsa forma vel beatitudo necessario 
+          <lb ed="#S" n="114"/>requiritur ad elevandum animam ut sit beata lumen inquam praevium visioni 
+          <lb ed="#S" n="115"/>dei et eius fruitioni beatificae vel igitur lumen proprie dictum cuius est in istis 
+          <lb ed="#S" n="116"/>inferioribus lumen materiale gentium a corporo luminoso in quo lumine 
+          <lb ed="#S" n="117"/>videntur colores sicut proportionaliter dicit socius iste est in proposito vel lumen 
+          <lb ed="#S" n="118"/>proprie dictum spirituale terminus est intellectus agens qui est habitus vel lumen 
+          <lb ed="#S" n="119"/>ex 3o de anima parte 18 ubi sit dicit philosophus Et est intellectus inquit 
+          <lb ed="#S" n="120"/>hic quidam talis in omnia fieri ille vero in omnia facere sicut habitus quidam 
+          <lb ed="#S" n="121"/>sicut lumen
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e649">
+          <pc type="pilcrow">¶</pc> vel sumitur lumen minus proprie sicud est lumen spirituale quod est 
+          <lb ed="#S" n="122"/>lumen ut habitus eo modo quo dicere solemus lumen sapientiae de 
+          <lb ed="#S" n="123"/>lumine corporali certum est quod illud non requiritur ad beatitudinem nec aliud lumen 
+          <lb ed="#S" n="124"/>ibi proportionale distinctum a deo et a lumine intellectus agentis et ab actibus 
+          <lb ed="#S" n="125"/>beatificis quia lumen materiale genitum a corpore luminos non requiritur ad 
+          <lb ed="#S" n="126"/>visionem corporalem causandam propter ipsam potentiam elevandam praeviae 
+          <lb ed="#S" n="127"/>actui visionis sed potius ut cooperetur active ipsi obiecto et ad potentiam 
+          <lb ed="#S" n="128"/>visivam ad actum huius imitandum igitur pari ratione nec in proposito 
+          <lb ed="#S" n="129"/>si illud lumen gloriae poni debeat illi proportionaliter ad propositum se habere 
+          <lb ed="#S" n="130"/>assumptum probatur duplici <unclear>experi?to</unclear> primum est quia potentia visiva existens in tene<lb ed="#S" break="no" n="131"/>bris 
+          et obiecto sensibili in lumine potest homo videre obiectum huius si 
+          <lb ed="#S" n="132"/>autem econverso sensitiva potentia sic in lumine et obiectum in tenebris ipsum 
+          <lb ed="#S" n="133"/>obiectum non videbitur igitur lux corporea requiritur propter obiectum non propter 
+          <lb ed="#S" n="134"/>potentiam vel tamquam principium actum cum obiecto non tamquam principium re<lb ed="#S" break="no" n="135"/>ceptum 
+          et per consequens cum omnem efficaciam posset deus se solo supplere
+          <pb ed="#S" n="167-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>si voluerit sequitur idem quod supra
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e694">
+          <pc type="pilcrow">¶</pc> aliud experimentum est quod homo in luce magna 
+          <lb ed="#S" n="2"/>existens sicut in meridie positus in plana terrae superficiae ubi lux mul<lb ed="#S" break="no" n="3"/>tum 
+          pertingit ad potentiam non potest videre stellas <unclear>infirma?to</unclear> si autem 
+          <lb ed="#S" n="4"/>tempore lucis meridiane sit inprofunda foveat ubi lux vix vel 
+          <lb ed="#S" n="5"/>modicum potest pertingere ad potentiam visivam ibi potest videre stellas igitur
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e711">
+          <pc type="pilcrow">¶</pc> praeterea quod tale lumen spirituale proprie dictum non requiritur necessario in patria prae<lb ed="#S" break="no" n="6"/>vium 
+          visioni beatificae distinctum a potentia et obiecto arguo sic et posset poni nova 
+          <lb ed="#S" n="7"/>ratio ad principale et hoc dico lumen proportionale lumini corporali et <unclear>q</unclear> simile servi<lb ed="#S" break="no" n="8"/>tium 
+          ibi habens quia tale lumen proprie dictum non requiritur nisi vel propter obscu<lb ed="#S" break="no" n="9"/>ritatem 
+          obiecti unde illa quae sunt de se luminosa vel lucida melius 
+          <lb ed="#S" n="10"/>videntur in obscuro quam in lumine alienus sicud patet per philosophum et commentatorem 2o de 
+          <lb ed="#S" n="11"/>anima particula 72 et ideo ibi dicit commentator quod non est necesse quod omne visibile 
+          <lb ed="#S" n="12"/>videatur seu in luce quia sunt quaedam quae videntur in obscuro et non 
+          <lb ed="#S" n="13"/>in luce ut plura animalia et conche in cornu et alia Illa autem 
+          <lb ed="#S" n="14"/>quae non lucent nec lucida de se sed sunt colorata tantum nam 
+          <lb ed="#S" n="15"/>natura coloris est alia a natura lucidi et lucis secundum commentatorem ibidem talia inquam 
+          <lb ed="#S" n="16"/>numquam videntur nisi in lumine quia secundum philosophum et commentatorem ibidem commento 73 omne 
+          <lb ed="#S" n="17"/>quod videtur in luce est color et econverso omnis color videtur in luce <unclear>sumptu</unclear> 
+          <lb ed="#S" n="18"/>si videtur et hoc si videtur secundum cursum naturae illa autem quae possunt vi<lb ed="#S" break="no" n="19"/>deri 
+          tam in luce quam in obscuro cuiuslibet est ignis cuius 
+          <lb ed="#S" n="20"/>ratio secundum philosophum et commentatorem ubi supra particula 73 <pc type="punctus"/> quia participant tam naturam 
+          <lb ed="#S" n="21"/>lucis quam colorum et per naturam coloris videntur in lumine et per naturam 
+          <lb ed="#S" n="22"/>lucis videntur in tenebris quia de natura sua luminosa sunt non indi<lb ed="#S" break="no" n="23"/>gent 
+          ut videantur corporaliter lumine alieno obscuritas autem obiecti 
+          <lb ed="#S" n="24"/>quantum ad istam particulam divisionis faciendae non potest in patria vel beatis 
+          <lb ed="#S" n="25"/>poni causa quare ibi indigeatur lumine distincto ab obiecto et intellectu et 
+          <lb ed="#S" n="26"/>operationibus beatificis quia ut iam visum est <unclear>quem</unclear> obiectum est de se lux 
+          <lb ed="#S" n="27"/>vel lucidum nullum aliud lumen distinctum ab illis 3us requiritur ad vi<lb ed="#S" break="no" n="28"/>dendum 
+          tale obiectum sicut patet de squamis piscium et <unclear>quarta</unclear> 
+          <lb ed="#S" n="29"/>putrida et huius quae lucent de nocte et in tenebris videntur quia etiam 
+          <lb ed="#S" n="30"/>ut dicunt antiqui doctores exemplificando sol corporalis est de se lucidus 
+          <lb ed="#S" n="31"/>frustra attenderetur candela vel aliud lumen corporale in eo non sunt ullae prima 
+          <lb ed="#S" n="32"/>ca pe c 1 et in io c 1 <!-- bible verses ? --> Erat lux vera et quo igitur pro hac causa 
+          <lb ed="#S" n="33"/>non requiritur tale lumen 4m in proposito vel 3o principaliter tale lumen proprie dictum 
+          <lb ed="#S" n="34"/>et spirituale distinctum a deo et ab anima et ab actibus animae poneretur re<lb ed="#S" break="no" n="35"/>quiri 
+          propter materialitate obiecti sicut quidam ponunt lumen intellectus agentis 
+          <lb ed="#S" n="36"/>sive quod est ipse intellectus agens ad hoc requiri propter materialitatem ut faciat 
+          <lb ed="#S" n="37"/>de potentia intelligibili actu intelligibile eo modo quo loquitur commentator 3o de anima 
+          <lb ed="#S" n="38"/>commento 18 cum inveniemus idem transfferri in suo esse de ordine ad ordinem 
+          <lb ed="#S" n="39"/>scilicet intentiones ymaginatas et <unclear>aut</unclear> et iterum dicit commentator in fine eius<lb ed="#S" break="no" n="40"/>dem 
+          commenti quod si essent in entibus extra animam omnia universalia ista quod omnia in<lb ed="#S" break="no" n="41"/>tellectualia 
+          essent abstracta a materia sicut posuit plato non indigeret 
+          <lb ed="#S" n="42"/>aristotelem ponere intellectum agentem quia tunc scilicet omnia essent de se intelligibilia 
+          <lb ed="#S" n="43"/>secundum illam fantasiam sed certum est quod hic non potest poni causa requisitionis luminis 
+          <lb ed="#S" n="44"/>istius 4ti in proposito quia essentia divina est de se in materialis et actu in<lb ed="#S" break="no" n="45"/>telligibilis
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e819">
+          <pc type="pilcrow">¶</pc> vel ergo illud lumen 4m requireretur ut causa partibilis ad agen<lb ed="#S" break="no" n="46"/>dum 
+          cum obiecto propter influentiam potentiae activae obiecti sicut ponit philosophus ad 
+          <lb ed="#S" n="47"/>quaedam obiecta agenda cognoscenda requiri vel ad omnia creata cognos<lb ed="#S" break="no" n="48"/>cenda 
+          lumen intellectus agentis 3o de anima per 18 et per 19 cum commento 
+          <lb ed="#S" n="49"/>etiam et hoc non haberet locum in proposito quia essentia divina est infinitae potentiae 
+          <lb ed="#S" n="50"/>omnis efficientiae suppletum et contentum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e837">
+          <pc type="pilcrow">¶</pc> dices forte quod illud lumen 
+          <lb ed="#S" n="51"/>quod requiritur est lumen per modum habitus poni elevantis seu humilitantis 
+          <lb ed="#S" n="52"/>ac disponentis ad cognoscendum et fruendum et non lumen proprie dictum re<lb ed="#S" break="no" n="53"/>quisitum 
+          ex parte obiecti vel activitatis potentiae cognitive et hoc erat 
+          <lb ed="#S" n="54"/>unum membrum divisionis primae non dum persecutum eo modo quo 
+          <lb ed="#S" n="55"/>dicere solemus lumen fidei vel sapientiae
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e854">
+          <pc type="pilcrow">¶</pc> Contra istam responsionem potest 
+          <lb ed="#S" n="56"/>argui quia ex quo habitus iste non reciperet ipsam beatitudinem non 
+          <lb ed="#S" n="57"/>videtur quin deus ipse virtualiter contineat virtute talis habitus ad quodlibet 
+          <lb ed="#S" n="58"/>agendum citra talem positam quod ageret habitus talis per specialem 
+          <lb ed="#S" n="59"/>influentiam coagendi potentiae in tali casu
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e868">
+          <pc type="pilcrow">¶</pc> Et istud confirmatur 
+          <lb ed="#S" n="60"/>per primum argumentum sic quia talis habitus in nullo genere causae esset necessarius sicud 
+          <lb ed="#S" n="61"/>pateret discurrendo
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e878">
+          <pc type="pilcrow">¶</pc> Item difficile esset videre qualiter negan<lb ed="#S" break="no" n="62"/>do 
+          omnem dei visionem creatam faceret aliquis talis habitus <unclear>totius</unclear> quod 
+          <lb ed="#S" n="63"/>deus esset cognitio tali creaturae cum deus qui est in <unclear>plurum limita</unclear> 
+          <lb ed="#S" n="64"/>intimetur potentiae tali et sibi coniungatur vel coniungi possit circumscript tali 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>lumine habituali sicut posito tali praecise cum habitus nihil operetur ut habitus nisi 
+          <lb ed="#S" n="66"/>actum vel mediate actu quem coprincipet quia habitus est principium actum ex 5o 
+          <lb ed="#S" n="67"/>metaphysicae textu commenti 3 ubi dicit philosophus quod ars et <unclear>metaphysicus</unclear> active principant 
+          <lb ed="#S" n="68"/>et commentator ibidem commento 2o dicit haec ars etc et commentator super 6 4 commento 103 
+          <lb ed="#S" n="69"/>vult idem et scotus similiter probat illud magistri libro 1 distinctione 17 igitur ut videtur 
+          <lb ed="#S" n="70"/>nullum lumen distinctum ab obiecto et anima et operatione animae necessaria ibi re<lb ed="#S" break="no" n="71"/>quiritur 
+          et tum per decretalem anima indiget lumine tali si videbit deum 
+          <lb ed="#S" n="72"/>quod <unclear>dabitur</unclear> a deo et ab anima igitur illud lumen gloriae est ipsa visio luminosa 
+          <lb ed="#S" n="73"/>quae est formaliter lumen quodam a deo immissum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e921">
+          <pc type="pilcrow">¶</pc> Et illud confirmatur 
+          <lb ed="#S" n="74"/>quia ad litteram tale lumen quod esset operatio media negavit opinionem quam damp<lb ed="#S" break="no" n="75"/>nat 
+          <unclear>ecclesia</unclear> pro errore quia ista opinio ponit teste decretali quod anima 
+          <lb ed="#S" n="76"/>quaelibet intellectiva semet ipsa naturaliter est beata et videt deum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e935">
+          <pc type="pilcrow">¶</pc> Praeterea dei<lb ed="#S" break="no" n="77"/>tas 
+          potest immediate uniri potentiae intellectivae seu naturae intellectivae per modum 
+          <lb ed="#S" n="78"/>ypostasis vel naturae sine tali habitu igitur et in ratione cognitionis et obiecti si 
+          <lb ed="#S" n="79"/>tamen ipsa possit tali creaturae esse cognitio
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e948">
+          <pc type="pilcrow">¶</pc> praeterea rationes duae illius 
+          <lb ed="#S" n="80"/>poterunt duci contra istum de lumine illo habituali sicud et de cognitione 
+          <lb ed="#S" n="81"/>creatura dei quia scilicet stante lumine tali intensissimo inpedietur creatura 
+          <lb ed="#S" n="82"/>cognoscere actu vel habitu ita intense rem creatam in genere proprio sicud 
+          <lb ed="#S" n="83"/>sicut alia habens minus lumen
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e962">
+          <pc type="pilcrow">¶</pc> Item ad hoc facit alia ratio sua 
+          <lb ed="#S" n="84"/>quod deus scilicet loquitur creaturae intellectuali illuminandae per suam substantiam igitur non 
+          <lb ed="#S" n="85"/>plus per habitum medium arguam ego quam per actum medium de 
+          <lb ed="#S" n="86"/>quo infert iste patet igitur ex iam tractatis quod ratio mea contra ipsum non 
+          <lb ed="#S" n="87"/>peccavit in materia nec informa quod est intentum huius articuli
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e976">
+          <pc type="pilcrow">¶</pc> 2us 
+          <lb ed="#S" n="88"/>articulus est tractare responsiones et inpungnationes responsionum per me datarum 
+          <lb ed="#S" n="89"/>ad 3a sua supposita argumenta et iste articulus habet 3s particulas 2m quod 
+          <lb ed="#S" n="90"/>tria erant argumenta
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e988">
+          <pc type="pilcrow">¶</pc> ad primum suum argumentum concessi quod per eundem actum 
+          <lb ed="#S" n="91"/>potest cognosci verbum et aliud a verbo et quod illa visio verbi qua videtur u<lb ed="#S" break="no" n="92"/>na 
+          vice verbum et una creatura alia non visa non est illa vi<lb ed="#S" break="no" n="93"/>sio 
+          verbi qua alias videtur verbum et ista alia creatura non prius visa et quod 
+          <lb ed="#S" n="94"/>talium actuum videndi verbum potest esse immediata successio et cum arguit 
+          <lb ed="#S" n="95"/>quod non quia tunc visio verbi esset corruptibilis et per consequens ipsa non esset beatitudo quia 
+          <lb ed="#S" n="96"/>quod ipsa sic beatitudo requirit ipsam esse perpetuam secundum augustinum 13 de 
+          <lb ed="#S" n="97"/>trinitate capitulo 17 de parvis respondi quod augustinus loquitur ibi de beato quod nullus esset 
+          <lb ed="#S" n="98"/>beatus si unquam desineret habere beatitudinem in proposito autem propter successionem 
+          <lb ed="#S" n="99"/>concessam non oportet quod prius beatus desineret esse beatus quia priori vi<lb ed="#S" break="no" n="100"/>sioni 
+          succederet sine medio alia aequivalens sicut materia numquam de<lb ed="#S" break="no" n="101"/>sinit 
+          esse informata licet multas formas sic perditura dixi tamen 
+          <lb ed="#S" n="102"/>quod forsan illa successio non est in principali visione quae solum 
+          <lb ed="#S" n="103"/>deum forsan habet pro obiecto
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1022">
+          <pc type="pilcrow">¶</pc> Et si dicas quod tunc non semper esset aequaliter 
+          <lb ed="#S" n="104"/>beatus quia perfectior esset visio verbi et alterius quam solius verbi respon<lb ed="#S" break="no" n="105"/>di 
+          quod talis non esset perfectius beatus per illud augustinus non propter illa 
+          <lb ed="#S" n="106"/>beatior
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1034">
+          <pc type="pilcrow">¶</pc> Si <unclear>di</unclear> secundum augustinum 15 de trinitate capitulo 41 non erunt ibi volu<lb ed="#S" break="no" n="107"/>biles 
+          cognitiones respondendi uno modo quod dicit fortasse non 
+          <lb ed="#S" n="108"/>erunt ibi volubiles cognitiones et ista loquitur ibi dubitative et haec responsio 
+          <lb ed="#S" n="109"/>ut dixi confirmatur per hoc quod augustinus addit ibidem cum hoc fuerit 
+          <lb ed="#S" n="110"/>si tamen hoc fuerit ecce quod dubitare videtur aliter <del rend="underline">non di</del> <add place="margin-right">respondendi quod</add> et <unclear>dato</unclear> quia 
+          <lb ed="#S" n="111"/>non loqueretur dubitative tunc intelligeret dictum fuit sicut ipse expri<lb ed="#S" break="no" n="112"/>mit 
+          quod non erunt ibi volubiles nostrae cognitiones ab aliis 
+          <lb ed="#S" n="113"/>in alia euntes et redeuntes loquendo de hiis respectu quorum est 
+          <lb ed="#S" n="114"/>visio ista beatifica scilicet respectu essentiae et personarum quia ista omnia simul semper vi<lb ed="#S" break="no" n="115"/>debit 
+          dixi 3o quod hoc ita esset contra eum sicut contra ponen<lb ed="#S" break="no" n="116"/>tes 
+          visiones distinctas quia verbum per eum non est hinc <unclear>et??</unclear> 
+          <lb ed="#S" n="117"/>semper visio creaturae eiusdem sed nunc unius nunc alterius et non <unclear>pri?</unclear> et 
+          <lb ed="#S" n="118"/>postea forsan prioris nam ista potest esse ex quo secundum eum verbum non 
+          <lb ed="#S" n="119"/>est simul distincte cognitio omnium et singulorum quia tunc infinite esset sibi 
+          <lb ed="#S" n="120"/>cognitio sicut ipsemet arguit de actu creato si detur sed hoc est 
+          <lb ed="#S" n="121"/>sic volvere se cogitando quod ire ab uno ad aliud et alias re<lb ed="#S" break="no" n="122"/>dire 
+          quod expresse negat ista auctoritas <unclear>cro?ta</unclear> nota dubitationis igitur 
+          <lb ed="#S" n="123"/>etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1095">
+          <pc type="pilcrow">¶</pc> 4o etiam dixi quod auctoritas etiam est contra eum aliter quia addit cum hoc 
+          <lb ed="#S" n="124"/>fuerit si et haec fuerit formata erit creatura quae formabilis fuit sed deus non 
+          <lb ed="#S" n="125"/>potest esse forma intellectus creati igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1105">
+          <pc type="pilcrow">¶</pc> Sed contra ista arguit ille socius materialiter 
+          <lb ed="#S" n="126"/>primo contra hoc quod dixi quod potest esse et stare cum iam dicto quod tantum cum 
+          <lb ed="#S" n="127"/>una beatitudine visio una vice haberetur alia vice alia et quod secundum tales 
+          <lb ed="#S" n="128"/>esset successio praenotata alio modo quod duae simul essent in quolibet una 
+          <lb ed="#S" n="129"/>perpetua alia temporalis qua cessante immediate succederet alia 
+          <lb ed="#S" n="130"/>et quod per primam videretur solus deus per 2am deus et aliud in verbo 
+          <lb ed="#S" n="131"/>ostensum 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1124">
+          <pc type="pilcrow">¶</pc> Contra arguit iste tunc sequeretur quod beatus haberet visionem 
+          <lb ed="#S" n="132"/>beatificam aliquando magis perfectam aliquando minus perfectam consequens falsum quoniam
+          <pb ed="#S" n="167-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>secundum hoc sequeretur quod aliquando esset magis beatus aliquando minus beatus quia perfectiori cognitioni 
+          <lb ed="#S" n="2"/>corresponderet perfectioni dilectio in patrai si sicut creaturae sicut ego suppo<lb ed="#S" break="no" n="3"/>no 
+          consequentia patet quoniam per 2am visionem non minus perfecte videret verbum 
+          <lb ed="#S" n="4"/>quam per primam cum per utramque videat verbum aeque clare <add place="margin-center">tunc</add> sic per 2am 
+          <lb ed="#S" n="5"/>visionem non minus clare videt verbum quam per primam sed aeque omnino 
+          <lb ed="#S" n="6"/>igitur 2a non est perfectior prima consequens falsum quia 2a est perfectior prima ut probabitur 
+          <lb ed="#S" n="7"/>igitur per illam perfectius videt quam per primam et assumptum scilicet quod 2a sic perfectior 
+          <lb ed="#S" n="8"/>prima patet quia per 2am non minus perfecte videt verbum quam per primam 
+          <lb ed="#S" n="9"/>quia omnia visa per primam non minus perfecte videt per 2am et plura vi<lb ed="#S" break="no" n="10"/>det 
+          per 2am igitur 2a est perfectior prima
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1161">
+          <pc type="pilcrow">¶</pc> Et istam ultimam consequentiam 
+          <lb ed="#S" n="11"/>probat ex responsione mea ad argumentum suum quod si per cognitionem ali<lb ed="#S" break="no" n="12"/>quam 
+          possent videri infinita distincte quodlibet ista cognitio esset infinite per<lb ed="#S" break="no" n="13"/>fectionis 
+          sed manifestum est quod talis infinitas in cognitione vel visione 
+          <lb ed="#S" n="14"/>numquam argueretur nisi ceteris paribus multiplicatio rerum distincte vi<lb ed="#S" break="no" n="15"/>sarum 
+          argueret maiorem perfectionem in visione per quam videntur sequitur igitur 
+          <lb ed="#S" n="16"/>isto dato quod beatus aliquando haberet visionem beatificam magis perfectam 
+          <lb ed="#S" n="17"/>et aliquando minus perfectam et sic aliquando esset magis beatus aliquando minus et illud 
+          <lb ed="#S" n="18"/>argumentum currit contra utrumque modum dicendi quia posito quod per 2am visionem 
+          <lb ed="#S" n="19"/>videantur omnia quae per primam sive prima fuerit corruptibilis sive incorrup<lb ed="#S" break="no" n="20"/>tibilis 
+          et cum haec plura tunc 2a visio erit perfectior prima et ista 
+          <lb ed="#S" n="21"/>habens istam erit perfectius beatus quam prius
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1191">
+          <pc type="pilcrow">¶</pc> Item alter istorum modorum 
+          <lb ed="#S" n="22"/>ponit simul <unclear>haberi<!-- corrected? --></unclear> plures visiones beatificax Item sequitur quod alias fit 
+          <lb ed="#S" n="23"/>beatus aliquo actu beatitudinis essentialis quo non exeunte non minus foret 
+          <lb ed="#S" n="24"/>beatus illam prolixissimam deductionem solvi primo die in uno verbo 
+          <lb ed="#S" n="25"/>dicendo sive ponatur unus illorum modorum sive alius contra quos nunc 
+          <lb ed="#S" n="26"/>arguit quoniam uterque possibilis est ut tunc dixi habet dici consequenter quod 
+          <lb ed="#S" n="27"/>numquam cessat prior actus qui est verbi visio sive solius sive 
+          <lb ed="#S" n="28"/>verbi simul et alterius quin loco illius cessantis succedat sine me<lb ed="#S" break="no" n="29"/>dio 
+          alius aequivalenter cum praecisione repraesentans verbum sicut prior et 
+          <lb ed="#S" n="30"/>ideo non sequitur quod quandoque clarius quandoque minus clare videat verbum 
+          <lb ed="#S" n="31"/>idem beatus quod autem supponit iste socius quod si ponatur simul duae 
+          <lb ed="#S" n="32"/>visiones beatificae una praecise respectu verbi et alia respectu verbi et alterius 
+          <lb ed="#S" n="33"/>quod utraque illarum sic aeque clara respectu verbi illa consequentia non valet apud 
+          <lb ed="#S" n="34"/>me ut bene novit et ideo debuisset probari de succedentibus 
+          <lb ed="#S" n="35"/>tamen illud concedo unde etiam concedo sibi quod illa visio qua aequaliter videtur ver<lb ed="#S" break="no" n="36"/>bum 
+          et aliud a verbo est actus perfectior illo actu quo praecise aequae 
+          <lb ed="#S" n="37"/>perfecte videtur solum verbum sed non sequitur actus secundus est perfectior primo in 
+          <lb ed="#S" n="38"/>entitate ergo est perfectius visio verbi et per consequens non sequitur ultra quod per 
+          <lb ed="#S" n="39"/>2m quod est duorum obiectorum fit beatior quam per primum qui est respectu 
+          <lb ed="#S" n="40"/>solius dei quia non est beatitudo nisi praecise ex hoc quod est respectu dei 
+          <lb ed="#S" n="41"/>et ipse secundus licet sit perfectior quatinus est respectu dei et aliorum quam si 
+          <lb ed="#S" n="42"/>praecise aequaliter esset respectu solius dei non tamen est magis beatificus iuxta 
+          <lb ed="#S" n="43"/>illud augeri beatus est qui te et alia videt sed propter te solum beatus non 
+          <lb ed="#S" n="44"/>propter illa beatior 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1251">
+          <pc type="pilcrow">¶</pc> Quod ulterius infert iste quod secundum alterum istorum modo<lb ed="#S" break="no" n="45"/>rum 
+          essent simul duae visiones beatificae non oportuit illud intu<lb ed="#S" break="no" n="46"/>lisse 
+          ex quo dabatur gratis tamquam via possibilis qualiter autem 
+          <lb ed="#S" n="47"/>sic de facto deus novit non nos
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1264">
+          <pc type="pilcrow">¶</pc> ad ultimam formam dico 
+          <lb ed="#S" n="48"/>quod non est inconveniens quod aliquis sit beatus actu aliquo isto beatitudinis 
+          <lb ed="#S" n="49"/>quo circumscripto nihilominus esset aequaliter beatus si tamen ad circumscriptionem unius 
+          <lb ed="#S" n="50"/>sine medio ponatur alius beatifice aequivalens sed quod actus aliquis 
+          <lb ed="#S" n="51"/>beatificus tolleretur et loco illius non succederet alius aequivalens 
+          <lb ed="#S" n="52"/>et tamen quod talis ad hoc remaneret aequaliter beatus sicut prius esset 
+          <lb ed="#S" n="53"/>inconveniens sed haec non sequitur ex aliquo sibi dato
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1283">
+          <pc type="pilcrow">¶</pc> 2o principaliter arguit 
+          <lb ed="#S" n="54"/>contra dictam responsionem si essent tales duae visiones aut igitur essent 
+          <lb ed="#S" n="55"/>eiusdem speciei aut non non possum dicere quod sunt eiusdem speciei 
+          <lb ed="#S" n="56"/>quia tales duae visiones aequae intense per me ut dicit non com<lb ed="#S" break="no" n="57"/>patiuntur 
+          se in eodem si sint alterius speciei hoc non erit nisi 
+          <lb ed="#S" n="58"/>quia res visa per unam est alterius speciei a re visa per aliam 
+          <lb ed="#S" n="59"/>sed hoc non arguit eam esse alterius speciei quia nihil agit res ad 
+          <lb ed="#S" n="60"/>causationem talis visionis immo ex quo obiectum causans illa praecise 
+          <lb ed="#S" n="61"/>est idem quod prius et aequae intense agit sicud prius absque alia muta<lb ed="#S" break="no" n="62"/>tione 
+          sui igitur ista visio est eiusdem speciei cum priore vi<lb ed="#S" break="no" n="63"/>sione 
+          assumptum et consequentia patent ex hoc quoniam si per possibile vel 
+          <lb ed="#S" n="64"/>inpossibile ymago cesaris absque sui mutatione posset esse ymago 
+          <lb ed="#S" n="65"/>alterius rei specifice distincte a cesare et aequaliter ageret ad cognitionem 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>illius sicut ad cognitionem cesaris cognitio una non esset specifice distincta ab alia 
+          <lb ed="#S" n="67"/><unclear>Nec</unclear> valet dicere quod est alterius speciei propter hoc quod est una visio rei al<lb ed="#S" break="no" n="68"/>terius 
+          speciei quam visio alia et ideo specifice distinguuntur quia secundum hoc sequeretur quod 
+          <lb ed="#S" n="69"/>deus secundum hoc quod est visio sui ipsius esset alterius speciei a seipso secundum quod 
+          <lb ed="#S" n="70"/>est visio asini et etiam conceptus animalis esset alterius speciei a seipso pro<lb ed="#S" break="no" n="71"/>ut 
+          est conceptus hominis et asini consequens est manifeste falsum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1331">
+          <pc type="pilcrow">¶</pc> ad illud concedo quod 
+          <lb ed="#S" n="72"/>si essent eiusdem speciei et una repleret subiectum non compateretur naturaliter ibi 
+          <lb ed="#S" n="73"/>simul aliam suae speciei ibi recipi sed ad rem et ad punctum eundo in quo 
+          <lb ed="#S" n="74"/>volo inpedire argumentum dico quod sunt alterius speciei et alterius ex quo u<lb ed="#S" break="no" n="75"/>na 
+          habet pro obiecto rem alterius speciei quam habeat alia sive res ista alia 
+          <lb ed="#S" n="76"/>alterius speciei agat talem visionem sicut aliud quodcumque cuius ratio est 
+          <lb ed="#S" n="77"/>quia si habet obiectum alterius speciei tunc alia est similitudo alterius rei secundum 
+          <lb ed="#S" n="78"/>speciem et alia quia similes <del rend="strikethrough">proprie</del> sunt distinctae specie proprie distinctorum 
+          <lb ed="#S" n="79"/>specie sine exceptione alia activitas aut est non causa ut causa ad propositum 
+          <lb ed="#S" n="80"/>et cum probatur quod non sunt propter hoc alterius et alterius speciei per exemplum de ymagi<lb ed="#S" break="no" n="81"/>ne 
+          cesaris dico quod si una cognitio haberet distincte pro obiecto ymaginem 
+          <lb ed="#S" n="82"/>cesaris vel cesarem et alia eandem ymaginem et aliam rem cuius esset 
+          <lb ed="#S" n="83"/>aequivoca non propria ymago ista cognitio esset alterius speciei a cognitione priori 
+          <lb ed="#S" n="84"/>propter causam praetactam et cum probatur ulterius quod tunc deus esset alterius speciei secundum 
+          <lb ed="#S" n="85"/>quod est cognitio sui et secundum quod est cognitio alterius et similiter de conceptu animalis etc dicnedum quod 
+          <lb ed="#S" n="86"/>consequentia nulla est quia ibi sit comparatio distinctorum actuum in effectu quorum 
+          <lb ed="#S" n="87"/>alterum habet aliud secundum speciem pro obiecto quam reliquus hic autem fit comparatio 
+          <lb ed="#S" n="88"/>eiusdem actus numero ad propria eius obiecta specifice distincta et constat 
+          <lb ed="#S" n="89"/>quod idem a se ipso nec specie differunt nec numero nec quovis alio modo 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1379">
+          <lb ed="#S" n="90"/><pc type="pilcrow">¶</pc> 3o principaliter arguit contra unum verbum quod dixeram in solutione etiam sui argumenti primi 
+          <lb ed="#S" n="91"/>quod illa qualitas quae semel est per se loquendo et non solum per accidens cognitio 
+          <lb ed="#S" n="92"/>alicuius obiecti semper dum ipsa informabit illud subiectum erit cognitio eiusdem 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1390">
+          <lb ed="#S" n="93"/><pc type="pilcrow">¶</pc> Contra tunc sequeretur quod ego possem destruere visionem beatificam petri ipso 
+          <lb ed="#S" n="94"/>inuito consequens falsum ut videtur consequentia probatur quia ponatur quod petrus videat 
+          <lb ed="#S" n="95"/>in verbo asinum et hominem et volitionem quam habeo quo posito sequitur cum 
+          <lb ed="#S" n="96"/>libere possim dimittere volitionem meam quod libere possum facere quod 
+          <lb ed="#S" n="97"/>visio petri non erit
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1405">
+          <pc type="pilcrow">¶</pc> ad istud neganda est consequentia quia in verbo vi<lb ed="#S" break="no" n="98"/>deri 
+          potest quod non est sicut illud quod est si placuerit deo respectu non entis 
+          <lb ed="#S" n="99"/>creare visionem quae etiam sic visio verbi
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1416">
+          <pc type="pilcrow">¶</pc> Sed contra arguit sic si post corruptionem 
+          <lb ed="#S" n="100"/>volitionis meae maneret visio illa in anima petri sequeretur quod 
+          <lb ed="#S" n="101"/>visio illa repraesentaret petro volitionem meam esse quando non esset et sic 
+          <lb ed="#S" n="102"/>esset error in tali cognitione consequens falsum et contra <ref xml:id="aw98wa-xg3673-Rd1e1427"><name xml:id="aw98wa-xg3673-Nd1e1428">augustinus</name> 15 de trinitate capitulo 41</ref> <quote xml:id="aw98wa-xg3673-Qd1e1432" source="http://scta.info/resource/adt-l15-d1e1874@64-75">tunc 
+          <lb ed="#S" n="103"/>quidem inquit verbum nostrum non erit falsum quia neque mentiemur neque fallemur</quote>
+          <lb ed="#S" n="104"/>et consequentia patet ex hoc quia pono quod cognitio ista data quae semel repraesen<lb ed="#S" break="no" n="105"/>tat 
+          per se obiecta aliqua semper repraesentant illa dum manebit et in<lb ed="#S" break="no" n="106"/>formabit 
+          potentiam istam repraesentabit inquam per modum cognitionis
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1444">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="107"/>istud respondeo quod consequentia non valet visio beatifica data repraesentat 
+          <lb ed="#S" n="108"/>volitionem meam quae non est igitur tunc repraesentat eam esse quia visio talis po<lb ed="#S" break="no" n="109"/>terit 
+          repraesentare volitionem meam incomplexe solummodo et tunc patet 
+          <lb ed="#S" n="110"/>quod consequentia nulla est nec eius probatio procedit quia supponit hanc 
+          <lb ed="#S" n="111"/>consequentiam bonam esse repraesentat eam igitur repraesentat eam esse
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1461">
+          <pc type="pilcrow">¶</pc> 2o etiam 
+          <lb ed="#S" n="112"/>dico quod si idem actus numero possit esse simplex verbi visio et 
+          <lb ed="#S" n="113"/>simul etiam cum hoc iudicium compositum de esse vel non esse creaturae consequens illatum 
+          <lb ed="#S" n="114"/>ab isto non esset inpossibile de tali actu quatenus est iudicium licet non sit 
+          <lb ed="#S" n="115"/>possibile talem actum esse erroneum quatenus est verbi visio sicut alias 
+          <lb ed="#S" n="116"/>in materia de cognitione respectu futurorum contingentium seriosius pertractabo 
+          <lb ed="#S" n="117"/>augustinus autem quem ego allegavi in contrarium loquitur quidam de facto
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1480">
+          <pc type="pilcrow">¶</pc> 4o 
+          <lb ed="#S" n="118"/>principaliter arguit contra responsionem meam ad primum argumentum ab eo quod visio 
+          <lb ed="#S" n="119"/>beatifica si unquam cessatura esset non esset beatifica et probatur per 
+          <lb ed="#S" n="120"/>augustinum respondendi quod augustinus loquitur de beato non de beatitudine
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1492">
+          <pc type="pilcrow">¶</pc> Contra istud 
+          reducit auctoritatem augustini 13 de trinitate capitulo 2o de parvis veritas est inquit 
+          <lb ed="#S" n="121"/>quod augustinus probat in <unclear>capitulo</unclear> illo quod visio beata non potest esse absque in 
+          <lb ed="#S" n="122"/>mortalitate et probat hoc augustinus et iste <unclear>ab?viat</unclear> argumentum suum et per eandem 
+          <lb ed="#S" n="123"/>formam probat contra me quod aggregatum ex hiis quae sunt beatitudo petri 
+          <lb ed="#S" n="124"/>potest cessare se deserere petrum quod idem esset ad mentem augustini 
+          <lb ed="#S" n="125"/>loquendo <del rend="expunctuation">d</del> contra conclusionem illam sed ex eam non sequitur quod petrus unquam 
+          <lb ed="#S" n="126"/>desinit esse beatus nec desinere potest secundum legem dei ordinatam 
+          <lb ed="#S" n="127"/>esse beatus et expono augustinus quod non vult plus
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1520">
+          <pc type="pilcrow">¶</pc> contra ipse exprimit 
+          <lb ed="#S" n="128"/>in toto illo capitulo vitam beatam et vita beata est ipsa beatitudo 
+          <lb ed="#S" n="129"/>Responsio vita beata est ista vita quae informatur beatitudine et non 
+          <lb ed="#S" n="130"/>ipsa eius formalis beatitudo quia illa solum ut praedixi est
+          <pb ed="#S" n="168-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>accidens animae beatae et nullum accidens est vita neque beata concedo igitur quod vita 
+          <lb ed="#S" n="2"/>beata non potest desinere esse vita beata licet possit habere vicissitudines 
+          <lb ed="#S" n="3"/>aequivalentium beatitudinum formaliter inhaerentium sibi
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1544">
+          <pc type="pilcrow">¶</pc> 5o principaliter inprobat 
+          <lb ed="#S" n="4"/>responsionem meam ad illud fortassis non erunt ibi volubiles cogi<lb ed="#S" break="no" n="5"/>tationes 
+          potest dici ut dixi uno modo quod loquitur dubitative alio 
+          <lb ed="#S" n="6"/>modo quod non sunt ibi cogitationes <unclear>volubiles</unclear> ab una re quae 
+          <lb ed="#S" n="7"/>nos beatificat eundo ad aliam et dimittendo primam et post rede<lb ed="#S" break="no" n="8"/>undo 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1563">
+          <pc type="pilcrow">¶</pc> Sed istud inquit non videtur esse ad mentem augustini quia si isto 2o 
+          <lb ed="#S" n="9"/>modo intellexisset numquam dixisset hoc hesitando sicut sibi im<lb ed="#S" break="no" n="10"/>posui 
+          neque enim aliquis alius fidelis unquam revocavit in dubium 
+          <lb ed="#S" n="11"/>quin beatus semper manebit in contemplatione dei et numquam ab ea re<lb ed="#S" break="no" n="12"/>cedet 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1577">
+          <pc type="pilcrow">¶</pc> Responsio quod minus bene cepti me iste socius in hoc puncto 
+          <lb ed="#S" n="13"/>quia posui duas responsiones et in una quod augustinus secundam illam loque<lb ed="#S" break="no" n="14"/>batur 
+          dubitative 2am posui quod semper videt omnem rem beatificam essentia<lb ed="#S" break="no" n="15"/>liter 
+          modo iste copulat primam 2ae quod unita fuisset responsio et duae 
+          <lb ed="#S" n="16"/>sunt quarum una si non <del rend="strikethrough">oco</del> concordet alteri non curo et quod sit 
+          <lb ed="#S" n="17"/>possit intelligi nego volubilitatis videtur a simili per magistrum 
+          <lb ed="#S" n="18"/>qui libro 2o distinctione 2a in fine recitat illud gregorius libro dyal 
+          <lb ed="#S" n="19"/>quid est quod ibi nesci aut ubi scientem omnia sciunt videtur 
+          <lb ed="#S" n="20"/>inquit magister gregorius dicere quod omnia sciant angeli et nihil 
+          <lb ed="#S" n="21"/>sic quod nesciant sed accipiendum est inquit hoc de hiis 
+          <lb ed="#S" n="22"/>quorum cognitio facit beatum <unclear>cog?rem</unclear> ut sunt illa quae ad 
+          <lb ed="#S" n="23"/>misterium trinitatis vel unitatis pertinent alia prosequitur circa 
+          <lb ed="#S" n="24"/>illud punctum aliter exponendo augustinus et probando quod alibi dicat diffi<lb ed="#S" break="no" n="25"/>nitive 
+          idem quod hic dubitative nam 71 capitulo libri eiusdem 15 asserit 
+          <lb ed="#S" n="26"/>illud dicens hoc inquit patuit optimo et sapientissime creatori ut spiritus 
+          <lb ed="#S" n="27"/>hominis deo pie subditus habeat feliciter subditum corpus et sine 
+          <lb ed="#S" n="28"/>fine permaneat ipsa felicitas etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1623">
+          <pc type="pilcrow">¶</pc> Respondeo quod illud satis bene 
+          <lb ed="#S" n="29"/>stat etiam quod ad vim vocis augustini loquitur et quod augustinus dubitet 
+          <lb ed="#S" n="30"/>an erit successio beatissimum aequivalentium scilicet ex parte actuum non 
+          <lb ed="#S" n="31"/>obiectorum beatissimum seu non alternatio seu <unclear>resurrectio</unclear> beatificantium quia hoc 
+          <lb ed="#S" n="32"/>non dicit ad propositum nisi quod sine fine permanebit ipsa feli<lb ed="#S" break="no" n="33"/>citas 
+          stat confuse tantum quia sequitur mediate istud signum destribu<lb ed="#S" break="no" n="34"/>tum 
+          sine fine quod aequivalet ei quod dico semper et statis starent 
+          <lb ed="#S" n="35"/>simul quod nulla felicitas semper permaneret set semper permaneret ipsa 
+          <lb ed="#S" n="36"/>felicitas
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1648">
+          <pc type="pilcrow">¶</pc> 3o principaliter quo ad responsionem meam primo suo argumento respondet 
+          <lb ed="#S" n="37"/>iste socius instantiae cuidam contra eum per me factae voluit enim habere 
+          <lb ed="#S" n="38"/>ex illa augustini auctoritate quae dicit quod fortassis non erunt ibi vo<lb ed="#S" break="no" n="39"/>lubiles 
+          cognitiones nostrae quod deus ipse sic beatis cognitio quia in aliis 
+          <lb ed="#S" n="40"/>visionibus beatificis si ibi darentur esset successio dixi contra eum ex 
+          <lb ed="#S" n="41"/>auctoritate illa sumpta ad mentem augustini magis sequitur contrarium quia 
+          <lb ed="#S" n="42"/>statim addit augustinus cum hoc fuerit si cum hoc fuerit formata erit 
+          <lb ed="#S" n="43"/><unclear>c?a</unclear> quae formabilis fuit cum igitur deus non possit esse forma 
+          <lb ed="#S" n="44"/>creaturae sequitur quod beatitudo illa quae erit tali creaturae visio vel dilectio 
+          <lb ed="#S" n="45"/>et qua tunc formabitur erit creatura
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1674">
+          <pc type="pilcrow">¶</pc> Respondet probabiliter quod augustinus loquitur ibi 
+          <lb ed="#S" n="46"/>de forma creaturae non per inhaerentiam informante sed cui tamquam fini 
+          <lb ed="#S" n="47"/>suo et formae anima coniungetur et quod isto modo deus ipse possit informa<lb ed="#S" break="no" n="48"/>re 
+          creaturam intellectualem probat iste socius per statim ibidem sequen<lb ed="#S" break="no" n="49"/>tia 
+          nam dicto ibo quod formata erit creatura quae formabilis fuit 
+          <lb ed="#S" n="50"/>addit quod nichil iam desit eius formae ad quam pervenire de<lb ed="#S" break="no" n="51"/>beret 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1694">
+          <pc type="pilcrow">¶</pc> Praeterea quod forma de qua loquitur ibi augustinus supra sic ipse 
+          <lb ed="#S" n="52"/>deus patet inquit iste socius manifeste subdit enim consequenter sed tamen 
+          <lb ed="#S" n="53"/>coaequanda non erit <unclear>simpliciter</unclear> creatura per illam formam illi simplici 
+          <lb ed="#S" n="54"/>ubi non <unclear>formidabile<!--corrected ? --></unclear> aliquid formatum vel reformatum est sed 
+          <lb ed="#S" n="55"/>forma neque informis in formata ipsa ibi aeterna est immuta<lb ed="#S" break="no" n="56"/>bilisque 
+          substantia Ecce inquit plane quod vocat illam formam 
+          <lb ed="#S" n="57"/>per quam creatura formaliter ipsum deum quia est aeterna immutabilisque substantia 
+          <lb ed="#S" n="58"/>quod soli deo competit facit igitur pro eo et non contra eum dicta for<lb ed="#S" break="no" n="59"/>matio
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1723">
+          <pc type="pilcrow">¶</pc> Istud licet laudabiliter evadat argumentum tamen non vere 
+          <lb ed="#S" n="60"/>nam cum primo addit ut nichil iam desit eius formae 
+          <lb ed="#S" n="61"/>ad quam pervenire deberet supponit quod usque tunc semper de<lb ed="#S" break="no" n="62"/>sivit 
+          aliquid formae suae ad quam deberet pervenire sed constat 
+          <lb ed="#S" n="63"/>quod formae quae deus est cui debuit sicut fini coniungi 
+          <lb ed="#S" n="64"/>nichil prius desinit nunc plus quam tunc igitur loquitur de forma 
+          <lb ed="#S" n="65"/>creaturae prius inperfecta tunc perficienda et complenda iuxta 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>illud apostoli ex parte enim cognoscimus et ex parte prophetamus et alibi nunc 
+          <lb ed="#S" n="67"/>cognitio ex parte tunc cognoscam sint et congretus sive isto eetiam modo 
+          <lb ed="#S" n="68"/>loquitur alibi augustinus in epistola quodam ad Ierominum et ponitur 3 sententiarum 
+          <lb ed="#S" n="69"/>distinctione 36 capitulo 2 virtus inquit est caritas qua id quod diligen<lb ed="#S" break="no" n="70"/>dum 
+          est diliguntur haec et in aliis maior in aliis minor in aliis 
+          <lb ed="#S" n="71"/>nulla est plenissima vero quae non possit augeri quam diu 
+          <lb ed="#S" n="72"/>hoc vivit in nomine est
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1759">
+          <pc type="pilcrow">¶</pc> 2o etiam patet quod 2a particula auctoritatis est 
+          <lb ed="#S" n="73"/>contra eum quia licet ut dicit ille socius et verum est augustinus ibi loquatur 
+          <lb ed="#S" n="74"/>de forma quae deus est de quod ipsa est forma nec informis nec forma<lb ed="#S" break="no" n="75"/>ta 
+          sed aeterna immutabilisque substantia nihilominus tamen de forma alia 
+          <lb ed="#S" n="76"/>loquitur cum in praecedenti parte auctoritatis dicit quod tunc erit formata creatura 
+          <lb ed="#S" n="77"/>quae formabilis fuit ut nichiliam desit eius formae quod 
+          <lb ed="#S" n="78"/>patet ex hoc quod creaturam tunc formatam seu potius compositam 
+          <lb ed="#S" n="79"/>ex formabili et forma sua cui formae nihil deerit tunc 
+          <lb ed="#S" n="80"/>ad quam deberet pervenire comparat ad hoc simplici divinae quae non 
+          <lb ed="#S" n="81"/>est formabilis nec reformabilis sed forma neque informis neque formata di<lb ed="#S" break="no" n="82"/>cens 
+          quod non erit propter perfectionem formae ad quam tunc perveniet 
+          <lb ed="#S" n="83"/>formae quae deus est coaequanda numquid propter hoc vult dicere 
+          <lb ed="#S" n="84"/>quod forma quae formabitur tunc creatura huius beata erit deus unde locus <del rend="strikethrough">u</del> 
+          ymmo vult dicere quod non erit deus quia ad hoc non erit coae<lb ed="#S" break="no" n="85"/>quanda 
+          formae quae deus est sed ab ea deficiens cum tota sua 
+          <lb ed="#S" n="86"/>forma qua tunc formaliter et ita patet quod ad argumentum iste socius 
+          <lb ed="#S" n="87"/>non respondit sed solum modo in hoc puncto verba augustinus contra 
+          <lb ed="#S" n="88"/>eius mentem in congrue te aptavit quod ex longo processu 
+          <lb ed="#S" n="89"/>praecedente quo declarat quid verbum nostrum de quo ibi loquitur 
+          <lb ed="#S" n="90"/>est satis notum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1807">
+          <pc type="pilcrow">¶</pc>  7o principaliter nititur evadere formam quam feci 
+          <lb ed="#S" n="91"/>contra eum ex praeadducta auctoritate pro parte sua quae dicit quod fortassis 
+          <lb ed="#S" n="92"/>non erunt ibi volubiles cognitiones nostrae ab aliis in alia 
+          <lb ed="#S" n="93"/>euntes atque redeuntes quia ex quo per istum socium verbum ipsum 
+          <lb ed="#S" n="94"/>est creaturae tali cognitio verbi et creaturae cuiuscumque cognitae in verbo nec 
+          <lb ed="#S" n="95"/>est creatura alia quin possit a beato cognosci in verbo aut igitur omnium 
+          <lb ed="#S" n="96"/>possibilium simul distincte cuiuslibet et tunc omnia per verbum ipsum cognos<lb ed="#S" break="no" n="97"/>ceret 
+          infinite quod ipse negat aut nunc unius vel plurium una 
+          <lb ed="#S" n="98"/>vite et aliarum alias et tunc erit ibi volubilis cognitio ab aliis 
+          <lb ed="#S" n="99"/>in alia eundo et redeundo cuius oppositum dicit auctoritas quam 
+          <lb ed="#S" n="100"/>allegat
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1834">
+          <pc type="pilcrow">¶</pc> ad istud inquit concedo quod non est alia creatura quin 
+          <lb ed="#S" n="101"/>possit videri a beato in verbo et distincte cognosci et quod isto modo 
+          <lb ed="#S" n="102"/>est ibi itio de hoc in illud ad istum intellectum quod per nullam cognitionem 
+          <lb ed="#S" n="103"/>seu visionem quae deus est a beato aliquando erit nec talem va<lb ed="#S" break="no" n="104"/>riationem 
+          intendit ibi negare augustinus sed variationem visionum 
+          <lb ed="#S" n="105"/>beatificarum in verbo sed illud plane non est verum quia ista auctoritas di<lb ed="#S" break="no" n="106"/>rectissime 
+          loquitur ut patet ex processu istius passus de alienate 
+          <lb ed="#S" n="107"/>obiectorum non visionum non erunt ibi fortassis volubiles nostrae 
+          <lb ed="#S" n="108"/>cognitiones ab aliis in alia euntes atque redeuntes sed <unclear>omnem</unclear> 
+          <lb ed="#S" n="109"/>scientiam nostram uno simul conspectu videbimus per oppositum ad illud quod 
+          <lb ed="#S" n="110"/>praedixerat parum supra ante passum illum capitulo 39 de ista <unclear>iac<lb ed="#S" break="no" n="111"/>ta?li</unclear>
+          volubilique cognitione inquisitiva veritatis ante veritatis 
+          <lb ed="#S" n="112"/>inventionem quid est inquit hoc formabile nondumque formatum nisi 
+          <lb ed="#S" n="113"/>quidam mentis nostrae quod hac atque hac volubili quam diu mo<lb ed="#S" break="no" n="114"/>tione 
+          iactamus cum a nobis nunc hoc nunc illud sicut inventum fuerit 
+          <lb ed="#S" n="115"/>vel occurrit cogitatur et tunc verum verbum nostrum quando illud quod nos 
+          <lb ed="#S" n="116"/>diximus volubili motione iactare ad id quod scimus pro<lb ed="#S" break="no" n="117"/>venit 
+          atque inde formatur eius omnimodam similitudinem capiens ut 
+          <lb ed="#S" n="118"/>quo modo res quem scitur sic etiam cogitetur id est sine voce sine cogi<lb ed="#S" break="no" n="119"/>tatione 
+          vocis quae profectio alicuius linguae est si sic in corde dicatur 
+          <lb ed="#S" n="120"/>loquitur de illo qui novit aliquid in habitu sed non occurrit sibi promp<lb ed="#S" break="no" n="121"/>te 
+          in actu donec voluat et revoluat cogitando usque quo 
+          <lb ed="#S" n="122"/>occurrat illud quod vellet ita quod sit quasi semi <unclear>oblicus</unclear> et ideo 
+          <lb ed="#S" n="123"/>iactat se hinc inde cogitando nunc de uno nunc de alio 
+          <lb ed="#S" n="124"/>donec inveniat illud quod quaerit beatus igitur augustinus loquens de quibus 
+          <lb ed="#S" n="125"/>cogitando itur ad alia atque reditur tamen negat nos in 
+          <lb ed="#S" n="126"/>patria habituros volubiles fortassis cogitationes de aliis 
+          <lb ed="#S" n="127"/>in alia euntes atque redeuntes per oppositum ad tales dis<pb ed="#S" n="168-v"/><cb ed="#S" n="b"/><lb ed="#S" break="no" n="1"/>cursus 
+          viae vocat obiecta contra istum socium hoc negantem nec de hoc 
+          <lb ed="#S" n="2"/>erit dubium volenti transcurrere passum illum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1912">
+          <pc type="pilcrow">¶</pc> praeterea cum dicit ibi augustinus 
+          <lb ed="#S" n="3"/>quod <quote xml:id="aw98wa-xg3673-Qd1e1919" source="http://scta.info/resource/adt-l15-d1e1874@76-97">fortassis non erunt ibi volubiles cogitationes nostrae sed omnem scientiam 
+          <lb ed="#S" n="4"/>nostram uno simul <unclear>ibi<!-- possibly corrected from "in" --></unclear> conspectu videbimus</quote> cum ibi ut patet ex processu suo 
+          <lb ed="#S" n="5"/><unclear>vellet</unclear> facere distributionem pro ipsis scitis et cognitis aut igitur loquitur praecise de 
+          <lb ed="#S" n="6"/>cognitis quae sunt obiectum vel obiecta essentialis beatitudinis et hoc non per 
+          <lb ed="#S" n="7"/>argumentum istius socii contra me quia tunc non haberet dicere fortassis aut dubitare 
+          <lb ed="#S" n="8"/>aut loquitur universaliter faciendo distributionem pro omnibus habitualiter cognitis 
+          <lb ed="#S" n="9"/>et hoc similiter est contra illum socium quia dat mihi quod non omnia talia simul actu et distincte 
+          <lb ed="#S" n="10"/>apprehendit in verbo sed nunc unum nunc aliud igitur non facit ista auctoritas pro 
+          <lb ed="#S" n="11"/>isto socio qui eam adduxit pro me aut credo quod augustinus ibi <unclear>promittat</unclear> 
+          <lb ed="#S" n="12"/>unum verbum licet ipse non asserat scilicet quod sciunt actu omnia habitu informante 
+          <lb ed="#S" n="13"/>non enim video ut alias tetigi quod plus repungnant ex natura actuum vel 
+          <lb ed="#S" n="14"/>potentiae omnis actus stare simul in potentia quam habitus habiti respectu eorumdem 
+          <lb ed="#S" n="15"/>quorum sunt actus
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1957">
+          <pc type="pilcrow">¶</pc> 2o principaliter in hoc 2o articulo principali tractanda est mea 
+          <lb ed="#S" n="16"/>responsio ad 2m argumentum eius principale positum in principio quod et inpungna<lb ed="#S" break="no" n="17"/>tiones 
+          huius socii contra eam respondendi igitur illi argumento quod duae cogitationes 
+          <lb ed="#S" n="18"/>intensissime receptibiles divisim sine miraculo in intellectu bono sive respectu 
+          <lb ed="#S" n="19"/>eiusdem obiecti sive diversorum et praecise diversorum speciei compatiuntur se 
+          <lb ed="#S" n="20"/>satis in eodem subiecto dummodo distinguantur speciei nec sint contrariae ad<lb ed="#S" break="no" n="21"/>invicem 
+          quia ut dixi tunc non video hic esse inpossibilius de actualibus 
+          <lb ed="#S" n="22"/>cognitionibus ex natura ipsarum et potentiae receptivae quam de habitibus alterius speciei 
+          <lb ed="#S" n="23"/>nunc est ita quod non tot finitis habitibus diversis speciei vel non tot specieibus 
+          <lb ed="#S" n="24"/>secundum alios potest anima simul habituari quin adhuc pluribus habituari 
+          <lb ed="#S" n="25"/>possit igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e1984">
+          <pc type="pilcrow">¶</pc> Sed contra hoc arguit iste primo quia ex hoc sequitur ut videtur quod 
+          <lb ed="#S" n="26"/>talis intellectus qui non tot cogitationes finitas quin plures possit sic re<lb ed="#S" break="no" n="27"/>cipere 
+          esset infinitae virtutis in agendo consequens falsum quia solus deus 
+          <lb ed="#S" n="28"/>est sic virtutis infinitae et consequentia patet quia isto dato sequitur quod intellectus non 
+          <lb ed="#S" n="29"/>possit terminari per aliquid finitum ex quo potest ultra quaecumque numerum 
+          <lb ed="#S" n="30"/>effectuum quorum quilibet sit actualiter distinctus ab alio et hoc arguit 
+          <lb ed="#S" n="31"/>sic quia si esset aliquis intellectus qui possit solum duas intellectiones 
+          <lb ed="#S" n="32"/>habere aeque intensas simul ille intellectus esset alicuius perfectionis in agendo et si 
+          <lb ed="#S" n="33"/>esset alius intellectus qui posset in 4 aequae intensas iste esset duplae perfectio<lb ed="#S" break="no" n="34"/>nis 
+          in agendo vel saltem excederet priorem in alia certa proportione 
+          <lb ed="#S" n="35"/>sic in sexquialtera et sic semper deinceps procedendo posset deus creare intellectum 
+          <lb ed="#S" n="36"/>alium et alium quorum quilibet posteriorum excederet proximum sibi priorem 
+          <lb ed="#S" n="37"/>in tali ordinatione ascendendo secundum istam proportionem in qua 2us excessit primum et sic sine 
+          <lb ed="#S" n="38"/>statu et quantumcumque sic produceret deus sine statu tales intellectus ad hoc anima 
+          <lb ed="#S" n="39"/>alicuius beati quae non patitur difficultatem in operando excederet in per<lb ed="#S" break="no" n="40"/>fectione 
+          in agendo inproportionaliter omnes tales intellectus finitos simul sump<lb ed="#S" break="no" n="41"/>tibiles 
+          et si essent mille milia et si sic sequitur quod anima cuiuscumque beati in 
+          <lb ed="#S" n="42"/>caelo sit infinite virtutis quia anima cuiuscumque beati potest habere tot operationes 
+          <lb ed="#S" n="43"/>specifice distinctas et hoc simul quot possunt omnes tales habere et adhuc 
+          <lb ed="#S" n="44"/>inproportionaliter plures igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2031">
+          <pc type="pilcrow">¶</pc> Si dicatur quod non sequitur quod sic infinitae virtutis propter 
+          <lb ed="#S" n="45"/>hoc quia licet non in tot effectus posset quin in plures tamen semper effectus quos 
+          <lb ed="#S" n="46"/>produxerit vel producti erunt sunt vel erunt finiti et ideo non potest ex 
+          <lb ed="#S" n="47"/>hoc argui infinitas in producente
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2043">
+          <pc type="pilcrow">¶</pc> Istud nihil est quia data ista responsione 
+          <lb ed="#S" n="48"/>sequitur quod numquam posset probari deum esse virtutis infinitae ex hoc quod non tot 
+          <lb ed="#S" n="49"/>effectus quin plures simul potest producere etiam supposita fide quod quantumcumque 
+          <lb ed="#S" n="50"/>sic produceret adhuc essent illi effectus finiti
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2055">
+          <pc type="pilcrow">¶</pc> Item si per possibile vel 
+          <lb ed="#S" n="51"/>inpossibile deus crearet infinita speciei distincta aut repungnaret animae in<lb ed="#S" break="no" n="52"/>telligere 
+          omnia ista simul vel non si sic sequeretur quod anima sit infinite capacitatis 
+          <lb ed="#S" n="53"/>quod ergo nego ut dicit si non igitur potest tantum intelligere finita non igitur 
+          <lb ed="#S" n="54"/>tot quin plura immo tot quod non plura etiam finita haec ex quaterno suo 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2069">
+          <lb ed="#S" n="55"/><pc type="pilcrow">¶</pc> Item reportatum est ulterius quod exemplum meum de lacte arguit iste socius 
+          <lb ed="#S" n="56"/>non esset ad propositum dixi enim quod sicut intenssima albedo in lacte non 
+          <lb ed="#S" n="57"/>facit repugnantiam simul haberi in lacte intensam dulcedinem et sic de 
+          <lb ed="#S" n="58"/>accidentibus aliis specifice distinctis
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2083">
+          <pc type="pilcrow">¶</pc> Sed illud non est simile ut videtur quia 
+          <lb ed="#S" n="59"/>lac non habet activitatem respectu illorum accidentium
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2091">
+          <pc type="pilcrow">¶</pc> Et per idem medium 
+          <lb ed="#S" n="60"/>probat quod exemplum meum de habitibus et speciebus non facit ad propositum quia 
+          <lb ed="#S" n="61"/>anima non habet activitatem respectu habituum postquam ponuntur in anima ista videtur 
+          <lb ed="#S" n="62"/>quod maior ratio sit ponere hic de habitibus quia homo potest experiri 
+          <lb ed="#S" n="63"/>se habere multos habitus intensos et non potest hoc experiri de acti<lb ed="#S" break="no" n="64"/>bus 
+          igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2108">
+          <pc type="pilcrow">¶</pc> Item dixi cuidam probationi per augustini contra ista factae quia secundum 
+          <lb ed="#S" n="65"/>augustinum experimur nos per unum actum intensum interim ab alio 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>inpederi sive eiusdem sive alterius dixeram quod hoc est ex poena peccati nobis 
+          <lb ed="#S" n="67"/>inflicta pro statu praesenti scilicet obligatio ignorantia in potentia et similes defectus 
+          <lb ed="#S" n="68"/>huius status miseri quae in futuro per dei gratiam auferentur
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2125">
+          <pc type="pilcrow">¶</pc> Contra inquit si sic 
+          <lb ed="#S" n="69"/>a poena peccati quod non possumus experiri nos habere simul actus in<lb ed="#S" break="no" n="70"/>telligendi 
+          multos intensos igitur si primum peccatum fuisset duplo 
+          <lb ed="#S" n="71"/>gravius duplo minus talia experirentur et sic per peccatum aliquod possibile primi hominis 
+          <lb ed="#S" n="72"/>potuisset fieri quod nichil omnino experiremur consequens falsum igitur antecedens
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2139">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="73"/>primum istorum dicendum quod non ex hoc quod intellectus vel anima beata non tot 
+          <lb ed="#S" n="74"/>actus finitos quin plures diversarum specierum potest simul recipere sequitur quod 
+          <lb ed="#S" n="75"/>ipsa sic infinitae virtutis in agendo tunc probat consequentiam per hoc quia 
+          <lb ed="#S" n="76"/>aliter intellectus ad nullum finitum numerum effectuum terminaretur quin ultra pos<lb ed="#S" break="no" n="77"/>set 
+          concedo si ponantur plura concurrere requisita puta obiecta 
+          <lb ed="#S" n="78"/><unclear>mo?tia</unclear> et <unclear>conprincipatia</unclear> notitias sui vel etiam habitus cognitivi suffi<lb ed="#S" break="no" n="79"/>cientes 
+          nec hoc est inconveniens aliquod ratione accidentis quia ita est de omni re<lb ed="#S" break="no" n="80"/>mundi 
+          nata immutare intellectum vel sensum ad visionem sui et sic de 
+          <lb ed="#S" n="81"/>accidentis aliis respectu effectuum in passis summe dispositis produ<lb ed="#S" break="no" n="82"/>cibilibus 
+          ab eiusdem nam approximata sufficienter albedine uni oculo 
+          <lb ed="#S" n="83"/>et medio disposito et illuminato ita mutabit illum ad tantum 
+          <lb ed="#S" n="84"/>gradum visionis sui sicut potest causare in illo visu et certe si 
+          <lb ed="#S" n="85"/>simul hoc facto poneret deus in eodem situ cum priori o<lb ed="#S" break="no" n="86"/>culo 
+          oculum alium ista perfectum gradum visionis causaret 
+          <lb ed="#S" n="87"/>albedo ista in 2o oculo sicut in primo fecerat et modo eodem 
+          <lb ed="#S" n="88"/>etiam foret si a principio essent tales duo oculi in eodem 
+          <lb ed="#S" n="89"/>situ adaequato et sicut dixi de duobus ita foret si 3s vel si mille 
+          <lb ed="#S" n="90"/>immo non tot finiti quin plures possunt sic simul in eodem adaequato situ 
+          <lb ed="#S" n="91"/>approximari quin aequaliter quaelibet illorum immutaret albedo ista sicut primum si per se 
+          <lb ed="#S" n="92"/>solus illi albedini consimiliter aptaretur et si quilibet talium diceretur specie ab 
+          <lb ed="#S" n="93"/>alio eorumdem intantum quod cum eodem obiecto tunc respectu eiusdem obiecti natus esset 
+          <lb ed="#S" n="94"/>causare in seipso visionem alterius speciei quam aliquis de aliis consimiliter approxima<lb ed="#S" break="no" n="95"/>tis 
+          ad hoc non terminaretur activitas dictae albedinis ad numerum aliquem fini<lb ed="#S" break="no" n="96"/>tum 
+          visionum quin ultra illum posset igitur activitas non plus arguit in proposito 
+          <lb ed="#S" n="97"/>infinitatem animae propter data quam activitas albedinis iam osten<lb ed="#S" break="no" n="98"/>sa 
+          arguit albedinem esse infinitae virtutis activae unde penes 
+          <lb ed="#S" n="99"/>multitudinem effectuum simul causabilium ab activo naturali cum principiis 
+          <lb ed="#S" n="100"/>aliis activis et passivis sufficientibus requisitis numquam 
+          <lb ed="#S" n="101"/>arguitur quantitas suae virtutis quia universaliter omne quod potest isto modo 
+          <lb ed="#S" n="102"/>unum effectum efficere habitis albedinis requisitis non tot quin plura alia 
+          <lb ed="#S" n="103"/>potest simul efficere sed potius secundum philosophum et veritatem mensuratur virtus 
+          <lb ed="#S" n="104"/>ex magnitudine effectus in quem potest nec receptivitas etiam arguit 
+          <lb ed="#S" n="105"/>hoc plus respectu actuum quam respectu habituum notum est cuilibet advertenti 
+          <lb ed="#S" n="106"/>et cum probat quod immo si potentia non terminetur ad certum numerum effectuum huius 
+          <lb ed="#S" n="107"/>in quem possit tunc erit infinitae virtutis cuius probatio est per ordinem 
+          <lb ed="#S" n="108"/>intensivum non tot quin plurum finitorum excedentium se ordinate 
+          <lb ed="#S" n="109"/>modo quo proceditur argumentum et excessu inproportionali cuiuscumque intellectus de facto 
+          <lb ed="#S" n="110"/>iam beati super quemlibet talium et super totalem multitudinem talium in<lb ed="#S" break="no" n="111"/>tellectuum 
+          si daretur
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2233">
+          <pc type="pilcrow">¶</pc> Responsio quod argument tangit unam bonam difficultatem iam 
+          <lb ed="#S" n="112"/>contra arguentem in casu stantem et contra quemlibet hominem sicut contra me nam 
+          <lb ed="#S" n="113"/>effectum supponitur virtus et causata est virtus ante quam agat sicut 
+          <lb ed="#S" n="114"/>dum agit igitur intellectus si non tot quin plures cognitiones specifice distinctas 
+          <lb ed="#S" n="115"/>possit simul id est simul sit potens causare ista arguetur infinite vir<lb ed="#S" break="no" n="116"/>tutis 
+          sicut si simul causet infinitas nulla enim virtus substantialis sibi <sic>acrescit</sic> ex 
+          <lb ed="#S" n="117"/>hoc quod efficiet in effectu sed nunc est ita quod omnis intellectus beatus 
+          <lb ed="#S" n="118"/>non tot quin plures se distinctas cognitiones aequalis perfectionis cum primo dan<lb ed="#S" break="no" n="119"/>da 
+          vel perfectiores simul habet virtutem et potentiam causandi quia quilibet talis 
+          <lb ed="#S" n="120"/>intellectus simul habet potentiam causandi in se visionem huius creaturae dandae 
+          <lb ed="#S" n="121"/>sic a et duplae nobilioris secundum speciem si approximaretur in 4lo nobilioris 
+          <lb ed="#S" n="122"/>secundum speciem et si sine termino finito quia quaelibet talis ordinis excedit infinite 
+          <lb ed="#S" n="123"/>ratio huius socii sic efficax est potentiae infinitae consequentiam probo sic ipse 
+          <lb ed="#S" n="124"/>suam quia si aliquis esset intellectus qui praecise haberet naturalem potentiam efficiendi par<lb ed="#S" break="no" n="125"/>tialiter 
+          quia totaliter nullus creatus intellectus potest nisi respectu suimet in se 
+          <lb ed="#S" n="126"/>visionem respectu <c>a</c> obiecti ille esset alicuius determinatae perfectionis in agendo et 
+          <lb ed="#S" n="127"/>si esset alius qui praecise posset in se causare visionem <c>a</c> et visionem etiam 
+          <lb ed="#S" n="128"/>obiecti duplo nobilioris speciei ad <c>a</c> ille in duplo vel in 
+          <lb ed="#S" n="129"/>aliqua alia certa proportione excederet primo datum intellectum sic quod 
+          <lb ed="#S" n="130"/>in sexquialtera et sic non tantum quin ultra posset deus procedere as<pb ed="#S" n="169-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>cendendo 
+          ad intellectus huius meliores et omnes tales intellectus inproportionaliter 
+          <lb ed="#S" n="2"/>excedit intellectus quilibet iam beatus qui ad nullum finitum meritum limitatur 
+          <lb ed="#S" n="3"/>respectu huius obiectorum igitur quilibet intellectus beatus est virtutis sive potentiae infinitae ecce 
+          <lb ed="#S" n="4"/>quod non est omissum unum iota de tota forma arguendi huius et tamen 
+          <lb ed="#S" n="5"/>notum est conclusionem esse singula non obstante quod nulla propositio in hoac deduc<lb ed="#S" break="no" n="6"/>tione 
+          sumpta est minus evidens quam ista loco cuius ponitur in deduc<lb ed="#S" break="no" n="7"/>tione 
+          argumenti huius socii et ideo sicut solveret istud argumentum meum ita 
+          <lb ed="#S" n="8"/>solvat suum
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2309">
+          <pc type="pilcrow">¶</pc> Responsio igitur tam suo quam huic meo repercussorio argumento 
+          <lb ed="#S" n="9"/>in primis dico quod infinita id est non tot quin plura posse efficere sive eius<lb ed="#S" break="no" n="10"/>dem 
+          speciei sive diversarum et hoc vel simul in passis eiusdem numerii 
+          <lb ed="#S" n="11"/>simul sufficienter approximatis ita quod cuilibet illorum effectuum correspondeat suum 
+          <lb ed="#S" n="12"/>proprium passum vel simul in eodem passo cui non repungnat non 
+          <lb ed="#S" n="13"/>tot finita quin plura simul recipere cum activis aliis propriis in aequali numero 
+          <lb ed="#S" n="14"/>et dei influentia generali non arguit sic potens esse potentiae infinitae et 
+          <lb ed="#S" n="15"/>ad probationem dico quod antecedens illius conditionalis includit contradictoria tam in 
+          <lb ed="#S" n="16"/>suo argumento quam in meo scilicet si esset aliquis intellectus qui tantum duas et<lb ed="#S" break="no" n="17"/>c 
+          repungnantia enim est et contradictoria includens inplicite quod esset intellectus po<lb ed="#S" break="no" n="18"/>tens 
+          <lb ed="#S" n="19"/>simul recipere vel efficere duas aequae intensas cognitiones 
+          <lb ed="#S" n="20"/>alterius speciei quin non tot finitas quin plures possit simul efficere concurrenti<lb ed="#S" break="no" n="21"/>bus 
+          omnibus aliis requisitis vel quod intellectus aliquis sic potens intelligere 
+          <lb ed="#S" n="22"/>a obiectum quin possit duplo nobilius secundum speciem et deinceps sine statu 
+          <lb ed="#S" n="23"/>supposita dei influentia generali et huius oppositum supponunt argumentum igitur etc
+          <lb ed="#S" n="24"/>efficantia igitur sola <add place="margin-below">non arguit infinitatem potentiae nec etiam receptio sola</add> sicud probavi per exemplum de habitibus et speciebus igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2353">
+          <pc type="pilcrow">¶</pc> Sed 
+          <lb ed="#S" n="25"/>distinctione sicud supra tunc non huius supposita fide quod deus possit causare duplam creatam 
+          <lb ed="#S" n="26"/>secundum perfectionem ad <c>a</c> et 4lam et octuplam et sic sine fine unde arguere dictum 
+          <lb ed="#S" n="27"/>esse infinite potentiae intensive dico quod non sequitur quia creatura non potest hoc 
+          <lb ed="#S" n="28"/>facere sic procedendo ut tetigit argumentum nisi alio semper concurrente unde nihil mi<lb ed="#S" break="no" n="29"/>rum 
+          si darentur omnia infinita et intellectus unus talis quin infinita cum 
+          <lb ed="#S" n="30"/>intellectu <unclear>conca?m</unclear> communi possit producere effectus infinitos et verum est cum quod 
+          <lb ed="#S" n="31"/>hoc arguit virtutem infinitam vel infinitas virtutes in causa vel in causis deus 
+          <lb ed="#S" n="32"/>autem nullius <unclear>conce</unclear> eget auxilio vel concursu in agendo et ideo ex posita pro<lb ed="#S" break="no" n="33"/>ducendi 
+          simul non tot talia quin plura per se ipsum sine omni alio activo 
+          <lb ed="#S" n="34"/>et passivo requisito arguit sufficienter eius potentiam infinitam non 
+          <lb ed="#S" n="35"/>sic autem argueretur esse potentia infinita sed requireret in agendo infinita alia 
+          <lb ed="#S" n="36"/>conprincipia effectiva sed requireret etiam passa infinita et influentia alterius activi 
+          <lb ed="#S" n="37"/>principii infiniti sicut omnis requirit causa creata in agendo influentiam 
+          <lb ed="#S" n="38"/>principii infiniti coagentis et determinantis quid producetur de infinitis produci vi<lb ed="#S" break="no" n="39"/>libus 
+          in passo dato sicut alias declaravi
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2398">
+          <pc type="pilcrow">¶</pc> Ad 2m argumentum de situ
+          <lb ed="#S" n="40"/>dicendum quod non est inconveniens ex antecedente includente contradictionem sequi consequens inpossibile 
+          <lb ed="#S" n="41"/>sed quod deus creet infinita entia secundum species suas absolutas de praedicamento substantiae 
+          <lb ed="#S" n="42"/>vel quantitatis distincta includit repungnantiam igitur etc
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2410">
+          <pc type="pilcrow">¶</pc> dico igitur quod si infinita essent 
+          <lb ed="#S" n="43"/>facta et animae beatae debitae approximata quod est inpossibile sequitur hic aliud inpossibile quod anima 
+          <lb ed="#S" n="44"/>intelligeret omnia illa simul quodcumque distincte per infinitas dilectiones vel visio<lb ed="#S" break="no" n="45"/>nes 
+          specifice inter se distinctas vel intelligere illa posset et tamen ex hoc arguitur 
+          <lb ed="#S" n="46"/>quod ipsa esset infinitae capacitatis istam consequentiam nego et causam alias quaestione 5 praesen<lb ed="#S" break="no" n="47"/>tis 
+          distinctione declaravi quia anima dicitur tantae vel tantae capacitatis non ex 
+          <lb ed="#S" n="48"/>multitudine receptibilium in ea sed ex magnitudine illius quo potest repleri unde non 
+          <lb ed="#S" n="49"/>capacius dicitur vas corporale quia potest recipere lac tam extensum et iterum simul 
+          <lb ed="#S" n="50"/>albedinem lactis aequaliter extensam et iterum humiditatem lactis et eius dul<lb ed="#S" break="no" n="51"/>cedinem 
+          et 5o gravitatem lactis et sic de aliis infinitis accidentibus 
+          <lb ed="#S" n="52"/>consimilibus si darentur quam si lac replens illud vas per semet ipsum tale 
+          <lb ed="#S" n="53"/>accidens ipsum informans haberet et prima fiet idem argumentum per omnia contra eum 
+          <lb ed="#S" n="54"/>de habitibus et speciebus quo ad receptionem et de habitu et actu constat 
+          <lb ed="#S" n="55"/>enim quod habitus intensissimus naturaliter receptus intellecti anima in nullo in<lb ed="#S" break="no" n="56"/>pediret 
+          aequalem gradualiter actum simul recipi in eadem alioquin habitus sum<lb ed="#S" break="no" n="57"/>mus 
+          in anima receptibilis magis inpedieret recipi simul intensum 
+          <lb ed="#S" n="58"/>actum quam promoveret quod nullus sani capitis ponens habitus distinctos ab acti<lb ed="#S" break="no" n="59"/>bus 
+          dare vellet
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2453">
+          <pc type="pilcrow">¶</pc> ad 3m et 4m satis patet si enim detur quod talia accidentia 
+          <lb ed="#S" n="60"/>non inpediunt se mutuo per suas intensiones simul recipi et similiter de habi<lb ed="#S" break="no" n="61"/>tibus 
+          et speciebus quocumque quin ultra quemcumque numerum finitum simul possint reci<lb ed="#S" break="no" n="62"/>pi 
+          in eodem ut iste annuit pro eo quod subiectum non efficit illud quin habentur 
+          <lb ed="#S" n="63"/>sequitur primo quod habeo intentum quia talia ultra omnem finitam multitudinem simul re<lb ed="#S" break="no" n="64"/>cipi 
+          in eodem non est inpossibile ex natura potentiae et talium formarum 2o quod nec 
+          <lb ed="#S" n="65"/>ratione activitatis repungnantia est ut superius declaravi nec aliquis rationabiliter rationem 
+          <lb ed="#S" n="66"/>illam potest infingere sequitur igitur quod plene habeam quod volebam 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2474">
+          <pc type="pilcrow">¶</pc> ad 5m 
+          <lb ed="#S" n="67"/>dico quod sumitur notorie falsum quod melius possit homo experiri se 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="68"/>simul habere multos habitus intensos quam multos actus quia habitus 
+          <lb ed="#S" n="69"/>non experimur in nobis nisi mediate discursus rationis quia scilicet invenimus 
+          <lb ed="#S" n="70"/>nos promptiores ad actus similes post frequentiam multorum actuum alicuius 
+          <lb ed="#S" n="71"/>speciei quam prius sed illam inclinationem activam posset ipse supplere deus 
+          <lb ed="#S" n="72"/>et tamen ita pro nos inveniremus nos si hoc ipse faceret sicut cum habitu 
+          <lb ed="#S" n="73"/>igitur ista experientia non est immediate respectu ipsius habitus sed actus suos 
+          <lb ed="#S" n="74"/>intensos potes quilibet si voluerit in semet ipso certissime experi<lb ed="#S" break="no" n="75"/>ri 
+          etiam multos simul si multos habet sicut quod clare intelligit aliquid et 
+          <lb ed="#S" n="76"/>simul fruenter diligit illud si ita in act faciat sicut notum 
+          <lb ed="#S" n="77"/>est esse possibile unde de actu fidei loquens <ref xml:id="aw98wa-xg3673-Rd1e2505" corresp="#aw98wa-xg3673-Qd1e2512">augustinus 13 de trinitate capitulo 1</ref> et 
+          <lb ed="#S" n="78"/>recitat hic <ref xml:id="aw98wa-xg3673-Rd1e2510" corresp="#aw98wa-xg3673-Qd1e2512" target="http://scta.info/resource/pl-l3d23c7-d1e143@6-95">magister libro 3 distinctione 23 capitulo 7</ref> <quote xml:id="aw98wa-xg3673-Qd1e2512" source="http://scta.info/resource/adt-l13-d1e1393@1-114">fidem quam videt quisque esse 
+          <lb ed="#S" n="79"/>in corde suo si credit vel non esse si non credit non sicut corpora quae 
+          <lb ed="#S" n="80"/>videmus oculis corporeis et per ipsorum ymagines quas memoria teneus 
+          <lb ed="#S" n="81"/>absentia cogitamus nec sicut ea quae non vidimus et ex his quae vi<lb ed="#S" break="no" n="82"/>dimus 
+          cogitatione utcumque formamus et memoriae commendamus nec sicut 
+          <lb ed="#S" n="83"/>hominem cuius animam et si non videmus ex nostra convincimus et ex mo<lb ed="#S" break="no" n="84"/>tibus 
+          corporis hominem sicut videndo didicimus intuemur etiam cogitando 
+          <lb ed="#S" n="85"/>non sic videtur fides in corde in quo est ab eo cuius est sed eam 
+          <lb ed="#S" n="86"/>tenet certissima scientia</quote> haec ille sed notum est cuilibet quod aeque perfecte experitur 
+          <lb ed="#S" n="87"/>in se vel experiri potest actum sciendi vel contemplandi et actum di<lb ed="#S" break="no" n="88"/>ligendi 
+          esse si est et non esse si non est sint actum credendi secus est 
+          <lb ed="#S" n="89"/>de habitibus quia multi valentes omnium negant habitum acquisitum distinctum ab 
+          <lb ed="#S" n="90"/>anima et actibus qui tamen non minus de eis habent experientiam quam illi 
+          <lb ed="#S" n="91"/>qui ponunt eos
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2545">
+          <pc type="pilcrow">¶</pc> ad 6m non dixi quod poena peccati sic quod non pos<lb ed="#S" break="no" n="92"/>sumus 
+          experiri actus multos intensos si haberentur sed quod intensio 
+          <lb ed="#S" n="93"/>unius non permittit secum alios alterius speciei disparatas sed u<lb ed="#S" break="no" n="94"/>nus 
+          remittit alium hoc dixi esse poenam peccati et hoc sufficiebat 
+          <lb ed="#S" n="95"/>ut suum solverem argumentum quod non plus petebat quo ad illud bene 
+          <lb ed="#S" n="96"/>tamen concedo quod repugnantia est non solum poena peccati sed ex natura actuum 
+          <lb ed="#S" n="97"/>et ordine et ipsius potentiae quod in proprio genere distincte cognoscat animam oportent 
+          <lb ed="#S" n="98"/>periretur persemet ipsum et inprobationem huius dicti quandam bene difficilem alias 
+          <lb ed="#S" n="99"/>solvi libro id est Et si tunc adhuc aptetur argumentum de gravioratione peccati 
+          <lb ed="#S" n="100"/>primi hominis consequentia non tenet quia pena in posita fuisset voluntaria et ideo pa<lb ed="#S" break="no" n="101"/>tuit 
+          fuisse maior vel minor sicut deo placuisset et immensura 
+          <lb ed="#S" n="102"/>quae deo placuisset 
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2575">
+          <pc type="pilcrow">¶</pc> 3us sub articulus esset tractare responsionem quam dedi ad 3m 
+          <lb ed="#S" n="103"/>argumentum principale sed ideo omittatur quia eam minime reprobavit 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
