@@ -188,7 +188,7 @@
           </p>
           <p xml:id="aw98wa-xg1925-qqscie">
             <assertions>
-              <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e487"/>
             </assertions>
           </p>
           <div xml:id="aw98wa-xg1925-Draappd">
@@ -196,34 +196,33 @@
               <supplied>Responsio ad argumenta pro primo dubio</supplied>
             </head>
             <p xml:id="aw98wa-xg1925-rapaoe">
-              <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
-              </assertions>
+              <!--<assertions>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e507"/>
+              </assertions>-->
             </p>
             <p xml:id="aw98wa-xg1925-sqeesa">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e507"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-asdssa">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e536"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-atdmiv">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e547"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-aqbiao">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e569"/>
               </assertions>
             </p>
-            <!-- left of with nick on 6/21 -->
             <p xml:id="aw98wa-xg1925-aqetis">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e581"/>
               </assertions>
             </p>
           </div>
@@ -234,7 +233,7 @@
           </head>
           <p xml:id="aw98wa-xg1925-spevqn">
             <assertions>
-              <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+              <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e624"/>
             </assertions>
           </p>
           <div xml:id="aw98wa-xg1925-Drpppds">
@@ -243,12 +242,12 @@
             </head>
             <p xml:id="aw98wa-xg1925-pqqsee">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e637"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-ssqsap">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e667"/>
               </assertions>
             </p>
           </div>
@@ -258,12 +257,12 @@
             </head>
             <p xml:id="aw98wa-xg1925-aidicd">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e700"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-icdpad">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e713"/>
               </assertions>
             </p>
           </div>
@@ -274,53 +273,53 @@
             </head>
             <p xml:id="aw98wa-xg1925-pctdqg">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e739"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-siecva">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e781"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-tpcrdi">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e808"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-qpnrdi">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e824"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-qppepv">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e831"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-spdsdv">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e841"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-spvive">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e870"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-qinros">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e888"/>
               </assertions>
             </p>
 
             <p xml:id="aw98wa-xg1925-oivthc">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e907"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-npspev">
               <assertions>
-                <assertion property="isRelatedTo" target="http://scta.info/resource/"/>
+                <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e337-d1e918"/>
               </assertions>
             </p>
             <p xml:id="aw98wa-xg1925-dpspau">
