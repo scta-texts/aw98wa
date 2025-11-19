@@ -854,11 +854,11 @@
         <p xml:id="aw98wa-xg1205-d1e2265">
           <pc type="pilcrow"/> Aliter potest dici et probabilius mihi videtur quod processus totus 
           <lb ed="#S" n="79"/>philosophi et argumentum suum bonum est de movente naturaliter sed non de movente 
-          <lb ed="#S" n="80"/>libere sed posset dici ad <ref xml:id="aw98wa-xg1205-Rd1e2273">commentatorem super 8 physicorum commento 15</ref> cum dicit 
-          <lb ed="#S" n="81"/>quod demonstratio <name xml:id="aw98wa-xg1205-Nd1e2278">aristotelis</name> <unclear>universalis</unclear> est omni motori qui ponitur primus 
+          <lb ed="#S" n="80"/>libere sed posset dici ad <ref xml:id="aw98wa-xg1205-Rd1e2273" corresp="#aw98wa-xg1205-Qdddty6">commentatorem super 8 physicorum commento 15</ref> cum dicit 
+          <lb ed="#S" n="81"/>quod <quote xml:id="aw98wa-xg1205-Qdddty6" source="http://scta.info/resource/cnag1q-d1e110-d1e3448@1197-1234">demonstratio <name xml:id="aw98wa-xg1205-Nd1e2278">aristotelis</name> <unclear>universalis</unclear> est omni motori qui ponitur primus 
           <lb ed="#S" n="82"/>sive sic positus movere per appetitum sive non sed inpossibile est quod 
           <lb ed="#S" n="83"/>agat in aliqua hora et alia non quia tunc esset illic mo<lb ed="#S" break="no" n="84"/>tor 
-          prior ipso
+          prior ipso</quote>
         </p>
         <p xml:id="aw98wa-xg1205-d1e2289">
           <pc type="pilcrow"/> dicendum enim quod totum videretur rationale illud dictum 
