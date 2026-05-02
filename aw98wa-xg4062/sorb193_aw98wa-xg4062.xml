@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 11 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 11 [Sorb193 Transcription]</title>
+          <date when="2026-04-22">April 22, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-04-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="204-r"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4062"><!-- b3q11-->
+        <head xml:id="aw98wa-xg4062-Hd1e101">Quaestio 11</head>
+        <p xml:id="aw98wa-xg4062-d1e103">
+          <lb ed="#S" n="16"/>Undecimo circa 8 hanc quaeritur utrum anima christi possit 
+          <lb ed="#S" n="17"/>in verbo cui unitur distincte cognoscere minimas partes accidentium 
+          <lb ed="#S" n="18"/>sibi <unclear>inhaeserim</unclear> vel minimas particulas corporis quod informat
+          <lb ed="#S" n="19"/>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e116">
+          et 
+          <lb ed="#S" n="20"/>videtur quod sic quia omnes potest ex quaestione praecedente igitur etiam minima
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e121">
+          <pc type="pilcrow">¶</pc> Con<lb ed="#S" break="no" n="21"/>tra 
+          si argumenta esset minima illa esset indivisibilis et ista forma aliqua habens gra<lb ed="#S" break="no" n="22"/>dium 
+          latitudinem vel continuum ad componeretur ex indivisibilibus contra philosophum 
+          <lb ed="#S" n="23"/>6 physicorum et circa declarationes plurimas contra hoc positas in <ref xml:id="aw98wa-xg4062-Rd1e132">3 londiniensis
+          <lb ed="#S" n="24"/>13 distinctione</ref>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e138">
+          <pc type="pilcrow">¶</pc> ponam igitur primo 4 argumenta chaton tenentis continuum ex indvi<lb ed="#S" break="no" n="25"/>sibilibus 
+          finitis componi <unclear>nobi?ra</unclear> et ponderis melioris
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e149">
+          <pc type="pilcrow">¶</pc> Secundo alia 4or in 
+          <lb ed="#S" n="26"/>contrarium et reducam ista contra responsionem <unclear>cachtis<!-- mispelling of "chaton" ?? --></unclear>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e161">
+          <pc type="pilcrow">¶</pc> 3o solvam argumenta chatonis
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e167">
+          <lb ed="#S" n="27"/>et 4o movebo dubia quae <c>d</c> et de partibus continui et solvam illud
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e174">
+          <pc type="pilcrow">¶</pc> Tenet igitur <name xml:id="aw98wa-xg4062-Nd1e179">chaton</name> in quadam determinatione <unclear>exo?n</unclear> quod continuum non componitur ex par<lb ed="#S" break="no" n="28"/>tibus 
+          divisibilibus semper primo quia non contingit infinita pertransire sicud arguebat <name xml:id="aw98wa-xg4062-Nd1e185">zeno</name> 
+          <lb ed="#S" n="29"/>nam si toto sunt partes secundum longum in isto spatio finite quod sunt fuit 
+          <lb ed="#S" n="30"/>cognitiones angelorum quod quidam dicere oportet nisi stetur ad indivisibilia 
+          <lb ed="#S" n="31"/>cum conditio sic omnes sumptas cognitiones angelorum possibiles esse pertransi<lb ed="#S" break="no" n="32"/>tas 
+          igitur et in proposito erit simile inpossibile
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e197">
+          <pc type="pilcrow">¶</pc> 2a ratio est zenonis 
+          <lb ed="#S" n="33"/>pro eodem quod tunc velox numquam attinget tardum quia si nunc 
+          <lb ed="#S" n="34"/>tardum sit ante velox antequam velox quod est <unclear>retro</unclear> veniat 
+          <lb ed="#S" n="35"/>ubi nunc est tardum tardum ulterius movebitur et per consequens tunc 
+          <lb ed="#S" n="36"/>distabunt aut per divisibile et sic semper <add>argueretur</add> iretur aut per indivisibile 
+          <lb ed="#S" n="37"/>et habetur propositum quia si primum tunc non nisi per tempus veniet velox ubi nunc 
+          <lb ed="#S" n="38"/>est tardum et per consequens interim <add place="margin-left">tardum</add> acquisivit ultra divisibile etc
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e223">
+          <lb ed="#S" n="39"/><pc type="pilcrow">¶</pc> 3a ratio zenonis potest ad idem damnandum duci quia sint duo mo<lb ed="#S" break="no" n="40"/>bilia 
+          aequalia <add place="margin-left">in omnibus et spatia aequalia</add> super quae debent transire probatio quod unum non posset moveri 
+          <lb ed="#S" n="41"/>velocius et aliud tardius isto dato quia praecise sunt tot spatia aequa<lb ed="#S" break="no" n="42"/>lia 
+          uni mobili in uno spatio quod alteri in alio et praecise toto 
+          <lb ed="#S" n="43"/>instantia in tempore eodem mensurante mortum utrumque quia eodem omnino 
+          <lb ed="#S" n="44"/>igitur vel mobile tardum quisceret per tempus vel mobile velox simul erit in mul<lb ed="#S" break="no" n="45"/>tis 
+          spatiis sibi aequalibus quod est inpossibile per naturam vel aeque velociter move<lb ed="#S" break="no" n="46"/>buntur 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e249">
+          <pc type="pilcrow">¶</pc> Item deus potest facere lineam indivisibilem secundum latum et divisibilem secundum lon<lb ed="#S" break="no" n="47"/>gum 
+          <pc type="punctus"/> similiter punctum indivisibilem simpliciter igitur ex talibus componitur continuum contra 
+          <lb ed="#S" n="48"/>probatur quia unum tale indivisibile potest deus alteri applicare in situ in 
+          <lb ed="#S" n="49"/><unclear>medito</unclear> et tamen distincto et tunc <unclear>mensurae</unclear> plana cui sic supponerentur correspon<lb ed="#S" break="no" n="50"/>derent 
+          immediata indivisibilia necessario igitur alias probatur quia tale quid esse non album e<lb ed="#S" break="no" n="51"/>videnter 
+          contradictionem includere igitur tale quid posse facere non est negandum 
+          <lb ed="#S" n="52"/>a dei potentia
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e273">
+          <pc type="pilcrow">¶</pc> praeterea deus istam longitudinem quacumque demonstrata potest facere 
+          <lb ed="#S" n="53"/>esse sine latitudine quia potest facere eius partes secundum latitudinem non distare 
+          <lb ed="#S" n="54"/>similiter deus potest facere angelum in mundo esse et tamen quod non sic in pluribus 
+          <lb ed="#S" n="55"/>locis igitur aliquis situs est indivisibilis et idem argui potest de intentione 
+          <lb ed="#S" n="56"/>et volitione angeli nam diversi effectus sunt facere intentionem separatam et 
+          <lb ed="#S" n="57"/>facere istam in diversis locis igitur unum potest a deo fieri sine alio
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e290">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="58"/>spera tangi planum in solo puncto igitur punctus est antecedens probatur 
+          <lb ed="#S" n="59"/>quia aut ipsius sperae sunt aliquae duae partes immediate ad planum 
+          <lb ed="#S" n="60"/>et tunc non esset spericum aut non tunc propositum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e302">
+          <pc type="pilcrow">¶</pc> Item aliter deus nesciret 
+          <lb ed="#S" n="61"/>quod partes huius continui produxisset nec quid esse medietatis huius continui quia hoc 
+          <lb ed="#S" n="62"/>continuum non haberet ultimum intrinsecum nec extrinsecum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e312">
+          Item augustinus libro de 
+          <lb ed="#S" n="63"/>quantitate animae per totum ponit eam in mundo
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e317">
+          <pc type="pilcrow">¶</pc> Item anselmus de processu 
+          <lb ed="#S" n="64"/>spiritus sancti capitulo ultimo
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e326">
+          Item aristoteles in multis locis dicit quod locus est 
+          <lb ed="#S" n="65"/>ultimum corporis continentis 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e331">
+          Item ipse ponit condensationem et rarefactionem 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>quae salvari non possunt absque admixtione corporum aliorum nisi ponendo indivisibilia 
+          <lb ed="#S" n="67"/>quae quandoque sint simul secundum situm quandoque fiet condensatio et in diversis 
+          <lb ed="#S" n="68"/>sitibus quando erit rarefactio ad haec est etiam in praedicamentis et primo posteriorum 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e342">
+          <pc type="pilcrow">¶</pc> Sed 
+          <lb ed="#S" n="69"/>huius oppositum multipliciter declaravi in <ref xml:id="aw98wa-xg4062-Rd1e349">3o londiensis</ref> et exclusi 
+          <lb ed="#S" n="70"/>istius ubi probavi quod indivisibilia huius secundum situm nec sunt nec esse possunt Nec 
+          <lb ed="#S" n="71"/>valet eius responsio ad argumenta quia de quadrato et costa et dyametro 
+          <lb ed="#S" n="72"/>quilibet inquid respondere haberet quia fiant a deo et <add place="margin-right">si</add> ponantur immediate 
+          <lb ed="#S" n="73"/>lineae indivisibiles quadrato et ideo inquit responderem hic sicut tu de virgine et fi<lb ed="#S" break="no" n="74"/>lis 
+          araneae sit dispositis secundum situm <pc type="punctus"/> Sed haec responsio stare non potest 
+          <lb ed="#S" n="75"/>sicut ibi probatum est <pc type="punctus"/> tum quia non sunt huius nec esse possunt cum quia si 
+          <lb ed="#S" n="76"/>essent non possent poni in sitibus distinctis indivisibilibus in medietatis 
+          <lb ed="#S" n="77"/>sicut sufficienter ibi praedicatum est <pc type="punctus"/> cum quia si essent cum ibi demonstratum sit ea 
+          <lb ed="#S" n="78"/>non esse partes continui posset continuum a deo conservari omnibus illis quae ab ipso 
+          <lb ed="#S" n="79"/>totaliter distinguitur adnihcilantis et tamen hoc inpossibile esset isti dicere 
+          <lb ed="#S" n="80"/>quia talium continuo cuius omnia indivisibilia adnihilarentur posset ut aeque 
+          <lb ed="#S" n="81"/>supponi indivisibilia immediate si hoc esset possibile sic alterius cuius indivi<lb ed="#S" break="no" n="82"/>sibilia 
+          non essent destructa
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e390">
+          Item tunc dyameter quadrati si compo<lb ed="#S" break="no" n="83"/>neretur 
+          ex indivisibilibus finitis sicut iste ponitur in se continuaret bis 
+          <lb ed="#S" n="84"/>aequle costae cuius probatio est per hanc figuram quae est de puncto lineae 
+          <lb ed="#S" n="85"/><c>a</c><c>b</c> immediato ipsi <c>a</c> angelo protraheret lineam ad punctum lineae <c>a</c><c>c</c>
+          <lb ed="#S" n="86"/>immediatum eidem angelo <c>a</c> et sic <unclear>sphera</unclear> continue donec consumatur utrumque 
+          <lb ed="#S" n="87"/>latus constat quod nulla istarum linearum cadunt in dyabolo in eodem punc<lb ed="#S" break="no" n="88"/>to 
+          cum alio et tamen non <unclear>consumitur</unclear> si medietas dyameter igitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e420">
+          <pc type="pilcrow">¶</pc> Item quod non 
+          <lb ed="#S" n="89"/>valeat responsio de tactu obiecto patet quia tunc quanto obliquius causaret 
+          <lb ed="#S" n="90"/>linea recta super lineam vel rectam tanto plura eius eius puncta tangere<del rend="expunctuation">n</del>t 
+          <lb ed="#S" n="91"/>consequens est inpossibile quia ponamus tunc lineas <c>a</c><c>b</c> <c>a</c><c>d</c> constituentes angulum <!-- TODO: check earlier instances of angelum for angulum --> <add place="margin-right">recte et immediate</add>
+          <lb ed="#S" n="92"/><del rend="underline">rectum et immediate</del> sicut <unclear>dem?</unclear> intelligatur linea 3a scilicet <c>a</c><c>c</c> quae primo in<lb ed="#S" break="no" n="93"/>telligatur 
+          subiacere lineae <c>a</c><c>b</c> et <unclear>dem?</unclear> continue moveatur versus lineam 
+          <lb ed="#S" n="94"/><c>a</c><c>d</c> immotam et tunc si obliqui <add place="above-line"><unclear>c</unclear></add> facit tangere in pluribus punctis sequitur 
+          <lb ed="#S" n="95"/>quod statim tum <c>c</c> movebitur ad aliud punctum versus <c>d</c> quod ex alia 
+          <lb ed="#S" n="96"/>parte tangeret lineam <c>a</c><c>d</c> in duobus punctis et tamen ad 3m in 3bus 
+          <lb ed="#S" n="97"/>et cum in 4m in 4 et sic deinceps et tunc sequitur inpossibile quod linea recta 
+          <lb ed="#S" n="98"/>habebit duo extrema contra geometriam id est quod duas linearum rectarum 
+          <lb ed="#S" n="99"/>tangentium se vel existentium in eodem situ secundum alias partes ad istam 
+          <lb ed="#S" n="100"/>differentiam positionis distabit secundum alias partes per modum furche quod si linea 
+          <lb ed="#S" n="101"/><c>a</c><c>c</c> non tanget lineam <c>a</c><c>d</c> nisi puncto in toto illo motu do<lb ed="#S" break="no" n="102"/>nec 
+          una spponatur alteri tunc sequitur quod obliquitas non plus facit 
+          <lb ed="#S" n="103"/>ad tactum in pluribus punctis quam tactus <unclear>perpendicularis</unclear>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e507">
+          <pc type="pilcrow">¶</pc> praeterea signetur 
+          <lb ed="#S" n="104"/>unus punctus alicubi puta punctus <c>a</c> nulla est repugnantia quin 
+          <lb ed="#S" n="105"/>saltem deus posset si dentur lineae indivisibiles et puncta trahere ad 
+          <lb ed="#S" n="106"/><c>a</c> punctum duas lineas oblique <unclear>inti?tates</unclear> <add place="margin-right">quae</add> sollumodo in puncto <c>a</c>
+          <lb ed="#S" n="107"/>currant scilicet lineas <c>a</c><c>b</c> et <c>c</c><c>d</c> et eadem ratione ex alia parte possunt 
+          <lb ed="#S" n="108"/>duae lineae similes trahi aque oblique ad <c>a</c> quae solummodo in <c>a</c> puncto 
+          <lb ed="#S" n="109"/>concurrant et tunc duae totales lineae secant se obliquae et tamen in so<lb ed="#S" break="no" n="110"/>lis 
+          duobus punctis tangerent se sic quod in solo uno puncto ta<lb ed="#S" break="no" n="111"/>det 
+          una super aliam igitur obliquis non facit in pluribus punctis tangere
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e553">
+          <lb ed="#S" n="112"/><pc type="pilcrow">¶</pc> 2o arguit iste contra se quod tunc circulus minor descriptus intra m<lb ed="#S" break="no" n="113"/>iorem 
+          haberet puncta tot et partes sicut exterior descriptus super idem 
+          <lb ed="#S" n="114"/>centrum secundum deductionem communem sancto et aliorum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e564">
+          <pc type="pilcrow">¶</pc> Sed huic respondet quod non sequitur 
+          <lb ed="#S" n="115"/>quod infertur quia linea inchoata ab aliquo puncto circuli exterioris 
+          <lb ed="#S" n="116"/>coincidit in eandem situm cum alia linea protracta a peccato immediato 
+          <lb ed="#S" n="117"/>priori puncto in centro exteriori bene antequam veniat ad centrum 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e576">
+          <lb ed="#S" n="118"/><pc type="pilcrow">¶</pc> Sed certo hoc dato sicut inevitabiliter <unclear>petebit</unclear> in quadam quaestione tractanda 
+          <lb ed="#S" n="119"/>in 4o distinctione materiae <unclear>ent?iae</unclear> concluditur contra ipsum quod partes quantitates quam ponit 
+          <lb ed="#S" n="120"/>esse rem distinctam a substantia et qualitate non habent naturalem 
+          <lb ed="#S" n="121"/>in <unclear>comp?tm</unclear> essendi simul secundum situm eundem adaequatum et per consequens frus<lb ed="#S" break="no" n="122"/>tra 
+          poneretur huius quantitatis apud eum cum secundum eum ad aliud non servi<lb ed="#S" break="no" n="123"/>at
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e600">
+          <pc type="pilcrow">¶</pc> probatio consequentiae quia ille nunc dicit licet hoc <add place="margin-right">non</add> diceret legendo sententias 
+          <lb ed="#S" n="124"/>quod condensatio non potest fieri naturaliter nisi sicut hic dicit indivi<lb ed="#S" break="no" n="125"/>sibile 
+          unum ingrederetur situm alterius ita quod ambo sint in eodem 
+          <lb ed="#S" n="126"/>situ igitur nec condensatio fiet per naturam nisi unum indivisibile 
+          <lb ed="#S" n="127"/>naturaliter secum compatiatur aliud in eodem situ et qua ratione hoc diceretur 
+          <lb ed="#S" n="128"/>de hiis 2bus indivisibilibus hoc diceretur de aliis 2us immo oportet hoc 
+          <lb ed="#S" n="129"/>dicere de quolibet quod habet secum aliud dato quod condensatio 
+          <lb ed="#S" n="130"/>sit uniformis et certe non propter hoc oportebit totum <unclear>aerem</unclear> huius 
+          <lb ed="#S" n="131"/>esse actu divisum ad indivisibilia igitur indivisibilia quaedam compenentia 
+          <lb ed="#S" n="132"/>actu <unclear>sr?em</unclear> unam vel corporeitatem unam simul <del rend="underline">su</del> sunt <del rend="underline">actu</del> situ cum 
+          <lb ed="#S" n="133"/>componentibus aliam vel aliud corpus et ita una quantitas naturaliter 
+          <lb ed="#S" n="134"/>cum alia erit secundum sitio quia ego loquor de indivisibilibus
+          <pb ed="#S" n="204-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quantitatis distincte a substantia secundum eum et quam ponit <add place="above-line">in</add>corruptibilem quam diu rema<lb ed="#S" break="no" n="2"/>net 
+          prima materia eadem
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e655">
+          <pc type="pilcrow">¶</pc> praeterea absurdum est <unclear>inge?a</unclear> et etiam apud ymaginationem 
+          <lb ed="#S" n="3"/>quod duae sint hae rectae et secundum quasdam partes divisibiles sint in eodem situ 
+          <lb ed="#S" n="4"/>et secundum quandam occupant sicus distinctos secundum latum et falsa esset ista diffinitio equi<lb ed="#S" break="no" n="5"/>distantiam 
+          linearum quod si in infinitum protendantur non concurrere sicud quilibet 
+          <lb ed="#S" n="6"/>potest evidentissime demonstrare data ista responsione
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e672">
+          <pc type="pilcrow">¶</pc> praeterea tunc si moveretur linea 
+          <lb ed="#S" n="7"/>recta circulariter manens recta moveretur secundum unum punctum crescendo 
+          <lb ed="#S" n="8"/>secundum aliud <!-- possible correction --> exeundo situm priorem secundum unum peccatum et non secundum aliud planum 
+          <lb ed="#S" n="9"/>est includere repugnantiam apud naturam quia <add place="above-line">quando</add> extremitas illius lineae mota 
+          <lb ed="#S" n="10"/>acquirit novum punctum quaero an ista faciat punctum proximum sibi 
+          <lb ed="#S" n="11"/>et sic de aliis usque ad punctum centrale vel non si sic igitur tot 
+          <lb ed="#S" n="12"/>puncta nova acquiret quilibet punctus illius lineae proximor centro sicud 
+          <lb ed="#S" n="13"/>remotior et sicud extremus et ita quilibet circulus interior ibi de 
+          <lb ed="#S" n="14"/>scriptus a puncto sibi correspondente ex tot componeretur punctis sicud 
+          <lb ed="#S" n="15"/>extremior quod negat ille si non tunc patet quid inferebatur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e704">
+          <pc type="pilcrow">¶</pc> Praeterea quaero 
+          <lb ed="#S" n="16"/>utrum sit dare aliquem circulum immediatum centro vel non <pc type="punctus"/> si non 
+          <lb ed="#S" n="17"/>igitur infiniti possunt protrahi inter circumferentiam exteriorem et centrum et per consequens 
+          <lb ed="#S" n="18"/>quaelibet linea exciens a centro ad circumferentiam componeretur ex 
+          <lb ed="#S" n="19"/>punctus quod iste negat nec potest dari circulus centro immediatus quia 
+          <lb ed="#S" n="20"/>circulus iste haberet ad minus 8 partes scilicet extremitas dyangulorum ortho<lb ed="#S" break="no" n="21"/>go?tis 
+          se secantium et puncta intercepta et locus excederet et 
+          <lb ed="#S" n="22"/>per consequens lotatum ipsum scilicet centrum indivisibile
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e727">
+          <pc type="pilcrow">¶</pc> Praeterea tunc sequitur quod tot essent 
+          <lb ed="#S" n="23"/>puncta in dyangulo subtenso semicirculo sicut in ipso semicirculo cui 
+          <lb ed="#S" n="24"/>subtenditur quod est inpossibile secundum illum probatio consequentiae quia volo quod a quolibet 
+          <lb ed="#S" n="25"/>peccato semicirculi protrahatur ad cordam dyameter sive orthogonaliter linea 
+          <lb ed="#S" n="26"/>una scilicet a punctis prioribus immediatis lineae aliae sic de omnibus 
+          <lb ed="#S" n="27"/>et patet quod infertur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e744">
+          <pc type="pilcrow">¶</pc> 3o arguitur contra istum quia capiantur mobile velox 
+          <lb ed="#S" n="28"/>et tardum et incipiant simul moveri et probatur quod velox nunquam 
+          <lb ed="#S" n="29"/>attiget tardum immo quod tardum tantum transibit in eodem tempore 
+          <lb ed="#S" n="30"/>sicut velox quia dum utrumque movetur in quolibet instanti utrumque acquirit novum 
+          <lb ed="#S" n="31"/>indivisibile alioquin motus non esset continuus et praecise unum indivisibile <add place="margin-center">alioquin</add> 
+          <lb ed="#S" n="32"/><add place="margin-left">simul</add> esset velox in duobus locis sibi aequalibus <unclear>Ram</unclear> detur quod mobile sic in<lb ed="#S" break="no" n="33"/>divisibile 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e770">
+          <pc type="pilcrow">¶</pc> hic respondet quod licet tardum moveatur continue motione respec<lb ed="#S" break="no" n="34"/>tive 
+          de genere <del rend="underline">motionis</del> passionis non tamen in omni instant acquirit 
+          <lb ed="#S" n="35"/>novum indivisibile sed hoc solum contingit in motu velocissimo 
+          <lb ed="#S" n="36"/>possibili
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e785">
+          <pc type="pilcrow">¶</pc> Sed dices igitur quiescet <pc type="punctus"/>  dicendum inquit quod non sequitur loquendo de 
+          <lb ed="#S" n="37"/>quiete opposita motioni passive quae est in continuo fieri sicut paries recipit 
+          <lb ed="#S" n="38"/>prius in se pulsionem passivam quam fiat extra locum priorem bene 
+          <lb ed="#S" n="39"/>tamen tardum quiescit quiete opposta acquisitioni novi loci vel 
+          <lb ed="#S" n="40"/>deperditioni loci praeoccupati et per idem respondet de puncto exteri<lb ed="#S" break="no" n="41"/>ori 
+          scilicet interiori in circulo quod interior diutius moratur in eodem 
+          <lb ed="#S" n="42"/>loco sibi aequali quam exteriori
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e806">
+          <pc type="pilcrow">¶</pc> Sed ista responsio non valet propter <unclear>rem</unclear> alias in 
+          <lb ed="#S" n="43"/><ref xml:id="aw98wa-xg4062-Rd1e814">lectura nor</ref> et <ref xml:id="aw98wa-xg4062-Rd1e816">3 londiniensis</ref> factas contra istud cum quia error esset dicere 
+          <lb ed="#S" n="44"/>et contra <ref xml:id="aw98wa-xg4062-Rd1e821">augustinum 11 confessionum</ref> quin caelum primum motum motu velocissimo velocius 
+          <lb ed="#S" n="45"/>moveri posset quam de facto moveatur et haec etiam a virtute creata quia 
+          <lb ed="#S" n="46"/>omnem virtutem creata motiva caelo posset <add place="margin-left">deus</add> de novo creare fortiorem 
+          <lb ed="#S" n="47"/>nam oppositam huius non staret cum dei omnipotentia igitur secundum hoc per virtu<lb ed="#S" break="no" n="48"/>tem 
+          creatam nisi detur intentum potest simul dii ratione fieri mobile 
+          <lb ed="#S" n="49"/>in mille spatiis sibi aequalibus successive successione locali ita quod non 
+          <lb ed="#S" n="50"/>simul simultate locali et tamen simul duratione quod esset absurdum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e841">
+          <pc type="pilcrow">¶</pc> praeterea sequitur 
+          <lb ed="#S" n="51"/>quod deus de omnipotentia sua non posset in dividio die vel iuxta diei 
+          <lb ed="#S" n="52"/>circularis totum motu continuo contra veritatem dei omnipotentiae et contra <ref xml:id="aw98wa-xg4062-Rd1e850">augustinum 
+          <lb ed="#S" n="53"/>11 confessionum</ref> ubi probat quod tempups diurnum non est motus diur<lb ed="#S" break="no" n="54"/>nus 
+          caeli 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e858">
+          Item tunc deus de omnipotentia sua non posset movere solem 
+          <lb ed="#S" n="55"/>motu continuo et uniformi tard<add place="above-line">i</add>us quam primum mobilemoveatur 
+          <lb ed="#S" n="56"/>sic quod non per 2o instantia moraretur in eodem in situ eodem omnino consequentia 
+          <lb ed="#S" n="57"/>patet sed ostendens derogaret omnipotentiae dei
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e870">
+          <pc type="pilcrow">¶</pc> Praeterea si una spera inferior 
+          <lb ed="#S" n="58"/>moveretur motu uniformi tardius in sexquialtera proportione quam 
+          <lb ed="#S" n="59"/>primum mobile sicut constat quod deus posset ipsum in tali proportione uniformiter 
+          <lb ed="#S" n="60"/>movere sequitur quod dum istud sic tardius motum acquireret 2o in<lb ed="#S" break="no" n="61"/>divisibilia 
+          secundum longum mobile primum acquireret <unclear>spera</unclear> 3a sed tunc 
+          <lb ed="#S" n="62"/>quidam dum mobile primum in duobus instantibus acquirit duo indivisibilia 
+          <lb ed="#S" n="63"/>quidam <add place="margin-left">acquirit</add> tardius istud spera si tantum unum tunc non esset motus eius 
+          <lb ed="#S" n="64"/>tardior in sexquialtera proportione sed in sub 2la si per 2 aeque 
+          <lb ed="#S" n="65"/>velox si unum conditio ergo indivisibile esset divisibile nec est evasio 
+          <lb ed="#S" n="66"/>nisi quod semper staret <unclear>incresta?tis</unclear> per 2 instantia in uno indivisi<lb ed="#S" break="no" n="67"/>bili 
+          et per unum tantum in sequenti sed hoc esset contra casum quia tunc mo<cb ed="#S" n="b"/><lb ed="#S" n="68"/>tus 
+          non esset uniformis 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e908">
+          Item sequeretur quod aliquid continue movetur localiter diu et posset in 
+          <lb ed="#S" n="69"/>perpetuum localiter moveri et tamen semper permanere in eodem situ secundum se et secundum 
+          <lb ed="#S" n="70"/>quodlibet sui consequens est absurdum <add place="margin-right">videtur</add> consequentia patet quia aliquis motus localis est plus quam cen<lb ed="#S" break="no" n="71"/>tuplo 
+          tardior motu velocissimo primi igitur primum et quodlicet sui plus quam centum 
+          <lb ed="#S" n="72"/>instantibus remanet secundum hanc responsionem praecise in eisdem sitibus quibus prius et cum 
+          <lb ed="#S" n="73"/>ille motus possit causari a deo vel saltem aliquis motus rectus localis eiusdem 
+          <lb ed="#S" n="74"/>mobilis aeque tardus deus movendo aliquid continue motu locali recto posset 
+          <lb ed="#S" n="75"/>plus quam centum instantibus tenere ipsum et quodlibet eius praecise ubi prius 
+          <lb ed="#S" n="76"/>et eadem ratione per mille instantia et in infinitum quod iste fluxus passionum 
+          <lb ed="#S" n="77"/>esse motus localis probatur quia non est substantialis motus vel mutatio 
+          <lb ed="#S" n="78"/>nec augmentatio nec alteratio igitur si est motus est localis
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e935">
+          <pc type="pilcrow">¶</pc> praeterea tunc 
+          <lb ed="#S" n="79"/>omne grave quod non esset <unclear>gravissis</unclear> dependeret in aere in  
+          <lb ed="#S" n="80"/>si descenderet per tempus non motum deorsum nullo per habente aut de 
+          <lb ed="#S" n="81"/><unclear>tinente</unclear>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e950">
+          <pc type="pilcrow">¶</pc> praeterea sic alias in lectura deductum est nulla talis mo<lb ed="#S" break="no" n="82"/>tio 
+          localis passiva distincta ab absolutis rebus est in entibus igitur 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e959">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="83"/>contra ipsum sunt auctores omnes negantis continuum componi ex indivisibilibus 
+          <lb ed="#S" n="84"/>sicut augustinus de immortalitate animae et similiter in <ref xml:id="aw98wa-xg4062-Rd1e968">epistola 77a</ref> 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e971">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="aw98wa-xg4062-Rd1e976">anselmus 
+          <lb ed="#S" n="85"/>de incarnatione verbi capitulo 10</ref> et actores omnes ubique de hac consequentia locuntur 
+          <lb ed="#S" n="86"/>Conclusionem harum rationum contra chaton concedo
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e984">
+          <pc type="pilcrow">¶</pc> ad primum in contrarium negandum 
+          <lb ed="#S" n="87"/>est assumptum de infinitis partibus proportionibus mihi existentibus continue per 
+          <lb ed="#S" n="88"/>motum per transeundo et ita dico quod infinite cogitationes <add place="margin-right">angelorum</add> futurae contente 
+          <lb ed="#S" n="89"/>in eadem cogitatione totali possunt esse pertransitae per motum remissionis 
+          <lb ed="#S" n="90"/>vel augmentationis eorumdem verumptamen de illis quae semper erunt in 
+          <lb ed="#S" n="91"/>accidendo in numquam omnes in accepto esse sed interpollatae futurae 
+          <lb ed="#S" n="92"/>totaliter dissimile est ad propositum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1006">
+          <pc type="pilcrow">¶</pc> ad 2m negatur consequentia quod patet quia posito quod 
+          <lb ed="#S" n="93"/>sint duo mobilia quorum unum duplo velocius moveatur re<lb ed="#S" break="no" n="94"/>liquo 
+          quo posito dividendo spatium pertranseundum secundum <unclear>lt?gi?em</unclear> in 6 
+          <lb ed="#S" n="95"/>partes <add place="margin-right">aequales</add> et volo quod tardum incipiat moveri a principio de medietatis 
+          <lb ed="#S" n="96"/><unclear><c>d</c><c>g</c></unclear> versus <c>g</c> quando velox incipi moveri a principio totius tunc quando 
+          <lb ed="#S" n="97"/>tardum pertinget ad <unclear>e</unclear> velox pertinget ad <c>b</c> quando ad <c>f</c> velox 
+          <lb ed="#S" n="98"/>ad <c>e</c> et quando tardum ad <c>g</c> velox ad idem <c>g</c> et non erit re<lb ed="#S" break="no" n="99"/>tro 
+          neque per divisibile neque per indivisibile si autem spatii longitudo 
+          <lb ed="#S" n="100"/>componeretur ex indivisibilibus antequam velox attingeret tardum nisi 
+          <lb ed="#S" n="101"/>tardum per plura instantia remaneret in eodem loco sibi aequali praecise quod iam 
+          <lb ed="#S" n="102"/>est inprobatum igitur 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1057">
+          <pc type="pilcrow">¶</pc> Ad 3m dicendum quod illud est multo fortius contra 
+          <lb ed="#S" n="103"/>eum sicut in responsione ad praecedens deduxi et reductionibus rationis 
+          <lb ed="#S" n="104"/>3e contra eum 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1067">
+          <pc type="pilcrow">¶</pc> ad aliud igitur quod contra omni hominem est respondere sicut <ref xml:id="aw98wa-xg4062-Rd1e1072">3o 
+          <lb ed="#S" n="105"/>londiniensis</ref>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1079">
+          <pc type="pilcrow">¶</pc> <pc type="pilcrow">¶</pc> ad 4m negandum est assumptum quia huius indivisibilia non sunt 
+          <lb ed="#S" n="106"/>factibilia sicut ostendi in <ref xml:id="aw98wa-xg4062-Rd1e1089">3o londiensis distinctione 13</ref> quod si daretur antecedens quam esset 
+          <lb ed="#S" n="107"/>neganda et assumptum etiam probans eam scilicet quod possent tollerari 
+          <lb ed="#S" n="108"/>in sitibus immediatis indivisibilibus distinctis immo diceretur tunc quod eo ipso essent 
+          <lb ed="#S" n="109"/>in eodem situ adaequato cuius oppositum ille non probat igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1099">
+          <pc type="pilcrow">¶</pc> ad primam 
+          <lb ed="#S" n="110"/>probationem primi antecedentis
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1107">
+          <pc type="pilcrow">¶</pc> dicendum quod nec oportet prima facie includere contradictionem 
+          <lb ed="#S" n="111"/>z?anum non <add place="margin-right">habere</add> 3s angelos aequales duobus rectis dato traingulo rectilineo 
+          <lb ed="#S" n="112"/>et tamen hoc deum posset non debet concedi quia oppositum ponit demonstrari et ista 
+          <lb ed="#S" n="113"/>est in proposito demonstrari enim potest talia non esse et tamen si essent possibilia 
+          <lb ed="#S" n="114"/>ex quo continua sunt in entibus essent etiam ista ut prius infini aut est 
+          <lb ed="#S" n="115"/>igitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1127">
+          <pc type="pilcrow">¶</pc> ad 2am probationem verum est quod assumitur ad sensum hunc quod deus potest 
+          <lb ed="#S" n="116"/>facere quod res quae nunc est lata maneat et tamen non sit lata 
+          <lb ed="#S" n="117"/>id est non secundum latum protensa sed ex hoc non sequitur proposito quod possit 
+          <lb ed="#S" n="118"/>facere indivisibile secundum si cum ex illo omni data non sequitur <unclear>ip huius</unclear> 
+          <lb ed="#S" n="119"/>esse in situ indivisibili sicut nec angelus nec anima nec deus quae 
+          <lb ed="#S" n="120"/>nec habent longitudinem nec aliam dimensionem et tamen in nullo situ indivisibili sunt 
+          <lb ed="#S" n="121"/>sed nec esse possunt et addo ex habundanti quia nullus est situs indivisibilis ut 
+          <lb ed="#S" n="122"/>ostendi supra et prolixe in <ref xml:id="aw98wa-xg4062-Rd1e1149">3o londiniensis distinctione 13</ref>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1152">
+          <pc type="pilcrow">¶</pc> ad 3am dicendum quod as<lb ed="#S" break="no" n="123"/>sumptum 
+          est verum quo ad hoc quod possit facere angelum in multis locis 
+          <lb ed="#S" n="124"/>simul quia potest facere quod angelus sit nullo loco existente vel extra caelum 
+          <lb ed="#S" n="125"/>ubi nullus locus est alio modo non et ideo <add place="above-line">non</add> sequitur propositum ut patet de se
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1167">
+          <lb ed="#S" n="126"/><pc type="pilcrow">¶</pc> ad 4am probationem sicut in 3o londiniensis 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1175">
+          <pc type="pilcrow">¶</pc> ad 5m dicendum quod non sequitur quin 
+          <lb ed="#S" n="127"/>deus noscat omnes partes continui et infinities infinitas sicut 
+          <lb ed="#S" n="128"/><unclear>tho</unclear> habet dicere quod omnes futuras vel omnes possibiles cogitationes 
+          <lb ed="#S" n="129"/>angelorum etiam infinities infinitiis unde isti non dicunt illud argumentum pon<lb ed="#S" break="no" n="130"/>derare 
+          sicut faciunt dicentes deum non posse nisi continuum componatur 
+          <lb ed="#S" n="131"/>ex solis finitis indivisibilibus iuste punire vulnerantem 
+          <lb ed="#S" n="132"/>aliquem eo quod nesciret quantum iste peccasset sicut nesciret quod partes 
+          <lb ed="#S" n="133"/>vulnerando divisisset iste 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1197">
+          Item nec quantum furtivo quis festis<lb ed="#S" break="no" n="134"/>set 
+          tollendo quantum vinum vel pariem vitini sui quia nesciret 
+          <lb ed="#S" n="135"/>quod partes abstulisset et sic de multis aliis quasi infinitis exemplis 
+          <lb ed="#S" n="136"/>et ponit semper hoc non posset slavari credenda de dei 
+          <pb ed="#S" n="205-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>scientia nisi ponatur continum finitum componi ex punctis finitis Sed certe hanc 
+          <lb ed="#S" n="2"/>consequentiam in simili repellit augustinum 12 de civitate dei contra quosdam dicen<lb ed="#S" break="no" n="3"/>tis 
+          ut patet in capitulo 17 nulla infinita scientia posset comprehendi contra quod 
+          <lb ed="#S" n="4"/>dicit ibi mentem divinam omnino inmutabilem cuiuslibet infinitis 
+          <lb ed="#S" n="5"/>capacem cognitive scilicet sive obiectiva et munera omnia sine cognitionis 
+          <lb ed="#S" n="6"/>alternatio <add place="margin-left">numerantem</add>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1227">
+          <pc type="pilcrow">¶</pc> Item consequenter contra istos loquitur capitulo 18 quod inquit dicunt nec 
+          <lb ed="#S" n="7"/>dei scientia quae infinita sunt posset comprehendi restat eis ut dicere 
+          <lb ed="#S" n="8"/>audiant atque huic voragini profundi impietatis immergant 
+          <lb ed="#S" n="9"/>quod non omnes numeros deus noviter eos quippe infinitos esse certis<lb ed="#S" break="no" n="10"/>simum 
+          est et hanc propositionem ibidem consequenter probat et sequitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1241">
+          Igitur <del rend="underline">et deus</del> 
+          <lb ed="#S" n="11"/>dispares inter se stque diversi scilicet numeri et singuli quicumque finiti sunt
+          <lb ed="#S" n="12"/>et omnes infiniti sunt ita ne numeros propter infinitatem nescit deus 
+          <lb ed="#S" n="13"/>omnes et usque ad quandam summam numerorum substantia dei proventi et ceteros 
+          <lb ed="#S" n="14"/>ignorat Et respondet dicens absit itque ut dubitemus quod ei 
+          <lb ed="#S" n="15"/>notus sic numeris cuius intelligentiae sicut in <unclear>psalmos</unclear> dicitur non est numeris 
+          <lb ed="#S" n="16"/>infinitas itaque numeri quam <unclear>nullus</unclear> infinitorum numerorum nullus sic numeris 
+          <lb ed="#S" n="17"/>non est tamen non comprehensibilis ei cui intelligit cuius intelligentiae non 
+          <lb ed="#S" n="18"/>est numeris haec ille et nota habent passum quia valet pro responsionibus quaesitonis proxime 
+          <lb ed="#S" n="19"/>praecedentis
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1271">
+          <pc type="pilcrow">¶</pc> Sed dices quod haec dicta augustini non sunt contra supra 
+          <lb ed="#S" n="20"/>dictum argumentum quia bene volo quod deus cognoscit infinita et infinitas 
+          <lb ed="#S" n="21"/>etiam cogitationes angelorum futuras quia hoc <del rend="underline">notandum</del> non est propter <add place="above-line">hoc</add> quod 
+          <lb ed="#S" n="22"/>cogitat summam et maximam multitudinem talium sed si continuum parvum 
+          <lb ed="#S" n="23"/>esset in infinitum divisibile contineret in se infinitas partes deus 
+          <lb ed="#S" n="24"/>non cognosceret maximam multitudinem partium istarum <pc type="punctus"/> quia nulla esset ibi maxima 
+          <lb ed="#S" n="25"/>multitudo possibilis nec finita nec infinita quia omni multitudine ibi as<lb ed="#S" break="no" n="26"/>signabili 
+          finita vel infinita ibi est adhuc maiore mul<lb ed="#S" break="no" n="27"/>titudo 
+          medietatum istius multitudinis finitae vel infinitae et hoc potest demonstrari 
+          <lb ed="#S" n="28"/>in exemplo ideo enim binarius <unclear>me?tum</unclear> huius continui non est maxima 
+          <lb ed="#S" n="29"/>multitudo partium eiusdem quod istarum <unclear>me?tum</unclear> partes sunt plures 
+          <lb ed="#S" n="30"/>binario igitur a simili
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1313">
+          <pc type="pilcrow">¶</pc> Et hoc confirmari potest pro conclusione illius quia si aliqua 
+          <lb ed="#S" n="31"/>sit maxima multitudo partium huius continui finita vel infinita cogitata 
+          <lb ed="#S" n="32"/>a deo tunc alia sunt ista multitudo maxima consequens est falsum quia quaelibet singularis 
+          <lb ed="#S" n="33"/>huius indefinite est falsa dentur enim illa si cum dari possunt 
+          <lb ed="#S" n="34"/>et haec erit falsa ista sunt maxima multitudo partium huius continui quia alia pu<lb ed="#S" break="no" n="35"/>ta 
+          <unclear>medietas</unclear> <unclear>de?etorum</unclear> quae prius non <unclear>de?abantur</unclear> sunt maior multitudo 
+          <lb ed="#S" n="36"/>quam ista sicut arguebatur quaestione proxima ista praecedente
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1339">
+          <pc type="pilcrow">¶</pc> Sed haec evasiva 
+          <lb ed="#S" n="37"/>argumento non satisfacit quia constat nulla esse in entibus secundum multitudinem 
+          <lb ed="#S" n="38"/>infinita nisi partes compositorum continuorum vel aliorum et tamen secundum augustinum numeros 
+          <lb ed="#S" n="39"/>esse infinitos certissimum est et hic extendendo nomen numeri non solum 
+          <lb ed="#S" n="40"/>ad materialia per se existentia sed inexistentia quibusdam totis dummodo 
+          <lb ed="#S" n="41"/>totaliter abinvicem sint distincta igitur partes compositorum sunt infinite nisi ultra 
+          <lb ed="#S" n="42"/>omnem divisionem assignabilem esset alia possibilis sicut iste met tenet et notum est 
+          <lb ed="#S" n="43"/>ergo angelus ponit infinitatem a deo cognsoci et esse in entibus quam iste 
+          <lb ed="#S" n="44"/>negat
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1362">
+          <pc type="pilcrow">¶</pc> praeterea sicud iam plane voluit augustinus infiniti sunt numeri quorum 
+          <lb ed="#S" n="45"/>quilibet es finitus multitudo enim infinita numeris non est sicud augustinum 
+          <lb ed="#S" n="46"/>etiam ibi dicit quod infinitorum numerorum nullus est numeris et Aristoteles 5 metaphysicae 
+          <lb ed="#S" n="47"/>dicit quod multitudo si finita et numerabilis fuerit numerus est imminens mu<lb ed="#S" break="no" n="48"/>ltitudinem 
+          infinitam numerum non esse
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1376">
+          <pc type="pilcrow">¶</pc> Ex hiis arguo nulla est maxima multitudo 
+          <lb ed="#S" n="49"/>possibilis numerorum sive finitarum multitudinum nam sicut probat <ref xml:id="aw98wa-xg4062-Rd1e1383">augustinus 14 c</ref>
+          <lb ed="#S" n="50"/>ubi prius omnem multitudinem finite sive numerum addi potest uniter et statim 
+          <lb ed="#S" n="51"/>hoc facto habetur multitudo maior priore ymmo sicut arguit omnis 
+          <lb ed="#S" n="52"/>multitudo finita sive numeris duplicari potest immo et multiplicari igitur 
+          <lb ed="#S" n="53"/>nulla multitudo finita est maxima multitudo possibilis igitur deus non cognoscit 
+          <lb ed="#S" n="54"/>maximam multitudinem possibilem numerorum vel infinitarum multitudinum Igitur sicud 
+          <lb ed="#S" n="55"/>tu arguis quod deus noscit quod sunt partes huius continui vel quae sit 
+          <lb ed="#S" n="56"/>maxima multitudo partium ipsius ita nec novit dicam ego 
+          <lb ed="#S" n="57"/>ter quod sunt multiplices finitae possibiles nec maximam multitudinem finitorum 
+          <lb ed="#S" n="58"/>multitudinum possibilium consequens est ita absurdum ex ista parte inquam 
+          <lb ed="#S" n="59"/>incidis necessario sed argumentum tuum procedat dicam ergo sicut ex alia per 
+          <lb ed="#S" n="60"/>te ubi facit argumentum igitur vel non est inconveniens ad quod deducit 
+          <lb ed="#S" n="61"/>vel se est in <del rend="expunctuation">id</del> eodem argumento incidit quod concedo 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1415">
+          <pc type="pilcrow">¶</pc> ad formam igitur 
+          <lb ed="#S" n="62"/>argumenti cum dicit quod data infinitate partium huius continui deus nesci<lb ed="#S" break="no" n="63"/>ret 
+          quod partes istius produxisset
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1425">
+          <pc type="pilcrow">¶</pc> dicendum quod non sequitur qd verum sensum 
+          <lb ed="#S" n="64"/>sumendo toto et quot quia deus novit quod toto scilicet duas pro<lb ed="#S" break="no" n="65"/>duxit 
+          et tot 13 et sic in infinitum procedendo et non sequitur ideo consequens 
+          <lb ed="#S" n="66"/>de virtute sermonis sumptum ubi significatur quod nulla <unclear>qua</unclear> produxit novit 
+          <lb ed="#S" n="67"/>si autem intelligeretur consequens cum praestitione sit scilicet deus nescit quot 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="68"/>praecise ita quod tot et non plura produxerit verum est quia nulla est ibi maxima 
+          <lb ed="#S" n="69"/>multitudo partium significabilis distinctive computative vel numerative tot enim et quod non 
+          <lb ed="#S" n="70"/>conveniunt nisi finitis multitudinibus proprie loquendo et ideo non est inconveniens quod nullam 
+          <lb ed="#S" n="71"/>talem maximam quae sit numerus noverit sicut nec novit perfectissimam 
+          <lb ed="#S" n="72"/>rem ab eo producibilem quia nulla talis est a deo producibilis nec cognoscibilis sicut nec 
+          <lb ed="#S" n="73"/>novit hominem esse asinum et huius nec ut prius exemplificavi novit 
+          <lb ed="#S" n="74"/>multitudinem maximam possibilem quia nullam talem contingit assignare quae 
+          <lb ed="#S" n="75"/>sic maxima multitudo finita possibilis
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1461">
+          <pc type="pilcrow">¶</pc> Dices forte quod deus no<lb ed="#S" break="no" n="76"/>vit 
+          omnes partes huius continui et si hoc igitur et multitudinem totam omnium partium 
+          <lb ed="#S" n="77"/>huius continui sed totalis multitudo omnium partium huius continui est maxima mul<lb ed="#S" break="no" n="78"/>titudo 
+          eorumdem igitur aliqua est maxima multitudo omnium partium huius continui 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1474">
+          <lb ed="#S" n="79"/><pc type="pilcrow">¶</pc> Praeterea deus videt in hoc continuo aliam multitudinem partium cuius multitudinis 
+          <lb ed="#S" n="80"/>nihil est par<del rend="expunctuation">i</del>s vel partes nisi aliquid huius continuum et cuius <unclear>quilibet<!-- correction --></unclear> intrinseca 
+          <lb ed="#S" n="81"/>et quilibet huius continui est pars vel partes ista autem multitudo quae omnem 
+          <lb ed="#S" n="82"/>partem huius <add place="margin-center">continui</add> sicut suam unitatem vel unitates contineret et praecise partem 
+          <lb ed="#S" n="83"/>vel partes huius est maxima multitudo partium huius continui igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1500">
+          <pc type="pilcrow">¶</pc> praeterea omnes 
+          <lb ed="#S" n="84"/>huius continui partes cathegorimatice loquendo sunt maxima multitudo ut videtur 
+          <lb ed="#S" n="85"/>partium huius continui quia ex quo omnes simul sumptae <add place="margin-right">nullam praetermittunt videtur quod omnes simul sumptae</add> sunt maxima 
+          <lb ed="#S" n="86"/>multitudo huius continui
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1515">
+          <pc type="pilcrow">¶</pc> ad primum istorum et ad sequentia concedo conclusiones 
+          <lb ed="#S" n="87"/>illatas <pc type="punctus"/>  sed si tenerem contrarium sicut quandoque feci dicerem consequenter quod 
+          <lb ed="#S" n="88"/>deus novit omnes partes huius sed consequentiam negarem tunc propter primam 
+          <lb ed="#S" n="89"/>implicationem consequentis inplicat enim aliam multitudinem esse quae sit omnis par<lb ed="#S" break="no" n="90"/>tes 
+          huius continui quod negarem si viam hanc ad hoc tenerem 
+          <lb ed="#S" n="91"/>ut multi subtilies faciant minimus vere nec est alia totalis mul<lb ed="#S" break="no" n="92"/>titudo 
+          huius continui partium omnium id est quae sit omnes partes huius continui cum haec 
+          <lb ed="#S" n="93"/>sit particularis cuius quaelibet singularis falsa est si faciat dictam significationem 
+          <lb ed="#S" n="94"/>seu <unclear>d?tionem</unclear> dicerem tunc et per idem patet 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1542">
+          ad 2m dicerem enim 
+          <lb ed="#S" n="95"/>quod falsum assumitur et minor illius deductionis falsa est pro falsa inplicationem
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1547">
+          <lb ed="#S" n="96"/><pc type="pilcrow">¶</pc> ad 3m per idem quia in assumpto inplicatur falsum scilicet quod alia sint 
+          <lb ed="#S" n="97"/>omnes partes continui huius simul sumptae et haec falsa est quia quaelibet singularis 
+          <lb ed="#S" n="98"/>eset sit falsa si faciat distinctam demonstrationem ideo antecedens falsum diceretur consequenter <unclear>falsitas</unclear>
+          <lb ed="#S" n="99"/><del rend="underline">quod</del> etiam aliun<add place="above-line">de</add> patet diceret sit respondens quia scilicet eius contra vera est scilicet haec nullae 
+          <lb ed="#S" n="100"/>partes simul sumptae huius continui sunt maxima multitudo huius continui et<lb ed="#S" break="no" n="101"/>c 
+          nam huius quaelibet singularis est vera sicut patet inductive quaecumque 
+          <lb ed="#S" n="102"/>distincte demonstrarentur Sed dices forte quod ymmo alia sunt omnes 
+          <lb ed="#S" n="103"/>partes huius continui <add place="margin-right">simul sumptae et si hoc igitur aliqua multa et per consequens aliqua multitudo igitur omnes partes huius continui</add> quia isti termini aliqua multa alia multitudo convertuntur 
+          <lb ed="#S" n="104"/>Sed si alia multitudo sic omnes partes simul sumptae huius continui ista est 
+          <lb ed="#S" n="105"/>maxima multitudo partium huius continui igitur alia est multitudo maxima partium 
+          <lb ed="#S" n="106"/>huius continui antecedens probatur quia dato quod unum frumenti granum claudatur 
+          <lb ed="#S" n="107"/>in manu mea haec est vera si formetur omnes partes huius grani sunt 
+          <lb ed="#S" n="108"/>in manu mea vel sunt in mundo igitur et haec omnes partes huius continui 
+          <lb ed="#S" n="109"/>simul suptae sunt in manu onea vel in mundo <pc type="punctus"/> tum quia constat quod nulla 
+          <lb ed="#S" n="110"/>pars raitonem vel aprtes eius sunt exempla manum meam vel extra mundum 
+          <lb ed="#S" n="111"/>isto casu posito cum quia universalis affirmativa <unclear>m?no?</unclear> plurali sumpta 
+          <lb ed="#S" n="112"/>divisive semper videtur inferre sicut unam de suis singularibus eandem 
+          <lb ed="#S" n="113"/>sumptam collective ita quod veritas in sensu divisivo infert veritatem 
+          <lb ed="#S" n="114"/>in sensu collectivo semper licet econtra non oporteat nam si omnes apostoli 
+          <lb ed="#S" n="115"/>essent 12 sumpto li omnes divisive omnes apostoli essent 12 sumpto 
+          <lb ed="#S" n="116"/>li omnes collective sed non convertitur et si omnes partes huius gratiam simul sump<lb ed="#S" break="no" n="117"/>tae 
+          sunt in manu mea igitur alia entia in manu mea sunt omnes partes 
+          <lb ed="#S" n="118"/>simul sumptae huius continui <unclear>igitur</unclear> sequitur omnes apostoli simul sumpti <add place="margin-right">sunt 12 igitur aliqua 12 sunt omnes apostoli simul sumpti</add> sicud pro me 
+          <lb ed="#S" n="119"/>arguitur <add place="margin-left">aliqualiter</add> quaestione praecedenti et sentio ita esse pro <unclear>nunc</unclear> licet aliter <unclear>sensim</unclear> aliquando 
+          <lb ed="#S" n="120"/>et si perserverassem in eadem sententia tunc dicerem ad istud primum quod 
+          <lb ed="#S" n="121"/>assumptum est falsum et ad eius pro bonum concedendum videretur ulterius secundum hanc 
+          <lb ed="#S" n="122"/>viam quod omnes partes huius grani sunt in manu mea et etiam eius 
+          <lb ed="#S" n="123"/>conversa quod aliqua existentia in manu mea sunt omnes partes huius gratia 
+          <lb ed="#S" n="124"/>in sed ex hac universali non sequitur ista alia ubi li omnes tenetur collative 
+          <lb ed="#S" n="125"/>ymmo illa tenetur falsa est et etiam ista particularis inquam <unclear>convertis</unclear> eam licet ista 
+          <lb ed="#S" n="126"/>conversio bona sit ista enim in proposito in qua li omnes tenetur collective 
+          <lb ed="#S" n="127"/>falsa est propter falsam inplicationem quia scilicet inplicat quod alia sint omnes partes 
+          <lb ed="#S" n="128"/>huius simul sumptae et probatio facta per eam non probat nisi universalem illam 
+          <lb ed="#S" n="129"/>ubi li omnes tenetur divisive sine simpliciter universaliter
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1655">
+          <pc type="pilcrow">¶</pc> ad 2am eius 
+          <lb ed="#S" n="130"/>probationem dicendum <unclear>urentur</unclear> quod assumptum non est universaliter verum quando fit distri<lb ed="#S" break="no" n="131"/>butio 
+          pro infinitis isto modo cum quo nunc respondendi non sensio 
+          <lb ed="#S" n="132"/>esse verum et ideo pro me teneo sicut prius de isto puncto in proxima
+          <pb ed="#S" n="205-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quaestione praecedenti dicebat
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1677">
+          <pc type="pilcrow">¶</pc> ad 5am probationem dicendum quod angelus non discutit ibi an 
+          <lb ed="#S" n="2"/>sit sed loquitur ibi tamquam sint secundum opinionem famosam antiquorum eodem modo 
+          <lb ed="#S" n="3"/>dico ad 7 de anselmo et ad 8 et ad 10 de <unclear>aristotele</unclear>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1689">
+          <pc type="pilcrow">¶</pc> ad 9m autem ne<lb ed="#S" break="no" n="4"/>ganda 
+          est minor ymmo illa via data cum principiis aliis istius <c>c</c> inpossibile 
+          <lb ed="#S" n="5"/>est salvare condensationem et rarefactionem ut prius visum est
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1701">
+          <pc type="pilcrow">¶</pc> Sed contra haec omnia 
+          <lb ed="#S" n="6"/>ad hoc potest argui per omnipotentiam dei sicut ad punctum cuiusdam dubii 
+          <lb ed="#S" n="7"/>praecedentis quod quia significando partes proportionales manifesta longitudine spatii per transeu<lb ed="#S" break="no" n="8"/>ndi 
+          scilicet primam quae sit prima pars proportionalis in illo ordine et primam <unclear>mediantem</unclear> 
+          secundae medietatis et sic in infinitum procedendo movetur aliquod rariter seu uniformiter 
+          <lb ed="#S" n="9"/>a principio istius longitudinis usque in finem et in instanti quo provenit ad finem 
+          <lb ed="#S" n="10"/>2ae partis proportionalis dividat illam a posterioribus et sic consequenter donec 
+          <lb ed="#S" n="11"/>totus motus fuerit per factus quo facto deventum erit ad indivi<lb ed="#S" break="no" n="12"/>sibile 
+          quia ultra omne divisibile erat dare partem proportionalem in 
+          <lb ed="#S" n="13"/>tali ordine illa parte divisibili minorem <unclear>quam<!-- correction here? --></unclear> ante deus sic possit divi<lb ed="#S" break="no" n="14"/>dere 
+          patet quia non est minoris potentiae in sic dividendo quam mobile cre<lb ed="#S" break="no" n="15"/>atum 
+          in pertranseundo istas successive constat etiam ut videtur quod deus 
+          <lb ed="#S" n="16"/>posset omnem partem talem in instanti quo pertransitur primo sive est pertransita 
+          <lb ed="#S" n="17"/>ipsam adnihilare igitur eadem ratione a posterioribus dividere similiter in omni 
+          <lb ed="#S" n="18"/>instanti quo mobile pertransisset <add place="margin-left">primo aliqua</add> <del rend="expunctuation">prima</del> istarum partium proportionabilium posset 
+          <lb ed="#S" n="19"/>aliam similem et aequalem creare et partibus prius pertransitisi adnihilare vel 
+          <lb ed="#S" n="20"/>per se existente producere aliter non videretur omnipotens sed hoc fact in fine 
+          <lb ed="#S" n="21"/>motus habetur indivisibile Nam nullum divisibile posset huius processus terminare 
+          <lb ed="#S" n="22"/>et tamen constat quod motus iste terminatur similiter et processus operationis divinae praedictae 
+          <lb ed="#S" n="23"/>poterit terminari ergo
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1758">
+          <pc type="pilcrow">¶</pc> ad istud dubium sicut in quaestione praecedenti dictum est 
+          <lb ed="#S" n="24"/>quod prima deductio supponit unum falsum valet quod ille processus <unclear>inobstitione</unclear>
+          <lb ed="#S" n="25"/>partium istarum proportionalium infinitarum compleri valeat hoc enim inpossibile 
+          <lb ed="#S" n="26"/>est quamvis non sic dare statum ad aliam <unclear>abstitionem</unclear> partis cuiuscumque quin 
+          <lb ed="#S" n="27"/>post istam possit procedere ulterius <unclear>absi?do</unclear> isto modo aliam et aliam sed 
+          <lb ed="#S" n="28"/>numquam poterit pertingere ad ultimam possibilem quia nulla est ultima possibilis sicut 
+          <lb ed="#S" n="29"/>deus ultra omnem multitudinem finitam potest facere multitudinem finitam maiorem et 
+          <lb ed="#S" n="30"/>tamen non potest facere <add place="margin-left">finitam possibilem ultimam</add> <del rend="underline">possibilem</del> quia nulla potest esse ultima possibilis repugnantia igitur ibi 
+          <lb ed="#S" n="31"/>est ex parte illorum quae ymaginari possunt esse falsa et nullus propter hoc sequitur defectus 
+          <lb ed="#S" n="32"/>vel insufficientia divinae potentiae et cum probatur quod deus possit sic dividere primo 
+          <lb ed="#S" n="33"/>quia non est minoris <add place="margin-left">omni</add> potentiae in dividendo quamquam mobile isto modo in pertranseundo 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1801">
+          <lb ed="#S" n="34"/><pc type="pilcrow">¶</pc> dicendo quod haec non est propter minoritatem vel insufficientiam potentiae divisive sed propter in 
+          <lb ed="#S" n="35"/>componentem ex parte obiecti ex una parte et non ex alia ipse enim infini<lb ed="#S" break="no" n="36"/>tae
+          partes datae proportionales sunt ultimae per transibiles et tamen non sunt ul<lb ed="#S" break="no" n="37"/>timate 
+          sic divisibiles eo quod semper ubi stabitur vel staretur illud ad quod statur habet par<lb ed="#S" break="no" n="38"/>tes 
+          ad invicem divisibiles
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1816">
+          <pc type="pilcrow">¶</pc> ad 2am probationem bene volo quod omnem proportionalem partis 
+          <lb ed="#S" n="39"/>potest sic adnihilare quia de nullo potest poni instantia sed ex hoc non sequitur quod pos<lb ed="#S" break="no" n="40"/>sit 
+          omnes adnihilare <add place="above-line">in</add> instantibus quibus sigillatim essent pertransitae ista quod 
+          <lb ed="#S" n="41"/>inter quaslibet duas adnihilationes <unclear>me?et</unclear> tempus in quo nihil ad 
+          <lb ed="#S" n="42"/>nihilum haec addo quia bene volo quod posset omnes successive adnihila<lb ed="#S" break="no" n="43"/>re 
+          sine interruptione in adnihilando sicud omnes possunt esse pertransitae per 
+          <lb ed="#S" n="44"/>non interrumptam transitionem et eodem modo proportionaliter dicendum est ad 3am probationem 
+          <lb ed="#S" n="45"/>quod in omni instanti posset etc Sed non posset producere in omnibus illis instantibus 
+          <lb ed="#S" n="46"/>sic quod inter quaelibet duo instantia esset tempus in quo nullam partem produ<lb ed="#S" break="no" n="47"/>ceret sed per unam continuatam productionem unum continuum ex partibus aequali<lb ed="#S" break="no" n="48"/>bus 
+          producere tantum posset
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1850">
+          <pc type="pilcrow">¶</pc> Restat 4us articulus <unclear>vt</unclear> est hic in dispositionem 
+          <lb ed="#S" n="49"/>et dubium ut iam dixi quod sit haec informa utrum quodlibet continuum habeat 
+          <lb ed="#S" n="50"/>partes proportionales infinitas
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1862">
+          quod non videtur quia si sic moveat igitur deus verum 
+          <lb ed="#S" n="51"/>angelum si angelus non possit sit movere semet ipsum super unum 
+          <lb ed="#S" n="52"/>spatium sic quod incipiat a prima <unclear>ma?re</unclear> et fine illius partis antequam ulterius 
+          <lb ed="#S" n="53"/>procedat per tantum tempus praecise quiescat quanto motu uniformi pertran<lb ed="#S" break="no" n="54"/>sivit 
+          istam partem et ex tunc similiter et moveatur super 2am et in fine 
+          <lb ed="#S" n="55"/>illius quiescat tanto tempore quanto movebatur super eam et sic semper deinceps 
+          <lb ed="#S" n="56"/>donec totum illud spatium pertransiverit si tamen hoc sit possibile et capi<lb ed="#S" break="no" n="57"/>atur 
+          primum instans quo verum sic dicere aliquando pertransisse illud spatium et hoc sit 
+          <lb ed="#S" n="58"/>possibile tunc immediate ante illud instans quievit qui plus quolibet instans ante illud instans mo<lb ed="#S" break="no" n="59"/>vebatur 
+          et post quodlibet instans ante illud quievit et ista immediate ante quievit et im<lb ed="#S" break="no" n="60"/>mediate 
+          ante monebatur nec sufficit dicere ut videtur quod non deveniet ad 
+          <lb ed="#S" n="61"/>finem quia moveatur unus alius angelus super illud aequale spatium uniformiter motu 
+          <lb ed="#S" n="62"/>aeque veloci continuo tamen sine interruptione quietis ita quod deveniat 
+          <lb ed="#S" n="63"/>ad finem istius spatii in verba hora tunc sit ille angelus qui quievit so<lb ed="#S" break="no" n="64"/>lis 
+          quievit <unclear>per tantum</unclear> tempus per quantum movebatur ex casu igitur pertransibit illud 
+          <lb ed="#S" n="65"/>spatium in duabus horis ex quo 2us angelus pertransiit suum aequale 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>spatium motu omnino simili per unam horam dicitur forte sicud multi respondent in 
+          <lb ed="#S" n="67"/>simili quod prius angelus totum spatium suum pertransibit in duabus hominis et ulterius 
+          <lb ed="#S" n="68"/>conceditur quod immediate ante ultimum instans motus movebatur et immediate etiam ante illud qui<lb ed="#S" break="no" n="69"/>evit 
+          nec sequitur igitur simul movebatur et quievit exemplum si quaelibet alterna pars proportiona<lb ed="#S" break="no" n="70"/>lis 
+          super quod debet esse motus <add place="above-line">esset</add> <c>a</c> et quaelibet alterna alia <c>b</c> et incipiat aliquid mo<lb ed="#S" break="no" n="71"/>veri 
+          super illud spatium ex ea parte ubi non est dare ultimam partem 
+          <lb ed="#S" n="72"/>proportionalem tunc istud mobile immediate post prius instans erit super <c>a</c> et immediate 
+          <lb ed="#S" n="73"/>erit super <c>b</c> et tamen non erit simul super <c>a</c> et super <c>b</c>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1937">
+          <pc type="pilcrow">¶</pc> Contra istam responsionem 
+          <lb ed="#S" n="74"/>potest sic argui si immediate ante instans significatum movebatur igitur movebatur ante 
+          <lb ed="#S" n="75"/>illud instans et non quievit ante ipsum postquam movebatur et eodem modo arguo 
+          <lb ed="#S" n="76"/>pro isto instanti si immediate ante illud quievit igitur quievit ante illud <subst><del rend="underline">si</del> <add place="above-line">et</add></subst> non mo<lb ed="#S" break="no" n="77"/>ve<add place="above-line">b</add>atur 
+          postquam quievit si haec igitur non immediate ante movebatur et e<lb ed="#S" break="no" n="78"/>adem 
+          via probabitur ex proportione priori quod non immediate ante quievit et sic 
+          <lb ed="#S" n="79"/>sequitur utrumque contradictorium ex utraque parte
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1966">
+          <pc type="pilcrow">¶</pc> praeterea quod numquam deveniet ad finem 
+          <lb ed="#S" n="80"/>sic procedendo videtur quia si sic et constat quod dum quiescit illud mobile deus po<lb ed="#S" break="no" n="81"/>terit 
+          partem super quam quiescit dividere a parte proxima sequente semper igitur potuerunt 
+          <lb ed="#S" n="82"/>simul esse partes iste infinite proportionales actu divisae ab invicem et compleri 
+          <lb ed="#S" n="83"/>divino continui infinita si non ad indivisibili erit status et videtur si complebitur huius 
+          <lb ed="#S" n="84"/>divino quod videtur contra naturam continui
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e1983">
+          <pc type="pilcrow">¶</pc> Item ponatur quod deus acceptet talem angulum 
+          <lb ed="#S" n="85"/>quando movetur et reprobet quando quiescit et quod in ultimo instanti sic primo extra statum 
+          <lb ed="#S" n="86"/>meriti vel demeriti tunc quaero utrum talis sit damnatus vel salvatus et 
+          <lb ed="#S" n="87"/>neutrum poterit dari quia immediate ante illud instans fuit in statu dampnationis et im<lb ed="#S" break="no" n="88"/>mediate 
+          ante illud instans fuit in statu salutis igitur non est maior ratio quod 
+          <lb ed="#S" n="89"/>dampnetur quam quod salvetur igitur vel utrumque erit vel neutrum 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2000">
+          <pc type="pilcrow">¶</pc> praeterea iuxta primum argumentum 
+          <lb ed="#S" n="90"/>non est verum quando aliquid acquirit terminum aliquem motus per hoc quod movebatur per 
+          <lb ed="#S" n="91"/>illud terminum quoniam oportet in alio instanti in quo iste termino <add place="margin-right">est primo</add> acquisitus quod haec sit vera si for<lb ed="#S" break="no" n="92"/>metur 
+          haec movebatur et non quievit postquam movebatur quia si postea 
+          <lb ed="#S" n="93"/>quievisset tunc non immediate ante movebatur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2019">
+          <pc type="pilcrow">¶</pc> aliter forte diceretur ad hoc 
+          <lb ed="#S" n="94"/>argumentum principale quia si sic moveretur et quiesceret sicut casus ponit usque 
+          <lb ed="#S" n="95"/>in finem 2arum horam quod tunc pertransivisset sic ymaginando et disponendo inter 
+          <lb ed="#S" n="96"/>scalariter motiones et quietos totum spatium ubi enim alibi foret 
+          <lb ed="#S" n="97"/>in fine 2arum horarum sed inpossibile <add place="margin-right">est</add> quod ita dius secundum talem dispositionem move<lb ed="#S" break="no" n="98"/>atur 
+          et quiesc<del rend="expunctuation">i</del>eret sed <del rend="expunctuation">totaliter<!-- possible correctio to "qua"--></del> super primam partem proportionalem potest sic moveri et 
+          <lb ed="#S" n="99"/>in fine istius motus praecise per tempus tantum quiescere quanto movebatur constat 
+          <lb ed="#S" n="100"/>et eadem ratione de 2a et de 3a ymmo nullibi poterit poni instantia igitur 
+          <lb ed="#S" n="101"/>et totum spatium poterit taliter pertransire vel saltem deus poterit talem dis<lb ed="#S" break="no" n="102"/>positionem 
+          movendi et quiesciendi circa idem mobile per 2as horas <unclear>conti??</unclear> quod si fiat 
+          <lb ed="#S" n="103"/>spatium erit pertransitum ut datum est igitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2059">
+          <pc type="pilcrow">¶</pc> praetera planum est quod multum potest 
+          <lb ed="#S" n="104"/>deus sic procedere ut pote per unam horam <add place="margin-right">ymmo per unam horam</add> condividia ymmo nec est aliquod tempus 
+          <lb ed="#S" n="105"/>infra 2as horas ista magnum quin ultra illud <unclear>val?</unclear> talem processus
+          <lb ed="#S" n="106"/>continuare igitur et usque ad finem istarum 2arum horarum et habetur propositum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2077">
+          <pc type="pilcrow">¶</pc> Item ad principale 
+          <lb ed="#S" n="107"/>arguitur sic si sic sit igitur quod deus <unclear>albi?n</unclear> quamlibet alternam partem proportionalem 
+          <lb ed="#S" n="108"/>alicuius continui terminati ad <c>a</c> et omnes alias <unclear>nigrefaciat</unclear> tunc quaero ex 
+          <lb ed="#S" n="109"/>parte <c>a</c> ubi non est dare ultimam partem proportionalem ante alia pars proportionalis 
+          <lb ed="#S" n="110"/><unclear>immediata</unclear> illi <c>a</c> sit alba vel nigra Si alba contra ista pars quaecumque 
+          <lb ed="#S" n="111"/>detur continet infinitas nigras <pc type="punctus"/>  si nigra contra ista continet infinitas albas
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2108">
+          <lb ed="#S" n="112"/><pc type="pilcrow">¶</pc> praeterea si sic volo igitur quod unum calidum habens calorem duplo intensio<lb ed="#S" break="no" n="113"/>rem 
+          in prima parte sua proportionali quam in 2a <add place="margin-right">et ista in 2a</add> quam in 3a et sic in infinitum approxi<lb ed="#S" break="no" n="114"/>metur 
+          aliter passo secundum illud extremum versus quod proceditur ad minores partes 
+          <lb ed="#S" n="115"/>proportionales et quaero tunc <c>a</c> iste totus calor potest producere calorem in 
+          <lb ed="#S" n="116"/>passo approximato ex parte ista aut non si non contra tunc sequitur quod non esset eius<lb ed="#S" break="no" n="117"/>dem 
+          rei cum aliis caloribus si sic contra tunc sequitur quod iste calor esset 
+          <lb ed="#S" n="118"/>infinitae remissionis consequens est falsum nam dato quod sic finitae remissionis
+          <lb ed="#S" n="119"/>tunc oportet quod se habeat in alia proportione certa ad primam partem proportionalem illius 
+          <lb ed="#S" n="120"/>caloris qui debet illum calorem producere ponatur igitur gratia exempli quod sit in 
+          <lb ed="#S" n="121"/>decuplo solum inperfectior et remissior hoc dato sequitur quod Xma pars 
+          <lb ed="#S" n="122"/>proportionalis a prima erit eiusdem remissionis vel maioris tum illo 
+          <lb ed="#S" n="123"/>calore producto et inter illum Xm gradum et calorem productum erunt 
+          <lb ed="#S" n="124"/>infiniti calores remissiores calore producto et ita calor produc<lb ed="#S" break="no" n="125"/>tus 
+          esset intensior calore sibi immediate productio quod est inpossibile secundum naturam
+          <lb ed="#S" n="126"/>igitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2150">
+          <pc type="pilcrow">¶</pc> praeterea si sic volo tunc quod aliquod corpus fiat calidum usque praecise ad super<lb ed="#S" break="no" n="127"/>ficiem 
+          corporis continentis ipsum quaero igitur utrum sic dare primum instans in 
+          <lb ed="#S" n="128"/>quo totum est calidum aut ultimum in quo totum non est casum quia alterum ho<lb ed="#S" break="no" n="129"/>rum 
+          oportet et non secundum quia in illo restat ad hoc aliquid acquirendum de calore 
+          <lb ed="#S" n="130"/>quia volo quod nullus calor ibi simul producatur et ista <unclear>ens<!-- corrected? --></unclear> illud non est ul<lb ed="#S" break="no" n="131"/>timum 
+          in quo totum continuum <add place="margin-right">non est calidum</add> quia pars aliqua calefacienda tunc ad hoc per par<lb ed="#S" break="no" n="132"/>tem 
+          ante partem et modo simul calefiet <pc type="punctus"/>  si primum contra accipio calorem produc<lb ed="#S" break="no" n="133"/>tum 
+          in parte <unclear>superficiali</unclear> <unclear>versus</unclear> quam processit motus in parte inquam immediata
+          <pb ed="#S" n="206-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>continenti sine protensa usque ad continens iste calor prius producitur in hac 
+          <lb ed="#S" n="2"/>parte secundum gradum remissum quam secundum intensum igitur non est dare primum instans in 
+          <lb ed="#S" n="3"/>quo ista pars sic califacienda contra omne continuum est divisibile in infinitum igitur
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2196">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="4"/>quaestionem dico quod sic sicud patet in <ref xml:id="aw98wa-xg4062-Rd1e2203">3o londiensis</ref>
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2207">
+          <pc type="pilcrow">¶</pc> ad primum in contrarium dicendum est quod secundum unde 
+          <lb ed="#S" n="5"/>modum dicendi quem in simili satis prosecutus sive in <ref xml:id="aw98wa-xg4062-Rd1e2214">3o londiniensis</ref> de divisione 
+          <lb ed="#S" n="6"/>continui secundum tales partes sive secundum fines talium partium licet deus possit sit pro<lb ed="#S" break="no" n="7"/>cedere 
+          quantum <add place="margin-left">si placebit</add> <del rend="underline">inprobabit</del> finite ista quod non sit dare ultimum quin ultra 
+          <lb ed="#S" n="8"/>omne datum procedere valeat tum sicud inpossibile est divisionem continui ordinatione 
+          <lb ed="#S" n="9"/>isto consummari ista inpossibile est in proposito totum istum ordinem infinitorum 
+          <lb ed="#S" n="10"/>secundum ymaginationem casus completum esse et hunc modum respondendi tenui in quaestione 
+          <lb ed="#S" n="11"/>praecedenti et teneo <pc type="punctus"/>  quia tum probabiliter multum mihi videtur dicitur tenentes quod angelo 
+          <lb ed="#S" n="12"/>moto motu continuo uniformi super aliquod spatium potest deus semper in instanti quo 
+          <lb ed="#S" n="13"/>venerit ad finem alicuius partis proportionalis istam partem <del rend="expunctuation">non</del> ab omnibus sequenti<lb ed="#S" break="no" n="14"/>bus 
+          dividere et quod sicut motus angeli in brevi tempore compleri potest 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2248">
+          <pc type="virgula">//</pc> <unclear>Si</unclear> per 
+          <lb ed="#S" n="15"/>partes infinitas ita et divisiones huius infinitae si deo placebit ista semper 
+          <lb ed="#S" n="16"/>dividere quod contradictionem non apparet evidenter concludere <pc type="punctus"/> Ideo quamvis <ref xml:id="aw98wa-xg4062-Rd1e2262">priorem modum 
+          <lb ed="#S" n="17"/>londiniensis</ref> tenuerim et ad hoc teneam vicarie tamen responsio nunc secundum secundam 
+          <lb ed="#S" n="18"/>viam
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2270">
+          <pc type="pilcrow">¶</pc> Concederem <add>igitur</add> ad argumentum quod bene erit possibile dare primum instans quo an<lb ed="#S" break="no" n="19"/>gelus 
+          sic a deo motus quietibus interpositis pertinget ad finem talis spatii 
+          <lb ed="#S" n="20"/>utpote in instanti terminante cuius duarum horarum si modificatur casus sicut postea 
+          <lb ed="#S" n="21"/>sit in argumento et cum arguitur quod tunc inmediate <add place="above-line">an</add> <del rend="underline">post</del> illud instans movebatur verum 
+          <lb ed="#S" n="22"/>est et similiter quod immediate ante illud instans quiescebat quia nullo tempore medietate vel in<lb ed="#S" break="no" n="23"/>tercepte 
+          quievit et movebatur patet inductive quodcumque et quantumcumque parvum 
+          <lb ed="#S" n="24"/>daretur et hoc satis patet in responsione eorum qui tenent istam partem substantia in 
+          <lb ed="#S" n="25"/>argumento positam
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2299">
+          <pc type="pilcrow">¶</pc> ad primam reductionem neganda est consequentia si tamen li movebatur 
+          <lb ed="#S" n="26"/>in consequente permittetur stare partialiter ad istum sensum movebatur et non qui<lb ed="#S" break="no" n="27"/>evit 
+          ante illud instans <add place="margin-left">postquam</add> movebatur id est post aliquod tempus in quo movebatur 
+          <lb ed="#S" n="28"/>patet enim quod non valet si loco antecedentis ponatur sua exponens vel aequivalens 
+          <lb ed="#S" n="29"/>haec valet nullum fuit tempus inter hoc instans finale et quodlibet tempus quo hoc mo<lb ed="#S" break="no" n="30"/>vebatur 
+          vel hoc sine tempore medio ante hoc instans istud movebatur et loco 
+          <lb ed="#S" n="31"/>consequentis ponatur sua exponens quia cum li movebatur in consequente stat confu<lb ed="#S" break="no" n="32"/>se 
+          et distributive de virtute vocis ideo consequentia est bona et essens verum sicut 
+          <lb ed="#S" n="33"/>antecedens <pc type="punctus"/>  assumptum patet per exemplum <pc type="punctus"/> nam dato quod decies viderim regem et 
+          <lb ed="#S" n="34"/>decies reginam si tamen posterius viderim regem haec est vera non vidi 
+          <lb ed="#S" n="35"/>reginam postquam vidi regem secundum omnes et in haec est falsa nisi li vidi vel 
+          <lb ed="#S" n="36"/>tempus in hoc verbo intellectum propter li quam praecedens staret <unclear>confuse</unclear> et distribu<lb ed="#S" break="no" n="37"/>tive 
+          <pc type="punctus"/> ista quod ille sic sensus non vidi etc id est non vidi reginam post omne tempus 
+          <lb ed="#S" n="38"/>n quo vidi regem immo tunc est verum quod vidi regem postquam vidi 
+          <lb ed="#S" n="39"/>reginam id est post omne tempus in quo vidi reginam esset autem haec falsa non 
+          <lb ed="#S" n="40"/>vidi reginam postquam vidi regem si tempus inclusum in li vidi quod 
+          <lb ed="#S" n="41"/>sequitur li postquam staret partialiter id est non vidi reginam post aliquod tempus in quo 
+          <lb ed="#S" n="42"/>vidi regem patet si sic modificatur casus quod semper vera vice viderim re<lb ed="#S" break="no" n="43"/>ginam 
+          et non regem et alia vite econtra ultimo tamen regem et non re<lb ed="#S" break="no" n="44"/>ginam 
+          similiter patet quod li postquam confundit distributive tempus inclusus in 
+          <lb ed="#S" n="45"/>verbo immediate sibi adiuncto et propter hoc concedendum est consequens illa tamen in prima 
+          <lb ed="#S" n="46"/>reductione valet quod loquendo pro ultimo instanti sit ita quod illud sit nunc praesens <add place="margin-right">non</add> qui<lb ed="#S" break="no" n="47"/>evit 
+          postquam movebatur et etiam quod quievit et quod non movebatur postquam quie<lb ed="#S" break="no" n="48"/>vit 
+          sed ulterior consequentia posita in reductione nichil omnino valet sicut patet <del rend="underline">ex</del> 
+          <lb ed="#S" n="49"/>ponendo exponentis loco posteriorum
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2375">
+          <pc type="pilcrow">¶</pc> ET tota haec responsio satis patet in exemplo communi 
+          <lb ed="#S" n="50"/>secundum communem et antiquissimam viam qua dici solet quod immediate ante hoc instans <add place="margin-below">fuit instans et immediate post hoc instans</add> erit 
+          <lb ed="#S" n="51"/>instans et bene sequitur immediate ante hoc instans fuit instans <unclear>g?r</unclear> instans fuit et nullum tempus fuit 
+          <lb ed="#S" n="52"/>post<add place="above-line">quam</add> fuit <subst><add place="above-line">instans</add> <del rend="expunctuation">tempus</del></subst> et eodem modo arguam quod immediate ante hoc instans fuit tempus 
+          <lb ed="#S" n="53"/>et quod tempus fuit et quod nullum fuit instans postquam fuit tempus et tamen ex hiis non 
+          <lb ed="#S" n="54"/>sequitur quod immediate et non immediate ante hoc instans fuerit tempus vel instans vel quaecumque 
+          <lb ed="#S" n="55"/>alia contradictoria igitur nec eodem modo sequitur contradictoria illa illata in proposito
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2409">
+          <pc type="pilcrow">¶</pc> ad 2m 
+          <lb ed="#S" n="56"/>concedo pro nunc vicarie secundum illam viam quod isto ordine procedendo poterat com<lb ed="#S" break="no" n="57"/>plevisse 
+          divisiones partium proportionalium infinitarum abinvicem quarum prima sit 
+          <lb ed="#S" n="58"/>dupla respectu secundae et 2a respectu 3ae et sit deinceps et tunc oportet consequenter dare multitudinem 
+          <lb ed="#S" n="59"/>infinitarum <subst><add place="margin-left">casu</add> <del>actu</del></subst> aliquorum qui nec faciunt aliquid unum nec aliquid eorum 
+          <lb ed="#S" n="60"/>est pars alterius <del rend="expunctuation">ex</del> eorumdem ex hoc tamen non sequitur quod deventum <add place="margin-center">fit</add> ad aliquod 
+          <lb ed="#S" n="61"/>indivisibile nec ad ultimum aliquod talium corporum seu minimum non plus 
+          <lb ed="#S" n="62"/>postquam sit adinvicem dividuntur quam quando sunt partes eiusdem continui et tunc 
+          <lb ed="#S" n="63"/>oportet dicere quod corpus dandum cui ex illa parte prius applicabatur continuum 
+          <lb ed="#S" n="64"/>iam divisum nihil tangit licet nihil sic medium inter totam multitudinem simul sump<lb ed="#S" break="no" n="65"/>tam 
+          et corpus prius tactum haec verbis negativa patet inductive secundum hanc 
+          <lb ed="#S" n="66"/>responsionem
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2452">
+          <pc type="pilcrow">¶</pc> ad 3m dicendum quod in isto instanti erit de isto angelo sicut pla<lb ed="#S" break="no" n="67"/>cebit 
+          deo pro eo quod in isto instanti nec meretur nec demeretur et tamen immediate 
+          <lb ed="#S" n="68"/>ante illud instans fuit in statu salutis et inmediate ante fuit in statu dampnatio<cb ed="#S" n="b"/><lb ed="#S" break="no" n="69"/>nis
+          <pc type="punctus"/> numquam simul in hoc statu et in illo et cum dicis quod non est maior ratio 
+          <lb ed="#S" n="70"/>quod dampnetur quam quod salvetur in illo instanti concedo ex isto solum non est maior ratio 
+          <lb ed="#S" n="71"/>quod hoc quam illud et ideo vel in primo instanti nec habebit poenam nec gloriam vel <add place="margin-right">si</add> altum determina<lb ed="#S" break="no" n="72"/>te 
+          hoc erit ex divina determinatione sicut et erit ex sola dei volitione et potentia 
+          <lb ed="#S" n="73"/>quod sit infinities alternatum acceptetur et reprobatur si tamen casus sit possibilis 
+          <lb ed="#S" n="74"/>quod non credo secundum veritatem quamvis dici debeat secundum hanc viam quod ymmo 
+          <lb ed="#S" n="75"/>constat enim quod iste angelus non poterit libere totiens alternatim mere<lb ed="#S" break="no" n="76"/>ri 
+          et demereri gloriam dices sic ista quod in prima parte proportionali temporis dati 
+          <lb ed="#S" n="77"/>habeat angelus iste caritatem in 2a careat et sic deinceps semper usque ad 
+          <lb ed="#S" n="78"/><unclear>completum</unclear> temporis igitur vel inmediate illi instanti prae habuit caritatem et sic salva<lb ed="#S" break="no" n="79"/>bitur 
+          vel immediate illi <add place="above-line">instanti</add> caruit caritate et tunc dampnabitur igitur cum determinate oporteat 
+          altum istorum esse oportebit eum secundum hoc determinate salvari vel determinate damp<lb ed="#S" break="no" n="80"/>nari 
+          secundum legem communem dei et non est maior ratio de uno quam 
+          <lb ed="#S" n="81"/>de altero igitur vel neutrum fiet vel ambo
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2501">
+          <pc type="pilcrow">¶</pc> dicendum est vitarie suscipiendo 
+          <lb ed="#S" n="82"/>istam responsionem quod isto casu admisso sicut non est dare ultimam 
+          <lb ed="#S" n="83"/>partem proportionalem vel minimam dicti temporis ita nec est in isto instanti dandum 
+          <lb ed="#S" n="84"/>quod habuit caritatem postquam caruit ea nec quod caruit caritate postquam 
+          <lb ed="#S" n="85"/>habuit eam quia tunc esset dicendum quod habuit caritatem post omne tempus in quo ca<lb ed="#S" break="no" n="86"/>ruit 
+          ea <pc type="punctus"/> vel quod caruit caritate post omne tempus in quo habuit eam 
+          <lb ed="#S" n="87"/>ut iam visus est in respondendo ad reductionem primam et tamen constat quod 
+          <lb ed="#S" n="88"/>utrumque falsum esset isto casu posito <add place="margin-right">vel admisso</add> a taliter respondentibus nec videretur re<lb ed="#S" break="no" n="89"/>pungnantiam
+          includere et tamen immediate ante illud istans habuit caritatem casu admisso 
+          <lb ed="#S" n="90"/>et immediate ante illud caritate caruit et similiter patet ex praedictis igitur cum nec 
+          <lb ed="#S" n="91"/>ultimo antedictum instans habuit caritatem <add place="margin-right">nec ultimo caruit caritate</add> sicut nec est dare partem proportionalem 
+          <lb ed="#S" n="92"/>temporis ultimam in voluntate dei sola erit utrum dampnetur vel salvetur vel 
+          <lb ed="#S" n="93"/>utrum indifferenter se habeat nam ut dictum est in ponente angeli libera non 
+          <lb ed="#S" n="94"/>est in dato tempore totiens gratiam perdere de condigno nec totiens se 
+          <lb ed="#S" n="95"/>praeparare ad gratiam seu mereri eam totiens de condigno
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2546">
+          <pc type="pilcrow">¶</pc> ad 4m 
+          <lb ed="#S" n="96"/>dicendum est secundum <unclear>respondentes</unclear> sicut ad primam reductionem hanc esse veram in instanti illo 
+          <lb ed="#S" n="97"/>ultimo hoc movebatur et non quievit postquam movebatur nec ex 
+          <lb ed="#S" n="98"/>hoc sequitur quoniam immediate ante quieverit sicud immediate ante movebatur ut 
+          <lb ed="#S" n="99"/>prius dictum est tamen talis alternatio infinities de motione <add place="above-line">in</add>quietem et econtra in<lb ed="#S" break="no" n="100"/>finito 
+          tempore non est possibilis <unclear>acci<del rend="expunctuation">pi</del>?ti</unclear> creato sed soli divinae moti?oi 
+          <lb ed="#S" n="101"/>dicent isti
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2576">
+          <pc type="pilcrow">¶</pc> ad 2m principale dicendum vita?e quod eo ipso quod non est ad illam 
+          <lb ed="#S" n="102"/>differentiam positionis pars ultima proportionalis usus <c>a</c> sequitur quod nulla pars proportionalis 
+          <lb ed="#S" n="103"/>istarum quarum prima est medietatis totius et 2a medietatis residui <add place="margin-right">et sic consequenter</add> <del>scilicet convertitur</del>
+          <lb ed="#S" n="104"/>quod nulla inquam istarum partium proportionalium est immediata ipsi <c>a</c> ymmo inter quamlibet 
+          <lb ed="#S" n="105"/>proportionalem de multitudine assignari et <c>a</c> est alia pars proportionalis eiusdem mul<lb ed="#S" break="no" n="106"/>titudinis 
+          media et ideo <add>argumentum</add> <del>me?am proportionalem</del> assumit falsum supponendo aliam istarum 
+          <lb ed="#S" n="107"/>partium immediatam ipsi <c>a</c> et tamen nihil <unclear>mediat</unclear> inter <c>a</c> et omnes istas <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2620">
+          <lb ed="#S" n="108"/><pc type="pilcrow">¶</pc> Contra si ponantur superficies indivisibiles secundum antiquam opinionem <unclear>continanter</unclear> corpora alia 
+          <lb ed="#S" n="109"/>superficies esset immediata ipsa <c>a</c> quia supposito quod compositum ex omnibus illis partibus 
+          <lb ed="#S" n="110"/>contiguetur cum <c>a</c> et si ista superficies sit immediata ipsi <c>a</c> alia istarum partium 
+          <lb ed="#S" n="111"/>proportionalium erit immediata ipsi <c>a</c> quia ista superficies esset subiective in alia illarum par<lb ed="#S" break="no" n="112"/>tium 
+          et per consequens illa quaecumque fuerit est immediata ipsi <c>a</c> quia modo uniformiter 
+          <lb ed="#S" n="113"/>de facto se habent ad <c>a</c> secundum remotionem et approximationem quaecumque partes istius 
+          <lb ed="#S" n="114"/>totius sicut se haberent posito quod essent in ipso tales superficies <unclear>secundum profun<lb ed="#S" break="no" n="115"/>dum</unclear>
+          indivisibiles
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2660">
+          <pc type="pilcrow">¶</pc> ad hoc dicendum quod via de superficiebus <unclear>indivisibilibus</unclear>
+          <lb ed="#S" n="116"/>secundum profundum est inpossibilis et ideo non mirum si ista via posita possit ad ab<lb ed="#S" break="no" n="117"/>surda 
+          deduci tamen admissa ista propositione quantum ad propositionem spectat corpore 
+          <lb ed="#S" n="118"/>quod aliqua superficies indivisibilis secundum profundum est immediata ipsa <c>a</c> sicud 
+          <lb ed="#S" n="119"/>et totum cuius est superficies ista et etiam infinitae partes eiusdem inchoatae ab ul<lb ed="#S" break="no" n="120"/>tima 
+          superiore versus <c>a</c> protense ad partem contrariam sunt immediate ipsi <c>a</c> sed tamen
+          <lb ed="#S" n="121"/>dico quod ex hoc non sequitur quod alia distinctarum partium proportionalium <add>sic immediata ipsi <c>a</c> quia in nulla illarum partium proportionalium est illa ultima</add> totius corporis superficies 
+          <lb ed="#S" n="122"/>subiective <add place="margin-right">et tamen ipsa est subiective</add> in omni parte totius quae tangit <c>a</c> sic quod inter <c>a</c> et ita non sit medium 
+          <lb ed="#S" n="123"/>et hoc secundum extrema superficiem <add><c>a</c></add> sic illud totum <c>b</c> de quo est sermo et sit superficies ista 
+          <lb ed="#S" n="124"/>de qua loquitur dico igitur quod <c>c</c> est subiective in <c>b</c> et instinctis partibus ipsius <c>b</c> 
+          <lb ed="#S" n="125"/>eadem facere inchoatis sed non ad easdem superficies <unclear>teri?atis</unclear> sed tamen quaelibet par<lb ed="#S" break="no" n="126"/>tium 
+          istarum in quibus est <c>c</c> subiective continet in se infinitas partes proportionalis 
+          <lb ed="#S" n="127"/>de quibus est sermo quarum nulla pertinget ad <c>c</c> superficiem et per consequens in quarum 
+          <lb ed="#S" n="128"/>nulla est subiective <c>c</c> superiores et ista patet qualiter deficit argumentum haec enim contra 
+          <lb ed="#S" n="129"/>non valet <c>c</c> superficies est immediata ipsi <c>a</c> igitur alia pars proportionalis istarum 
+          <lb ed="#S" n="130"/>de quibus est sermo nunc est immediata ipsi <c>a</c> et tamen bene volo 
+          <lb ed="#S" n="131"/>quod omnes pars totius <c>b</c> in qua est <c>c</c> subiective est immediata ipsi <c>a</c> 
+          <lb ed="#S" n="132"/>et causa iam calruit unde nisi essent alia argumenta de quantis aequalibus non divi<lb ed="#S" break="no" n="133"/>sissem 
+          <add place="margin-right">via</add> ipsam sustinere ad hoc et modo consimili poterit respondendi sicut ad ista 
+          <lb ed="#S" n="134"/><add place="margin-center">ad argumenta</add> <name xml:id="aw98wa-xg4062-Nd1e2766">firaf</name> inprobante infinita in actu et per talem divisionem in quaestione praecedente
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2770">
+          <pb ed="#S" n="206-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/><pc type="pilcrow">¶</pc> ad 3m principale dicendum est pro voluntate istam viam tenere quod admisso isto casu potest sic
+          <lb ed="#S" n="2"/>modificari casus positus quod ille <unclear>calor</unclear> totalis compositus ex omnibus immo et <unclear>mediate</unclear> 
+          <lb ed="#S" n="3"/>illarum partium possunt per nullam ulterius in passo approximato producere alium calorem 
+          <lb ed="#S" n="4"/>et potest sic modificari quod nec iste calor totus nec alia eius pars poterit in passo 
+          <lb ed="#S" n="5"/>sic approximato ut ponit casus calorem alium productae primum patet dato quod 
+          <lb ed="#S" n="6"/>prima pars caloris sit ita intensa quod sufficiat omnibus aliis praeter illum calorem 
+          <lb ed="#S" n="7"/>et partes suas uniformiter se habentibus agere longe ultra terminos illius ca<lb ed="#S" break="no" n="8"/>loris 
+          totalis <pc type="punctus"/> sed certe oportet ut habetur difficultas sic modificare calorem quod <add place="margin-center">prima</add> pars calo<lb ed="#S" break="no" n="9"/>ris 
+          totalis <add place="margin-left">suspendatur a deo in agendo ultra alias partes proprii subiecti totalis</add> et sic modificata possibilitate casus non oportet quod calor pro<lb ed="#S" break="no" n="10"/>ductus 
+          in passo <unclear>approximato</unclear> vel cui calor approximatur sic in fini<lb ed="#S" break="no" n="11"/>te 
+          remissionis <pc type="punctus"/> quia nec oportet <add place="margin-left">tunc quod causetur a qualibet parte sibi immediata secundum situm calorum sibi <unclear>approximati</unclear> sed sufficit</add> quod tenetur ab alia vel aliquibus partibus dis<lb ed="#S" break="no" n="12"/>tantibus 
+          ab eo secundum situm intensionibus quam sit ipse
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2827">
+          <pc type="pilcrow">¶</pc> 2m etiam patet esse 
+          <lb ed="#S" n="13"/>esse possibile si sic modificetur prius casus quod pars prima proportionalis caloris approximan<lb ed="#S" break="no" n="14"/>di 
+          passo et sic de aliis sic decrescant versus illud passum et sic 
+          <lb ed="#S" n="15"/>remissio fiat quod non sufficit naturaliter agere omnibus existentibus uni<lb ed="#S" break="no" n="16"/>formiter 
+          se habentibus ita enim omne activa alicubi definit in agendo 
+          <lb ed="#S" n="17"/>vel deficere posset ita quod usque ad tantum posset agere et non ultra 
+          <lb ed="#S" n="18"/>ita quod sit dare maximam distantiam <add place="margin-left">ad quam possit agere vel <unclear>mi?am</unclear></add> ad quam non posset agere et casu 
+          <lb ed="#S" n="19"/>sic modificato non sequitur quin totus calor sit eiusdem termini cum aliis 
+          <lb ed="#S" n="20"/>caloris qui agunt et producunt calores et tam iam dicta est
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2854">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="21"/>4m articulum bene volo quod possit dari primum instans in quo verum sit 
+          <lb ed="#S" n="22"/>dicere quod totum est calidum et cum pro isto instanti <add place="margin-left">accipis</add> calorem pertingentem ad 
+          <lb ed="#S" n="23"/>corpus continens ubi si scit motus in toto passo vel in parte alia 
+          <lb ed="#S" n="24"/>sit protensa ad finem Et dicit quod hic calor prius producitur in hac 
+          <lb ed="#S" n="25"/>parte secundum gradum remissum quam secundum gradum intensum acceptata cum parte 
+          <lb ed="#S" n="26"/>nego istud dictum <unclear>unde<!-- bene? --></unclear> verum est tamen quod in alia parte talis partis prius 
+          <lb ed="#S" n="27"/>erat calor remissior et postea intensior <pc type="punctus"/> sed non est hoc verum de 
+          <lb ed="#S" n="28"/>toto isto passo nec de alia eius parte pertingere ad <unclear>contingens</unclear> extrin<lb ed="#S" break="no" n="29"/>secum 
+          si ubique sit uniformis remissio semper in partibus uniformiter 
+          <lb ed="#S" n="30"/>distantibus ab alio contingente sed solum est verum de partibus distantibus 
+          <lb ed="#S" n="31"/>ab illo contingente
+        </p>
+        <p xml:id="aw98wa-xg4062-d1e2895">
+          <pc type="pilcrow">¶</pc> ad argumentum principale consequentia est neganda quia nulla est in continuo 
+          <lb ed="#S" n="32"/>vel forma graduali pars minima
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8 [Sorb193 Transcription]</title>
+          <date when="2026-03-24">March 24, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-03-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="196-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3977"><!-- b3q8-->
+        <head>Quaestio 8</head>
+        <p>
+          <lb ed="#S"/>Octavo quaero utrum gabrieli potuerit in verbo verbi 
+          <lb ed="#S"/>incarnatio revelari
+        </p>
+        <p>
+          et videtur quod non quia si sic sit igitur ista quod deus 
+          <lb ed="#S"/>revelaverit suam incarnationem <del rend="expunctuation">suam</del> gabrieli et hoc praecise 
+          <lb ed="#S"/>in verbo ista quod ex ista revelatione gabriel venisset ad 
+          <lb ed="#S"/>mariam et non ex alia causa et quod locutus fuerit ad eam sicud dicit scrip<lb ed="#S"/>tura 
+          tunc arguitur pro tempore medio inter salvationem beatae virginis et cuius in quo <add place="margin-right">ipsa</add> concepit 
+          <lb ed="#S"/>sub hac forma christus non est incarnandus ergo gabriel non vidit christum fore 
+          <lb ed="#S"/><del rend="expunctuation">te</del> incarnandum ista consequentia <add place="margin-right">patet et</add> in illo tempore medio erat necessaria quia verbum non 
+          <lb ed="#S"/>repraesentavit gabrieli aliquid fore nisi illud quod fuit futurum et antecedens fuit 
+          <lb ed="#S"/>contingens in illo tempore medio quia tunc incarnatio fuit futura et per consequens tunc illam 
+          <lb ed="#S"/>potuit deus libere non fecisse et non <add place="above-line">tunc</add> voluisse <add place="margin-right">omnino</add> ergo <unclear>hoc</unclear> consequens in isto 
+          <lb ed="#S"/>tempore medio fuit contingens gabriel non vidit christum in verbo esse incarnandum 
+          <lb ed="#S"/>et si hoc <add place="above-line">ergo</add> gabriel non venit nec venire voluit ad <unclear>mariam</unclear> nec salutavit eam 
+          <lb ed="#S"/>haec consequentia patet per positum quia gabriel aliam causam veniend ad mariam non habuit 
+          <lb ed="#S"/>nisi quia vidit <add>in verbo dei <unclear>fi?m</unclear> incarnando ergo si non vidit</add> hoc non venit ad eam <add place="above-line">et</add> illud alias in illo tempore medio loquamur 
+          <lb ed="#S"/>ac si nunc esset hoc contingens ut articulum est ergo consequens est contingens scilicet quod venit 
+          <lb ed="#S"/>ad materiam vel quod eam salutavit sed ultimum consequens est inpossibile certum est 
+          <lb ed="#S"/>ergo primum antecedens de potestate dictae revelationis haec primo mihi videtur quod non sufficit 
+          <lb ed="#S"/>dicere quod licet de facto venerint quia vidit etc tamen in isto medio satis 
+          <lb ed="#S"/>est possibile quod venerit ex alia causa contra istud fuit tunc futurum contingens 
+          <lb ed="#S"/>extrinsecum revelationi ergo potest revelari <unclear>exprehabuit</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Respondet enim aliqui 
+          <lb ed="#S"/>quorum unus est <name>firaf</name> in lectura quod nullo tempore medio ista consequentia 
+          <lb ed="#S"/>non valet gabrile non vidit in verbo christum fore incarnandum ergo non 
+          <lb ed="#S"/>venit nec voluit venire ad beatam virginem nec eam salutavit quia 
+          <lb ed="#S"/>licet de facto non venerit ex alia causa semper tamen in tempore <unclear>tempore</unclear> medio possibile 
+          <lb ed="#S"/>est quod alia de causa venerit et ex hac quae est contingens ex ista tam non venit non 
+          <lb ed="#S"/>sequitur haec quae est inpossibilis pro tunc gabriel non venit ad eam nec eam sa<lb ed="#S"/>lutabiliter 
+          et ideo concedit ulterius <name>firaf</name> sicut oportere frequenter quod in illo tempore medio 
+          <lb ed="#S"/>fuit haec contingens gabriel fecit ista facta non videndo nec aestiman<lb ed="#S"/>do 
+          deum fore incarnandum sed auctoritate propterea ex simplici cognitione incarnationis 
+          <lb ed="#S"/>et mariae et aliarum realiter visarum
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Sed quod ille modus probandi non sufficiat 
+          <lb ed="#S"/>probatum est in quaestione praecedente quia constat quod gabriel non fecit ista sine cognitione 
+          <lb ed="#S"/>alia si ergo possibile est ad hoc quod <add>sine ista possibile est adhuc quod alia</add> <sic>alia</sic> vel ergo quod alia complexa vel alia 
+          <lb ed="#S"/><unclear>stu</unclear> aliis incomplexis id est non componendo nec dividendo si alia complexa 
+          <lb ed="#S"/>arguitur sic <pc type="punctus"/> si illud <unclear>peritus</unclear> in oppositum esset praesens si haec nunc sic possibilis gabriel 
+          <lb ed="#S"/>heri propter aliud iudicium fecit haec fecit <add place="margin-right">quantum</add> illud iudicium <subst><add place="above-line">quo</add> <del rend="expunctuation">quod</del></subst> secundum veritatem iu<lb ed="#S"/>dicavit 
+          filium dei fore incarnandum sic quod secundum veritatem non habuerit herit aliud 
+          <lb ed="#S"/>iudicium complexum quam istud vel aequivalens ergo ad hoc est possibile 
+          <lb ed="#S"/>quod gabriel heri habuerit aliud iudicium quam illud et non nisi per visionem in 
+          <lb ed="#S"/>verbo quia quidquid iudicasset alio iudicio non posset ex tunc non illo 
+          <lb ed="#S"/>modo iudicasse etiam secundum quod ille ergo possibile est ad hoc quod gabriel 
+          <lb ed="#S"/>heri habuit aliud iudicium quam illud et mediante visione verbi et non est hoc modo 
+          <pb ed="#S" n="196-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S"/>magis possibile de uno tali iudicio quod secundum veritatem non habuit quam de alio 
+          <lb ed="#S"/>scilicet quod haberi iudicasset mediante visione verbi cum verbum omnia aequaliter 
+          <lb ed="#S"/>futura repraesentet fore ergo sequitur quod nunc sic possibile de quodam in deo possibile 
+          <lb ed="#S"/>mediante visione verbi quod secundum veritatem heri non iudicavit quod ipse heri iu<lb ed="#S"/>dicasset 
+          per visionem in verbo et ista sequitur quod haec non sit contingens gabriel heri 
+          <lb ed="#S"/>vidit in verbo vel iudicavit fore suam poenam vel miseriam 
+          <lb ed="#S"/>aeternam et per consequens quod heri doluerit et fuerit miser consequens videtur inpossibile 
+          <lb ed="#S"/>Similiter pari ratione sequitur quod haec nunc sic contingens gabriel vidit heri in 
+          <lb ed="#S"/>verbo vel iudicavit filium dei non esse incarnandum et per consequens haec est nec 
+          <lb ed="#S"/>possibilis gabriel est mentitus cum asseruit contrarium et secundum hoc contra conscientiam suam 
+          <lb ed="#S"/>quia non potest esse quoniam ipse dixerit <unclear>ma?e</unclear> filium dei esse ex ea incarnandum 
+          <lb ed="#S"/>consequens videtur absurdum et inpossibile ergo alias non est contingens ergo non est possibile 
+          <lb ed="#S"/>quod propter aliam causam venerit quam quia vidit vel iudicavit filium dei fore 
+          <lb ed="#S"/>incarnandum sicut patet secundum veritatem fecit a iudicavit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Et illud confirmatur quia si 
+          <lb ed="#S"/>ille qui alia vidit vel iudicavit in verbo pro tempore huc usque 
+          <lb ed="#S"/>praeterito vidisse potest in illo tempore alia quam vidit vel iudicavit non vidis<lb ed="#S"/>se 
+          nec iudicasse nec est possibile quod ille qui vidisset a principio mun<lb ed="#S"/>di 
+          vel iudicasset aeternam suam miseriam sibi futuram posset semper vi<lb ed="#S"/>disse 
+          vel iudicasse se semper futurum esse verum et per consequens esset ad<lb ed="#S"/>huc 
+          possibile quod iste qui semper fuisset beatus semper fuisset miser a principio 
+          <lb ed="#S"/>mundi et econtra
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea secundum praedictam responsionem sequitur quod etiam isto tempore medio 
+          <lb ed="#S"/>fuisset in potestate beatae virginis quod gabriel praehabuisset aliam notitiam 
+          <lb ed="#S"/>complexam quam habuit quia potest non assensisse nuntio forte quia 
+          <lb ed="#S"/>non videtur quod venisset propter aliquam notitiam complexam sicut arguere in alia 
+          <lb ed="#S"/>parte argumenti ergo si beata virgo potuit fecisse quod non venisset propter hoc 
+          <lb ed="#S"/>quod sic iudicavit complexe quod scilicet christus sit incarnandus sed propter aliam 
+          <lb ed="#S"/>ergo beata virgo potuit post salvationem fecisse quod aliam notitiam 
+          <lb ed="#S"/>complexam habuisset quam habuit vel aliter complexe iudicaverit quam 
+          <lb ed="#S"/>iudicavit quod videtur inpossibile quia non videtur maior ratio ut prius 
+          <lb ed="#S"/>argumentum est de uno alio iudicio tali quam indifferenter de quocumque 
+          <lb ed="#S"/>etc
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea tunc beata virgo post salvationem angeli ponit fecisse quod ga<lb ed="#S"/>briel 
+          numquam praecredidisset filium dei incarnandum consequens est falsum ut videtur 
+          <lb ed="#S"/>ergo
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Si alia incomplexa solum hoc argueret gabrelem vel fatue fe<lb ed="#S"/>cisse 
+          vel ignoranter vel mendaciter talia verba virgini expressimis<lb ed="#S"/>se 
+          nullus enim recte et secundum bonam conscientiam potest fingere se nuntium 
+          <lb ed="#S"/>multa nuntiando et crede faciendo auditores ab eo nunti<lb ed="#S"/>antis 
+          nisi sciat vel credat ita fore sicut nuntiat vel nisi habuerit super 
+          <lb ed="#S"/>hoc praeceptum dei de sic faciendo ergo gabriel non potuit talia 
+          <lb ed="#S"/>rationabiliter nuntiare ex sola notitia incomplexa sine dei praecepto quod taliter
+          <lb ed="#S"/>nuntiaret similiter ipsemet repudiavit hanc responsionem sicud irrationalem 
+          <lb ed="#S"/>in sua quaestione biblica sed hoc forte aliter dicetur sicut tenuit <name>magister mi<lb ed="#S"/>gellus</name>  
+          quod eadem actu videndi quo videtur creatura in verbo vel praescitur esse 
+          <lb ed="#S"/>futura potest videri non esse futura et breviter quidquid placuerit verbo in 
+          <lb ed="#S"/>se ostendere formi vel non fore sicut deus videlicet istam creaturam esse futuram et 
+          <lb ed="#S"/>tamen pro eodem instanti et per eandem visionem potest praevidere eam non esse futuram sive 
+          <lb ed="#S"/>suam privationem esse futuram similiter etiam quantum ad delectationem consequentem praescientiam 
+          <lb ed="#S"/>alicuius futuri dici potest et habet dici consequenter quod ista delectatio quae est respectu obiecti 
+          <lb ed="#S"/>beatifici est etiam respetu istius <unclear>re?ti</unclear> et similiter respectu cuiuscumque alterius delecta vel visi 
+          <lb ed="#S"/>in verbo et similiter de actu amoris et ideo volitio et similiter delectatio quae est respectu 
+          <lb ed="#S"/>alicuius talis revelanti potest non fuisse respectu illius ymo potest fuisse respectu sui oppositi 
+          <lb ed="#S"/>sive privationis sicut potest esse visio et tunc ad difficultatem cum concluditur quod <c>a</c> 
+          <lb ed="#S"/>potest non fuisse sic a gaudium vel delectatio quam angelus habuit ex hoc 
+          <lb ed="#S"/>quod praevidit filium dei incarnandum dicitur quod non sequitur sed solum sequitur quod <c>a</c> non 
+          <lb ed="#S"/>potest non fuisse delectatio respectu <c>b</c> obiecti sic revelanti et idem dicitur de actu 
+          <lb ed="#S"/>amoris
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Sed haec responsio non est vera nec simpliciter sed solum secundum quid 
+          <lb ed="#S"/>evacuat difficultatem nec differet ab ista supra posita quae posuit hoc 
+          <lb ed="#S"/>fieri per verbum met formaliter ubi <del rend="expunctuation">in hoc</del> nisi in hoc quod illa ponit quod talis visio est 
+          <lb ed="#S"/>verbum dictum et idem dicit de actu amoris proportionato illi visioni et 
+          <lb ed="#S"/>etiam de delectatione
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Sed ista responsio ponit quod ista non sunt verbum divinum 
+          <lb ed="#S"/>sed accidentaliter in mente beati et minus consequentis quoad hoc
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Quod autem non 
+          <lb ed="#S"/>sit vera probatur primo quantum ad hoc quod dicitur quod beatus moriente visione 
+          <lb ed="#S"/>potest nunc vidisse heri oppositum sive <sic>sive</sic> privationem istius quod praevidit 
+          <lb ed="#S"/>heri fore ergo iste potest nunc vidisse heri aliud quam ista demonstran<lb ed="#S"/>do 
+          omnia quae vidit per talem visionem heri nec est maior ratio de uno 
+          <lb ed="#S"/>non viso heri ab ipso quam de alio scilicet quod modo potest illud vidisse 
+          <lb ed="#S"/>tum verbum aequaliter repraesentet omnia et sua visio possit esse respectu cuiuscumque visibilis
+          <cb ed="#S" n="b"/>
+          <lb ed="#S"/>secundum hanc rationem ergo poterit beatus modo vel statim vidisse heri se fuisse 
+          <lb ed="#S"/>dampnandum perpetuo ex quo sequitur quod potest fuisse heri miser ex deductione 
+          <lb ed="#S"/>anselmi de casu dyaboli capitulo 21 sive voluntatem suam dampnationem praevisam sic 
+          sive <unclear>voluntatem</unclear> non videtur possibile secundum cursum <add>naturae</add> <del rend="expunctuation">esse</del> quod aliter aliquis certitudinaliter cogit sibi mag<lb ed="#S"/>num 
+          et displicibile malum imminere sine tristitia et displicentia immo non 
+          <lb ed="#S"/>curans de hoc fatuus uteretur vel potest immediate argui nam ex datis 
+          <lb ed="#S"/>nam ex quo ista visio quae fuit respectu contingentis ante <del rend="expunctuation">ad</del> eventum illius 
+          <lb ed="#S"/>futuri potest esse respectu sui oppositi sequitur quod beatus per visionem qua videt se semper 
+          <lb ed="#S"/>fore bonum et fore et vidit potest vidisse se semper fore miserum sive 
+          <lb ed="#S"/>dampnandum cum dampnatio sit privatio beatitudinis et aeterna dampnatio privatio aeter<lb ed="#S"/>ne 
+          beatitudinis et ita potest nunc heri fuisse sicut deducit anselmum immo 
+          <lb ed="#S"/>sequitur quod potest nunc heri doluisse cum naturaliter ex praevisione miseriae sequatur 
+          <lb ed="#S"/>dolor sed hoc non videtur intelligibile scilicet quod ille qui heri non doluit potest 
+          <lb ed="#S"/>nunc heri doluisse quia tunc quod heri quis doluisset vel gauvisus fu<lb ed="#S"/>isset 
+          penderet a futuro quod non videtur intelligibile nec valet dicere quod deus non 
+          <lb ed="#S"/>potest dampnare istos angelos quia saltem hoc non repungnat <unclear>divinae</unclear> 
+          <lb ed="#S"/>potentiae inquantum talis sed potentiae dei inquantum huius <del rend="expunctuation">non</del> repungnat facere praeteritum 
+          <lb ed="#S"/>non fuisse ergo inconveniens illatum non sequitur propter illud positum sed propter datum 
+          <lb ed="#S"/>Item <ref>anselmum de casu dyaboli capitulo 8</ref> vel praeargumentum fuit dicit quod deus crea<lb ed="#S"/>turam 
+          quamlibet fecit de nihil adnihilaret potest
+        </p>
+        <p>
+          Item sequitur quod postquam 
+          <lb ed="#S"/>ex tali visione gabriel dicit beatae virgini ecce concipies etc ante 
+          <lb ed="#S"/>contemplationem fuit possibile quod gabriel mentitus fuisset beatae virginis affirman<lb ed="#S"/>do 
+          falsum scienter hoc patet quia in illo tempore medio fuit possibile quod ga<lb ed="#S"/>briel 
+          illa hora qua sic dixit beatae virgini praevidisset deum non 
+          <lb ed="#S"/>fore incarnandum secundum istam potentiam et ista affirmasset sibi falsum scienter et per consequens 
+          <lb ed="#S"/>pecasset cum mendacium sic peccatum enchiridion capitulo 13 et 16 et 17 
+        </p>
+        <p>
+          Praeterea 
+          <lb ed="#S"/>sequitur de christo pro tempore medio inter tempus sudoris sanguinei et tempus mortis 
+          <lb ed="#S"/>et tunc non potuit non doluisse quia potuit non habuisse causam 
+          <lb ed="#S"/>doloris ponit enim secundum illam potentiam praescivisse se non habiturum aliam 
+          <lb ed="#S"/>poenam et ille sequitur quod iste sudor tunc potuit non fuisse produc<lb ed="#S"/>tus 
+          et ista praeteritum tunc potuit non fuisse
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Praeterea <del rend="expunctuation">non</del> suppono quod
+          <lb ed="#S"/>naturaliter ex aestimatione vel saepe delectabilis et commodi sequitur delectatio et 
+          <lb ed="#S"/>ex aestimatione privationis illa naturaliter sequitur tristitia si igitur sic possibile post
+          <lb ed="#S"/>aestimationem habitam respectu talis delectabilis quod iste non habuit aestimationem 
+          <lb ed="#S"/>istius sed aestimationem respectu suae privationis immo praescientiam ut ponitur sequitur 
+          <lb ed="#S"/>quod post talem delectationem factam sic possibile quod iste non fuerit de<lb ed="#S"/>lecatatus 
+          aliunde nisi ex ista aestimatione respectu istius delectabilis 
+          <lb ed="#S"/>vel tristitiam ex simili causa tantum
+        </p>
+        <p>
+          Item isti dicunt quod consimili modo potest deus 
+          <lb ed="#S"/>communicare actum amoris proportionalem praedicto actu visionis de quo etiam proportionaliter 
+          <lb ed="#S"/>secundum eos dici habet sicut de actum visionis praenotato quantum ad actum 
+          <lb ed="#S"/>voluntatis qui ponitur conformis voluntati dei ista quod per illum possit quis nolle 
+          <lb ed="#S"/>quod voluit sicud deus potest per se ipsum videtur sequi primo quod habens talem 
+          <lb ed="#S"/>volitionem potest primo esse amicus respectu alicuius et postea immo tunc erit eius 
+          <lb ed="#S"/>inimicus sine omni mutatione suae voluntatis et quod non videtur intelligibile nisi de 
+          <lb ed="#S"/>deo cum hoc quod est contra <ref>augustinum 5 de trinitate in fine</ref> et tamen secundum istam ista 
+          <lb ed="#S"/>esset quo ad hoc de volitione creata conformi visioni in verbo de 
+          <lb ed="#S"/>qua prius respectu obiectorum saltem de possibili sicut de volitione divina ergo 
+          <lb ed="#S"/>illud non est dandum
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea stat difficultas de sudore christi quod ille 
+          <lb ed="#S"/>non potest <!-- possible correction here --> fuisse quia christus potest non doluisse seu mortem non sit <unclear>i?et</unclear> 
+          <lb ed="#S"/><unclear>imminere</unclear> timuisse et loquor pro tempore medio ante mortem et similiter sequitur 
+          <lb ed="#S"/>de factis gabrielis quia illa possunt non fuisse quia ipse potest istos non 
+          <lb ed="#S"/>voluisse facere secundum istam responsionem Similiter sequitur quod occisus potest non fuis<lb ed="#S"/>se 
+          occisus quia potest esse quod occisor non habuerit voluntatem seu volitionem respectu 
+          <lb ed="#S"/>occisionis similiter sequitur quod castrum editum ex tali volitione potest non fuisse 
+          <lb ed="#S"/>quia potest illa voluit non fuisse respectu illius sicut fuit argumentum supra contra con<lb ed="#S"/>similem 
+          responsionem et ista essent cuilibet homo rationali causa theologo quam philosopho ir<lb ed="#S"/>rationabilia 
+          ad concedendum <seg type="correction">n<subst><add place="above-line">isi</add><del rend="expunctuation">on</del></subst></seg> ut dicit <name>firaf</name> aliquis <add place="margin-right">esset</add> ita fatuus et stultus 
+          <lb ed="#S"/>quod diceret de occisione praeterita quod posse non fuisse occisio et de 
+          <lb ed="#S"/>motu quod posset non fuisse motus postquam factus est et sic de similibus 
+          <lb ed="#S"/>quae dicta erat nimis puerilia et <unclear>asimma</unclear> et ideo ab omni homine 
+          <lb ed="#S"/>rationali <unclear>repudienda</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea ponatur aliquem meruisse per talem volitionem et 
+          <lb ed="#S"/>sequitur quod potest meruisse quia semper argueretur pro tempore medio ante productionem 
+          <lb ed="#S"/>revelanti voliti et cuius revelationis
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea ponatur aliquem voluisse illud re<lb ed="#S"/>velatum 
+          non fore contra illud quod sciret diu velle et sic cecidisse 
+          <lb ed="#S"/>a caritate et sequitur quod potest recte voluisse quod potest esse quod sua voluntas fuit 
+          <lb ed="#S"/>conformis divinae voluntati et ista potest <del rend="underline">ut</del> sua caritas non fuisse corrumpta 
+          <pb ed="#S" n="197-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S"/>quod est manifestus et inpossibile
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Sed hic posset dici sicut respondet <name>firaf</name> in simili in 
+          <lb ed="#S"/>lectura quod nullus deberet aliquod tale futurum revelatum velle absolute et si vi<lb ed="#S"/>deret 
+          deum illud velle quia non est in potestate sua utrum volitio sua 
+          <lb ed="#S"/>sit recta vel non recta cum hic dependeat a futuro contingenti et ideo peccat sive 
+          <lb ed="#S"/>illud velit sive illud nolit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Sed contra secundum illud nullus posset velle suam beatitudinem 
+          <lb ed="#S"/>quod est nimis absurdum cum nullus possit esse beatus qui non velit 
+          <lb ed="#S"/>suam beatitudinem secundum anselmum de casu dyaboli capitulo 12 et consequentia patet quia illud quod 
+          <lb ed="#S"/>habet sicut beatitudo pendet a futuro quia si non erit semper beatus numquam 
+          <lb ed="#S"/>fuit beatus cum non sit beatitudo vera nisi sic aeterna 5 de trinitate distinctione 
+          <lb ed="#S"/>et 11 super genesem et 13 de trinitate capitulo et 7 et locis infinitis
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> praeterea ex quo ista 
+          <lb ed="#S"/>volitio quae sit est indifferens quod ista probat esse volitio alicuius obiecti et etiam 
+          <lb ed="#S"/>potest esse et fuisse voluntatio eiusdem sicut et potest divina volitio est pu<lb ed="#S"/>ra 
+          creatura secundum hanc viam sicud quaelibet alia nostra ista videtur de qualibet alia 
+          <lb ed="#S"/>volitione qua volimus aliquid fore quod ipsa possit <add place="above-line">esse</add> et fuisse 
+          <lb ed="#S"/>pro tunc quando sic volumus volitio oppositi sicut propositi et sequuntur inconvenientia 
+          <lb ed="#S"/>multa maxime si talis volitio sequatur iudicium similiter indifferens ad 
+          <lb ed="#S"/>utrumque oppositorum de possibili illud posset patere volenti deducere <unclear>perm?tas</unclear> 
+          <lb ed="#S"/>speciales similes ante tactis
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> contra istam responsionem possunt dici <unclear>m?ta</unclear> media 
+          <lb ed="#S"/>superius tacta contra alias evasiones in hac mandata similiter ipsemet 
+          <lb ed="#S"/>repraesentavit hanc responsionem sicut irrationelm in sua quaestione biblica
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> dicendum 
+          <lb ed="#S"/>ergo sicud prius quod <unclear>dev<del rend="expunctuation">et</del></unclear> revelare in verbo gabriel filium dei esse in<lb ed="#S"/>carnandum 
+          non est nisi causa re<del rend="expunctuation">i</del> in gabriele unum actum qui simul sic 
+          <lb ed="#S"/>visio et firma credulitas vera quod filius dei fuit incarnandus et 
+          <lb ed="#S"/>hoc concedo potuisse a deo fieri hoc est ergo videre in verbo videre 
+          <lb ed="#S"/>verbum et per illam visionem vere sine omni haesione iudicare ista fore et tunc 
+          <lb ed="#S"/>veraciter ad <del rend="strikethrough">si</del> propositum quod gabriel ex ista causa scilicet <add place="margin-left">ex hoc</add> quod ita vidit in 
+          <lb ed="#S"/>verbo venerit ad beatam virginem et eam salutaverit potest in 
+          <lb ed="#S"/>illi dupliciter vel scilicet quod ideo venit quia sic credit indubitaliter et firmiter iu<lb ed="#S"/>dicavit 
+          et tunc est suppositum rationale nec aliquid inconveniens sequitur dummodo 
+          <lb ed="#S"/>etiam crediderit et voluntatem dei fuisse quod ista nuntiaret
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> aliter potest in<lb ed="#S"/>telligi 
+          quod ita venerit quod sic vere iudicaverit id est et quia sic iu<lb ed="#S"/>dicaverit 
+          partialiter partialiter et quia si suum iudicium erat verum hic enim est dicere 
+          <lb ed="#S"/>quod venit quia vidit quod scivit vel assecuraturus fuit et 
+          <lb ed="#S"/>tunc est suppositum irrationale quia non est in potestate sua scire <unclear>an<!-- corrected somehow --></unclear> potentiam 
+          <lb ed="#S"/>rei an vere iudicet et tunc ultra ad argumentum iusto primo in hac consequentia ga<lb ed="#S"/>briel 
+          non vidit etc ergo non venit sufficit quod firmiter crediderit 
+          <lb ed="#S"/>ita fore ad hoc ut veniret et negatio illam aliam causam non 
+          <lb ed="#S"/>habuit quam quia vidit habuit enim hanc causam quod per visionem verbi 
+          <lb ed="#S"/>quatenus iudicium suum erat firmiter ita foret credidit et haec 
+          <lb ed="#S"/>causa semper fuerit eadem sive viderit hoc in verbo sive non
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Et contra
+          <lb ed="#S"/>hanc responsionem nullum sequitur inconvenientem superius illatorum contra priorem responsionem 
+          <lb ed="#S"/>sed tamen potest argui contra me quod pro isto tempore medio fuerit haec possibilis gabriel
+          <lb ed="#S"/>erravit gabriel fuit falsus <unclear>minitius</unclear> gabriel erroneae et falsae 
+          <lb ed="#S"/>iudicavit in verbo et est dicendum quod licet conclusio non sit possibilis 
+          <lb ed="#S"/>secundum ordinationem dei factam non est tamen inpossibilis secundum dei potentiam absolutam 
+          <lb ed="#S"/>ponendo iudicium in verbo modo a me concesso <pc type="punctus"/> Sed si poneretur quod 
+          <lb ed="#S"/>verbum posset esse iudicium creaturae quod tamen est apud me simpliciter inpossibile 
+          <lb ed="#S"/>responderem aliter quam respondi et tamen non sequitur quod haec sit possibilis gabriel 
+          <lb ed="#S"/>fuit mendax nuntius positis praecise hiis quae prius est huius ratio quia 
+          <lb ed="#S"/>non dixisset aliquid suam contra conscientiam suam quod tamen requiritur ad hoc 
+          <lb ed="#S"/>quod aliquid mentiatur et ideo si quis concipieret idem per falsum <unclear>initium</unclear> et per 
+          <lb ed="#S"/>mandacem non esset concedendum dato quod aliter evenisset quam gabri<lb ed="#S"/>el 
+          nuntiavit quam ipse fuisset falsus nuntius sed solum quod erroneae 
+          <lb ed="#S"/>vel quod errasset
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Contra istam tamen responsionem restant adhuc diffi<lb ed="#S"/>cultates 
+          aliquae propter quas visum <add>est</add> <name>firaf</name> in questione sua biblica quod 
+          <lb ed="#S"/>ostensive demonstrari valeat quod intellectus creatus non potest in verbo cognos<lb ed="#S"/>cere 
+          aliquid fore vel non fore nec etiam aliquid apprehendere praeter verbum id est nihil 
+          <lb ed="#S"/>praeter deum <pc type="punctus"/> et hoc arguit ipse sic <pc type="punctus"/> quod nulla videtur <unclear>res<!-- corrected ? --></unclear> ex eo <add place="margin-left">solo</add> quod eius ydea 
+          <lb ed="#S"/>vel ymago videtur <pc type="punctus"/> sed per actum visionis verbi quo ad creatam sola eius 
+          <lb ed="#S"/><sic>eius</sic> yda vel ymago videtur ergo etc minor patet quia non potest intelligi
+          <lb ed="#S"/>alia causa videri creatam per actum visionis verbi nisi quia eodem actu 
+          <lb ed="#S"/>quo videtur ymago <!-- correction here --> videretur etiam ymaginatum sed hoc est falsum quia visa 
+          <lb ed="#S"/>ymagine cesaris non propter hoc videtur cesar <unclear>nisi<!-- corrected from "nec" --></unclear> assumit alia cognitio 
+          <lb ed="#S"/>nec propter hoc quod aliquod speculum videretur et si speculum esset naturalis ymago 
+          <lb ed="#S"/>faciei videretur facies sed sola eius ymago ymmo si propter hoc 
+          <pb ed="#S" n="197-r"/>
+          <lb ed="#S"/>quia oportet necessario quod principium immediatum cognoscendi sic actus aliquis incognoscen<lb ed="#S"/>te 
+          Cum igitur verbum non possit creare esse actus cognoscendi inpossibile 
+          <lb ed="#S"/>est quod verbum divinum sit creaturae immediatum principium intelligendi creatam vel 
+          <lb ed="#S"/>ponendi vere vel false
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Praeterea anselmum de libertate arbitrii capitulo 7 voluntas quae est usus 
+          <lb ed="#S"/>tam nervosa est quam nervose volumus sicut visus causa nvervosa est 
+          <lb ed="#S"/>quam nervose et quam nervose videmus et voluntas quae est visus causa multiplex 
+          <lb ed="#S"/>est quam manifesta et quam saepe volumus 
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> sed istis non obstantibus videtur 
+          <lb ed="#S"/>mihi quod oppositum istius conclusionis praeambulae satis est possibile ut 
+          <lb ed="#S"/>creaturas cognosci in verbo intelligitur aliter quam hic ymaginetur quomodo 
+          <lb ed="#S"/>enim aliter salvabitur divisio cognitionis realiter in verbo a earum cognitionibus in 
+          <lb ed="#S"/>genere <unclear>proportio</unclear> vel cognitio earum in accidentia ab earum cognitione vespertina 
+          <lb ed="#S"/>et hoc sonant auctoritates innuere augustinus 4 super genesem in multis 
+          <lb ed="#S"/>causis unde capitulo 35 mens angelica pura caritate in hiis 
+          <lb ed="#S"/>verbo dei prius cuncta vidit in verbo facienda quam facta sunt
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S"/>augustinus de similitudinibus capitulo 58 libro 2 bonus perfecta quae deus est sapientia 
+          <lb ed="#S"/>replebitur quam tamen ista perspexerit creare totius naturam videbit 
+        </p>
+        <p>
+          Item 
+          <lb ed="#S"/>habuit 1o posteriorum capitulo ix intelligentiae recipientes irradiationem alium est 
+          <lb ed="#S"/>primo vident in eo omnes res scibiles universales et particulares in<lb ed="#S"/>finita 
+          sunt talia alia huius dicta in originabilibus sanctorum unde videtur 
+          <lb ed="#S"/>irrationabile multis quia animalis audet dicere huius oppositum de igitur cum 
+          <lb ed="#S"/>istis sanctis et doctoribus omnibus et creaturae possunt videri in verbo sed per 
+          <lb ed="#S"/>quem modum est difficile assignare dico tamen ut supra saepe quod 
+          <lb ed="#S"/>per hoc quod a verbo causatur cognitio causa verbi quam creaturae repraesentativa videntur igitur 
+          <lb ed="#S"/>in verbo sicud in causa visionis per eam visa et species in lumine increato 
+          <lb ed="#S"/>sine quo vel cuius illustratione vel intellectu aliter videtur in verbo vel 
+          <lb ed="#S"/>non verbo quia verbum et <quote source="http://scta.info/resource/io1_9@2-7">lux vera est quae illuminat omnem homo</quote> etc unde etiam 
+          <lb ed="#S"/>res in verbo tamquam in increato speculo non quod in verbo sint quae 
+          <lb ed="#S"/>videntur specialiter verbo sed quod per verbum visum visione verbi appre<del rend="expunctuation">n</del>ant
+          intuenti nec mirum cum specialem coram oculis positum confitiat visionem 
+          <lb ed="#S"/>realiter positarum visione qua forsan videtur et ipsum specialem videntur et res in ver<lb ed="#S"/>bo 
+          in <unclear>ydeata</unclear> quia mediate huius visione potest <unclear>perperendi</unclear> qualiter res in verbo prae<lb ed="#S"/>dictis 
+          modis visa est mutatio quaedam longinqua ac remota 
+          <lb ed="#S"/>verbi sicut ydeatum vel extratum suae ydeae vel exemplaris videntur etiam 
+          <lb ed="#S"/>in verbo sicut insupplente vicem speciei ve habitus respectu creaturae cognoscen<lb ed="#S"/>dae 
+          et hoc stricte loquendo quando etiam ipsa cognitione videtur ipsum verbum lar<lb ed="#S"/>ge 
+          autem sive videatur sive ipsum verbum sive non sed iudetur in verbo 
+          <lb ed="#S"/>tamquam in speculo est modus nobis perfectius cognoscibilis pro eo quod hic viden<lb ed="#S"/>tes 
+          res per speculum vix non habemus speciem eius in speculo secundum perspecti 
+          <lb ed="#S"/>vos sed potus speculum informatum speciei rei aliter tunc non videndum est mirabiliter 
+          <lb ed="#S"/>actum principium rem videndi etc 
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> et ad primum in contrarium neganda est minor 
+          <lb ed="#S"/>si capiat quod oporteat ista <add place="above-line">esse</add> potest enim falsa esse sed hoc erit <add place="above-line">quia</add> <del rend="expunctuation">tunc</del> vicem obiecti 
+          <lb ed="#S"/>quod ad efficientiam non alio modo eo modo quo posset immediate supplere 
+          <lb ed="#S"/>vicem albedinis in causando visionem albedinis quod albedo immediate videretur 
+          <lb ed="#S"/>a me sine omni actione albedinis ita potest in proposito agere visionem in 
+          <lb ed="#S"/>me quae sic causa verbi quam creaturae alicuius sicut obiecto verbo solo iibi agen<lb ed="#S"/>te 
+          visionem et illum modum dicendi nec <unclear>tangit</unclear> nec inprobat
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad 2am dicendum quod 
+          <lb ed="#S"/>illud iudicium foret simplex et verum iudicium non falsum licet bene possit esse 
+          <lb ed="#S"/>et fore sit apprehensio falsi sicut etiam dei visio apprehensio est multorum falsorum 
+          <lb ed="#S"/>sed quia non iudicat false ideo non est falsum iudicium simplex in essendo 
+          <lb ed="#S"/>quo iudico hominem non esse asinum est apprehensio quod homo non est asinus 
+          <lb ed="#S"/>sed iudicium contrarii nec etiam iste actus simplex propter hoc quod est apprehensio aequi<lb ed="#S"/>valens 
+          propositioni falsae quoad repraesentationem est falsa vel melius exemplum 
+          <lb ed="#S"/>de sensu quo apprehenditur homo esse asinus et dissentitur eodem actu <pc type="punctus"/>  sed 
+          <lb ed="#S"/>habet modum dicendi non ymaginatur iste in arguendo posse poni tota autem ul<lb ed="#S"/>terior 
+          deductio soluta est in simili in materia alia primae dicendum <unclear>p</unclear> an una 
+          <lb ed="#S"/>persona vel essentia possit cognosci alia in cognita
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad <unclear>c?m</unclear> concedendum est quod tale 
+          <lb ed="#S"/>iudicium quando causatur naturaliter in quo casu exponendus est commentator et philosophus 
+          <lb ed="#S"/>praesupponit iudicium ipsa et quae habet partes 3 vel duas ipsum tamen indivi<lb ed="#S"/>duum 
+          simplex est ect
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> ad 4m concedendum est quod infertur esse possibile et ad 
+          <lb ed="#S"/>primum in contrarium neganda est consequentia et ad probationem fundatur super falsa yma<lb ed="#S"/>ginatione 
+          sicut satis clare est ex praecedenti quaestioni qui non pono esse sed re<lb ed="#S"/>fugio 
+          quod idem actus sic <del rend="expunctuation">primi</del> primo maior unus obiecti et post fiat 
+          <lb ed="#S"/>isto modo <del rend="underline">fiat <!-- correction unclear ? --></del> maior alterius sicut ymaginatur et per eadem dicta patet quod nec 
+          <lb ed="#S"/>2o probatio aliquem colorem habet contra meum modum solvendi quia sup<lb ed="#S"/>ponit 
+          falsum apud me unde haec 4a ratio non fuisset ponenda inter 
+          <lb ed="#S"/>ostensivas quia tantum contra male <unclear>opinantem</unclear> procedit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> et patet ad 5 procedit 
+          <lb ed="#S"/>enim contra ponentem eundem actum posse <add place="below-line"><!-- unclear -->nunc esse</add> cognitione huius nunc non esse ipso 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S"/>stante in potentia cognoscitiva cuius oppositum firme teneo de personae obiectis 
+          <lb ed="#S"/>actuum sive amndi sive cognoscendi 
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> 6a ratio quam putat <unclear>ineva?lem</unclear> nihil 
+          <lb ed="#S"/>omnino valet contra me quia respondebo sibi sicud ad primam contra quam responsionem nihil arguit 
+          <lb ed="#S"/>sed nec aliquid valoris potest arguere sicud credo licet de se probasse alibi 
+          <lb ed="#S"/>idem actus non potest esse distincte diversorum quo habito bene argueret cuius oppositum 
+          <lb ed="#S"/>ego scio esse verum de omni iudicio <subst><add>quo</add> <del>quod</del></subst> iudicamus <c>c</c> <seg type="correction">distingui</seg> <del rend="erasure">ab</del> <c>a</c> 
+          <lb ed="#S"/><c>b</c> et etiam de actu quo beatus videt deum et iudicat patrem distingui a 
+          <lb ed="#S"/>filio et cum etiam secundum illum omni actu quo beatus intelligi patrem intelligit filium 
+          <lb ed="#S"/>dico iterum quod in praedicto assumit <del rend="erasure">a</del> falsum scilicet quod actus aliquis non possit esse im<lb ed="#S"/>mediate 
+          respectu creaturae quo tamen videtur verbum et quod dicis quod nullus potuit hoc dicendo 
+          <lb ed="#S"/>quod hoc falsum est quia <name>okam</name> ponit hoc et nego et quilibet rationalis homo hoc 
+          <lb ed="#S"/>ponere esse possibile fieri deo et quod arguit denominationem illius conceptus nimis <unclear>pu?lis est</unclear> 
+          <lb ed="#S"/>contra cum aequivocato solum sit in vocibus vel in signis voluntariis sed sequitur per<lb ed="#S"/>fectio 
+          talis conceptus unde ista ratio solum procedit de iudicio naturlaiter causabili etiam in 
+          <lb ed="#S"/>verbo viso per idem patet <subst><del rend="strikethrough">per</del> <add place="above-line">ad</add></subst> confirmationem suam quod nihil omnino tangit me 
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> 7a 
+          <lb ed="#S"/>ratio quam accipit ab <unclear>an?no</unclear> quod respectu cuiuslibet entis creati potest esse distincta 
+          <lb ed="#S"/>et propria cognitio et propria appetitivo sed non probat quin possit a deo 
+          <lb ed="#S"/>creari actus unus amoris et cognitionis quo distincte plura cognoscatur 
+          <lb ed="#S"/>immo quo si sic in potentia cognitiva oportet ut plura cognoscantur ymmo 
+          <lb ed="#S"/>distincte cognosci nec oppositum dicit <unclear>an?ns</unclear>
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Ex responsione illius quaestionis et proxime 
+          <lb ed="#S"/>praecedentis sequitur solutio illius communis difficultatis contra possibilitatem <unclear>revelationum</unclear> qua concessa 
+          <lb ed="#S"/>solet argui quod tunc esse possibile quod aliquis ista ferventer <add place="margin-right">amaret</add> rem non separatam ab eo sicut 
+          <lb ed="#S"/>unus alius amaret similem rem ab eo separatam ceteris omnibus circum<lb ed="#S"/>stantiis 
+          existentibus paribus consequens est inpossibile quia tunc species aliquid 
+          <lb ed="#S"/>adipiscendi non augeret amorem vel dilectionem quod est falsum et contra augustinum 
+          <lb ed="#S"/>10 de trinitate capitulo 5 de parvis et capitulo primo de magnsi ubi dicit quod cuiuslibet rei 
+          <lb ed="#S"/>speciem quisque non gerit aut omnino <add place="above-line">non</add> amat ait tepide amat 
+          <lb ed="#S"/>quamvis quam pulcra sic videat haec ille et quod dicta conclusio sequatur probatur quia 
+          <lb ed="#S"/>ponatur quod sortes et plato sint plures in omnibus conditionibus et quod deus reve<lb ed="#S"/>let 
+          in verbo uterque unum bonum sibi futurum et consimile<del rend="expunctuation">m</del> et hanc uterque illorum 
+          <lb ed="#S"/>causa intensum amorem respectu sui boni si parati sicut potest ex sua cognitione 
+          <lb ed="#S"/>et specie sua et sic amore sortes <c>a</c> et amor platonis <c>b</c> isto posito haec esset 
+          <lb ed="#S"/>necessaria <c>a</c> et <c>b</c> fuerunt vel sunt amores aequales vel aeque ferventes manifestum 
+          <lb ed="#S"/>est ex posito et hoc esset contingens separatum a sorte non erit et sequitur si paratum a sorte 
+          <lb ed="#S"/>non erit igitur sortes non videt illud fore igitur non sperat illud fore <pc type="punctus"/> tum quia 
+          <lb ed="#S"/>non sperat illud nisi quia vidit in verbo illud esse futurum tum quia secundum <ref>magistrum 
+          <lb ed="#S"/>sententiarum distinctione 26 capitulo primo</ref> <quote>spes est certa exspectatio futurae beatitudinis</quote> etc
+          <lb ed="#S"/>Si eset certa exspectatio futuri igitur si non est futurum non expectatur et 
+          <lb ed="#S"/>etiam <ref>capitulo proximo sequenti dicit <unclear>d</unclear> magister</ref> quod spes non est nisi futuram realiter <unclear>quae</unclear> 
+          <lb ed="#S"/>non sunt futura non sperantur et per consequens sicut haec est contingens haec est futurorum ista 
+          <lb ed="#S"/>est haec contingens sortes <add place="margin-right">sperat</add> illud esse futurum vel fore et haec est necessaria <c>a</c> et <c>b</c> sunt 
+          <lb ed="#S"/>amores aeque ferventes igitur haec copulativa est possibilis sortes et plato <add place="margin-right">similiter</add> <del rend="expunctuation">respectu</del> dis<lb ed="#S"/>positi 
+          amant duo 2m ultimum suum posse aequaliter et tamen unum 
+          <lb ed="#S"/>est speratum ab uno et aliud non est speratum ab alio ceteris omni<lb ed="#S"/>bus 
+          paribus quae conclusio est inpossibilis sicut probatum est igitur primum ex quo sequitur eset 
+          <lb ed="#S"/>inpossibile scilicet quod deus possit revelare futura contingentia
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> hic proportionaliter
+          <lb ed="#S"/>respondet <name>firaf</name> in lectura de aequalitate amorum in sperante et non speran<lb ed="#S"/>te
+          ceteris omnibus paribus sicut respondet ad difficultatem quaestione 7ae de aequalibus gau<lb ed="#S"/>diis 
+          cum securitate et sine ceteris paribus utrobique cuius ratio tangitur ibi 
+          <lb ed="#S"/>in 6a regula pro conclusione 2a istius difficultatis unde dicit hic quod per se post se est de omni potentia <add place="margin-right">dei</add> 
+          <lb ed="#S"/>absoluta quod sortes et plato aequaliter gaudebant vel amabant cum similibus circum<lb ed="#S"/>stantiis 
+          omnibus omnino nisi quod unus habuit specie et alius non immo quod u<lb ed="#S"/>terque 
+          amat secundum ultimum potentiae suae in tali casu ubi ponitur amor esse 
+          <lb ed="#S"/>ex cognitione praecisa in verbo sed augustinus loquar secundum legem ordinatam et de 
+          <lb ed="#S"/>cursu communi ubi dicit quod illud bonum quod quis non sperat vel omnino non amat 
+          <lb ed="#S"/>vel tepide amat <pc type="punctus"/> Sed hic potest arguit in contrarium quod haec via sic falsa sicud 
+          <lb ed="#S"/>et ista in distincta simili difficultate quae ponit aequale gaudium haberi cum securitate 
+          <lb ed="#S"/>et sine securitate aeternitatis beatitudinis quod enim vocas cum specie vel actu animae conclusio quo 
+          <lb ed="#S"/>firmiter et indubitabiliter exspectat aliquod bonum sive sua exspectatio talis sit 
+          <lb ed="#S"/>praesumptio et confidentia una seu exspectatio frustranda sive non 
+          <lb ed="#S"/>frustranda vel pro tali exspectatione et cum hoc quod oprtimebitur quod sit 
+          <lb ed="#S"/>exspectatur si per nomen speciei debet <unclear>quis</unclear> intelligere ambo haec in secundo sensu <unclear>in?tta</unclear> <!-- addition here -->quid mi<lb ed="#S"/>rum
+          quod aeque intense habeat amorem qui sperat bonum aliquod op<lb ed="#S"/>tinere 
+          et qui non sic sperat dummodo enim quis habeat istam credu<lb ed="#S"/>litatem 
+          firmam et indubitatam exspectationem alicuius aeque amabilis illud etiam 
+          <lb ed="#S"/>si sic fustrandus sicut si optime<add place="above-line">bit</add> nam pulchra promissa laetificant 
+          <lb ed="#S"/>fatuos <pc type="punctus"/> hoc non nisi sperans quod non sperandum esset eo ipso ista immutaretur
+          <pb ed="#S" n="198-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S"/>ad positiones consequentes sicut si foret illud quod sperat <pc type="punctus"/> quia quod illud bonum habe<lb ed="#S"/>bit 
+          vel non <add place="margin-left">non</add> agit illud amorem vel gaudium sed tam iam praesens qui est actus 
+          <lb ed="#S"/>iste subtractus qui vocatur spes si optinebitur illud quod est bonum totale illius 
+          <lb ed="#S"/>actus si autem specie voces talem absolutum actum quo indubitaliter exspectatur 
+          <lb ed="#S"/>tale bonum constat falsum esse quod dicit ille quod talis sperans et non sperans bonum 
+          <lb ed="#S"/>opta<del rend="expunctuation">n</del>t<add place="above-line">um</add> sibi futurum poterit ex naturis suis causare essentialem amorem 
+          <lb ed="#S"/>vel desiderium respectu talis boni si cetera omnia sint paria ymmo si cesset spera<lb ed="#S"/>re 
+          ista naturaliter refrigescet et remittetur eius amor respectu talis boni habitus dum 
+          <lb ed="#S"/>sic sperabat sicut remittitur intentio effectus alicuius de praesens a causis 
+          <lb ed="#S"/>pluribus ad subtractionem alicuius istarum causarum ex hac deductione et distinctione patet 
+          <lb ed="#S"/>quid dicendum sit ad difficultatem illam principalem consequens enim illatum tamquam inpossibile 
+          <lb ed="#S"/>est verum et non inpossibile de spe vel speratione 2o modo dicta sed bene 
+          <lb ed="#S"/>est inpossibile secundum naturales causas de spe primo modo dicta sicud bene satis probatur per 
+          <lb ed="#S"/>experientiam quae ponitur in auctoritate augustini ista enim est veritas experta da<lb ed="#S"/>to 
+          etiam quod non esset auctentica quod autem consequens illud sequitur non probatur ad illum sensum 
+          <lb ed="#S"/>sed tantum sumendo <add place="margin-left">sperare</add> pro ut hoc vocabulum significat <del rend="expunctuation">bene</del> actum talem animae et cum hoc 
+          <lb ed="#S"/>quod anima sic disposita non sit frustranda expecta<del rend="strikethrough">n</del>to bono i nillo 
+          <lb ed="#S"/>enim sensu satis deducitur conclusio ista et sive es tipsa conclusio vera ut visum est et nihil 
+          <lb ed="#S"/>mali sequitur ex eadem in priori aut sensu sumpto vocabulo eius conclusio in conveniens 
+          <lb ed="#S"/>ab ipsomet <unclear>s?natur</unclear> in quaestione beatifica habita pro impossibili ad quod du<lb ed="#S"/>tit 
+          inferendo ibi contra responsionem huic suae similem esse possibile quod duo con<lb ed="#S"/>similes 
+          habeant naturaliter aequalem dilectionem de eodem pro consimili obiecto 
+          <lb ed="#S"/>quorum tamen alter habet specie adipiscendi illud et alius non sed tantum nu<lb ed="#S"/>dam
+          apprehensionem hoc tamen inquit est manifestum inpossibile quia tunc spes 
+          <lb ed="#S"/>adipiscendi aliquod delectabile non augeret naturaliter delectationem contra ex<lb ed="#S"/>perientiam 
+          cuiuscumque satis enim experimur quod aliquando non delectamur vel 
+          <lb ed="#S"/>parum de obiecto aliquo delectabili apprehendo simplici cognitione et tamen si 
+          <lb ed="#S"/>illud speraremus adipisci vehementer gaudemus quis enim tantum delectantur 
+          <lb ed="#S"/>cogitando de regno franciae <add>sicut delectaretur</add> si speraret illud adipisci ex quo manifestum 
+          <lb ed="#S"/>est quod spes adipiscendi auget delectationem igitur inpossibile est quod aliquis natura<lb ed="#S"/>liter 
+          aequalem delectationem habeat de delectabili sperato non sicud alios de 
+          <lb ed="#S"/>delectabili sperato ceteris omnibus paribus in utroque
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Praeterea et consimiliter posset 
+          <lb ed="#S"/>argui de dolore scilicet quod alius dolet tantum propter terribile apprehensum non 
+          <lb ed="#S"/>aestimatum sicud alius propter aestimatum et hoc dico naturaliter omnibus aliis conditioni<lb ed="#S"/>bus 
+          ex parte utriusque <del rend="expunctuation">esse</del> aequalibus quod non videtur intelligibile quia si non aestimati 
+          <lb ed="#S"/>illud terribile sibi adveniens adderetur aestimatio naturaliter magis dolet 
+          <lb ed="#S"/>quam prius sicut cuilibet scientia experibilis sibi dicit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Praeterea fiat argumentum 
+          <lb ed="#S"/>de aliquo delectabili quod apprehensum non causat delectionem sine spe ad<lb ed="#S"/>ipiscendi 
+          illud et reddit argumentum quod ista delectatio sic <c>a</c> potest non fuisse 
+          <lb ed="#S"/>scilicet aestimatio vel praescientia illius obiecti vel etiam fiat argumentum de tristabili quod non 
+          <lb ed="#S"/>causat tristitiam ex sola apprehensione nisi credatur etiam sibi a futurm 
+          <lb ed="#S"/>et procedit argumentum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
