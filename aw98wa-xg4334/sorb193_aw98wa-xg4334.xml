@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7 [Sorb193 Transcription]</title>
+          <date when="2026-05-19">May 19, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="224-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4334"><!-- b4q7-->
+        <head xml:id="aw98wa-xg4334-Hd1e101">Quaestio 7</head>
+        <p xml:id="aw98wa-xg4334-d1e103">
+          <lb ed="#S" n="37"/>Utrum actu secundum poenitentiae requisitus ad delectionem 
+          <lb ed="#S" n="38"/>peccati mortalis sit meritorius <add place="margin-left">vitae</add> aeternae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e113">
+          videtur quod non 
+          <lb ed="#S" n="39"/>quia nullus actus poenalis est meritorius vitae aeternae <pc type="punctus"/> sed 
+          <lb ed="#S" n="40"/>actus poenitentiae est huius igitur minor patet per descriptionem 
+          <lb ed="#S" n="41"/>poenitentiae <unclear>ma</unclear> patet quia nullus meretur per illud quod est contra voluntatem suam per 
+          <lb ed="#S" n="42"/>anselmum de conceptu virginis capitulo 4o
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e129">
+          <pc type="pilcrow">¶</pc> Item si sic aliquid ex puris naturalibus 
+          <lb ed="#S" n="43"/>possit mereri vitam aeternam consequens falsum consequentia probatur quia omnem actum 
+          <lb ed="#S" n="44"/>requisitum ad deletionem culpae mortalis potest habere ex puris 
+          <lb ed="#S" n="45"/>naturalibus quia dolorem de peccato et propositum considerandi et voluntatem ca<lb ed="#S" break="no" n="46"/>vendi 
+          simile et huius omnia igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e143">
+          <pc type="pilcrow">¶</pc> Oppositum videtur argui quia contritio quae 
+          <lb ed="#S" n="47"/>est actus puniendi requisitus est meritorius vitae aeternae secundum 
+          <lb ed="#S" n="48"/>illud eze <quote xml:id="aw98wa-xg4334-Qd1e152" source="http://scta.info/resource/ez18_21@1-5">Si impius egerit poenitentiam</quote> etc
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e157">
+          <pc type="pilcrow">¶</pc> In ista quaestione primo videndum 
+          <lb ed="#S" n="49"/>est de titulo quaestionis 2o movenda sunt dubia in contrarium sol<lb ed="#S" break="no" n="50"/>venda
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e167">
+          <pc type="pilcrow">¶</pc> Quantum ad primum argumentum respondet <name xml:id="aw98wa-xg4334-Nd1e172">firaf</name> sive <name xml:id="aw98wa-xg4334-Nd1e174">hybernicus</name>
+          <lb ed="#S" n="51"/>ponendo duas conclusiones prima conclusio quod nullus actus poenitendi 
+          <lb ed="#S" n="52"/>requisitus ad delectionem culpae mortalis quo ad cul<lb ed="#S" break="no" n="53"/>pam 
+          est meritorius vitae aeternae quia nullus talis procedit a gratia gratum 
+          <lb ed="#S" n="54"/>faciente nullus enim actus praecedens gratiam tempore vel natura est merito<lb ed="#S" break="no" n="55"/>rius 
+          vitae aeternae sed iste qui requiritur ad delectionem culpae 
+          <lb ed="#S" n="56"/>mortalis quo ad culpam est huius aliter non requireretur ergo 
+          <lb ed="#S" n="57"/>etc
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e192">
+          <pc type="pilcrow">¶</pc> 2a conclusio quod aliquis actus est meritorius vitae aeternae quia 
+          <lb ed="#S" n="58"/>aliquis actus talis est actus bonus voluntatis procedens a caritate 
+          <lb ed="#S" n="59"/>et omnis talis est meritorius vitae aeternae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e202">
+          <pc type="pilcrow">¶</pc> ad primum principale neganda 
+          <lb ed="#S" n="60"/>est maior ad probationem dicendum quod anselmus intelligit quod omnis actus poe<lb ed="#S" break="no" n="61"/>nalis 
+          est contra voluntatem id est contra naturalem inclinationem vel 
+          <lb ed="#S" n="62"/>contra affectionem commodi ipsius voluntatis
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e214">
+          <pc type="pilcrow">¶</pc> ad 2m patet ex dictis 
+          <lb ed="#S" n="63"/>quia consequentia non valet Et ad argumentum in oppositum similiter satis patet ex conclusio<lb ed="#S" break="no" n="64"/>nibus 
+          secundum eum
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e224">
+          <pc type="pilcrow">¶</pc> De istis conclusionibus videtur mihi quod licet prima sit vera de 
+          <lb ed="#S" n="65"/>virtute sermonis quia negativa unius falsae inplicationis si 
+          <lb ed="#S" n="66"/><unclear>nemo</unclear> tolleretur non tamen apparet mini vera ad mentem ponentis eam 
+          <lb ed="#S" n="67"/>verum est enim quod nullus actus requiritur ad deletionem
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="68"/>culpe mortalis quo ad culpam requiritur tamen quod qui pecca<lb ed="#S" break="no" n="69"/>verit 
+          mortaliter secundum legem dei quod de sua vita mala peni<lb ed="#S" break="no" n="70"/>teat
+          veteri ut novam valeat inchoare sed nec iste actus 
+          <lb ed="#S" n="71"/>poenitendi requiritur nec iste nec aliquis quia sine isto actu per alium iuvatur 
+          <lb ed="#S" n="72"/>et sic de quovis actu alio Et per idem patet quod 2a conclusio falsa est similiter eun<lb ed="#S" break="no" n="73"/>do 
+          ad vim vocis quia sua contradictoria est vera pro eo quod nullus actus 
+          <lb ed="#S" n="74"/>requiritur ad deletionem culpae mortalis quo ad poenam verum 
+          <lb ed="#S" n="75"/>tamen 2a vera est ad intellectum istum vult dicere quod necesse est cum 
+          <lb ed="#S" n="76"/>quis peccaverit mortaliter ad hoc quod poena sua deleatur de communi lege habere 
+          <lb ed="#S" n="77"/>aliquem actum poenitendi quae iuvet ad deletionem temporalis poenae de<lb ed="#S" break="no" n="78"/>bite 
+          sibi et quod talis actus sit meritorius vitae aeternae aeternus si ponatur 
+          <lb ed="#S" n="79"/>Et quod prima conclusio sit falsa ad mentem ponentis eam probo et arguo sic quia 
+          <lb ed="#S" n="80"/>pono iuvans vel simile ubi ponit requisitus et articulo Iste actus iu<lb ed="#S" break="no" n="81"/>vans 
+          ad deletionem culpae mortalis quo ad culpam est 
+          <lb ed="#S" n="82"/>meritorius eum de congruo dispositione ultimata ut infundatur gratia et gratia 
+          <lb ed="#S" n="83"/>habita iste actus redditur meritorius vitae aeternae et ista possunt esse in eodem 
+          <lb ed="#S" n="84"/>instanti etiam secundum eum aliter frustra poneret in eius probatione quod nullus actus 
+          <lb ed="#S" n="85"/>praecedens gratiam tempore vel natura est meritorius vitae aeternae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e279">
+          <pc type="pilcrow">¶</pc> arguo 
+          <lb ed="#S" n="86"/>igitur tam contra istam propositionem quam accidit inprobatione quam contra conclusionem sic Iste 
+          <lb ed="#S" n="87"/>actus est meritorius vitae aeternae iste actus praecedit gratiam natura
+          <lb ed="#S" n="88"/>igitur aliquis actus praecedens gratiam tempore vel natura est meritorius vitae aeter<lb ed="#S" break="no" n="89"/>nae 
+          <lb ed="#S" n="90"/>discursus est bonus et praemisse vere ergo conclusio similiter Ex alia parte ille 
+          <lb ed="#S" n="91"/>actus iuvat dispositive de congruo ad deletionem culpae morta<lb ed="#S" break="no" n="92"/>lis 
+          primae quoad culpam quia sine isto vel simili vel aequivalenti in de<lb ed="#S" break="no" n="93"/>letur 
+          et iste actus de facto est meritorius vitae aeternae quia cum gratia 
+          <lb ed="#S" n="94"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e304">
+          <pc type="pilcrow">¶</pc> Unde etiam mihi videtur concedendum quod idem actus notatur facit dispositive 
+          <lb ed="#S" n="95"/>prius nam ad deletionem culpae mortalis et posterius natura simul cum du<lb ed="#S" break="no" n="96"/>ratione
+          est meritorius vitae aeternae vel ista potest contingere quod prius 
+          <lb ed="#S" n="97"/>natura talis actus numero eset antequam infundatur sibi gratia sed simul tempore 
+          <lb ed="#S" n="98"/>et tempore non est meritorius nisi per gratiam supervenientem prius natura et consequenter prius 
+          <lb ed="#S" n="99"/>natura iuvat dispositive ad deletionem culpae mortalis quo ad 
+          <lb ed="#S" n="100"/>culpam quam sit meritorius vitae aeternae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e323">
+          <pc type="pilcrow">¶</pc> Contra istas duas conclusiones 
+          <lb ed="#S" n="101"/>arguebatur in ista disputatione multipliciter primo quia membra divisionis co<lb ed="#S" break="no" n="102"/>incidunt 
+          nam omnis actus deletam <add place="margin-below">culpae est etiam deletius poenae utpote contritio quae sicud delet culpa ista <unclear>albuviat</unclear> poenam quia commutat</add> <del>poenae utpote contritio qui sicut 
+          <lb ed="#S" n="103"/>delet culpa ista abreviat</del> poenam aeternam in temporale
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e343">
+          <pc type="pilcrow">¶</pc> Item si aliquis 
+          <lb ed="#S" n="104"/>eliciat bonum velle ex pietate naturali vel ex dictamine recto naturali 
+          <lb ed="#S" n="105"/>et in eodem instanti deus infundat tali caritatem iste actus erit meri<lb ed="#S" break="no" n="106"/>torius 
+          <lb ed="#S" n="107"/>vitae aeternae propter caritatem gratificantem istam personam et tamen iste 
+          <lb ed="#S" n="108"/>actus non procedit ex gratia per positum pro tunc igitur ratio facta pro prima conclusione 
+          <lb ed="#S" n="109"/>nulla est 
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e362">
+          <pc type="pilcrow">¶</pc> Iterum contra 2am conclusionem possibile esset quod aliquis ita graviter pec<lb ed="#S" break="no" n="110"/>caret 
+          quod non posset sic recipere poenam de condigno sibi debitam 
+          <lb ed="#S" n="111"/>nec simul sustinere quia <unclear>poena<del rend="expunctuation">na</del></unclear> sua est finitae capacitatis sic igitur 
+          <lb ed="#S" n="112"/>aliquis talis <del rend="underline">actus</del> et decedat sine hoc quod in vita ista remittat 
+          <lb ed="#S" n="113"/>sibi deus poenam purgatorii temporalem sibi debitam de condigno 
+          <lb ed="#S" n="114"/>talis non habebit gloriam donec egerit poenitentiam et istam sustinere non 
+          <lb ed="#S" n="115"/>potest igitur numquam pertinget ad beatitudinem vel dato quod sit aequaliter 
+          <lb ed="#S" n="116"/>punietur magis peccans et minus peccans dato uno qui praecise meretur 
+          <lb ed="#S" n="117"/>quantum potest recipere
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e393">
+          <pc type="pilcrow">¶</pc> Item 4o principaliter contra dicta in principali positione et conclusio<lb ed="#S" break="no" n="118"/>nibus 
+          principalibus possibile enim est quod aliqua contritio deleat totam poe<lb ed="#S" break="no" n="119"/>nam 
+          temporalem debitam pro peccato et si iste meretur simul praemium videtur 
+          <lb ed="#S" n="120"/>quod praemium maius quam si esset remissior contritio igitur omne quod re<lb ed="#S" break="no" n="121"/>mittit 
+          actum contritionis ceteris paribus vel aliam bonam volitionem 
+          <lb ed="#S" n="122"/>remitteret etiam de praemio quod haberetur si actus iste non remitteretur 
+          <lb ed="#S" n="123"/>sed hoc non videtur quia omnia venialia peccata remittant fervorem bonorum 
+          <lb ed="#S" n="124"/>actuum sicut risus et ludi et huius secundum <ref xml:id="aw98wa-xg4334-Rd1e413">augustinum de vera et falsa 
+          <lb ed="#S" n="125"/>poenitentia</ref> et ponitur <ref xml:id="aw98wa-xg4334-Rd1e418">distinctione X 4i sententiarum</ref> sequitur quod non essent venialia 
+          <lb ed="#S" n="126"/>quia tollerent aeternum praemium
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e424">
+          <pc type="pilcrow">¶</pc> Item quod non oporteat actu 
+          <lb ed="#S" n="127"/>quoquis remissionem meretur poenae esse meritorium praemii in vita aeter<lb ed="#S" break="no" n="128"/>na 
+          videtur quia aliquis meretur sibi remissionem poenae pro actum eli<lb ed="#S" break="no" n="129"/>citum 
+          contra ordinem causatis sed nullus talis actus videtur meritorius vitae 
+          <lb ed="#S" n="130"/>aeternae igitur
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e438">
+          <pc type="pilcrow">¶</pc> assumptum patet per <unclear>sanctum dd 11 R capitulo ultimo</unclear> Qui priusquam 
+          <lb ed="#S" n="131"/>praeligerat pestilentiam dixit domino vertatur obsecror 
+          <lb ed="#S" n="132"/>furor tuus in me etc Isto actu placavit deum quo 
+          <lb ed="#S" n="133"/>ad poenam iminentem populo tamen contra ordinem caritatis quia secundum ordinationem 
+          <lb ed="#S" n="134"/>caritatis plus deberet velle vitam propria quam aliorum
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e455">
+          <pc type="pilcrow">¶</pc> Item contra 
+          <pb ed="#S" n="225-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>conclusionem arguitur sic quia nullus actus meritorius vitae aeternae requiritur ad de<lb ed="#S" break="no" n="2"/>letionem 
+          poenae debite pro mortali peccato quia actus bonus factus 
+          <lb ed="#S" n="3"/>extra caritatem poenam minuit secundum <ref xml:id="aw98wa-xg4334-Rd1e471">magistrum libro 4 de 15</ref> va<lb ed="#S" break="no" n="4"/>lent 
+          enim bona opera extra caritatem facta non ad gloriam vite ae<lb ed="#S" break="no" n="5"/>ternae 
+          habendam sed ad minorem poenam in inferno suscipiendam et si potest 
+          <lb ed="#S" n="6"/>minui potest ut videtur totaliter redimi
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e480">
+          <pc type="pilcrow">¶</pc> praeterea si sic sequitur quod aliquis posset 
+          <lb ed="#S" n="7"/>licite velle peccasse mortaliter consequens non videtur verum probatio consequentiae quia 
+          <lb ed="#S" n="8"/>si iste vult poenitere de mortali et ista consequentia est bona et scita 
+          <lb ed="#S" n="9"/>et volita esse bona iste poenitet de peccato mortali ergo iste pec<lb ed="#S" break="no" n="10"/>cavit 
+          mortaliter ergo si vult antecedens vult consequens et per consequens vult peccasse
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e494">
+          <lb ed="#S" n="11"/><pc type="pilcrow">¶</pc> Item peccati mortaliter iuste debetur poena aeterna Sed constat 
+          <lb ed="#S" n="12"/>quod deus iuste punit quem punit ergo aeternaliter punietur 
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e503">
+          <pc type="pilcrow">¶</pc> dicitur 
+          <lb ed="#S" n="13"/>quod poena aeterna iuste sibi debetur nisi dei misericordia ista com<lb ed="#S" break="no" n="14"/>mutaverit 
+          in temporalem
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e514">
+          <pc type="pilcrow">¶</pc> Contra tunc divina misericordia minus vel non as<lb ed="#S" break="no" n="15"/>perius 
+          puniret hominem in purgatorio quam sit poena temporalis 
+          <lb ed="#S" n="16"/>debita poenitenti in hac vita consequens falsum est etc
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e524">
+          <pc type="pilcrow">¶</pc> ad ista 
+          <lb ed="#S" n="17"/>potest sic responderi iuxta viam quam ego sentio ad praesens
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e532">
+          <pc type="pilcrow">¶</pc> ad primum 
+          <lb ed="#S" n="18"/>dicendum sicut et iste respondet quod solus deus isto se disponente de con<lb ed="#S" break="no" n="19"/>gruo 
+          sicut debet facit istam commutationem de sua mera gratia 
+          <lb ed="#S" n="20"/>sicut etiam confert peccatori primam gratiam ista quod iste per actum contritionis qui 
+          <lb ed="#S" n="21"/>in eo quod est contritio praesupponit gratiam vel tempore vel natural non meretur 
+          <lb ed="#S" n="22"/>istam commutationem sed tantum praemium in caelo et mitigationem poenae in quam 
+          <lb ed="#S" n="23"/>fit mutatio ex mera dei gratia praecedente tamen congrua dispositione 
+          <lb ed="#S" n="24"/>et hoc per se loquendo <add place="margin-left">licet per accidens</add> faciat alia bona temporalia et conservationem 
+          <lb ed="#S" n="25"/>vitae aeternae et huius Et tunc patet ad argumentum quod assumit falsum
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e558">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="26"/>2am conclusionem concedo illius argumenti nec in hoc teneo dictum illius quod aliquis actus 
+          <lb ed="#S" n="27"/>minus meritorius procedat <add place="margin-left">a caritate</add> <del rend="underline">meritorius</del> sed hic oportet vel quod sit bonus ex genere 
+          <lb ed="#S" n="28"/>et in habente caritatem hoc sufficit saepe
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e577">
+          <pc type="pilcrow">¶</pc> ad 3m suppositum est 
+          <lb ed="#S" n="29"/>negandum quia licet non possit de condigno puniri quantum meruit simul 
+          <lb ed="#S" n="30"/>tota poena sibi debita in hac specie poenae ymmo sit in ista specie 
+          <lb ed="#S" n="31"/>poenae venire ad summum receptibile naturaliter in tali potentia sine miraculo 
+          <lb ed="#S" n="32"/>tamen deus potest gravioris speciei poena eum sufficienter punire in eo 
+          <lb ed="#S" n="33"/>simul receptibili secundum capacitatem naturalem absque miraculosa receptione 
+          <lb ed="#S" n="34"/>eiusdem poenae etiam dato quod deus nullum ecum punire tali poena sibi 
+          <lb ed="#S" n="35"/>debita temporali in purgatorio in prima specie et non plus simul 
+          <lb ed="#S" n="36"/>in eo poenere de specie ista quam quanto potest repleri et tunc fa<lb ed="#S" break="no" n="37"/>ceret 
+          istum primo sustinere 2am partem poenae sibi debite et post 
+          <lb ed="#S" n="38"/>aliam et tunc post successivam redditionem poenae possit ad 
+          <lb ed="#S" n="39"/>gloriam promoveri et in tali casu iste proportionaliter causato diutius rema<lb ed="#S" break="no" n="40"/>neret 
+          in purgatorio quam unus alius qui praecise haberet solvere poenam 
+          <lb ed="#S" n="41"/>adaequatam suae capacitati in ista specie poenae quam exigeret ista 
+          <lb ed="#S" n="42"/>ulterior portio poenae quam meruit de condigno secundum communem 
+          <lb ed="#S" n="43"/>dei legem in huius si cetera sint paria
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e615">
+          <pc type="pilcrow">¶</pc> ad 4m principale concedo 
+          <lb ed="#S" n="44"/>quod cognitio remissior meretur remissius praemium in caelo et concedo 
+          <lb ed="#S" n="45"/>conclusionem quae infertur scilicet quod peccata venialia ratione quorum remissius 
+          <lb ed="#S" n="46"/>operatur sunt occasio quia iste remissius praemiabitur et stat quod sint 
+          <lb ed="#S" n="47"/>venialia nec aliquid tollunt unquam de praemio debito sed sunt causa 
+          <lb ed="#S" n="48"/>sive occasio quod actus sive perfectio in actu non est qui si esset inten<lb ed="#S" break="no" n="49"/>sius 
+          praemium deberetur tunc quam modo <pc type="punctus"/> unde non <unclear>faciunt</unclear> de debito 
+          <lb ed="#S" n="50"/>non debitum tunc enim argumentum concluderet intentum sed inpediunt 
+          <lb ed="#S" n="51"/>ne non debitum debeatur
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e643">
+          <pc type="pilcrow">¶</pc> ad 5m nego assumptum ad probationem dico 
+          <lb ed="#S" n="52"/>quod ex quo dicendum scivit vel rationaliter aestimavit populum propter sive peccatum 
+          <lb ed="#S" n="53"/>occidi et pestilentiam pati et se potius dignum isto malo 
+          <lb ed="#S" n="54"/>quam populum potuit secundum ordinem caritatis praeoptare sibi mortem 
+          <lb ed="#S" n="55"/>quia iam meruerat secundum suam aestimationem quam ipso qui secundum suam aestima<lb ed="#S" break="no" n="56"/>tionem 
+          eam non meruerat
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e660">
+          <pc type="pilcrow">¶</pc> Exemplum de isto qui occidisset in<lb ed="#S" break="no" n="57"/>nocentem 
+          pro quo alius innocens puniretur iste posset se credere morti 
+          <lb ed="#S" n="58"/>ut evaderet iste qui non occidit
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e670">
+          <pc type="pilcrow">¶</pc> Exemplum de alio qui alium falso 
+          <lb ed="#S" n="59"/>infamasset et se diceret falsum dixisse <pc type="punctus"/> Exemplum de moyse qui pe<lb ed="#S" break="no" n="60"/>tevit 
+          deleri delibro vitae vel peccatum ydolatriae populo dimitti
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e682">
+          <lb ed="#S" n="61"/><pc type="pilcrow">¶</pc> Item ad aliud forte conclusio est vera sicut plures probabiliter opinantur quod 
+          <lb ed="#S" n="62"/>per actus extra caritatem factos licet non contra caritatem potest homo redi<lb ed="#S" break="no" n="63"/>mere 
+          poenam sibi <unclear>debita</unclear> sicut qui inpleret in mortali poenam sibi 
+          <lb ed="#S" n="64"/>inpositam vel poenitentiam et tamen talis actus non esset meritorius vitae 
+          <lb ed="#S" n="65"/>aeternae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e700">
+          <pc type="pilcrow">¶</pc> ad 6 dicendum quod argumentum probat unum verum ut praedictum est
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>quod nullus actus meritorius vitae aeternae requiritur ad deletionem poenae 
+          <lb ed="#S" n="67"/>debitae pro culpa mortali quia omni alio circumscripto posset unus alius tantum 
+          <lb ed="#S" n="68"/>facere ad hoc sicut iste quae diceretur requiritur tamen secundum communem dei legem 
+          <lb ed="#S" n="69"/>quod si quis mortaliter peccaverit peccato actuali poeniteat de hoc et quod habe<lb ed="#S" break="no" n="70"/>at 
+          actum meritorium vitae aeternae contritionis de isto in speciei vel in 
+          <lb ed="#S" n="71"/>genere ad hoc quod redimatur poena sibi taxata nisi pertineret Et 
+          <lb ed="#S" n="72"/>cum probatur contrarium per magistrum quia bona opera extra caritatem velant dampnatum 
+          <lb ed="#S" n="73"/>ad minorem poenam
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e725">
+          <pc type="pilcrow">¶</pc> dicendum quod illud dictum magistri potest habere multi<lb ed="#S" break="no" n="74"/>plicem 
+          intellectum bonum unum sit hoc quod ideo dicatur vel quod consequentia ibi 
+          <lb ed="#S" n="75"/>facta valeat ideo quod dicantur minuere poenam in casu quo oportet ista 
+          <lb ed="#S" n="76"/>bona facere secundum praeceptum dei et tunc dicuntur minuere poenam quia si non fierent 
+          <lb ed="#S" n="77"/>peccato omissionis deberetur gravior poena quam isti inplendo tale 
+          <lb ed="#S" n="78"/>opus <unclear>inunctum</unclear> licet non totam quia non ex caritate vel nisi cum caritate sicut 
+          <lb ed="#S" n="79"/>tenerentur operantur
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e747">
+          <pc type="pilcrow">¶</pc> Item aliter quia in casu priori et alias cum bene operatur 
+          <lb ed="#S" n="80"/>tamen non ex praecepto obligatur meretur maiorem poenae temporalis de<lb ed="#S" break="no" n="81"/>bite 
+          veniabilibus vel etiam poenae temporali debite mortalibus ut quando prius de 
+          <lb ed="#S" n="82"/>mortalibus vere poenituerat et poenae aeterna quam peccando meruerat 
+          <lb ed="#S" n="83"/>per poenitentiam commutata fuerat in <unclear>temporalem</unclear> talem in quam poenam temporalem 
+          <lb ed="#S" n="84"/>potest per bona opera extra caritatem facta redimere et in toto et in par<lb ed="#S" break="no" n="85"/>te 
+          sicut ego opinor absque assertione isto qui opinatur ista
+          <lb ed="#S" n="86"/>sine merito poenitentiam sibi in poenitentiam in confessione redimere qui illam per<lb ed="#S" break="no" n="87"/>ficiunt 
+          etiam postquam cadunt in culpam et in ea permanent et aliam 
+          <lb ed="#S" n="88"/>merentur poenam per <!-- possible addition here --> sequens peccatum tamen non firmiter opinor sed cum fortitu<lb ed="#S" break="no" n="89"/>dine 
+          partis contrariae
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e779">
+          <pc type="pilcrow">¶</pc> Item potest redimere omnem poenam debitam tempora<lb ed="#S" break="no" n="90"/>lem 
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e787">
+          <pc type="pilcrow">¶</pc> Item 4o potest per talia optinere mitigationem temporalem poenae aeter<lb ed="#S" break="no" n="91"/>nae 
+          sibi debitae pro mortali in quo est a parte ante ita scilicet quod ad 
+          <lb ed="#S" n="92"/>tempus minorem poenam sustineat vel omnino ad horam differatur 
+          <lb ed="#S" n="93"/>poena aeterna sensus sibi debita tamen non credo quod per talia opera de 
+          <lb ed="#S" n="94"/>communi lege possit aeternam mitigationem aeternarum poenarum sibi debitarum 
+          <lb ed="#S" n="95"/>optinere et ideo consequentia est neganda qua arguitur potest minui ergo potest totaliter 
+          <lb ed="#S" n="96"/>tolli et ratio iam patet quia aliter sibi bene operanti satis poterit recompen<lb ed="#S" break="no" n="97"/>sari
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e808">
+          <pc type="pilcrow">¶</pc> Ad 7 dicendum nego consequentiam et ad probationem dicendum quod ista consequentia in valet 
+          <lb ed="#S" n="98"/>scio consequentiam esse bonam et volo antecedens ergo volo consequens sicud patet per 
+          <lb ed="#S" n="99"/><ref xml:id="aw98wa-xg4334-Rd1e816">glossam 15 questione prima</ref> merito super verbum vult certe ista consequentia non valet 
+          <lb ed="#S" n="100"/>volo hic ergo volo omne quod sequitur ex isto ut iste vult forni<lb ed="#S" break="no" n="101"/>cari 
+          ergo vult dampnari nisi intelligitur indirecte et per <add place="margin-right">accidens</add> <del rend="expunctuation">consequens</del> haec <unclear>illi<!-- ibi --></unclear> et 
+          <lb ed="#S" n="102"/>tamen est forte secundum aliquos quia non placet sibi quod consequentia sit bona ymmo 
+          <lb ed="#S" n="103"/>displicet quod antecedens illud infert consequens <add>sicud est in hoc exemplo glossatorum</add>
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e840">
+          <pc type="pilcrow">¶</pc> Dices ergo saltem ubi 
+          <lb ed="#S" n="104"/>antecedens est volitum in consequentia ibi et consequens et sic est in argumento principali quia 
+          <lb ed="#S" n="105"/>nullus potest rationaliter nolle consequentiam istam non valere cum inpossibile sic 
+          <lb ed="#S" n="106"/>eam non valere licet autem voluntas posset velle inpossibile non tamen rationaliter 
+          <lb ed="#S" n="107"/>stitum esse tale <pc type="punctus"/> secus est in exemplo glossatorum ubi consequentia tantum continguntur 
+          <lb ed="#S" n="108"/>bona est ipsa etiam posita
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e859">
+          <pc type="pilcrow">¶</pc> praetera licet displic<add place="above-line">a</add>t homini incidi tamen 
+          <lb ed="#S" n="109"/>scito quod haec consequentia est bona si sanabor incidar si volo effi<lb ed="#S" break="no" n="110"/>caciter 
+          sanari sequitur quod velim incidi et tamen multum displicet mihi 
+          <lb ed="#S" n="111"/>quod consequentia sic bona <pc type="punctus"/> Item scito quod nullo modo possim esse episcopus nisi 
+          <lb ed="#S" n="112"/>prius sini sacerdos et sequitur si hoc scientia et tamen volo esse efficaciter 
+          <lb ed="#S" n="113"/>episcopus omnino scilicet sequitur quod velim esse sacerdos et tamen displicet mihi quod 
+          <lb ed="#S" n="114"/>consequentia sic bona igitur haec non <del rend="expunctuation">b</del> obstant igitur similiter in proposito si 
+          <lb ed="#S" n="115"/>omnino velim puniri quia peccavi et hoc <add place="margin-right">non</add> possum aliquo modo nisi pec<lb ed="#S" break="no" n="116"/>caverim 
+          sequitur quod velim peccare vel peccasse
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e895">
+          <pc type="pilcrow">¶</pc> ad primum istorum dicendum 
+          <lb ed="#S" n="117"/>quod quando antecedens inplicat aliquid displicens sicud in proposito est 
+          <lb ed="#S" n="118"/>ubi antecedens includit vel inplicat illud consequens displicens tunc 
+          <lb ed="#S" n="119"/>licet consequentia sit bona et rationabiliter valeat esse bona cum non oportet quod qui 
+          <lb ed="#S" n="120"/>vult antecedens velit consequens sed certe sit non est in exemplo glossatorum 
+          <lb ed="#S" n="121"/>antecedens enim nihil inplicat displicens voluntati fornicationis sed 
+          <lb ed="#S" n="122"/>inferat displicens
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e914">
+          <pc type="pilcrow">¶</pc> ad 2m et 3m concedo quod infertur quod 
+          <lb ed="#S" n="123"/>valet aliquid est simpliciter volitum tamquam finis est etiam volitum quid<lb ed="#S" break="no" n="124"/>quid 
+          sequitur necessario praesupponi vel requiri ad talem fine volitum 
+          <lb ed="#S" n="125"/>et tamen simul cum hoc satis potest displicere quod tale quid vel tale 
+          <lb ed="#S" n="126"/>requiritur
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e928">
+          <pc type="pilcrow">¶</pc> ad 4m dicendum quod sed peccanti iuste debeatur poena ae<lb ed="#S" break="no" n="127"/>terna 
+          non tamen poenitenti et ideo non sequitur quod iuste uniatur poena 
+          <lb ed="#S" n="128"/>aeterna nisi addatur quod permanebit in peccato tali et quod iuste 
+          <lb ed="#S" n="129"/>semper permanebit puniendus ita sicut modo sicut non sequitur isti 
+          <lb ed="#S" n="130"/>debetur vita aeterna igitur habebit vitam aeternam nisi addatur 
+          <lb ed="#S" n="131"/>quod non deseret statum praesentem quo dignus est vita aeterna
+          <pb ed="#S" n="225-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>nunc quia si desereret statum istum per culpam mortalem desineret 
+          <lb ed="#S" n="2"/>esse dignus
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e953">
+          <pc type="pilcrow">¶</pc> data etiam responsione ista quam dedit <name xml:id="aw98wa-xg4334-Nd1e958">firaf</name> enim valet re<lb ed="#S" break="no" n="3"/>ductio 
+          quia dignus est qui non vult in praesenti exequi gratiam sibi 
+          <lb ed="#S" n="4"/>factam de leviter redimenda <del rend="expunctuation">est</del> poena sibi debita quod sufficiat illam 
+          <lb ed="#S" n="5"/>in purgatorio in quam ibi vel in aliam hic leviorem poena aeterna sibi pecca<lb ed="#S" break="no" n="6"/>ti 
+          debita gratiose fuerat commutata
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e973">
+          <pc type="pilcrow">¶</pc> ad primum argumentum principale bene 
+          <lb ed="#S" n="7"/>fuit responsum per <name xml:id="aw98wa-xg4334-Nd1e980">firaf</name>
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e983">
+          <pc type="pilcrow">¶</pc> ad 2m non valet consequentia ad probationem quod maior 
+          <lb ed="#S" n="8"/>est falsa propter falsam inplicationem
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e992">
+          <pc type="pilcrow">¶</pc> ad materiam dicendum quod oportet istum ha<lb ed="#S" break="no" n="9"/>bere 
+          actum circumstantum supernaturaliter quem non potest habere ex puris 
+          <lb ed="#S" n="10"/>naturalibus
+        </p>
+        <p xml:id="aw98wa-xg4334-d1e1002">
+          <pc type="pilcrow">¶</pc> ad argumentum in oppositum antecedens est falsum propter falsam inplicationem 
+          <lb ed="#S" n="11"/>concedendum est tamen quod actus poenitentiae et contritionis si quis <unclear>habetur</unclear> est me<lb ed="#S" break="no" n="12"/>ritorius 
+          vitae aeternae
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
