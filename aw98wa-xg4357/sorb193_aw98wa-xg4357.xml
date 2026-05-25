@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8 [Sorb193 Transcription]</title>
+          <date when="2026-05-20">May 20, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="225-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4357"><!-- b4q8-->
+        <head xml:id="aw98wa-xg4357-Hd1e101">Quaestio 8</head>
+        <p xml:id="aw98wa-xg4357-d1e103">
+          <lb ed="#S" n="13"/>Utrum quilibet qui commisit peccatum mortale teneatur secundum 
+          <lb ed="#S" n="14"/>legem dei communem 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e110">
+          de isto conteri quod non quia nullus tenetur ad 
+          <lb ed="#S" n="15"/>sibi inpossibile sed alicui qui commisit peccatum mortale 
+          <lb ed="#S" n="16"/>inpossibile est conteri quia sic ista quod sic totaliter oblicus illius 
+          <lb ed="#S" n="17"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e119">
+          <add place="margin-below"><pc type="pilcrow">¶</pc> Contra nullus <unclear>arbitratur</unclear> suae voluntatis <add place="above-line">constitutus</add></add> potest novam vitam inchoare nisi poenitat eum veteris vitae igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e131">
+          <pc type="pilcrow">¶</pc> dicendum quod sit quia posset sibi occurrere vel quando sibi occurreret et 
+          <lb ed="#S" n="18"/>tenetur quilibet talis conteri saltem virtualiter vel formaliter ut alias declaravi super 
+          <lb ed="#S" n="19"/>primum librum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e142">
+          <pc type="pilcrow">¶</pc> Sed in contrarium potest obici quia aliquando unum peccatum est 
+          <lb ed="#S" n="20"/>iusta poena alterius hoc probatur per multas auctoritates <ref xml:id="aw98wa-xg4357-Rd1e149">ii sententiarum distinctione 26
+          <lb ed="#S" n="21"/>capitulo 1</ref> Similiter dicit <name xml:id="aw98wa-xg4357-Nd1e154">gregorius</name> omelia 15 sicut ibidem habetur capitulo 3 quod peccatum quod <unclear>per</unclear> poe<lb ed="#S" break="no" n="22"/>nitentiam
+          non diluitur mox suo suo pondere trahit ad aliud
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e162">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="23"/><ref xml:id="aw98wa-xg4357-Rd1e168">ysidorus de summo bono capitulo 3 9</ref> secundum <name xml:id="aw98wa-xg4357-Nd1e170">firaf</name> quod deus ocultam 
+          <lb ed="#S" n="24"/>superbiam vindicat per manifestum luxuriaram
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e175">
+          <pc type="pilcrow">¶</pc> Item diffinitive 
+          <lb ed="#S" n="25"/>dicit magister ubi prius capitulo 5 quod in nullo fieri praevidendum veritati putatur si quis 
+          <lb ed="#S" n="26"/>dixerit ipsa eademque peccata etc addit tamen quod non numquam peccata 
+          <lb ed="#S" n="27"/>sunt poena peccati isto modo et tamen inquantum peccata sunt privationes boni 
+          <lb ed="#S" n="28"/>sed causaliter et active ut dixerat <ref xml:id="aw98wa-xg4357-Rd1e189">distinctione 15</ref> arguitur igitur sic unum peccatum est 
+          <lb ed="#S" n="29"/>iusta poena alterius sed quaelibet iusta poena potest optari alteri qui 
+          <lb ed="#S" n="30"/>meruit eam sed ego non teneor conteri de aliquo quod in suo simili li<lb ed="#S" break="no" n="31"/>cite 
+          possum alteri optare igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e198">
+          <pc type="pilcrow">¶</pc> Probabiliter potest ad istud dici quod 
+          <lb ed="#S" n="32"/>peccatum 2arium gravius non est proprie poena <unclear>recompensatia</unclear> alterius peccati 
+          <lb ed="#S" n="33"/>praecedentis sed sic quod per primum demeretur praeservari a 2o graviori si tamen 
+          <lb ed="#S" n="34"/>perseveret Et tunc ad formam alterius videtur etiam quod 2a propositio neganda est 
+          <lb ed="#S" n="35"/>sive intelligatur de poena recompensatia quod non possit alteri vi<lb ed="#S" break="no" n="36"/>atori 
+          <unclear>op?ris</unclear> poenam aeternam licet meruerunt istam sive etiam intelligatur 
+          <lb ed="#S" n="37"/>de poena in quam permittitur homo cadere ratione peccati sui 
+          <lb ed="#S" n="38"/>quomodo unum peccatum est iusta poena alterius id est in quam iuste 
+          <lb ed="#S" n="39"/>permittitur homo cadere et a qua meruit minime praeservari quia 
+          <lb ed="#S" n="40"/>non possum <unclear>fornicari op?re</unclear> quod cadat in homicidium licet in id sit 
+          <lb ed="#S" n="41"/>casurus in poenam et confusionem suae prioris culpae quam on vult di<lb ed="#S" break="no" n="42"/>mittere 
+          sed potius teneor sibi optare emendationem per <unclear>viam</unclear> lici<lb ed="#S" break="no" n="43"/>tas 
+          et poenas et confusiones personales quae non sunt culpae
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e238">
+          <pc type="pilcrow">¶</pc> videtur tamen quod augustinus 
+          <lb ed="#S" n="44"/>et alii sancti ponentes posteriores culpas esse iustas poenas pri<lb ed="#S" break="no" n="45"/>orum 
+          non dicunt verum quia nullum iniustum <add place="margin-left">est iustum</add> sed omne peccatum est iniustum 
+          <lb ed="#S" n="46"/>ergo nullum peccatum est iustum et si non est iustum non est aliquod 
+          <lb ed="#S" n="47"/>iustum ergo nec poena iusta quia tunc esset hoc iustum demonstrando 
+          <lb ed="#S" n="48"/>poenam istam et tamen non esset aliquod iustum quae non possunt se compati ut 
+          <lb ed="#S" n="49"/>videtur istam materiam tractat multipliciter diffuse <ref xml:id="aw98wa-xg4357-Rd1e259">libro 2 distinctione 26</ref> et tangit quaestione 
+          <lb ed="#S" n="50"/>idem argumentum Et ponit ibi auctoritates augustini gregorii et apostoli ad 
+          <lb ed="#S" n="51"/>hoc respondit secundum viam tentium nullum peccatum in quantum est aliquid esse a deo 
+          <lb ed="#S" n="52"/>quia peccatum non est iusta poena essentialiter sed solum active quia infert 
+          <lb ed="#S" n="53"/>poenam corrumpendo bonum naturae vel minuendo sicut alias expositum est
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e271">
+          <pc type="pilcrow">¶</pc> Secundum aliam viam respondet quod peccatum quatenus est a deo est bonum 
+          <lb ed="#S" n="54"/>et iustum <del rend="expunctuation">quale</del> quatenus a libro arbitrio peccantis iniustum est et ideo licet 
+          <lb ed="#S" n="55"/>secundum eum secundum <subst><add place="margin-left">hanc</add> <del rend="expunctuation">aut</del></subst> viam quae magis concordat cum auctoritatibus sanctorum idem sit 
+          <lb ed="#S" n="56"/>peccatum et poena in multis sicut ibi declaravit tamen illud quod solum 
+          <lb ed="#S" n="57"/>est peccatum et poena non est poena nec poena iusta ex hoc 
+          <lb ed="#S" n="58"/>quod est peccatum sed quantum ad cumulum poenae agregandae et permit<lb ed="#S" break="no" n="59"/>titur 
+          iste <del rend="expunctuation">iii</del> iuste in aliud peccatum cadere <name xml:id="aw98wa-xg4357-Nd1e302">Scotus</name> ibidem dicit 
+          <lb ed="#S" n="60"/>quod si culpa in eo quod est culpa sit poena ipsa sub hac conditione 
+          <lb ed="#S" n="61"/>non est a deo efficiente sed deserente et sic glossat augustinus primo retractan<lb ed="#S" break="no" n="62"/>dum
+          quod omnis poena a deo est
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e313">
+          <pc type="pilcrow">¶</pc> 2o potest argui contra dictam conclusionem quia tunc 
+          <lb ed="#S" n="63"/>posito quod aliquis habeat multa peccata aut tenetur de quolibet sigil<lb ed="#S" break="no" n="64"/>latim 
+          poenitere aut non si sic hoc esset periculosum <pc type="punctus"/> <unclear>ptu</unclear> quia 
+          <lb ed="#S" n="65"/>posset non habere tempus sigillatim uniendi de quolibet ante mortem 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>et ista videtur non esse in statu salutis quia non faceret ad quod tenetur et etiam tunc de nullo 
+          <lb ed="#S" n="67"/>perfectissime posset conteri occurrente alio <add place="margin-right">consequentia patet</add> quia per actum circa aliud remitteretur 
+          <lb ed="#S" n="68"/>actus respectu prioris
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e341">
+          <pc type="pilcrow">¶</pc> Ad hoc dico quod expedit tali ut convertat se 
+          <lb ed="#S" n="69"/>ad deum primo hortando in confuso quod deum offendit mortaliter cum spe venie<lb ed="#S" break="no" n="70"/>at 
+          desiderando et inplorando veniam et gratiam <pc type="punctus"/> Et ex tunc discur<lb ed="#S" break="no" n="71"/>rat 
+          lamentando et amplificando materiam doloris et voluntarie assumendo sibi poe<lb ed="#S" break="no" n="72"/>nitentiam 
+          et sive praeoccupetur morte <add place="margin-right">antequam</add> percurrerit isto modo singula 
+          <lb ed="#S" n="73"/>sive non ex quo est cum <add place="in-line">in</add>voluntate emendandi conscientiam suam <unclear>plene</unclear>
+          <lb ed="#S" n="74"/><del rend="underline">et</del> puniendi est in toto apud deum vel tuto
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e373">
+          <pc type="pilcrow">¶</pc> Et <del rend="expunctuation">si</del> arguitur quod si 
+          <lb ed="#S" n="75"/>in confuso de omnibus debet poenitere prius hoc inpediret eum a perfectissima 
+          <lb ed="#S" n="76"/>poenitentia singulorum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e386">
+          <pc type="pilcrow">¶</pc> dicendum quod non est malum incipere ab inperfecto suf<lb ed="#S" break="no" n="77"/>ficiente 
+          ad salutem dato quod totus processus non potest perfici et ad 
+          <lb ed="#S" n="78"/>perfectionem poenitentiae postea quantum licuit tendere singulorum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e396">
+          <pc type="pilcrow">¶</pc> 3o potest 
+          <lb ed="#S" n="79"/>argui si conclusio ista sit vera tunc de peccato pro quomodo debe poena 
+          <lb ed="#S" n="80"/>intensive infinita teneretur conteri infinite sed tale est <add place="in-line">in</add>possibile 
+          <lb ed="#S" n="81"/>sicut si aliquis voluisset christum occidere sciens ipsum esse christum per 
+          <lb ed="#S" n="82"/><ref xml:id="aw98wa-xg4357-Rd1e412"><name xml:id="aw98wa-xg4357-Nd1e413">anselmum</name> cur deus homo capitulo 14 et 15</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e417">
+          <pc type="pilcrow">¶</pc> Item si quis vellet mortaliter 
+          <lb ed="#S" n="83"/>peccare per unum diem deberetur illi poena gravis in certo gradu et si 
+          <lb ed="#S" n="84"/>vellet per duos ceteris paribus in duplo gravior vel saltem si 
+          <lb ed="#S" n="85"/>per dies multos <add place="margin-right">igitur per infinitos</add> infinite consequenta negatur
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e433">
+          <pc type="pilcrow">¶</pc> Contra si quis velit male 
+          <lb ed="#S" n="86"/>facere et non stat per eum quin male faciat aeque peccat sicut si fa<lb ed="#S" break="no" n="87"/>ceret 
+          quia etiam parte opus exterius non addit meritum vel demeritum 
+          <lb ed="#S" n="88"/>nisi per accidens quatenus auget voluntatem bonam vel malam <pc type="punctus"/> sed <add place="margin-right">velle</add> committere 
+          <lb ed="#S" n="89"/>per infinitos dies vel in aliquo casu si committeret peccata infinita successive 
+          <lb ed="#S" n="90"/>vel simul si posset erit ista inputabile ad poenam sicut si actu 
+          <lb ed="#S" n="91"/>committeret et tunc meretur poenam infinitam igitur et <unclear>tunc</unclear> Respondeo ad illud dicendum 
+          <lb ed="#S" n="92"/>quod nullum potest esse peccatum pro quo alicui debeatur poena aeterna in<lb ed="#S" break="no" n="93"/>finita 
+          intensive et cum probatur quod ymmo per anselmum de peccato quo quis vo<lb ed="#S" break="no" n="94"/>luisset 
+          christum occidere
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e466">
+          <pc type="pilcrow">¶</pc> dicendum quod si quis invitatur anselmo magis est 
+          <lb ed="#S" n="95"/>ad oppositum quam ad propositum quia dicit quod nullus hoc potuisset volui<lb ed="#S" break="no" n="96"/>isse 
+          <pc type="punctus"/>  dicendum tamen quod si aliquis posset esse ita perversus quod ex minima malitia 
+          <lb ed="#S" n="97"/>et iniquitate vel perversitatem et creduelitate posset velle deum 
+          <lb ed="#S" n="98"/>hominem ipsum offendentem velle occidere et de facto faceret quod non cla<lb ed="#S" break="no" n="99"/>re 
+          apparet <unclear>s?r</unclear> inpossibile
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e487">
+          <pc type="pilcrow">¶</pc> dicendum inquit quod adhuc illud peccatum non 
+          <lb ed="#S" n="100"/>est infinitum per intrinsecam quantitatem malitiae intensivam sed solum 
+          <lb ed="#S" n="101"/>per extrinsecam denominationem qua vult occidere illud quod infinitis bo<lb ed="#S" break="no" n="102"/>nis 
+          creaturibus deberet praeponere in amore et citius velle infini<lb ed="#S" break="no" n="103"/>ta 
+          bona tollere quam tollere tantum bonum praecise dato quod cre<lb ed="#S" break="no" n="104"/>deret 
+          per errorem se posse occidere infinitam ipsam <unclear>diminuentem</unclear> et 
+          <lb ed="#S" n="105"/>non solum <add place="margin-left">sibi</add> iniuriari in <unclear>infinita<!-- correction--></unclear> sibi unita sic igitur esset infinite 
+          <lb ed="#S" n="106"/>malus non quippe proprie in infinitum non sic de aliis peccatis 
+          <lb ed="#S" n="107"/>crudelitatis quorum aliqui aliquibus per se et directe volunt 
+          <lb ed="#S" n="108"/>inferre mortem vel iniuriam sunt bona infinita licet alio modo 
+          <lb ed="#S" n="109"/>sint etiam talia crimina consequentia infinite mala quia fiunt contra praecepta 
+          <lb ed="#S" n="110"/>dei qui est bonum infinitum quia non dimittitur ob amorem boni infiniti 
+          <lb ed="#S" n="111"/>quia deus est et quia sunt digna puniri secundum communem dei legem poena 
+          <lb ed="#S" n="112"/>infinita secundum extensionem sed praeter hic omnes tales habitudines communes omni<lb ed="#S" break="no" n="113"/>bus 
+          peccatis mortalibus haberet vel de quo est sermo conditionem infini<lb ed="#S" break="no" n="114"/>tis 
+          propriam ex obiecto quod directe respicitur aliter quam alia quare sit in<lb ed="#S" break="no" n="115"/>finitum 
+          malum secundum talem habitudinem extrinsecam ad infinitum bonbum 
+          <lb ed="#S" n="116"/>tum hoc tamen stat quod sit intrinsece finitum malum et ista debetur sibi 
+          <lb ed="#S" n="117"/>poena finita intensive et infinita extensive
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e541">
+          <pc type="pilcrow">¶</pc> ad aliam qua probatur 
+          <lb ed="#S" n="118"/>quod est dare peccatum infinitum quia volens peccare per infinitos 
+          <lb ed="#S" n="119"/>dies etc Respondendi alias quod assumptum non est verum et quod probo ap<lb ed="#S" break="no" n="120"/>posita 
+          ideo non tenet quia nullus posset excedi infinitis diebus noviter aequa<lb ed="#S" break="no" n="121"/>liter 
+          peccando nisi mediantibus infinitis distinctis volitionibus nec 
+          <lb ed="#S" n="122"/>sic esset in isto qui solum confuse <unclear>pellet</unclear> vel cognoscere peccare 
+          <lb ed="#S" n="123"/>infinitis diebus dicto modo <pc type="punctus"/> Contra tamen istam responsionem reducit 
+          <lb ed="#S" n="124"/><del rend="strikethrough">s</del> <name xml:id="aw98wa-xg4357-Nd1e568">skeleton</name> contra me ad cuius argumentum ita responderam in <ref xml:id="aw98wa-xg4357-Rd1e570">2o libro quaestione 
+          <lb ed="#S" n="125"/>5</ref> quod assumptum suum erat de circumstantia temporis dixi enim ut 
+          <lb ed="#S" n="126"/>recitat iste magister inscribendo et bene quod in circumstantia temporis ma<lb ed="#S" break="no" n="127"/>ioris 
+          non arguit actum meliorem si cetera sint paria et tamen arguit 
+          <lb ed="#S" n="128"/>contra me quia tunc iste qui vult peccare per infinitos dies 
+          <lb ed="#S" n="129"/>in aliquo habet peccatum suum agravatum qua tenus est respectu unius 
+          <lb ed="#S" n="130"/>diei dixi sibi ut recitat et bene quod ex nullo determinato die 
+          <lb ed="#S" n="131"/>est actus istius meritorio <add place="margin-right">vel demeritorius</add> alicuius praecisi meriti esset tamen si distincte 
+          <lb ed="#S" n="132"/>sequeretur super quaelibet infinitorum diorum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e594">
+          <pc type="pilcrow">¶</pc> Contra istam responsionem arguit
+          <pb ed="#S" n="226-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>iste magister primo sic <pc type="punctus"/> quia ex ista positione sequitur oppositum <unclear>po?ti</unclear> si sint duo 
+          <lb ed="#S" n="2"/>homines aeque volentes peccare in omnibus praeter quam quod unus velit 
+          <lb ed="#S" n="3"/>post lapsum proxime diei futurum peccare infinitis diebus sequen<lb ed="#S" break="no" n="4"/>tibus 
+          et alius isto die toto etiam cum infinitis sequentibus sub hac forma vo<lb ed="#S" break="no" n="5"/>lo 
+          semper ex nunc peccare si igitur non sit aggravatio alia praecisa respectu 
+          <lb ed="#S" n="6"/>unius <unclear>diei<!-- dei--></unclear> non gravius peccaret <unclear>nolens</unclear> plus de tempore consumere 
+          <lb ed="#S" n="7"/>et citius incipiere quam volens tardius post volendo continuare aequaliter cuius 
+          <lb ed="#S" n="8"/>pono optimum ut mihi inponit praedictus magister
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e632">
+          <pc type="pilcrow">¶</pc> aliter secundum illud sequeretur quod non 
+          <lb ed="#S" n="9"/>foret gravius velle peccare die pasche ceteris paribus aut conclusionibus 
+          <lb ed="#S" n="10"/>die festo quam alio die non festo et probat consequentiam magister iste sup<lb ed="#S" break="no" n="11"/>ponit 
+          quod ad praeceptum dei ecclesia statuerit aliquo certo anno non fo<lb ed="#S" break="no" n="12"/>re 
+          servandum aliquod <del rend="strikethrough">falsum</del> festum nec festum pasche nec aliud velint 
+          <lb ed="#S" n="13"/>tunc duo homines aequaliter peccare per omnia praeter hoc tantum quod unus ve<lb ed="#S" break="no" n="14"/>lit 
+          peccare per unum totum annum in quo festa forent servanda 
+          <lb ed="#S" n="15"/>alius velit solum in isto anno peccare in quo statutum est nullum 
+          <lb ed="#S" n="16"/>secundum fore servandum quia neuter ferat distincte intensionem su<lb ed="#S" break="no" n="17"/>am 
+          super aliquem diem sui anni sed confuse tantum et aeque confuse super 
+          <lb ed="#S" n="18"/>omnes dies anni huius <pc type="punctus"/> Tunc sic ex nulla die est hic aggra<lb ed="#S" break="no" n="19"/>vatio 
+          facta unde in aliquo praecise esset additio in demerito si peccavit 
+          <lb ed="#S" n="20"/>in ea <unclear>po?o</unclear> secundum eum igitur non plus ex die festo quam ex quocumque 
+          <lb ed="#S" n="21"/>alio die quae fuit conclusio probanda quae tamen est irrationalis Et forte 
+          <lb ed="#S" n="22"/>ecclesia dampnaret hoc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e677">
+          <pc type="pilcrow">¶</pc> Quod autem ista conclusio sit falsa probo nam 
+          <lb ed="#S" n="23"/>sequitur iste vult toto isto anno contingere peccatum suum ergo est reus 
+          <lb ed="#S" n="24"/><del rend="underline">illius</del> continuationis volitionis transgressionis de non servando aliquod <unclear>firmum</unclear>
+          <lb ed="#S" n="25"/>alius non ergo in aliquo praecise aggravatur <unclear>retractus</unclear> huius volitionis qua<lb ed="#S" break="no" n="26"/>tenus  
+          est respectu diei festi et non plus quam respectu alterius diei igitur inquit 
+          <lb ed="#S" n="27"/>secundum istam conclusionem meam ego haberem concedere istam suspectam conclusionem 
+          <lb ed="#S" n="28"/>vel quod respectu cuiuslibet diei sic propria agravatio quod est oppositum positi Item 
+          <lb ed="#S" n="29"/>contra aliam responsionem in qua dixi sicut communiter dicitur et ponitur ad con<lb ed="#S" break="no" n="30"/>similia 
+          argumenta concludentia infinitatem meriti vel demeriti quod scilicet non 
+          <lb ed="#S" n="31"/>sequitur ista conclusio propter confusam vel confusiorem cognitionem
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e709">
+          <pc type="pilcrow">¶</pc> Contra hoc inquit 
+          <lb ed="#S" n="32"/>arguo sic et rogat quod ego respondeam clare solvendo illud et tunc 
+          <lb ed="#S" n="33"/>adhaerebit mihi in hac parte scilicet ceteris inquit paribus non foret da<lb ed="#S" break="no" n="34"/>ta 
+          aliqua certa aggravatione ex certo tempore Item ex additione tanta 
+          <lb ed="#S" n="35"/>temporis additio causata aggravatione nec duplum tempus duplo ag<lb ed="#S" break="no" n="36"/>gravaret 
+          propter confusiorem cognitionis qua cognoscitur maius sequitur quod infinita <add place="margin-center">confusio</add>
+          <lb ed="#S" n="37"/>totam tolleret aggravationem ex tempore possibilem probatur sic consequentia <pc type="punctus"/> aliqua 
+          <lb ed="#S" n="38"/>cognitio confusa finitorum temporum aliquid diminuit vel minuit 
+          <lb ed="#S" n="39"/>de aggravatione quae foret dupla forsan si fuisset aeque 
+          <lb ed="#S" n="40"/>distincta cognitio sicut prius igitur iuxta proportionem cognitionis ad con<lb ed="#S" break="no" n="41"/>fusionem 
+          erit dummodo huius aggravationis respectu alterius aggravationis quia 
+          <lb ed="#S" n="42"/>ipsa est praecisa causa diminuitionis et quare igitur non crescet proportionaliter ag<lb ed="#S" break="no" n="43"/>gravatio 
+          cum tempore iuxta proportionem temporum invicem <pc type="punctus"/> quis igitur nisi spon<lb ed="#S" break="no" n="44"/>te 
+          proferens quod quod mente non potest concipere <unclear>negabit</unclear> sequi ex infinita 
+          <lb ed="#S" n="45"/>confusione infinitam diminuitionem aggravationis et ita per consequens minus grave 
+          <lb ed="#S" n="46"/>fore velle per infinitum tempus peccare omnibus aliis aeque paribus quam 
+          per unum <unclear>diem <!-- something else here --></unclear>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e761">
+          <pc type="pilcrow">¶</pc> Idem inquit argumentum saepe feci contra istum modum 
+          <lb ed="#S" n="47"/>respondendi nec unquam audivi solutionem
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e769">
+          <pc type="pilcrow">¶</pc> Item inquit ista duo 
+          <lb ed="#S" n="48"/>sunt opposita vel antecedentia ad opposita quae secundum eum ego pono 
+          <lb ed="#S" n="49"/>valet quod velle peccare per maius tempus <unclear>cong?tur</unclear> esse tale ceteris 
+          <lb ed="#S" n="50"/>paribus est gravius quam velle per minus tempus et haec aliud scilicet quod in huius 
+          <lb ed="#S" n="51"/>volitione quae<del rend="expunctuation">ui</del> est respectu multorum temporum confuse cognitorum non est 
+          <lb ed="#S" n="52"/>additio aliqua respectu dici unius de illis diebus confuse cognitisi 
+          <lb ed="#S" n="53"/>quia ex uno istorum inquit infertur oppositum alterius quia sequitur ex primo 
+          <lb ed="#S" n="54"/>quod subducto uno die de maiori tempore minus est demeritum 
+          <lb ed="#S" n="55"/>in aliquo ceteris paribus cum hoc quod cognitur ista subductio ergo ex opposito 
+          <lb ed="#S" n="56"/>tantum crescit quantum diminutio <del rend="strikethrough">l</del> ceteris paribus igitur aliquid praecise est aliquid 
+          <lb ed="#S" n="57"/>additum respectu cuiuslibet diei et econverso si vel respectu diei praecise additur 
+          <lb ed="#S" n="58"/>igitur nihil diminuitur per eius subtractionem consequens est contra primum positum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e807">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="59"/>ex ista responsione <add place="margin-left">videtur</add> quod <unclear>continuans</unclear> malam voluntatem respectu <unclear>fornicationois</unclear> vel 
+          <lb ed="#S" n="60"/>alterius criminis sive actum ipsum mortalem nihil cogitando de tempore nec 
+          <lb ed="#S" n="61"/>cognoscendo actualiter confusa cognitione vel distincta tempus non 
+          <lb ed="#S" n="62"/>aggravaret actum suum nec augeret actum suum plus ex 
+          <lb ed="#S" n="63"/>tempore maiori quam minori consequentia patet ex quo procedit diminutio 
+          <lb ed="#S" n="64"/>aggravationis in infinitum iuxta diminutionem distincte cognitionis 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>igitur ubi nulla actualis cognitio nulla erit aggravatio 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e838">
+          <pc type="pilcrow">¶</pc> ad ista 
+          <lb ed="#S" n="66"/>respondeo ad primum nego illud quod accipit quod ex ista mea positione 
+          <lb ed="#S" n="67"/>sequitur oppositum positi
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e849">
+          <pc type="pilcrow">¶</pc> Et ad primam probationem bene concedo quod sensus iste quid statim 
+          <lb ed="#S" n="68"/>ex nunc <add place="margin-right">vult</add> incipiere simile peccatum per omnia sicut et alius die crastina et 
+          <lb ed="#S" n="69"/>deinde post infinitis diebus illud continuare gravius peccat sic 
+          <lb ed="#S" n="70"/>volendo ceteris paribus quin de exequendo non est dubium quin suum peccatum 
+          <lb ed="#S" n="71"/>sic gravius extensive quia citius inchoavit et continuabit inquantum 
+          <lb ed="#S" n="72"/>stat per eum pro nunc sicut peccatum alterius Causa una quare gravius 
+          <lb ed="#S" n="73"/>peccat est quia habet velle efficax alius non sed velle <unclear>dilativum</unclear> 
+          <lb ed="#S" n="74"/>et si cras ille haberet velle consimile huic quod 2us habet horae ista quod 
+          <lb ed="#S" n="75"/>cras eligat sic ex nunc volo peccare sic <add place="margin-right">ita graviter</add> <del rend="expunctuation">peccare</del> pecca<lb ed="#S" break="no" n="76"/>bit 
+          iste cras ut credo sicut alius hodie ex hoc quod sicut preci 
+          <lb ed="#S" n="77"/>se vult quia consimilem actum per omnia habebit tunc sicut 2us hodie
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e888">
+          <lb ed="#S" n="78"/><pc type="pilcrow">¶</pc> Exemplum longe meliorem actum habet iste qui statim propter deum 
+          <lb ed="#S" n="79"/>vult relinquere mundum quam qui vult hinc ad annum non 
+          <lb ed="#S" n="80"/>solum propter tempus sed propter meliorem actum secundum se quia unus est dilatus 
+          <lb ed="#S" n="81"/>boni operis et inefficax et alter efficax
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e901">
+          <pc type="pilcrow">¶</pc> alia causa potest esse quia 
+          <lb ed="#S" n="82"/>alius potest facere cognitiones suas per obiecta sicud prius ista quod cogitat sic 
+          <lb ed="#S" n="83"/>volo incipere statim et continuare usque cras et deinceps in infinitum 
+          <lb ed="#S" n="84"/>ubi alius dicit volo differre usque cras et deinceps usque in in<lb ed="#S" break="no" n="85"/>finitum 
+          peccare tunc iste qui statim incipit vel vult incipere 
+          <lb ed="#S" n="86"/>habet duo peccata unum quia distincte vult peccare per unum diem et 
+          <lb ed="#S" n="87"/>aliud quo vult confuse ex tunc per omnes dies confuse conceptos 
+          <lb ed="#S" n="88"/>in infinitum continuare vel alter habet tantum unum aequivalens vel quasi alteri 
+          <lb ed="#S" n="89"/>eorumdem distinctorum <add place="margin-right">peccatorum</add> alterius si igitur primo modo sic solum velle 
+          <lb ed="#S" n="90"/>prius 2ii gravius peccatum quam velle prius primi hoc non erit in io<lb ed="#S" break="no" n="91"/>ta 
+          ex uno die contento sub tempore pro quo nunc eligit 
+          <lb ed="#S" n="92"/>peccare quia dixi quod si primus omnino actum eligat ita gravi<lb ed="#S" break="no" n="93"/>ter 
+          peccabi iste cras per positionem primam sui actus sicut secundus homine 
+          <lb ed="#S" n="94"/>per actus sui causationem poenam dico <add place="margin-right">tamen quod ille</add> <subst><del>quod</del> <add>quid</add></subst> incipit hodie gravius 
+          <lb ed="#S" n="95"/>peccabit ex circumstantia primae diei quam iste qui cras inc<add place="in-line">i</add><del rend="strikethrough">e</del>pi<add place="above-line">e</add>t simile peccatum 
+          <lb ed="#S" n="96"/>secundum omnes alias circumstantias sive nun cessabit ante alium sive nonquam ex 
+          <lb ed="#S" n="97"/>mora maiori distincta quia quantitative aggravabitur noviter et distincte 
+          <lb ed="#S" n="98"/>peccatum utriusque ex mora et continuatione voluntaria ex quo 
+          <lb ed="#S" n="99"/>posset dimittere peccatum malum et tenetur et tamen libere continuat eum 
+          <lb ed="#S" n="100"/>sed istud non esset ad propositum contra me in praesenti puncto sed solum 
+          <lb ed="#S" n="101"/>esset hoc ad propositum de maiori vel minori tempore <add place="margin-right">praesentialiter</add> <del rend="expunctuation">poenibili</del> no<lb ed="#S" break="no" n="102"/>lito 
+          <unclear>tamquam</unclear> duratione in quo modo vult malal agere in 2o 
+          <lb ed="#S" n="103"/>modo casus est adhuc planior multo et satis expressus 
+          <lb ed="#S" n="104"/>quare 2us peccat gravius Et ibi concedendum est quod est distincta et singulre 
+          <lb ed="#S" n="105"/>aggravatio ex primo die et nullo alio nisi ponatur aliter casus Ita enim posset 
+          <lb ed="#S" n="106"/>casus poni quod distincta aggravatio proveniret ex hoc quod nullae 
+          <lb ed="#S" n="107"/>peccare per duos de priores dies vel per tres primos etc sed 
+          <lb ed="#S" n="108"/>semper minus et minus <add place="margin-right">esset consequenter</add> <del>continet transit</del> ceteris paribus quanto de pluribus 
+          <lb ed="#S" n="109"/>si sic simul cogitaret antequam veniret ad confusionem dierum multorum 
+          <lb ed="#S" n="110"/>infinitorum sequentium et ex tunc nullo die confusionis aggraveretur 
+          <lb ed="#S" n="111"/>secundum aliam quantitatem certam et distinctam
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1006">
+          <pc type="pilcrow">¶</pc> ad 2m argumentum illius magistri dico 
+          <lb ed="#S" n="112"/>in principiis quia velle violare sabbatum non est eo ipso quod est tale 
+          <lb ed="#S" n="113"/>velle violatio sabbati non plus <add place="margin-center">quam</add> hic ad <unclear>unum</unclear> velle percutere 
+          <lb ed="#S" n="114"/>clericum sit percusus clerici sed si quis in ipso sabbato praesente 
+          <lb ed="#S" n="115"/>male faceret vel vellet malefacere tunc violaret sabbatum 
+          <lb ed="#S" n="116"/>peccando realiter in sabbato et hoc sine actu cogitet de sabbato nec<del rend="expunctuation">ut</del>
+          <lb ed="#S" n="117"/>propter istam reverentiam sabbati dimittere sive non cogitet <add place="margin-right">recolligere se</add> quia causetur 
+          <lb ed="#S" n="118"/>iuvare cogitando de deo et sabbato et aliis circumstantiis rectractis 
+          <lb ed="#S" n="119"/>a peccato et cogitare quod si peccatum suum fieret in sabbato esset vio<lb ed="#S" break="no" n="120"/>latio 
+          sabbati contra praeceptum dei nihil enim deliberate debet quis facere 
+          <lb ed="#S" n="121"/>nisi scito vel firmiter opinato quod ipsum non sit contra aliquod dei 
+          <lb ed="#S" n="122"/>praeceptum si recognitaret autem ut sequitur surgente <unclear>temptatoine</unclear>
+          <lb ed="#S" n="123"/>et deo et praeceptis dei statim occurreret illud memento quod diem 
+          <lb ed="#S" n="124"/>sabbati sanctifices et ista haberet unde se retraheret ab opere peccati 
+          <lb ed="#S" n="125"/>et quod non cogitet non excusatur a toto saltem licet a causato in 
+          <lb ed="#S" n="126"/>casu isto praecise <add place="margin-right">stante</add> atanto ubi conscientia sua sibi <unclear>dictant</unclear> et similiter 
+          <lb ed="#S" n="127"/>etiam dato quod conscientia sua dictet sibi ex post facto quod non dimi<lb ed="#S" break="no" n="128"/>sisset
+          propter sabbatum ad hoc si nihil cogitavit de sabbato 
+          <lb ed="#S" n="129"/>attenuatur peccatum suum ex hic quod non ita expressam irre<lb ed="#S" break="no" n="130"/>verentiam 
+          fecisset sabbato tunc sicut si de sabbato cogitas 
+          <pb ed="#S" n="226-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>sed et nihilominus peccare destitisset
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1079">
+          <pc type="pilcrow">¶</pc> 2o videtur mihi quod iste qui vult 
+          <lb ed="#S" n="2"/>peccare per annum in quo <del rend="expunctuation">festa</del> festa sunt servanda si omnia alia 
+          <lb ed="#S" n="3"/>sint ibi paria gravius peccat quam qui solum per annum vult peccare 
+          <lb ed="#S" n="4"/>in quo statueretur festa esse <add place="margin-left">non</add> servanda maxime si propter festa si 
+          <lb ed="#S" n="5"/>essent servanda ipse dimitteret in festivis diebus peccare vel 
+          <lb ed="#S" n="6"/>intenderet dimittere si enim penes eum determinetur expresse
+          <lb ed="#S" n="7"/>quod propter festam non dimitteret si essent nescio eius praesens nullae 
+          <lb ed="#S" n="8"/>attenuari in ratione demeriti respectu alterius qui quolibet duae sui 
+          <lb ed="#S" n="9"/>anni tam in festino quam in alio vult peccare
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1108">
+          <pc type="pilcrow">¶</pc> 3o videtur mihi 
+          <lb ed="#S" n="10"/>esse dicendum quod gravitas peccati <unclear>unius</unclear> istorum super alium non est in 
+          <lb ed="#S" n="11"/>aliquo ex quantitate temporis pro quo iste vel iste proponit pecca<lb ed="#S" break="no" n="12"/>re
+          sed ex qualitate vel ex circumstantia specialis praecepti dei vel 
+          <lb ed="#S" n="13"/>de sabbato et <add place="margin-left">de festis</add> aliis servandum cuius praecepti transgressio esset 
+          <lb ed="#S" n="14"/>executio volita ab uno in casu principalis argumenti et non ex<lb ed="#S" break="no" n="15"/>ecutio 
+          volita ab aliis ceteris paribus eligat aut id<del rend="underline">em</del> 
+          quod si fiat erit plurium praeceptorum dei vel ecclesiae transgressio plus 
+          <lb ed="#S" n="16"/>peccat quam alter eligens ceteris paribus illud quod pauciorum 
+          <lb ed="#S" n="17"/>esset de eisdem transgressio quid mirum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1141">
+          <pc type="pilcrow">¶</pc> 4o dico quod cum hoc 
+          <lb ed="#S" n="18"/>hic velle unius istorum sic gravius peccatum quam velle al<lb ed="#S" break="no" n="19"/>terius 
+          ex circumstantia festorum <unclear>servadorum</unclear> quali<add place="above-line">fi</add>catum tempus et <add place="margin-center">obiectum</add> volitum 
+          <lb ed="#S" n="20"/>staret optime quod ex nullo die anni aliqua praecisa aggava<lb ed="#S" break="no" n="21"/>tione 
+          aggravatur illud peccatum quo vult vel eligit peccare 
+          <lb ed="#S" n="22"/>per totum annum in quo festa sunt servanda <pc type="punctus"/> quia cum hoc 
+          <lb ed="#S" n="23"/>staret quod in libera potestate sui praelati esset post hoc velle 
+          <lb ed="#S" n="24"/>ordinare indifferenter sicut sibi placeret quibus diebus anni 
+          <lb ed="#S" n="25"/>servarentur ista festa ita quod de nullo die constaret sic voluntati 
+          <lb ed="#S" n="26"/>servarentur ista festa ista quod de nullo die constaret sic voluntati 
+          <lb ed="#S" n="27"/>peccare per totum annum an in illo vel in alio die celbra<lb ed="#S" break="no" n="28"/>retur 
+          pascha vel factum aliud et per consequens cum toto hoc staret 
+          <lb ed="#S" n="29"/>quod non plus ex uno die quam ex alio aggravaretur ma<lb ed="#S" break="no" n="30"/>litia 
+          sui velle quo vult peccare quolibet die anni sed 
+          <lb ed="#S" n="31"/>aggravaretur ex hoc quod non vult deferre festis sicut te<lb ed="#S" break="no" n="32"/>neretur 
+          ex praecepto
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1190">
+          <pc type="pilcrow">¶</pc> Ex hiis ad formam argumenti istius magistri dicendum 
+          <lb ed="#S" n="33"/>quod prima consequentia qua ex antecedente per me datum infert gravius velle 
+          <lb ed="#S" n="34"/>peccare mortaliter in die pasche <add place="margin-left">quod non feret</add> vel alio die solempni quam in die 
+          <lb ed="#S" n="35"/>non festo non valet <add place="above-line">qui</add> velle peccare die pasche mortaliter vel alio 
+          <lb ed="#S" n="36"/>die sollempni est velle antecedentis et expresse transgredi <unclear>id est <!-- possible deletion --></unclear> verum prae<lb ed="#S" break="no" n="37"/>ceptum 
+          dei vel ecclesiae <pc type="punctus"/> quod non vult ipse transgredi qui vellet 
+          <lb ed="#S" n="38"/>simile omnino peccatum quo ad alia facere in die non facto
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1221">
+          <pc type="pilcrow">¶</pc> Et ad 
+          <lb ed="#S" n="39"/>probationem huius consequentiae cum praemisso casu qui ponitur arguitur ex eo 
+          <lb ed="#S" n="40"/>contra me sic ex nulla die est hic aggravatio facta unde 
+          <lb ed="#S" n="41"/>in aliquo praecise esset additio <unclear>indeterminato</unclear> secundum positionem meam ut 
+          <lb ed="#S" n="42"/>dicit igitur nec ex die festo
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1238">
+          <lb ed="#S" n="43"/>ad istud dico quod antecedens est 
+          <lb ed="#S" n="44"/>falsum haec enim non est positio mea nec alicuius rationalis hominis <pc type="punctus"/>  sed 
+          <lb ed="#S" n="45"/>positio mea et aliorum est quod cum quis eligit vel vult peccare 
+          <lb ed="#S" n="46"/>per infinitos dies tunc ex nullo istorum dierum si suum ve<lb ed="#S" break="no" n="47"/>le 
+          non distinctius feratur super unum istorum quam super alium est 
+          <lb ed="#S" n="48"/>in aliquo praecise additio <unclear>indeterminato</unclear> talis hominis sit volenter 
+          <lb ed="#S" n="49"/>ex hoc praecise quod sic vult <pc type="punctus"/>  Et istud scribendo recitat 
+          <lb ed="#S" n="50"/>de me non illud aliud quod mini hic inponit nec illud quod nunc in 
+          <lb ed="#S" n="51"/>ponit habet a me teste suo externo vel quaterno proprie in quo 
+          <lb ed="#S" n="52"/>ponit dicta mea immo de diebus finitis dixi quod confu<lb ed="#S" break="no" n="53"/>sius 
+          cognoscitur simul si cetera sint paria quam unus istorum 
+          <lb ed="#S" n="54"/>per se et <add place="above-line">scilicet</add> 4or <add place="margin-left">cognoscuntur adhuc</add> confusius cognoscuntur <del rend="expunctuation">et</del> tunc quilibet quam primus et ista proportionaliter 
+          <lb ed="#S" n="55"/>confusius eligitur et est volitum quo ad circumstantiam temporis 
+          <lb ed="#S" n="56"/>quod quis eligit facere pluribus diebus quam quod paucioribus 
+          <lb ed="#S" n="57"/>ita quod quamvis ex quolibet die addito crescat meritum 
+          <lb ed="#S" n="58"/>vel demeritum minus tamen ex quolibet dierum minus vel aeque con<lb ed="#S" break="no" n="59"/>fuse 
+          apprehensorum cum quis vult per plures dies <unclear>continuare</unclear> <add place="margin-left">vel iterare simile meritum vel demeritum quam cum per pauciores</add> <del>tamen 
+          <lb ed="#S" n="60"/>qui vult per plures dies <unclear>continuare</unclear> vel esse arguitur si multis meritis 
+          <lb ed="#S" n="61"/>vel demeritis cum paucior </del> conatur et aliis circumstantiis existen<lb ed="#S" break="no" n="62"/>tibus
+          paribus <pc type="punctus"/> Et ideo licet ex omni die addito et <add place="margin-left"><unclear>intrante</unclear></add> super aequalem 
+          <lb ed="#S" n="63"/>confusionem cognitionis et volitionis cum quolibet aliorum cres<lb ed="#S" break="no" n="64"/>cat 
+          meritum vel demeritum <add place="margin-left">differenter tamen crescis id est non crescis meritum</add> ita copiose ex 10 die sicud 
+          <lb ed="#S" n="65"/>ex 2o die addito crevit in praedicamento patet igitur quod posui quod quando 
+          <lb ed="#S" n="66"/>pro diebus multis in certo numero finito eligitur aliquid meritorie 
+          <lb ed="#S" n="67"/>fieri maxime cum quilibet istorum individualiter apprehenditur confuse 
+          <lb ed="#S" n="68"/>vel distincte pro qualibet die habetur praecise meritum vel saltem 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="69"/>potest esse et tanto minus ac remissius ex circumstantia temporis quanto 
+          <lb ed="#S" n="70"/>dies illi fuerunt confusius apprehensi et tamen cum toto hoc stat 
+          <lb ed="#S" n="71"/>ymmo sequitur in tali casu quod ex die <unclear>festo</unclear> est aliquid praecipuum meritum 
+          <lb ed="#S" n="72"/>cum hoc etiam stat quod ex die festo <add place="margin-above">magis demeruit crescis talis volitionis quam ex die non festo</add> non ratione more sed 
+          <lb ed="#S" n="73"/>ratione specialis praecepti de sanctificando sabbatum ut praedixi Et 
+          <lb ed="#S" n="74"/>ita nichil habet contra me
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1352">
+          <pc type="pilcrow">¶</pc> Si dicas si quis vult vel vellet ex 
+          <lb ed="#S" n="75"/>nunc infitis diebus aut omnibus diebus futuris peccare volitio 
+          <lb ed="#S" n="76"/>ista esset electio transgressionis praecepti de sanctificando sabbatum ex<lb ed="#S" break="no" n="77"/>presse 
+          vel interpretative igitur tunc ex diebus festivis cresceret tunc peccati 
+          <lb ed="#S" n="78"/>sui gravitas ratione circumstantiae istius specialis praecepti et <unclear>non</unclear> in in<lb ed="#S" break="no" n="79"/>finitum 
+          plus ex die festo quam ex die non festo igitur ad hoc 
+          <lb ed="#S" n="80"/>ex quolibet istorum esset aliquod praecipiuum demeritum igitur totale de<lb ed="#S" break="no" n="81"/>meritum 
+          erit infinitum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1375">
+          <pc type="pilcrow">¶</pc> Et confirmatur quia dato quod ex diebus non
+          <lb ed="#S" n="82"/>festis non adderentur praecipuum demerita si tamen ex diebus 
+          <lb ed="#S" n="83"/>festis addantur ut iam videtur esse probatum adhuc haberet de<lb ed="#S" break="no" n="84"/>meritum 
+          infinitum quia qui vult peccare infinitis diebus non 
+          <lb ed="#S" n="85"/>obstante praecepto sanctificationis sabbati expresse vel interpretive 
+          <lb ed="#S" n="86"/>in diebus festis infinitis peccare quia omnis pars <unclear>aliquota</unclear>
+          <lb ed="#S" n="87"/>temporis infinit<del rend="expunctuation">a</del><add place="above-line">i</add> est infinita vel esse sed nunc est ita quod ad minus 
+          <lb ed="#S" n="88"/>dies festi sive sanctificato sabbati id est dominici dies sunt aliqua pars 
+          <lb ed="#S" n="89"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1407">
+          <pc type="pilcrow">¶</pc> ad illud dicendum est proportionaliter sicut prius quod si aeque confuse 
+          <lb ed="#S" n="90"/>vellet infinitis diebus festis futuris peccare gravius peccaret 
+          <lb ed="#S" n="91"/>quam alius volenus peccare infinitis diebus futuris dato quod 
+          <lb ed="#S" n="92"/>non esset multa festa servanda cum tamen neuter ex aliquo die 
+          <lb ed="#S" n="93"/>sit esset multa festa servanda cum tamen neuter ex laiquo die 
+          <lb ed="#S" n="94"/>sit confuse cognitio haberet aliquod praecipium demeritum sicud in simili prius 
+          <lb ed="#S" n="95"/>dictum est
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1426">
+          <pc type="pilcrow">¶</pc> ad clariorem tamen intellectum responsionum istarum et pro <add place="above-line">se</add>quentibus 
+          <lb ed="#S" n="96"/>etiam argumentis notandum quod aliqua cognosci vel diligi vel odiri vel 
+          <lb ed="#S" n="97"/>eligi vel esse volita confuse potest ad propositum dupliciter intelligi uno modo 
+          <lb ed="#S" n="98"/>quod talia sunt confuse cognita vel volita individualiter alio modo 
+          <lb ed="#S" n="99"/>confusione cognitionis specifice vel generalis vel aliter universalis <del rend="underline">actus</del> primo modo 
+          <lb ed="#S" n="100"/>cum video totam superiorem albi ad me versam et quodammodo 
+          <lb ed="#S" n="101"/>distincte et eam <add place="margin-right">cognosco</add> cognitione individuali et propria video eius medietatos 
+          <lb ed="#S" n="102"/>confuse et eius quartas confusius et sit sine fine procedendo isto 
+          <lb ed="#S" n="103"/>modo si videam pedalme albedinem distincte alias modo si sibi 
+          <lb ed="#S" n="104"/>iungatur alia pedalis videbo utramque confusius quam prius 
+          <lb ed="#S" n="105"/>vidi unam partem et si tertiam ad hoc confusius quamlibet quam prius 
+          <lb ed="#S" n="106"/>indifferenter me ferendo super omnes istas simul per visum 
+          <lb ed="#S" n="107"/>ita etiam est cum aspexero multa hominum capita de solario 
+          <lb ed="#S" n="108"/>in vico confusius videbo quodlibet istorum quam si aspexero apu<lb ed="#S" break="no" n="109"/>ciores 
+          et semper quanto plures uniuntur simul vel ordine quodam eo 
+          <lb ed="#S" n="110"/>confusius etiam quanto proceditur in <add place="margin-right">tali</add> ordine individuali cognitione ad 
+          <lb ed="#S" n="111"/>confusiorem semper et confusiorem et proprtionaliter diligendo et volendo meritorie 
+          <lb ed="#S" n="112"/>vel demeritorie sive iuxta talem confusam cognitionem individualem 
+          <lb ed="#S" n="113"/>sensitivam per sensum interiorem vel exteriorem sive iuxta confusam 
+          <lb ed="#S" n="114"/>cognitionem intellectivam semper dicam quod ex quolibet sic confuse cognito 
+          <lb ed="#S" n="115"/>vel volito addatur meritum vel demeritum aliquod licet minus semper 
+          <lb ed="#S" n="116"/>et minus quanto confusius et sic cognoscitur diligitur vel eligitur aut respu<lb ed="#S" n="117"/><del rend="expunctuation">t</del>itur 
+          praedixi quod crescente confusione cognitionis vel volitionis 
+          <lb ed="#S" n="118"/>de crescit crementum <add place="above-line">in</add> merito vel demerito et tamen cuilibet aliquid debetur 
+          <lb ed="#S" n="119"/>ita quod si isto modo habeatur confusa cognitio vel ymaginatio isto modo 
+          <lb ed="#S" n="120"/>dierum multorum et aliorum obiectorum et correspondenter actus cognitionis vel vo<lb ed="#S" break="no" n="121"/>litionis 
+          proportionales in confusione tali sive ymaginationi individuali si aeque 
+          <lb ed="#S" n="122"/>confuse cognoscatur quodlibet talium et non aliter quam sic uniformiter et 
+          <lb ed="#S" n="123"/>proportionaliter ocnfuse eligitur vel respuit cuilibet debetur aliqua propria 
+          <lb ed="#S" n="124"/>additio in merito vel demerito vere vel interpretive vel per aequivalentiam 
+          <lb ed="#S" n="125"/>quam diu sic proceditur quanto tamen ex additione plurium ex parte 
+          <lb ed="#S" n="126"/>obiectorum fuerit cognitio vel volitio confusior tanto minus correspon<lb ed="#S" break="no" n="127"/>debit 
+          unicuique talium <pc type="punctus"/> quamvis semper aliquid <pc type="punctus"/> ita quod ibi de<lb ed="#S" break="no" n="128"/>crescit 
+          crementum sicut crescit confusio ita scilicet quod sic cognitio 
+          <lb ed="#S" n="129"/>vel volitio confusior ut praedixi de tali cognitione confusa igitur 
+          <lb ed="#S" n="130"/>vel amore intelligatur ista pars responsionis <add place="margin-right">talis</add> tamen cognitio confusa 
+          <lb ed="#S" n="131"/>vel potest esse per hoc quod <unclear>intelligitur</unclear> semper ad minus et ad minus secundum partes 
+          <lb ed="#S" n="132"/>proportionales vel alio aliquo modo sicut in exemplo et ex hoc non potest 
+          <lb ed="#S" n="133"/>inferri meritum esse infinitum licet daretur ex quolibet tali cognito 
+          <lb ed="#S" n="134"/>vel volito isto modo confuse in casu isto fieri aliqua praecisa 
+          <lb ed="#S" n="135"/>additio in merito vel demerito etiam si darentur infinite huius ad<lb ed="#S" break="no" n="136"/>ditiones 
+          quia proportiones non essent aequales si <del rend="expunctuation">re</del> irent semper aliud minus
+          <pb ed="#S" n="227-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>et minus
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1558">
+          <pc type="pilcrow">¶</pc> 2o modo in isto principali sensu potest fieri confusior et confusior cognitio 
+          <lb ed="#S" n="2"/>vel volitio semper ex additione ex parte obiectorum semper aequalium et hic vel 
+          <lb ed="#S" n="3"/>sic <pc type="punctus"/> quod facta additione plurium quam prius cognita vel volita non 
+          <lb ed="#S" n="4"/>cognoscuntur nec diliguntur ita distincte sicut prius et sicut pauciora 
+          <lb ed="#S" n="5"/>ceteris paribus cognoscerentur vel diligerentur omnia tamen uniformiter cognos<lb ed="#S" break="no" n="6"/>cuntur 
+          et aequaliter ita quod non distinctius unum quam reliquum 
+          <lb ed="#S" n="7"/>vel alio modo quod talia sic ordinantur quod primum ex illis cognoscatur 
+          <lb ed="#S" n="8"/>vel diligatur distinctius quam 2m et 2m quam 3m et sic consequenter sicud 
+          <lb ed="#S" n="9"/>cum video unum magnum proprium uno aspectu distincto respectu totius 
+          <lb ed="#S" n="10"/>propri sed confuso respectu partium distinctius video mihi propinquiores 
+          <lb ed="#S" n="11"/>quam remotiores sicud et propinquiores immutant sensum meum ista 
+          <lb ed="#S" n="12"/>forte est cum cogito <add place="margin-left">uno actu</add> bene facere cras vel 3o <add place="margin-center">die</add> et 4o et sic secundum ordinem 
+          <lb ed="#S" n="13"/>obiectorum quorumdam inter se in compositione ad actum <unclear>continendum</unclear> et neu<lb ed="#S" break="no" n="14"/>tro 
+          istorum duorum modorum possunt simul confuse cognosci vel di<lb ed="#S" break="no" n="15"/>ligi 
+          confusione individuali actu obiecta distincta ab alio quo<lb ed="#S" break="no" n="16"/>vis 
+          aequlia infinita et ideo de talibus obiectis sic confuse cognitis 
+          <lb ed="#S" n="17"/>vel volitis loquendo licet simul cognitorum vel volitorum detur 
+          <lb ed="#S" n="18"/>aliqua certa portio meriti vel demeriti vel per aequivalentiam in actu 
+          <lb ed="#S" n="19"/>electionis vel resputionis talium nonquam tamen potest inferri infirmitas 
+          <lb ed="#S" n="20"/>meriti vel demeriti in actum meritorio vel demeritorio sit confuso quia 
+          <lb ed="#S" n="21"/>numquam possunt simul infinita talia apprehendi diligi 
+          <lb ed="#S" n="22"/>individualiter 2o modo principali confuse cognitionis vel dilectionis vel 
+          <lb ed="#S" n="23"/>volitionis confuse eligit quis vel vult qui determinat 
+          <lb ed="#S" n="24"/>apud se quod cotidie vult pascere duos pauperes 
+          <lb ed="#S" n="25"/>vel aliquos in certo numero non determinando se ad aliqua individua 
+          <lb ed="#S" n="26"/>mundi plus ad unum quam ad aliud
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1629">
+          <pc type="pilcrow">¶</pc> Similliter cumquis ex a<lb ed="#S" break="no" n="27"/>more 
+          dei omnibus hominibus optat intense salutem de nullo 
+          <lb ed="#S" n="28"/>individualiter cogitando sed solum confuse in specie et sic de simili<lb ed="#S" break="no" n="29"/>bus 
+          Et breviter in tali casu <del rend="underline">si non</del> determinetur per actum talem 
+          <lb ed="#S" n="30"/>certa aliqua multitudo tunc planum est quod ex nullo obiecto sic specifice 
+          <lb ed="#S" n="31"/>cognito vel volito crescit meritum vel demeritum in aliquo prae<lb ed="#S" break="no" n="32"/>cise 
+          <pc type="punctus"/> unde si mille milia proximorum essent pauciores in mun<lb ed="#S" break="no" n="33"/>do 
+          isto quam de facto sunt in nullo iota propter hoc minus meretur 
+          <lb ed="#S" n="34"/>iste qui omnibus proximis optat ferventer salutem quam modo de 
+          <lb ed="#S" n="35"/>facto mereatur ceteris existentibus paribus nec plus quam de facto meretur 
+          <lb ed="#S" n="36"/>si cotidem essent plures proximi quam de facto sunt <pc type="punctus"/> si autem intellectio 
+          <lb ed="#S" n="37"/>vel volitio feratur super plura simul solum mediante actu 
+          <lb ed="#S" n="38"/>cognitionis vel volitionis confuse confusione specifica vel ulteriori 
+          <lb ed="#S" n="39"/>sub termino numerali vel multitudinis infinite ut pote cum quis pro 
+          <lb ed="#S" n="40"/>amore dei vult pascere 10 pauperes in die ieiuna<lb ed="#S" break="no" n="41"/>re 
+          10 sextus feriis in ammo ad nullum individuum se de<lb ed="#S" break="no" n="42"/>terminando 
+          nec etiam aliquod individualiter cognoscendo sed solum in 
+          <lb ed="#S" n="43"/>specie vel in ulterioribus
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1679">
+          <pc type="pilcrow">¶</pc> dico quod cum quis <add place="margin-left">sic fert</add> se super multitudinem in<lb ed="#S" break="no" n="44"/>finitam 
+          utpote cum eligit infinitis diebus bene facere si posset 
+          <lb ed="#S" n="45"/>tantum vivere non <unclear>determinatius</unclear> se ferendo super unum istorum plus quam 
+          <lb ed="#S" n="46"/>alterum tunc nec iota nec ex aliquo infinitorum dierum talium 
+          <lb ed="#S" n="47"/>super que cadit sua volitio redditur suum velle alicuius 
+          <lb ed="#S" n="48"/>determinate quantitatis in merito ista quod ex nullo talium aliquod <unclear>praeceptum<del rend="expunctuation">uum</del></unclear>
+          <lb ed="#S" n="49"/>meritum <unclear>sicud<!-- corrected--></unclear> <unclear>nec <!-- corrected --></unclear> priori exemplo cum quis omnibus proximis optat salutem 
+          <lb ed="#S" n="50"/>quando vero determinate fertur quis se per actum unum specificum non indivudalem 
+          modificatum <add place="margin-left">sincategorematice</add> <del>intelligentiae</del> numerali super certam pluralitatem 
+          <lb ed="#S" n="51"/>aliquorum licet ex nullo individuo sic specifice cognito aliquid sibi 
+          <lb ed="#S" n="52"/>accrescat <unclear>praeceptum<del rend="underline">uum</del></unclear> intrinsecum vel demeritum quia nec aliquid determinate 
+          <lb ed="#S" n="53"/>sive individualiter apprehendit sic ista nec plus determinat se ad sortes 
+          <lb ed="#S" n="54"/>et platonem quam ad quoscumque alios qui eligit cotidie pas<lb ed="#S" break="no" n="55"/>cere 
+          duos pauperes et ita de talibus ad hoc si cetera sint paria 
+          <lb ed="#S" n="56"/>plus meretur iste qui super plura isto modo fertur per volitionem quam qui 
+          <lb ed="#S" n="57"/>super puaciora pro eo quod velle maiius bonum et executionem magis 
+          <lb ed="#S" n="58"/>meritoriam est magis meritorium si cetera sint paria quam vel<lb ed="#S" break="no" n="59"/>le 
+          minus bonum et minus bonas executiones vel minus bonam 
+          <lb ed="#S" n="60"/>sed executio est magis meritoria ceteris paribus si quis vult 
+          <lb ed="#S" n="61"/>pascere X pauperes quam tantum deuos quia in executione pas<lb ed="#S" break="no" n="62"/>cendi 
+          10 pauperes erunt 10 bonae et meritoriae operationes 
+          <lb ed="#S" n="63"/>habita sua in paria <unclear>exequtiva</unclear> mediantibus quibus <unclear>fieret</unclear> 
+          <lb ed="#S" n="64"/>vel unam vel alias voluntates 10 non sic cum quis pas<lb ed="#S" break="no" n="65"/>ceret 
+          solum duos ceteris paribus <add place="margin-left">nam meliorum executionis electio semper est ceteris paribus</add> melior sed electio qua 
+          <lb ed="#S" n="66"/>quis statuit pascere 10 pauperes <del rend="expunctuation">et etiam</del> est electio 
+          me<cb ed="#S" n="b"/><lb ed="#S" break="no" n="67"/>lioris executionis quam ista qua ceteris paribus duos pau<lb ed="#S" break="no" n="68"/>peres 
+          tantum statuerit pascere et nunc concedit hic magister iste quod 
+          <lb ed="#S" n="69"/>opera bona omnia similia frequentata augent noviter meritum 
+          <lb ed="#S" n="70"/>verumptamen ista iteratio est una circumstantia quam non habuit primum 
+          <lb ed="#S" n="71"/>opus ut dicit etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1787">
+          <pc type="pilcrow">¶</pc> Eodem modo potest argui ex parte demeriti 
+          <lb ed="#S" n="72"/>uno velle gravis peccare ceteris paribus est peccatum gra<lb ed="#S" break="no" n="73"/>vius 
+          quam velle minus graviter peccare <pc type="punctus"/> sed velle 10 
+          <lb ed="#S" n="74"/><unclear>di?tes</unclear> homines spoliare in futuro et ex tunc cessare a la<lb ed="#S" break="no" n="75"/>trociniis 
+          est velle gravius peccare quam velle unum vel 
+          <lb ed="#S" n="76"/>suos spoliare antequam cesset a latrociniis igitur primum 
+          <lb ed="#S" n="77"/>est gravius Et in rei veritate maior vel minor confusio in 
+          <lb ed="#S" n="78"/>isto <unclear>peccato<!-- correction? --></unclear> nihil facit <pc type="punctus"/>  quia ista distincte concipio mille homines sub 
+          <lb ed="#S" n="79"/>hoc conceptu specifico hominis demonstrato per hoc sincathegorema mille 
+          <lb ed="#S" n="80"/>sicut per hoc sex vel duos ymmo et aeque distincte conditio infinitos 
+          <lb ed="#S" n="81"/>homines sicut cum dico vel concipio specifice solum duos homines 
+          <lb ed="#S" n="82"/>et ideo ut praedixi distinctio vel confusio in hoc puncto 
+          <lb ed="#S" n="83"/>ad propositum nihil facit sed hoc quod ceteris paribus eligit 
+          <lb ed="#S" n="84"/>plura vel pauciora bona vel mala facere in futuro et 
+          <lb ed="#S" n="85"/>electio plurium bonorum melior est quam paucorum quia ad 
+          <lb ed="#S" n="86"/>plura bona inpellit si ab isto numero recederetur igitur est 
+          <lb ed="#S" n="87"/>melior et sic patet quod confusio specificata ab individuo 
+          <lb ed="#S" n="88"/>sic volito tollit <unclear>praecisum</unclear> meritum si non aliter apprehendatur
+          <lb ed="#S" n="89"/>ista in se
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1844">
+          <pc type="pilcrow">¶</pc> Istis visus Responsio ad residua argumenta illius magistri
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1850">
+          <lb ed="#S" n="90"/><pc type="pilcrow">¶</pc> Ad 3m dico quod maior vel minor confusio non habet locum de 
+          <lb ed="#S" n="91"/>hiis quae sunt cognita vel volita eadem cognitione specifica praeci<lb ed="#S" break="no" n="92"/>se 
+          ut visum est sed de cognitis et volitis et volitis con<lb ed="#S" break="no" n="93"/>fuse 
+          actu cognitionis individualis id est latis super determinata 
+          <lb ed="#S" n="94"/>et certa individua vel quod non sunt alia et in tali primo concessi 
+          <lb ed="#S" n="95"/>quod non oportet data certa aggravatione ex certo tempore iterum 
+          <lb ed="#S" n="96"/>ex additione causati temporis fieri causatam additionem in aggravatione 
+          <lb ed="#S" n="97"/>demeriti dummodo super utrumque cadat confusius 2a vite quam 
+          <lb ed="#S" n="98"/>priori super primum tempus nam si distincto et alio actu intelligeret secundum aequale 
+          <lb ed="#S" n="99"/>tempus per se 11a vice sicut prius fecerat primum tunc bene esset simile 
+          <lb ed="#S" n="100"/>ceteris paribus et par aggravatio utrobique sed sic loqui 
+          <lb ed="#S" n="101"/>non est ad propositum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1881">
+          <pc type="pilcrow">¶</pc> Concedo igitur quod non est tanta aliud 
+          <lb ed="#S" n="102"/>dicto in tali casu qui sic de confusa volitione individu<lb ed="#S" break="no" n="103"/>ali 
+          plurium simul et aequaliter quam ante ex 2o sicut erat ex primo ymmo 
+          <lb ed="#S" n="104"/>semper minor erit et minor quando plura cadunt sub actu posteri<lb ed="#S" break="no" n="105"/>ori 
+          quam sub priori et tunc quando plura cadunt sub actu posteri<lb ed="#S" break="no" n="106"/>ori 
+          quam sub priori et tunc quando infertur quod tunc sicud maior con<lb ed="#S" break="no" n="107"/>fusio 
+          facit ut ceteris paribus ex quolibet confuse cognitorum vel 
+          <lb ed="#S" n="108"/>volitorum minus redditur actus meritorius quam si pau<lb ed="#S" break="no" n="109"/>ciora 
+          <lb ed="#S" n="110"/>aequalia semper ad invicem et totaliter distincta essent aeque in<lb ed="#S" break="no" n="111"/>tense 
+          et ex aequali caritate et pro aequaliter bono fine et ita 
+          <lb ed="#S" n="112"/>de ceteris circumstantiis igitur infinita confusio totam 
+          <lb ed="#S" n="113"/>tollit aggravationem ex aequali tempore primo dato vel vo<lb ed="#S" break="no" n="114"/>lito 
+          vel cognito sic confuse possibilem non valet consequentia u<lb ed="#S" break="no" n="115"/>nitate 
+          loquendo de <add place="margin-right">confusione</add> <del rend="expunctuation">confirmatione</del> quia inpossibile est infinita 
+          <lb ed="#S" n="116"/>vel aequalia ad invicem et totaliter distincta simul cognosci sic 
+          <lb ed="#S" n="117"/>confuse ut superius habitum est in praemissa 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1928">
+          <pc type="pilcrow">¶</pc> Et 
+          <lb ed="#S" n="118"/>dato ad hoc quod possent concedet conclusionem sicud dedi ex 
+          <lb ed="#S" n="119"/>alia parte de cognitis vel volitis confuse universaliter sed tunc 
+          <lb ed="#S" n="120"/>tota bonitas meriti surgit ex natura actus et ex circumstantia 
+          <lb ed="#S" n="121"/>obiecti secundum speciem sive ex hoc quod ex aliquo individuo aliquod 
+          <lb ed="#S" n="122"/>potest primum <del rend="expunctuation">primum</del> surgat in merito et ex circumstantia finis et aliis 
+          <lb ed="#S" n="123"/>huius ut patet satis quod non ex aliqua parte finite talis 
+          <lb ed="#S" n="124"/>consequens infiniti totaliter cogniti confuse vel aliquo singulari obiecto 
+          <lb ed="#S" n="125"/>taliter solum cognito sicu de cognitis et volitis confuse con<lb ed="#S" break="no" n="126"/>fusione 
+          universali ut <unclear>supra<del rend="expunctuation">l</del></unclear> visum est nec valet etiam ulterior consequentia quod 
+          <lb ed="#S" n="127"/>si ex infinita confusione respectu unio diei cum quis eligit 
+          <lb ed="#S" n="128"/>peccare per dies infinitos sequeretur infinita diminutio aggravatio<lb ed="#S" break="no" n="129"/>nis 
+          respectu unius diei igitur minus grave foret velle peccare 
+          <lb ed="#S" n="130"/>per tempus infinitum quam ceteris paribus per unum diem <del rend="strikethrough">11</del> 
+          <lb ed="#S" n="131"/>tantum quia cum hoc quod ex uno in nullo aggravaretur in eo qui 
+          <lb ed="#S" n="132"/>vellet per infinitum tempus peccare demeritum suum secundum aliquid prae<lb ed="#S" break="no" n="133"/>cisum 
+          sibi correspondens staret quod aggravaretur tantum aliunde 
+          <lb ed="#S" n="134"/>puta ex natura malititae talis actus qui licet non sit in<lb ed="#S" break="no" n="135"/>tensior 
+          quam prior ex casu est tamen alterius speciei mali<lb ed="#S" break="no" n="136"/>tie 
+          ex obiecto etiam volito infinito quantum stat per voluntatem quae
+          <pb ed="#S" n="227-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>in tantum licet non intensius quam prius fert se in malum volitum 
+          <lb ed="#S" n="2"/>secundum protensionem tam amplam ut dies una vel finitum quid istius
+          <lb ed="#S" n="3"/>voliti nullatenus advertatur verumptamen ut praedixi penitus in<lb ed="#S" break="no" n="4"/>possibile 
+          est ut infinita aequalia totaliter diversa confuse sic indivi<lb ed="#S" break="no" n="5"/>dualiter 
+          scilicet cognoscantur vel sint etiam volita tali modo et ideo argumentum 
+          <lb ed="#S" n="6"/>istis visis <unclear>parvum</unclear> cogit
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2006">
+          <pc type="pilcrow">¶</pc> 4m argumentum huius magistri procedit ex 
+          <lb ed="#S" n="7"/>malo intellectu non enim negavi quin volitio quae est respectu mul<lb ed="#S" break="no" n="8"/>torum 
+          in certa pluralitate cognitorum confuse individualiter ut prae ex<lb ed="#S" break="no" n="9"/>posui 
+          habeat additionem propriam in demerito ex uno isto<lb ed="#S" break="no" n="10"/>rum 
+          dierum <pc type="punctus"/> nec <add place="margin-left">quin minuatur demeritum</add> <del rend="underline">quod immutatur</del> ex subductione unius diei in simili 
+          <lb ed="#S" n="11"/>actu respectu pauciorum ceteris paribus <pc type="punctus"/> sed negavi et ad hoc 
+          <lb ed="#S" n="12"/>nego certam additionem esse in merito vel demerito voli<lb ed="#S" break="no" n="13"/>tionis 
+          quae est confusa respectu infintorum dierum nec mirum quia 
+          <lb ed="#S" n="14"/>nullus habet volitionem malefaciendi per infinitos dies cognitos 
+          <lb ed="#S" n="15"/>individualiter sed specifice solum et ex nullo die solum specifice cognito 
+          <lb ed="#S" n="16"/>et consequenter sive proportionaliter volito tum quis eligit per dies infinitos 
+          <lb ed="#S" n="17"/>malefacere crescit demeritum solum in iota ut prius declaravi 
+          <lb ed="#S" n="18"/>nec etiam decrescit subducto uno die ab entibus non distinctis 
+          <lb ed="#S" n="19"/>cognito sicut dixi supra si tentum materia proximorum subtraherentur 
+          <lb ed="#S" n="20"/><unclear>amendo</unclear> non minus meretur quam nunc qui omnibus proximis opta<lb ed="#S" break="no" n="21"/>ret 
+          salutem solum in specie apprehensis et ideo quod quis perpendat 
+          <lb ed="#S" n="22"/>subductionem vel additionem non potest intelligi solum in cognitis 
+          <lb ed="#S" n="23"/>confuse confusione universalitatis vel <del rend="expunctuation">de</del> speciei sed de cognitis in<lb ed="#S" break="no" n="24"/>dividualiter 
+          confuse sed taliter non est possibile infinita simul aequa<lb ed="#S" break="no" n="25"/>lia 
+          cognosci vel apprehendi ut ostendi in <del rend="strikethrough">4</del> quaestione <add place="margin-left">10</add> distinctione 14 et in <!-- possible margin addition of 3a -->
+          <lb ed="#S" n="26"/>quaestionibus sequentibus <sic>sequentibus</sic> de infinitis
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2081">
+          <pc type="pilcrow">¶</pc> 5m argumentum est inpertinens 
+          <lb ed="#S" n="27"/>ad propositum de aggravatione volitionis male ex reali du<lb ed="#S" break="no" n="28"/>ratione 
+          in diebus vel temporibus maioribus vel minoribus et non 
+          <lb ed="#S" n="29"/>de agravatione proveniente ex hoc quod volitio mala transit 
+          <lb ed="#S" n="30"/>super plures vel pauciores dies Cum quid de tali moro<lb ed="#S" break="no" n="31"/>sa 
+          mansione male volitionis vel tempus maius vel minus ego 
+          <lb ed="#S" n="32"/>dicere habeam satis notum est hiis qui viderunt et audierunt 
+          <lb ed="#S" n="33"/>quae superius diximus in multis locis
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2103">
+          <pc type="pilcrow">¶</pc> 4o principaliter argui potest contra conclusionem 
+          <lb ed="#S" n="34"/>positionis sit <pc type="punctus"/> quia aliquod est peccatum de quo non potest conteri in <unclear>confusione</unclear> 
+          <lb ed="#S" n="35"/>et tamen tunc maxime tenetur si umquam ut videtur et de quo non 
+          <lb ed="#S" n="36"/>potest sufficienter poenitere <pc type="punctus"/> quia sententialis in poenitentia est huius ymmo 
+          <lb ed="#S" n="37"/>mentiretur in confusione qui diceret se conteri vel confiteri de finali 
+          <lb ed="#S" n="38"/>in poenitentia igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2126">
+          <pc type="pilcrow">¶</pc> ad illud dicendum quod licet nullus possit sufficienter poe<lb ed="#S" break="no" n="39"/>nitere 
+          de finali in poenitentia eundo ad vim sermonis quia praedicatum 
+          <lb ed="#S" n="40"/>appellat suam formam tamen de finali in poenitentia potest quilibet 
+          <lb ed="#S" n="41"/>ea peccans si spatium sibi supererit vite cum usu liberi arbitrii 
+          <lb ed="#S" n="42"/>poenitere <add place="margin-left">et ideo non sequitur quod aliquod sit peccatum de quo concesso spatio vite cum usu liberi arbitrii non valeat poenitere</add> et tamen probatur quod non quia sit <unclear>fa?ns</unclear> mentiretur dicendo minus in con<lb ed="#S" break="no" n="43"/>fessione 
+          quod peccasset finali in poenitentia
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2148">
+          <pc type="pilcrow">¶</pc> dicendum quod non debet isto 
+          <lb ed="#S" n="44"/>modo confiteri sed quod peccavit tali vel tali peccato quia secundum verita<lb ed="#S" break="no" n="45"/>tem 
+          non est nec unquam fuit finalis in poenitentia si de 
+          <lb ed="#S" n="46"/>isto vere poeniteret
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2160">
+          <pc type="pilcrow">¶</pc> 5o principaliter sic arguitur <add place="margin-left">sic</add> quod alqiuis in <c>a</c> instanti primo peccet 
+          <lb ed="#S" n="47"/>mortaliter et numquam post ante mortem habeat <del rend="expunctuation">ubi</del> usum liberi arbitrii 
+          <lb ed="#S" n="48"/>iste non tenetur conteri nec potest conteri de isto peccato quia nec tunc quando 
+          <lb ed="#S" n="49"/>primo sic peccat nec ante <del rend="expunctuation">a</del> nec post igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2184">
+          <pc type="pilcrow">¶</pc> ad illud potest dici 
+          <lb ed="#S" n="50"/>quod iste tenetur prius non sic peccas quia in hoc instanti prius natura posset 
+          <lb ed="#S" n="51"/>non peccare etc ad propositum applica et ad illud etiam est responsum 
+          <lb ed="#S" n="52"/>supra in suo simili quaestione 6 huius 4i ad 4m argumentum 2i articuli
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2196">
+          <pc type="pilcrow">¶</pc> 6o 
+          <lb ed="#S" n="53"/>principaliter potest sic argui quia homo non tenetur de primo peccato suo conteri 
+          <lb ed="#S" n="54"/>igitur etc probatio assumpti quia omne peccatum est primo peccatum in instanti sed 
+          <lb ed="#S" n="55"/>pro tali non tenetur conteri quia aut potuit prius vitasse quod <add place="margin-center">nunc</add> 
+          <lb ed="#S" n="56"/>non peccaret et non fecit nec voluerit et per eum <unclear>steterit</unclear> et tunc prius 
+          <lb ed="#S" n="57"/>omisit ad quod tenebatur et per consequens non primo peccavit <add place="above-line">nunc contra casum vel non potuit</add> vi<lb ed="#S" break="no" n="58"/>tasse 
+          usque nunc primo <add place="above-line">et</add> <del rend="expunctuation">tunc</del> non potest hic vitare quia omne quod est 
+          <lb ed="#S" n="59"/>quando est etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2233">
+          <pc type="pilcrow">¶</pc> ad istud dicendum quod si sibi concedatur spatium <add place="margin-center">vite</add> 
+          <lb ed="#S" n="60"/>ad poenitendum cum usu rationis tenetur conteri de peccato nunc com<lb ed="#S" break="no" n="61"/>misso
+          <pc type="punctus"/> vel quod nunc primo et peccatum mortale vel in instanti fu<lb ed="#S" break="no" n="62"/>it 
+          vel erit primo peccatum mortale et cum quaeritur utrum nunc pec<lb ed="#S" break="no" n="63"/>cans 
+          mortaliter potuit vitasse nec nunc peccaret etc 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2253">
+          <pc type="pilcrow">¶</pc> dico 
+          <lb ed="#S" n="64"/>quod utrumque est possibile in casu alio et alio possibili non enim potuit 
+          <lb ed="#S" n="65"/>prius si tunc primo habuit praeceptum vel iudicium contra quod tunc 
+          <lb ed="#S" n="66"/>agit
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2265">
+          <pc type="pilcrow">¶</pc> Si vero detur casus aliquis in quo nunc primo peccat 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="67"/>mortaliter et hoc peccato quod nondum potuit cavisse ne autem 
+          <lb ed="#S" n="68"/>esset et ne nunc etiam esset mortale sicut causa <unclear>genetur</unclear> exemplum de illecebra mo<lb ed="#S" break="no" n="69"/>rose 
+          recenta sicut ponitur exemplum in alia quaestione tunc dicendum sicut ibi 
+          <lb ed="#S" n="70"/>ista enim posset poni casus quod nunc primo peccaret mortaliter et ista quod non <add place="margin-right">nunc primo</add>
+          <lb ed="#S" n="71"/>sicut ibi calrius ostendetur unde ista consequentia non est necessaria iste ante <add place="margin-right">instans</add>
+          <lb ed="#S" n="72"/><c>a</c> potuit cavere ne in <c>a</c> peccaret mortaliter in quo secundum verita<lb ed="#S" break="no" n="73"/>tem 
+          peccat sic et non cavit ergo ante <c>a</c> mortaliter peccat vel pec<lb ed="#S" break="no" n="74"/>cavit 
+          quia angeli qui per peccatum facti sunt dyaboli antequam pec<lb ed="#S" break="no" n="75"/>caverunt 
+          non potuerunt melius facere quam fecerunt forte quia <add place="margin-right">per sanctos</add>
+          <lb ed="#S" n="76"/><del rend="underline">perfecti</del> usque ad lapsum s<del rend="expunctuation">t</del>ecerunt ita bene sicut fecerunt non 
+          <lb ed="#S" n="77"/>illi angeli qui steterunt ita bene sicut facerunt non 
+          <lb ed="#S" n="78"/>illi angeli qui steterunt et per consequens angeli non peccaverunt 
+          <lb ed="#S" n="79"/>Et tamen videtur cuidam doctori quod bene cavisse potuerunt <add place="margin-right">ne peccassent quando peccaverunt</add> unde si 
+          <lb ed="#S" n="80"/>arguatur quod angeli mali numquam peccaverunt <add place="below-line">quia</add> <unclear>nec</unclear> potuerunt ca<lb ed="#S" break="no" n="81"/>vere 
+          ergo non peccaverunt quia nullus peccat in eo quod vitari non potest 
+          <lb ed="#S" n="82"/>secundum augustinum 3o de libero arbitrio <c>a</c> capitulo 28 et de duabus animabus capitulo 
+          <lb ed="#S" n="83"/>6 et 9
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2343">
+          <pc type="pilcrow">¶</pc> assumptum probatur quia nec postquam peccaverunt modum est 
+          <lb ed="#S" n="84"/>nec etiam quando peccaverutn quia omne quod est quando est etc nec ante quia 
+          <lb ed="#S" n="85"/>ante angelus non potuit melius facere quam fecit ad vitandum 
+          <lb ed="#S" n="86"/>peccatum quia ita fecit tunc sicud illi qui steterunt igitur omnino <add place="margin-right">non</add> potuerit
+          <lb ed="#S" n="87"/>cavere peccatum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2361">
+          <lb ed="#S" n="88"/>Responsio inquit quod antequam peccaverunt potuerunt 
+          <lb ed="#S" n="89"/>cavere peccatum Et cum probatur quod non <pc type="punctus"/> quia antequam peccaverunt non po<lb ed="#S" break="no" n="90"/>tuerunt 
+          melius facere quam fecerunt <add place="margin-below">ponatur inquit quod hoc sit verum ergo inquies antequam peccaverunt non potuerunt melius facere</add> ad cavendum peccatum conceditur similiter 
+          <lb ed="#S" n="91"/>hic et non sequitur ergo ipsi <add place="margin-center">ita</add> peccaverunt peccatum sicut illi qui steterunt 
+          <lb ed="#S" n="92"/>ratio sumitur ex <sic>loyca</sic> quia isti termini cavebant praecavebant ante 
+          <lb ed="#S" n="93"/>peccatum dicebantur de eis per modum futuri contingentis vel dependentis <add place="margin-right">a</add>
+          <lb ed="#S" n="94"/>futuro sicut isti termini praedestinatus sive electus Et ideo si ante istum 
+          <lb ed="#S" n="95"/>actum futurum a quo dependebat veritas istarum propositionum non poterant 
+          <lb ed="#S" n="96"/>melius facere quam fecerunt ad hoc quod essent caventes vel prae<lb ed="#S" break="no" n="97"/>caventes 
+          sive electi sive praedestinati non tamen sequitur quod tunc fuerunt 
+          <lb ed="#S" n="98"/>electi vel praedestinati et pari ratione nec caventes peccatum nec praecaven<lb ed="#S" break="no" n="99"/>tes 
+          nisi aliquis dicat quod cavere non dependet quo ad significatum 
+          <lb ed="#S" n="100"/>a futuro contingenti Et si hoc dicatur oportet dicere consequenter quod angeli illi 
+          <lb ed="#S" n="101"/>cavebant peccatum suum quia ante <add place="margin-center">quam</add> peccaverunt cavebant illud nec sequitur ex 
+          <lb ed="#S" n="102"/>hoc quod non peccaverunt ymmo si argumentum tunc habeat locum tunc accipitur cavere 
+          <lb ed="#S" n="103"/>pro praecavere et tunc respondetur ut dictum est haec iste Et haec sunt pulchra et 
+          <lb ed="#S" n="104"/>probabiliter dicta
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2417">
+          <pc type="pilcrow">¶</pc> 7o principaliter potest sic argui quia aliquod est peccatum quod homo ca<lb ed="#S" break="no" n="105"/>vere 
+          non potest et de tali non tenetur conteri igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2426">
+          <lb ed="#S" n="106"/>probatio assumpti habeat 
+          <lb ed="#S" n="107"/>homo praeceptum de conformando voluntatem suam deo involito et post revelet 
+          <lb ed="#S" n="108"/>sibi deus quod ipse vult eum dampnari iste non potest evadere peccatum 
+          <lb ed="#S" n="109"/>ergo etc.
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2437">
+          <pc type="pilcrow">¶</pc> Item revelet deus alicui quod nisi cadat in aliquod vile peccatum 
+          <lb ed="#S" n="110"/>non salvabitur et si cadat salvabitur iste non potest evadere peccatum 
+          <lb ed="#S" n="111"/>sive nullum peccatum sit sive non igitur non peccat peccando quia nemo 
+          <lb ed="#S" n="112"/>peccat in eo quod vitare non potest
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2449">
+          <pc type="pilcrow">¶</pc> ad illud dico quod nullum est peccatum 
+          <lb ed="#S" n="113"/>mortale actuale quod non possit caveri prius natura vel tempore quam sit pec<lb ed="#S" break="no" n="114"/>cetur
+          Et cum probat in contrarium de isto cui deus revelet <add place="margin-right">quod vult eum dampnare</add> dico quod si 
+          <lb ed="#S" n="115"/>talis usque tunc fuisset in gratia non oportet ex hoc quod sic sibi 
+          <lb ed="#S" n="116"/>talis revelatio quod necessitetur <add place="margin-right">peccare</add> vel gratia suam perdere ut declaravi 
+          <lb ed="#S" n="117"/>in simili super <ref xml:id="aw98wa-xg4357-Rd1e2471">3m distinctione 14 tractando materiam de revelationibus</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2474">
+          <pc type="pilcrow">¶</pc> Et ad 
+          <lb ed="#S" n="118"/>2m cum instatur per alium modum revelationis ibi appositum dicerem quod ille 
+          <lb ed="#S" n="119"/>cui <unclear>exunt</unclear> in caritate fieret ad hoc talis revelatio posset eva<lb ed="#S" break="no" n="120"/>dere 
+          peccatum mortale ad hoc et dico quod talis habet formaliter velle 
+          <lb ed="#S" n="121"/>cavere omne peccatum mortale occurrens ei de quo temptatur et ro<lb ed="#S" break="no" n="122"/>gare 
+          deum fortissime <unclear>nec</unclear> unquam  cadat in aliquod peccatum mortale 
+          <lb ed="#S" n="123"/>parvum vel <unclear>gravde</unclear> tamen cum toto hoc stat quod posset et talis sine peccato 
+          <lb ed="#S" n="124"/>mortali malle cadere in vile peccatum et salvari quam non in vile 
+          <lb ed="#S" n="125"/>sed <unclear>incongrue</unclear> <pc type="punctus"/> si omnino oporteret alterium et dampnari ista scilicet quod plus odi<lb ed="#S" break="no" n="126"/>at 
+          dampnari ex levi mortali futuro quam in <unclear>futuro</unclear> <add place="margin-right"><unclear>viliter</unclear></add> peccare et per poenitentiam 
+          <lb ed="#S" n="127"/>de isto salvari nulla tamen revelatio possibilis potest sibi facere licitum velle 
+          <lb ed="#S" n="128"/>mortaliter peccare vel leviter nec graviter sive viliter sed non obstante quacumque 
+          <lb ed="#S" n="129"/>revelatione tenetur de necessitate salutis quod licet occurrens de quo temptaretur 
+          <lb ed="#S" n="130"/>vitare vel nulle vitare et rogare deum quod per viam aliam possibilem 
+          <lb ed="#S" n="131"/>salvet eum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2524">
+          <pc type="pilcrow">¶</pc> 8o principaliter potest sic argui de periurio inevitabili 
+          <lb ed="#S" n="132"/>non tenetur homo conteri et hic cum ipsum esset peccatum ergo etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2532">
+          <pc type="pilcrow">¶</pc> Quod sit tale 
+          <lb ed="#S" n="133"/>possibile probatur sic <pc type="punctus"/> super et soror ambo boni ambo devoti et utrique 
+          <lb ed="#S" n="134"/>bene aestimans de reliquo Et <unclear>moveat</unclear> super per se sorore 
+          <lb ed="#S" n="135"/>ignorante cogitans eam esse bonam <add place="below-line">et volens eam</add> <unclear>unitari</unclear> in bono voverat
+          <pb ed="#S" n="228-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quod si vere <unclear>poenituerit</unclear> apud dei iudicium non incidit in canonem 
+          <lb ed="#S" n="2"/>propter causam quam reddidi et nego istum <unclear>ubi</unclear> in hoc puncto tenens 
+          <lb ed="#S" n="3"/>cum domino innocentis qui ut recitat tabula iuris in vocabulo 
+          <lb ed="#S" n="4"/>exemplificato de quod si aliquis poeniteret vel talis non incidit in canonem 
+          <lb ed="#S" n="5"/>et si revoco non poterit pervenire ad <unclear>mandaco?m</unclear> quia canon tantum 
+          <lb ed="#S" n="6"/><ref xml:id="aw98wa-xg4357-Rd1e2576">2 quaestione 3 nemo</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2580">
+          <pc type="pilcrow">¶</pc> ad primum argumentum principale quod totaliter oblicus si poe<lb ed="#S" break="no" n="7"/>niteat 
+          in genere de omnibus cum proposito considerandi vel benefaciendi et nihil 
+          <lb ed="#S" n="8"/>mali mortaliter velit actu vel habitu sive poeniteat formaliter utpo<lb ed="#S" break="no" n="9"/>te 
+          si cogitet se peccasse vel virtualiter deum super omnia diligendo et 
+          <lb ed="#S" n="10"/>de peccatis nichil penitus cogitando
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
