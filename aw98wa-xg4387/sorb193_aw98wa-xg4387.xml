@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9 [Sorb193 Transcription]</title>
+          <date when="2026-05-25">May 25, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-25" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="228-v"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4387"><!-- b4q9-->
+        <head xml:id="aw98wa-xg4387-Hd1e101">Quaestio 9</head>
+        <p xml:id="aw98wa-xg4387-d1e103">
+          <lb ed="#S" n="11"/>Utrum <unclear>ullam</unclear> paenitentiam sit formaliter vel virtualiter velle cavere peccatum 
+          <lb ed="#S" n="12"/>quodlibet in futurum 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e112">
+          videtur quod non quia tunc teneretur ad sibi inpossibile 
+          <lb ed="#S" n="13"/>quia motus sensualitatis ad <unclear>illi?t</unclear> praecedens deliberationem 
+          <lb ed="#S" n="14"/>est peccatum ut videtur et tamen homo non potest tales motus vita<lb ed="#S" break="no" n="15"/>re 
+          secundum apostolum
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e123">
+          <pc type="pilcrow">¶</pc> praeterea aut tenetur qui mortaliter peccavit ad hoc quod 
+          <lb ed="#S" n="16"/>vere poeniteat vitare omne peccatum causa mortale quam veniale et 
+          <lb ed="#S" n="17"/>hoc non quia non est possibile viatori ex quadam alia quaestione supra in 2o 
+          <lb ed="#S" n="18"/>aut obligatur solum modo de necessitate salutis velle vitare consue<lb ed="#S" break="no" n="19"/>tudinem 
+          peccandi venialiter quia consuetudo peccandi videtur esse peccatum 
+          <lb ed="#S" n="20"/>mortale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e140">
+          <pc type="pilcrow">¶</pc> Item quilibet de necessitate salutis tenetur vitare omne peccatum 
+          <lb ed="#S" n="21"/>igitur tenetur scire quodlibet mortale <add place="margin-left">quod esset mortale oppositum</add> et quaedam aliqua alia videntur sequi quae non sunt 
+          <lb ed="#S" n="22"/>concedenda ut patebit ad alia argumenta prosequendo
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e154">
+          <pc type="pilcrow">¶</pc> Contra ioannem 5 dixit 
+          <lb ed="#S" n="23"/>christus illi quem languidum sanaverat ideo <unclear>solminis</unclear> ad praeteritam 
+          <lb ed="#S" n="24"/>piscinam non ibi sed alias in templo ubi <unclear>obvia?t <!-- correction --></unclear> habuit 
+          <lb ed="#S" n="25"/>istum quem mente et corpore sanavit Ecce iam factus sanus es am<lb ed="#S" break="no" n="26"/>plius 
+          noli peccare ne <unclear>ter</unclear> aliquid <unclear>decimus</unclear> contingat <pc type="punctus"/>  Et ista capitulo 8 ad 
+          <lb ed="#S" n="27"/>mulierem in adulterio deprehensam vade et amplius noli potest 
+          <lb ed="#S" n="28"/>igitur nunc poenitens tenetur amplius nolle peccare et hoc est 
+          <lb ed="#S" n="29"/>velle vitare peccatum
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e188">
+          <pc type="pilcrow">¶</pc> In ista quod primo inquiretur de isto quod tangitur 
+          <lb ed="#S" n="30"/>in 2o <del rend="strikethrough">ars</del> argumento principali an consuetudo peccandi venialiter sic peccatum 
+          <lb ed="#S" n="31"/>mortale 2o de motibus sensualitatis ad <add place="margin-left">illicita</add> <unclear>praecedentibus</unclear> deliberationem an 
+          <lb ed="#S" n="32"/>sint peccata et quomodo sint peccata
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e209">
+          <pc type="pilcrow">¶</pc> 3o an qui vere poeniteret tenetur vi<lb ed="#S" break="no" n="33"/>tare 
+          omne peccatum mortale de quo tangitur in 3o argumento
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e217">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="34"/>primum articulum argui potest quod ymmo per <ref xml:id="aw98wa-xg4387-Rd1e224">magistrum libro 2 de 24 capitulo <unclear>itaque</unclear></ref>
+          <lb ed="#S" n="35"/>quando inquit peccatum ista in anima concipitur ut illud facere disponat etc
+          <lb ed="#S" n="36"/>mortale est Item <ref xml:id="aw98wa-xg4387-Rd1e233">libro 4 distinctione 16 capitulo penultimo</ref> Non enim inquit dmit<lb ed="#S" break="no" n="37"/>ti 
+          nolumus etc Iuvenissimum et aequalia et orationes invigilent nota 
+          <lb ed="#S" n="38"/>ibi haec eadem auctoritas ponitur in <ref xml:id="aw98wa-xg4387-Rd1e239">decretis in poenitentia capitulo medicina</ref> 
+          <lb ed="#S" n="39"/>Et ibi ponitur <ref xml:id="aw98wa-xg4387-Rd1e243">augustinus ad felicianum</ref>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e246">
+          <pc type="pilcrow">¶</pc> Item distinctione 25 capitulo unde <unclear>orationes</unclear>
+          <lb ed="#S" n="40"/>decretum cum praemisisset secundum bedam quod quaecumque peccata ex deliberatione 
+          <lb ed="#S" n="41"/>committuntur non nisi per poenitentiam dimittuntur ad cuius probationem sequitur idem 
+          <lb ed="#S" n="42"/>vel subditur huic etiam <add place="margin-left">augustinus ait</add> <del rend="underline">actum</del> nullum peccatum a deo esse veniale quod non 
+          <lb ed="#S" n="43"/>fiat criminale dum placet et sequitur ad propositum alias ea demeri 
+          <lb ed="#S" n="44"/>significat suppositum beda dicendo quicumque etc alias inquam ea significat 
+          <lb ed="#S" n="45"/>quae semel comissa ad dampnationem sufficiant multa enim ex 
+          <lb ed="#S" n="46"/>deliberatione procedunt quae nisi saepius iterata et in consuetudinem fue<lb ed="#S" break="no" n="47"/>rint 
+          ducta quamvis gravant post mortem non tamen <add place="margin-left">perdunt</add> aeternaliter
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e281">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="48"/>idem in eodem capitulo ubi etiam <unclear>numerantur</unclear> peccata venialia et mortalia dicit 
+          <lb ed="#S" n="49"/>decretum per augustinum de igne purgatorio quod ebrietas si assidua
+          <lb ed="#S" n="50"/>fuerit in numero capitalium criminum <unclear>computatur</unclear> et iracundia si longo 
+          <lb ed="#S" n="51"/>tempore teneatur
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e301">
+          <pc type="pilcrow">¶</pc> Item 3o sententiarum distinctione 38 capitulo 1o dicitur quod in viris 
+          <lb ed="#S" n="52"/>perfectis medacium iocosum putari potest esse dampnabile sicut et prae<lb ed="#S" break="no" n="53"/>dixit 
+          de offenso praecipue si iteretur igitur iteratio et multo fortius 
+          <lb ed="#S" n="54"/>consuetudo mentiendi faceret mortale quod alias esset veniale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e313">
+          <pc type="pilcrow">¶</pc> praeterea 
+          <lb ed="#S" n="55"/>si non tunc auferre successive omnia grana pauperis non 
+          <lb ed="#S" n="56"/>esset mortale sicut nec p<subst><add place="above-line">rimum</add><del rend="expunctuation">auca</del></subst>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e329">
+          <pc type="pilcrow">¶</pc> Contra quod semel factum non minuit 
+          <lb ed="#S" n="57"/>caritatem non oportet Requenter factum tollere sed veniale non min<lb ed="#S" break="no" n="58"/>uit 
+          ex alia <add place="margin-left">quaestione</add> tollitur enim cum peccat mortaliter igitur frequenter iterare ve<lb ed="#S" break="no" n="59"/>niale 
+          non est peccare mortaliter 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e344">
+          <add place="margin-below">praeterea non oportet quod malitia maiore praeceditur millesima vice quam in prima</add>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e350">
+          <pc type="pilcrow">¶</pc> praeterea qualibet <add place="margin-right">vice</add> qua aliquis scienter eligit 
+          <lb ed="#S" n="60"/>iterare et deliberate illud quod novit esse peccatum veniale potest <add place="margin-right">sic</add>
+          <lb ed="#S" n="61"/>deliberate eligere actum talem <add place="above-line">quod</add> per omni eo quo dnon est deus non itera<lb ed="#S" break="no" n="62"/>ret 
+          illud si crederet illud esse peccatum mortale Et constat quod per 2m 
+          <lb ed="#S" n="63"/>actum meretur notabiliter et per consequens meretur augere caritatem et ista non oportet quod 
+          <lb ed="#S" n="64"/>ex consuetudine peccandi venialiter peccet mortaliter
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e376">
+          <pc type="pilcrow">¶</pc> dicendum quod non <add place="margin-center">nisi</add> ubi 
+          <lb ed="#S" n="65"/>sciretur vel probabiliter teneretur quod talis assuefacio disponeret nimis 
+          <lb ed="#S" n="66"/>ad mortale <pc type="punctus"/> Unde si ex consuetudine proveniat homini ad tantam 
+          <lb ed="#S" n="67"/>complacentiam in tali assuefactione quod contempnat id est quod non di<cb ed="#S" n="b"/><lb ed="#S" n="68"/>mitteret 
+          etiam si deus praeciperet oppositum ac etiam si timeat <unclear>ratione</unclear> talis post 
+          <lb ed="#S" n="69"/>veniale incidere in mortale tandem talis non volens cessare 
+          <lb ed="#S" n="70"/>mortaliter peccaret ubi aut non est <add place="margin-right">sic</add> nec scandalum daretur actione assue<lb ed="#S" break="no" n="71"/>factionis 
+          huius et sicut de similibus non video quod esset unquam mortale <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e412">
+          <lb ed="#S" n="72"/><pc type="pilcrow">¶</pc> Sed tunc est dubium an velle assuefacere se ad venialia vel 
+          <lb ed="#S" n="73"/>velle peccare assidue et consuetudine venialiter sit sic mortale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e421">
+          <lb ed="#S" n="74"/><pc type="pilcrow">¶</pc> Item velle numquam poenitere de aliquo veniali an sit peccatum 
+          <lb ed="#S" n="75"/>mortale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e430">
+          <pc type="pilcrow">¶</pc> ad primum respondet <name xml:id="aw98wa-xg4387-Nd1e435">Risperis</name> <add place="margin-right">quod sic</add> quia volens assuescere se ad 
+          <lb ed="#S" n="76"/>peccandum optat illud quod est ad inpedimentum salutis suae <pc type="punctus"/> Et si di<lb ed="#S" break="no" n="77"/>cas 
+          sibi quod <unclear>consuetudina?e</unclear> peccare venialiter non est peccare 
+          <lb ed="#S" n="78"/>mortaliter nec est peccatum mortale sed eum <pc type="punctus"/> sed non est peccatum morta<lb ed="#S" break="no" n="79"/>le 
+          velle solum illud quod est veniale igitur velle <unclear>consue?rie</unclear> 
+          <lb ed="#S" n="80"/>venialiter peccare non est peccatum mortale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e461">
+          <pc type="pilcrow">¶</pc> praeterea quando aliquis cum 
+          <lb ed="#S" n="81"/>si voluntarie igitur vult assuefacere se Si non igitur non peccat et similiter <add place="margin-right">tunc</add> 
+          <lb ed="#S" n="82"/>sicut brutum assuefacit se
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e474">
+          <pc type="pilcrow">¶</pc> ad primum negat minorem si lo<lb ed="#S" break="no" n="83"/>quatur 
+          universaliter <pc type="punctus"/> quia velle indeliberate occidere hominem non esset 
+          <lb ed="#S" n="84"/>peccatum mortale tamen si deliberate optarem velle occidere 
+          <lb ed="#S" n="85"/>hominem indeliberate mortaliter peccarem
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e488">
+          <pc type="pilcrow">¶</pc> ad 2m <add place="margin-right">dicit</add> quod assuefacit 
+          <lb ed="#S" n="86"/>se volendo 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e500">
+          <pc type="pilcrow">¶</pc> aliud autem est <unclear>consue?rie</unclear> velle loqui <del rend="expunctuation">i</del>otiose 
+          <lb ed="#S" n="87"/>aliud volle loqui <add place="margin-below">consuetudinarie otiose</add>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e516">
+          <add place="margin-below">Sed haec responsio non apparet mihi vera et motivum eius</add> non probat tamen quia aeque faciliter diceretur 
+          <lb ed="#S" n="88"/>quod velle solum venialiter peccare esse optare illud quod est im<add place="margin-right">pedimentum</add>
+          <lb ed="#S" n="89"/><del>possibile</del> etc
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e530">
+          <pc type="pilcrow">¶</pc> praeterea si velim semel concludie immoderate ri<lb ed="#S" break="no" n="90"/>dere 
+          volo hoc facere <unclear>consue?rie</unclear> et tamen non ex hoc prioraliter pec<lb ed="#S" break="no" n="91"/>carem 
+          nisi velle peccare venialiter sit peccatum mortale quia qua ratione 
+          <lb ed="#S" n="92"/>possum hoc velle semel facere sine mortali possum etiam bis et 
+          <lb ed="#S" n="93"/>3o et 4o donec transeam numerum qui induceret consuetudinem
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e547">
+          <lb ed="#S" n="94"/><pc type="pilcrow">¶</pc> Item exemplum de velle ne velle indeliberate occidere hominem non 
+          <lb ed="#S" n="95"/>est simile quia illud velle deliberatum procederet a peccato mortali scilicet 
+          <lb ed="#S" n="96"/>odio proximi contra praeceptum dei et ex defectu caritatis proximi 
+          <lb ed="#S" n="97"/>cuius teneor nolle mortem procedere a me nisi iusta causa
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e560">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="98"/>2m dubium dubito <pc type="punctus"/> apparet tamen quod me velle hoc deliberate 
+          <lb ed="#S" n="99"/>vel optare et ut numquam de venialibus meis in hac vita 
+          <lb ed="#S" n="100"/>poeniteam <del rend="expunctuation">vel</del> sic mortale <pc type="punctus"/>  quia ex caritate mihi teneor velle tantum 
+          <lb ed="#S" n="101"/>bonum sicut proximo sed optare sibi vel proximo ut numquam de 
+          <lb ed="#S" n="102"/>peccatis suis venialibus poeniteat in hac vita esset peccatum 
+          <lb ed="#S" n="103"/>mortale et 3a caritatem vel eum nolle redimere suum purgatorio 
+          <lb ed="#S" n="104"/>visio esse contra caritatem qua obligamur proximo
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e588">
+          <pc type="pilcrow">¶</pc> Item quidam dicit in 
+          <lb ed="#S" n="105"/>4o suo quod multitudo venialium numquam facit mortale sed negligentia 
+          <lb ed="#S" n="106"/>delendi potest esse mortalis haec iste Et forte dicit hoc ex causa im<lb ed="#S" break="no" n="107"/>mediata 
+          praetacta
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e601">
+          <pc type="pilcrow">¶</pc> dices forte idem argumentum contra te <add place="margin-right">est</add> quia optare proximum 
+          <lb ed="#S" n="108"/>velle <add place="margin-left">peccare</add> venialiter est contra caritatem quam obligamur habere ad prox<lb ed="#S" break="no" n="109"/>imum 
+          igitur et no<add place="above-line">s</add> velle venialiter peccare est mortale et contra 
+          <lb ed="#S" n="110"/>caritatem
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e623">
+          <pc type="pilcrow">¶</pc> Responsio non est ad hoc dictum quod iste non peccat mor<lb ed="#S" break="no" n="111"/>taliter 
+          qui<del rend="expunctuation">a</del> optat venialiter peccare
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e634">
+          <pc type="pilcrow">¶</pc> praeterea <del rend="expunctuation">id</del> si de hoc dubitatur 
+          <lb ed="#S" n="112"/>Respondeo quod bene credo quod iste pecaret mortaliter qui per se loquendo optaret 
+          <lb ed="#S" n="113"/>vel eligeret venialiter peccare ita scilicet quod ideo vult aliquid defacere vel 
+          <lb ed="#S" n="114"/>optaret quod esset peccatum veniale Credo enim quod tale velle re<lb ed="#S" break="no" n="115"/>pungnaret 
+          inclinationi caritatis sed non est sic si quis ve<lb ed="#S" break="no" n="116"/>lit 
+          illud quod est peccatum veniale et quod <unclear>sic<!-- correction? --></unclear> esse peccatum veniale ex alia 
+          <lb ed="#S" n="117"/>causa puta ex infirmitate vel fragilitate sua prona ad illud quod est 
+          <lb ed="#S" n="118"/>tale quid <pc type="punctus"/> non quia peccatum ymmo ideo sibi minus placet et forte displi<lb ed="#S" break="no" n="119"/>cet 
+          sibi quod tale quid sibi placet ex quo novit illud esse pecca<lb ed="#S" break="no" n="120"/>tum 
+          vel parvuli respective <pc type="punctus"/> Et idem dico de proximo quid per hanc distinctionem 
+          <lb ed="#S" n="121"/>quod non <add place="margin-center">est</add> contra caritatem licet non secundum caritatem velle proximum 
+          <lb ed="#S" n="122"/>peccare venialiter per agens id est velle facere illud quod scitur esse peccatum 
+          <lb ed="#S" n="123"/>veniale in casu nolle igitur nec velle etiam possum forte sine peccato 
+          <lb ed="#S" n="124"/>mortali sed non est peccatum mortale non velle aliquid dimittere 
+          <lb ed="#S" n="125"/>quod <unclear>cogitur</unclear> esse veniale peccatum dummodo habitualiter vel actualiter ullam quis illud 
+          <lb ed="#S" n="126"/>dimittere quod sciret vel dubitaret <add place="margin-right">probabiliter</add> esse peccatum mortale
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e692">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="127"/>primum argumentum principale potest dici quod magister intelligit hic in eo casu 
+          <lb ed="#S" n="128"/>qui in positione excipitur vel aliter quod dicit hoc <add place="above-line">non</add> secundum caput suum sed re<lb ed="#S" break="no" n="129"/>citative 
+          quia statim post paucissimis <unclear>interpor?tis</unclear> dicit sic 
+          <lb ed="#S" n="130"/>ideo aut supra dixi aliud frequenter aliud semel quia ut quibusdam 
+          <lb ed="#S" n="131"/>placet q<subst><add place="above-line">uae</add><del rend="expunctuation">ui</del></subst>dam fiunt quem si <add place="margin-right">tantum</add> semel fiant vel facienda dispo<lb ed="#S" break="no" n="132"/>nantur 
+          dampnant quaedam vero non nisi saepius fiant vel 
+          <lb ed="#S" n="133"/>facienda discernantur ut de otioso verbo etc Et <ref xml:id="aw98wa-xg4387-Rd1e727">Richardus 
+          <lb ed="#S" n="134"/>ibi supra litteram</ref> dicit quod exponenda sunt verba sicud supra quia scilicet ex fre<pb ed="#S" n="229-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>quentatione 
+          actuum talium incidit quis in contemptum <pc type="punctus"/>  et ex<lb ed="#S" break="no" n="2"/>ponit 
+          id est quod non dimittet etiam dato quod haberent dei praeceptum contra unde <add place="margin-center">Richardus</add>
+          <lb ed="#S" n="3"/>verba <name xml:id="aw98wa-xg4387-Nd1e746">firaf</name> sunt haec hic indiget magister expositione quia quantum<lb ed="#S" break="no" n="4"/>cumque 
+          multiplicentur veniabilia nunquam dampnatur <add place="margin-left">propter</add> illud vel ista 
+          <lb ed="#S" n="5"/>nisi <unclear>assit</unclear> aliquod peccatum mortale quia scilicet frequentatio venalium 
+          <lb ed="#S" n="6"/>aliquando tamen <unclear>assi?t</unclear> hominem prava consuetudine quod incipit in contemptum in hoc 
+          <lb ed="#S" n="7"/>quod <add place="margin-left">in corde suo</add> deliberat vel deliberate firmat quod illud non dimitteret etiam 
+          <lb ed="#S" n="8"/>si sciret directe illud esse contra praecepta dei Ideo forte dixit magister 
+          <lb ed="#S" n="9"/>quod <unclear>frequentus</unclear> dampnat quandoque scilicet dispositive haec iste
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e775">
+          <pc type="pilcrow">¶</pc> ad 2m 
+          <lb ed="#S" n="10"/>potest magister dici <pc type="punctus"/> uno modo quod dispositive <unclear>generat</unclear> quia frequentatio ex de<lb ed="#S" break="no" n="11"/>liberatione 
+          disponit ad contemptum nisi per actum contrarium caveatur scilicet quod 
+          <lb ed="#S" n="12"/>homo saepe in volente sentiat se per actum ad dimittendum si praeciperetur 
+          <lb ed="#S" n="13"/>sibi <pc type="punctus"/> alio modo quod si eligerentur in causata assuefactione fieri quod homo 
+          <lb ed="#S" n="14"/>omitteret ratione complacentiae in talibus ista ad quae praecise obliga<lb ed="#S" break="no" n="15"/>retur 
+          vel si placerent quia peccata vel si per se optaret numquam de ve<lb ed="#S" break="no" n="16"/>nalibus 
+          <add place="margin-left">illis</add> poenitere vel confiteri
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e806">
+          <pc type="pilcrow">¶</pc> aliter tamen quod magis credo ad inten<lb ed="#S" break="no" n="17"/>tionem 
+          litterae potest dici quod tantum gravant in purgatorio si nimis multi<lb ed="#S" break="no" n="18"/>plicentur 
+          sicut unum <unclear>grande</unclear> peccatum mortale per poenitentiam dimis<lb ed="#S" break="no" n="19"/>sum 
+          quo ad culpam sed restante poena temporali in quam deus com<lb ed="#S" break="no" n="20"/>mutaverit 
+          istam aeternam utrobique enim nisi homo satis fecerit 
+          <lb ed="#S" n="21"/><unclear>denirigitur</unclear> homo in purgatorio et forte gravius et diutius posset ibi 
+          <lb ed="#S" n="22"/>homo detineri pro tot venialibus quae comisisset et non satis fe<lb ed="#S" break="no" n="23"/>cisset 
+          hi<del rend="expunctuation">i</del>c sicut unus alius vel ipse met pro uno mortali tum 
+          <lb ed="#S" n="24"/>poenae temporales debite uni veniali et temporales de vite uni 
+          <lb ed="#S" n="25"/>mortali ut sic sint proportionales
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e839">
+          <pc type="pilcrow">¶</pc> ad 3m dicendum quod dictum augustini 
+          <lb ed="#S" n="26"/>habet intelligi si placet per se loquendo quia malum culpae <pc type="punctus"/> vel si tantum pla<lb ed="#S" break="no" n="27"/>cet 
+          quod etiam si deus praeciperet contrarium non dimitteret propter hoc Et 
+          <lb ed="#S" n="28"/>ad illud quod sequitur ad propositum multa ex deliberatione procedunt 
+          <lb ed="#S" n="29"/>quae nisi saepius iterata et in consuetudinem ducta etc potest intelligi sicud 
+          <lb ed="#S" n="30"/>prima et 2a
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e858">
+          <pc type="pilcrow">¶</pc> aliter tamen potest dici quod quaedam semel facta ex deliberatione 
+          <lb ed="#S" n="31"/>venialia erant quia nesciebatur in <unclear>animali</unclear> quod faciunt vel ad quod consequenter 
+          <lb ed="#S" n="32"/>inpellunt utpote semel bibere unum in excessu tali ex 
+          <lb ed="#S" n="33"/>quo sequitur alienatio sensus vel plena in potentia quae vocetur aebrietas 
+          <lb ed="#S" n="34"/>credo quod veniale esset in experto sicut in <name xml:id="aw98wa-xg4387-Nd1e874">noe</name> qui forte nunquam prius 
+          <lb ed="#S" n="35"/>bibit vinum sed postquam homo esset plene expertus malum naturaliter se<lb ed="#S" break="no" n="36"/>quens 
+          dico quod ex deliberatione facere hoc alias esset mortale multo 
+          <lb ed="#S" n="37"/>fortius ex tunc <add place="margin-left">ex</add> consuetudine facere hoc maxime experto quot mala 
+          <lb ed="#S" n="38"/>ebrii faciunt ut verberationes homicidia etc
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e889">
+          <pc type="pilcrow">¶</pc> Item dico de 
+          <lb ed="#S" n="39"/>ludo manuali tali per quem homo expertus est communiter incidere 
+          <lb ed="#S" n="40"/>in iram et odium et passionem <sic>melancoliam</sic> et sic de similibus
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e901">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="41"/>4m de ebrietate <unclear>continua</unclear> responde per idem Nota tamen quod ibi in glossa distinguit 
+          <lb ed="#S" n="42"/>de triplici ebrietate Ebrietas inquit quandoque est <unclear>mentis obliquo</unclear> et hoc 
+          <lb ed="#S" n="43"/>est poena et non aliquod peccatum ut patet <ref xml:id="aw98wa-xg4387-Rd1e917">15 quaestione prima sane</ref> quandoque 
+          <lb ed="#S" n="44"/>dicitur <unclear>stu?m</unclear> ad meliandum se et hoc est mortale peccatum ut patet 
+          <lb ed="#S" n="45"/><ref xml:id="aw98wa-xg4387-Rd1e924">25 quaestione prima ante omnia</ref> quandoque dicitur frequens actus bibendi et illud est 
+          <lb ed="#S" n="46"/>veniale haec illi
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e930">
+          <pc type="pilcrow">¶</pc> ad 5m magister non dicit se hoc putare <add>sed hoc putari</add> <del rend="underline">non</del> posse credo  
+          <lb ed="#S" n="47"/><add place="margin-left">tamen</add> quod obliquus voco ad non advertens mentiendum sic peccaret men<lb ed="#S" break="no" n="48"/>tiendo 
+          satis vel si sciret proximos ex suo iocoso mendacio scan<lb ed="#S" break="no" n="49"/>dalizari 
+          et audientes et tamen nollet dimittere
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e950">
+          <pc type="pilcrow">¶</pc> ad 6m est neganda 
+          <lb ed="#S" n="50"/>consequentia quia tunc primo peccat mortaliter cum attendere tenetur vel attendit 
+          <lb ed="#S" n="51"/>se notabiliter ex ablutione grani <add place="margin-left">tunc</add> auferrendi simul cum praeceden<lb ed="#S" n="52"/><del rend="expunctuation">cen</del>tium 
+          ablutionibus proximum <unclear>damnificare</unclear> et hoc non obstante non 
+          <lb ed="#S" n="53"/>vult dimittere quin ad hoc granum tollat supponitur etiam falsum in argumento 
+          <lb ed="#S" n="54"/>quia ablutio primi grani sit omnino peccatum veniale sed hoc non oportet licet ista posset 
+          <lb ed="#S" n="55"/>esse utpote si <add place="margin-left">in volitione</add> <del rend="expunctuation">voluntarie</del> mediante qua primum granum tollitur <add place="margin-below">sit veniale peccatum et certe actus</add> <del rend="underline">et certe</del> alterius
+          <lb ed="#S" n="56"/>rei habetur in voluntate vel omittatur actus volendi ad quem fertur in ablutione 
+          <lb ed="#S" n="57"/>grani primi 2i et 3i et de multis aliis granis
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e994">
+          <pc type="pilcrow">¶</pc> Et sicut in ablutione 
+          <lb ed="#S" n="58"/>primi grani potest esse quod non peccet et potest esse quod venialiter peccet ista potest esse 
+          <lb ed="#S" n="59"/>quod mortaliter peccet in vocando unitum primum grani auferre utpote si hoc 
+          <lb ed="#S" n="60"/>faceret intentione notabiliter <del rend="expunctuation">est</del> dampnificand<del rend="underline">a</del>i proximum per ablutionem illius et 
+          <lb ed="#S" n="61"/>successive aliorum donec dampnandum notabile esset datum
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1015">
+          <pc type="pilcrow">¶</pc> ad 2m 
+          <lb ed="#S" n="62"/>articulum respondet <ref xml:id="aw98wa-xg4387-Rd1e1022"><name xml:id="aw98wa-xg4387-Nd1e1023">firaf</name> in quadam disputatione</ref> primo quod motus sensualitatis 
+          <lb ed="#S" n="63"/>inproprie dictus id eset qui non plene distinguitur a libero actu pro 
+          <lb ed="#S" n="64"/>eo quod <unclear>min??is</unclear> tenetur et interpretive saltem libere retinetur et inter<lb ed="#S" break="no" n="65"/>pretative 
+          et talis inquam motus sensualitatis est proprie peccatum volendo 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>primum instans in quo quis peccat peccato proprie dicto licet ille <name xml:id="aw98wa-xg4387-Nd1e1039">firaf</name> sicut supra 
+          <lb ed="#S" n="67"/>patuit teneat contrarium et contra eum sufficienter demonstrat argumentum de 
+          <lb ed="#S" n="68"/>instantanea perditione caritatis <unclear>ultimo</unclear> <unclear>habite</unclear> in aliquo instans quod inconveniens 
+          <lb ed="#S" n="69"/>oportebit eum intelligere vel saltem concedere quod sit dare primum 
+          <lb ed="#S" n="70"/>instans peccati mortalis
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1055">
+          <pc type="pilcrow">¶</pc> ad articulum 3m an quilibet vere poenitens ten<lb ed="#S" break="no" n="71"/>atur 
+          vitare aut velle vitare quodlibet peccatum mortale pro futuro
+        </p>
+        <!-- article 3? -->
+        <p xml:id="aw98wa-xg4387-d1e1065">
+          <pc type="pilcrow">¶</pc> dicendum 
+          <lb ed="#S" n="72"/>quod sit quando actu cogitat de peccato praeterito et futuro sicut probant au<lb ed="#S" break="no" n="73"/>ctoritates 
+          ad principale posite pro parte opposita quaestionis
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1075">
+          <pc type="pilcrow">¶</pc> Sed tamen in contrarium 
+          <lb ed="#S" n="74"/>potest obici multipliciter quia tunc teneretur scire de quolibet peccato mortali ipsum 
+          <lb ed="#S" n="75"/>esse peccatum mortale alias si ipsum incurreret non posset digne 
+          <lb ed="#S" n="76"/>poenitere sed ad hoc non tenetur quia tunc aliquis teneretur ad sibi in 
+          <lb ed="#S" n="77"/>multis casibus <unclear>symonie</unclear> et <unclear>usere</unclear> quibus de <unclear>dicentibus</unclear> quod sunt peccata 
+          <lb ed="#S" n="78"/>mortalia aliis dicentibus quod non
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1099">
+          <pc type="pilcrow">¶</pc> Item iuxta 8m argumentum articuli 
+          <lb ed="#S" n="79"/>praecedentis aliqua illecebra per aliquod tempus veniale est peccatum quae 
+          <lb ed="#S" n="80"/>postea fit mortale nec est possibile habenti scire in quo instanti inpu<lb ed="#S" break="no" n="81"/>tatur 
+          sibi ad peccatum mortale quod ista non reprimit et retento 
+          <lb ed="#S" n="82"/>istius et per consequens talis non potest cognoscere magnitudinem peccati sui et per consequens 
+          <lb ed="#S" n="83"/>nec de ipso digne poenitere et cum ad hoc tenetur et ita hoc peccatum 
+          <lb ed="#S" n="84"/>mortale quod est omissio digne poenitendi non potest vitare et per consequens 
+          <lb ed="#S" n="85"/>non tenetur
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1120">
+          <pc type="pilcrow">¶</pc> Item tunc tentur reprimere illecebram antequam 
+          <lb ed="#S" n="86"/>sit mortale peccatum vel ne fiat peccatum mortale et hoc non quia 
+          <lb ed="#S" n="87"/>vel postquam est mortale et hic non quia tunc non omne mortale tentur 
+          <lb ed="#S" n="88"/>vitare quia iam praextitisset mortale vel dum est mortale et 
+          <lb ed="#S" n="89"/>hoc non quia omne quod est quando est etc vel antequam sit mortale 
+          <lb ed="#S" n="90"/>et hoc non de necessitate salutis quia sic loquor modo pro eo quod 
+          <lb ed="#S" n="91"/>tunc de necessitate salutis tenetur tollere vel reprimere vel vita 
+          <lb ed="#S" n="92"/>re peccatum veniale quia hanc illecebram dum venialis est
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1141">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="93"/>tunc si aliquis faceret iuramentum in diem certum de solvendo X praesci 
+          <lb ed="#S" n="94"/>ut tempore debito solvat ne incurrat periurium quod est mortale 
+          <lb ed="#S" n="95"/>peccatum <del rend="expunctuation">et</del> sed consequens falsum quia non tenetur solvere post diem istum solum quia per 
+          <lb ed="#S" n="96"/>hoc non vitaret et periurium nec ante diem istum secundum legem 
+          <lb ed="#S" n="97"/>nec die isto quia nulla <del rend="expunctuation">die</del> parte illius die sua lex vult quod in 
+          <lb ed="#S" n="98"/>dispositione istius qui obligatur eligere et disponere de hora 
+          <lb ed="#S" n="99"/>in qua post omne instans diei potest satis facere et per consequens in nulla 
+          <lb ed="#S" n="100"/>parte istius diei vel illius tentur et tamen nisi satisfaciat in aliqua 
+          <lb ed="#S" n="101"/>parte erit periurus ergo non tenetur vitare omne periurium 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1173">
+          <lb ed="#S" n="102"/><pc type="pilcrow">¶</pc> dicendum quod sic <pc type="punctus"/> tum quia tenetur vitare dampnationem suam ne sit dignus 
+          <lb ed="#S" n="103"/>dampnari hic non potest nisi vitando quodlibet peccatum mortale Item 
+          <lb ed="#S" n="104"/>tenetur deum super omnia diligere et per consequens voluntati suae ac legi se<lb ed="#S" break="no" n="105"/>parare 
+          sed omnes peccans mortaliter est praevaricator legis divinae et prae<lb ed="#S" break="no" n="106"/>cepti 
+          nec diligens deum super omnia
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1191">
+          <pc type="pilcrow">¶</pc> ad primum in contrarium prima 
+          <lb ed="#S" n="107"/>consequentia est neganda sufficit enim quod sciat vel quod scire vale<lb ed="#S" break="no" n="108"/>at 
+          ipsum esse peccatum et non assecurari quod tantum <add>sit</add> veniale unde 
+          <lb ed="#S" n="109"/>in omni casu quo homo rationaliter dubitat de aliquo facto ipsum esse 
+          <lb ed="#S" n="110"/>mortale peccatum tenetur vitare illud quia aliter exponeret se 
+          <lb ed="#S" n="111"/>periculo et qui amat periculum incidit in illud nec excu<lb ed="#S" break="no" n="112"/>satur 
+          etiam a mortali si factum suum sit mortale quamvis credat ipsum 
+          <lb ed="#S" n="113"/>esse veniale nisi suus error sit invincibilis Et cum probatur quod tenetur scire 
+          <lb ed="#S" n="114"/>ipsum esse mortale si sit mortale et etiam quando incipit esse mortale quia aliter 
+          <lb ed="#S" n="115"/>quando incideret in illud non posset digne poenitere quia ignoraret magna 
+          <lb ed="#S" n="116"/>intuentem peccati sui
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1221">
+          <pc type="pilcrow">¶</pc> dicendum quod sufficit dicere conformi suo distincte sic 
+          <lb ed="#S" n="117"/>et sic egi nec oportet semper dicere confessori suo ego peccavi venialiter nec 
+          <lb ed="#S" n="118"/>mortaliter in casu in quo duplico aut esse mortale aut dubitaret 
+          <lb ed="#S" n="119"/>seu sciret nichilominus fecit illud dicat indubitanter peccavi mortaliter 
+          <lb ed="#S" n="120"/>quia feci hoc cum tamen dubitarem <add place="margin-right">probabiliter</add> <del rend="expunctuation">praeter</del> hoc esse mortale peccatum 
+          <lb ed="#S" n="121"/>ymmo quilibet tenetur nihil ex deliberatione agere nisi sciat vel proba<lb ed="#S" break="no" n="122"/>biliter 
+          coniecturum quod non sic peccatum mortale errore sibi invin<lb ed="#S" break="no" n="123"/>cibili 
+          vel ad tempus vel simpliciter
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1249">
+          <pc type="pilcrow">¶</pc> dices ipse tenetur conteri quando offendit 
+          <lb ed="#S" n="124"/>mortaliter citius quam quando venialiter nec de veniali tenetur habere contritionem 
+          <lb ed="#S" n="125"/>debitam mortali <pc type="punctus"/> nec debita veniali sufficit pro mortali tunc 
+          <lb ed="#S" n="126"/>quicumque peccat mortaliter tenetur conteri cum contritione debita morta<lb ed="#S" break="no" n="127"/>li 
+          sed hoc non potest nisi sciat se mortaliter peccasse igitur tenetur hoc 
+          <lb ed="#S" n="128"/>scire <unclear>se</unclear> cum fecerit
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1270">
+          <pc type="pilcrow">¶</pc> Item ad hoc stat illud de magnitudine peccati
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1276">
+          <lb ed="#S" n="129"/><pc type="pilcrow">¶</pc> ad primum istorum dicendum quod in casu isto in quo dubitaret an 
+          <lb ed="#S" n="130"/>peccatum suum fuerit mortale si dubitavit et dubitans fe<lb ed="#S" break="no" n="131"/>cerit 
+          securus sic quod peccavit mortaliter vel peccat <add place="margin-below">si ex post facto tantum dubitat</add> <del rend="underline">secundum post facto
+          <pb ed="#S" n="230-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>cuius</del> et prius credidit quod non esset factum dampnabile tunc debet dolere quod 
+          <lb ed="#S" n="2"/>tale quidam fecerit et velle satis facere sive mortaliter eum offenderit 
+          <lb ed="#S" n="3"/>sive venialiter vel petere veniam et dei misericordiam sive uno modo sive 
+          <lb ed="#S" n="4"/>alio peccaverit de hoc quod sic egit
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1306">
+          <pc type="pilcrow">¶</pc> ad illud de magnitudine peccati non 
+          <lb ed="#S" n="5"/>est semper necessariam scire quam magnum praecise fuerit peccatum suum ad 
+          <lb ed="#S" n="6"/>hoc quod digne poeniteat si quod apponat diligentiam quam potest et do<lb ed="#S" break="no" n="7"/>leat 
+          se fecisse illud ut sciat et paratus sic satisfacere sicud deo 
+          <lb ed="#S" n="8"/>placuerit si sciret et sicut dens novit eum <add place="margin-left">deliquisse</add>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1324">
+          <pc type="pilcrow">¶</pc> dices tu <pc type="punctus"/> po<lb ed="#S" break="no" n="9"/>no 
+          quod aliquis credat de aliquo quod in rei veritate est mortale quod sic 
+          <lb ed="#S" n="10"/>veniale non vult illud vitare vellet tamen si sciret vel dubitaret 
+          <lb ed="#S" n="11"/><del rend="expunctuation">esse esse</del> illud esse mortale nec etiam ex post facto curat poenitere de isto sicud 
+          <lb ed="#S" n="12"/>de mortali seu de dubio an sit mortale sed vult negligere 
+          <lb ed="#S" n="13"/>omnino poenitere de isto quia indubitanter credit ipsum esse venia<lb ed="#S" break="no" n="14"/>le 
+          vel si contritur solummodo absolute et sine conditione poenitet iuxta 
+          <lb ed="#S" n="15"/>suam credulitatem hoc est solum de isto contritur sicut de veniali 
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1349">
+          <lb ed="#S" n="16"/><pc type="pilcrow">¶</pc> dicendum quod apostolus paulus videtur fore in tali casu fuisse vel se esse ti<lb ed="#S" break="no" n="17"/>muisse 
+          cum dixit nichil mihi conscius sive sed non in hoc iustificatus 
+          <lb ed="#S" n="18"/>sive
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1361">
+          <pc type="pilcrow">¶</pc> dicendum quod talis non ex toto excusatur a mortali nisi error 
+          <lb ed="#S" n="19"/>suus sit sibi simpliciter invincibilis et culpabilis si finaliter perse<lb ed="#S" break="no" n="20"/>veret 
+          in tali peccato vel voluntate sit peccandi est dignus dampnari 
+          <lb ed="#S" n="21"/>nisi ex nimia dei misericordia supra communem iustitiam dimittatur si tamen 
+          <lb ed="#S" n="22"/>talis de isto peccato doleat finaliter et poeniteat saltem sicut 
+          <lb ed="#S" n="23"/>de veniali et in generali de omnibus peccatis suis secundum quae timet 
+          <lb ed="#S" n="24"/>deum offendisse salvus erit sed quamvis haberet istum actum 
+          <lb ed="#S" n="25"/>generale contritionis iste non sibi sufficiet si perseveret in voluntate 
+          <lb ed="#S" n="26"/>agendi illud vel non dimittendum illud mortale creditum ab eo esse 
+          <lb ed="#S" n="27"/>veniale nisi cum dei misericordia excessive
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1386">
+          <pc type="pilcrow">¶</pc> ad 2m argumentum principale 
+          <lb ed="#S" n="28"/><del rend="expunctuation">potest</del> patet per iam dicta nisi quo ad illud quod adiungitur in fine quod igno<lb ed="#S" break="no" n="29"/>rans 
+          magnitudinem peccati sui non potest omittere digne poenitere
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1398">
+          <lb ed="#S" n="30"/><pc type="pilcrow">¶</pc> dicendum quod non est verum modo satis praetacto <pc type="punctus"/>  quia potest dolere de peccato 
+          <lb ed="#S" n="31"/>suo et habere voluntatem satis faciendi de isto secundum dei voluntatem et sicud no<lb ed="#S" break="no" n="32"/>vit 
+          esse dolendum seu satisfaciendum et tamen hoc velle satisfacere quod in 
+          <lb ed="#S" n="33"/>foro conscientiae videtur satisfaciendum <pc type="punctus"/> dices quod saltem in priori 
+          <lb ed="#S" n="34"/>casu ubi nulla haberet quis conscientiam nec remorsum de mortali nec 
+          <lb ed="#S" n="35"/>hesitationem aliquam sed solum de veniali teneretur de necessitate 
+          <lb ed="#S" n="36"/>salutis conteri de isto et eadem ratione quilibet alius de suo peccato 
+          <lb ed="#S" n="37"/>veniali et de quolibet si occurreret distincte memoriae suae de 
+          <lb ed="#S" n="38"/>necessitate salutis teneretur conteri quod videretur nimis nimis <unclear>dure</unclear> quia tunc 
+          <lb ed="#S" n="39"/>moriens in peccando vel in voluntate peccandi venialiter si 
+          <lb ed="#S" n="40"/>superviveret ut in voluntate faciendi illud quod est peccatum venia<lb ed="#S" break="no" n="41"/>le 
+          sciens illud esse peccatum esset in statu dampnationis et consequentia patet 
+          <lb ed="#S" n="42"/>ut videtur quia ista credit prius quod solum velit venialiter peccare sicud 
+          <lb ed="#S" n="43"/>iste qui solum venialiter peccat
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1439">
+          <pc type="pilcrow">¶</pc> dico salvo meliori iu<lb ed="#S" break="no" n="44"/>dicio 
+          quod cum nullum peccatum veniale repungnet caritati vel gratiae
+          <lb ed="#S" n="45"/>iste qui morietur sine contritione de peccato veniali vel venialibus ymmo in 
+          <lb ed="#S" n="46"/>voluntate faciendi talia in statu salutis morietur ymmo nullus de necessi<lb ed="#S" break="no" n="47"/>tate 
+          salutis et de talibus scitis esse talia <add place="margin-left">tenetur</add> poenitere licet ma<lb ed="#S" break="no" n="48"/>le 
+          faceret nolens peccare sed secus est de voluntate mortaliter 
+          <lb ed="#S" n="49"/>peccante licet non credat hoc iste enim de necessitate tenetur dimittere 
+          <lb ed="#S" n="50"/>quod credit esse veniale nisi ut supra dixi sua credulitas esset 
+          <lb ed="#S" n="51"/>error simpliciter invincibilis vel pro tunc specialiter inmutat et ideo 
+          <lb ed="#S" n="52"/>consequentia iam facta non valet quia cetera non sunt paria cum unus in 
+          <lb ed="#S" n="53"/>rei veritate peccet mortaliter et alter non sed solum venialiter
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1470">
+          <lb ed="#S" n="54"/><pc type="pilcrow">¶</pc> dices quilibet tenetur vitare periculum dampnationis suae sed quantum<lb ed="#S" break="no" n="55"/>cumque 
+          quis solummod venialiter peccet ipse habet de tali periculo 
+          <lb ed="#S" n="56"/>vitare iuxta illud apostoli <quote xml:id="aw98wa-xg4387-Qd1e1480">nihil mihi conscius sive</quote> etc ipse peccans 
+          <lb ed="#S" n="57"/>venialiter de necessitate salutis habet conteri
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1485">
+          <pc type="pilcrow">¶</pc> dicendum quod argumentum concludit 
+          <lb ed="#S" n="58"/>verum quia quilibet debet conteri in genere de peccato mortali quod commisit 
+          <lb ed="#S" n="59"/>licet nullum sciat se commisisse et licet nullum <add place="margin-left">commiserit</add> et quilibet ad actum 
+          <lb ed="#S" n="60"/>talem conterendi formaliter vel virtualiter <unclear>obliviscitur</unclear> nisi esset sine de<lb ed="#S" break="no" n="61"/>ceptione 
+          assecuratus quod nullum mortale commisisset 
+          <lb ed="#S" n="62"/>Et tunc etiam sicut credo ex hoc non sequitur quod talis contritio suffi<lb ed="#S" break="no" n="63"/>ciat 
+          illi qui actualiter vult peccare mortaliter licet hoc non 
+          <lb ed="#S" n="64"/>advertat scilicet quod illud vult facere quod sit peccatum nisi sicut 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>saepe dictum est per ignorantiam invincibile sibi simpliciter vel pro tunc excusetur vel 
+          <lb ed="#S" n="66"/>ex sola dei misericordia liberetur
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1519">
+          <pc type="pilcrow">¶</pc> ad 3m dicendum quod talis tenetur reprimere illece<lb ed="#S" break="no" n="67"/>bram 
+          ne sit in instanti isto sit a in quo post nisi reprimatur ante <add place="in-line">vel</add> incipi<lb ed="#S" break="no" n="68"/>atur 
+          reprimi erit mortale et ita dum est veniale tenetur cavere et <unclear>detelia<lb ed="#S" break="no" n="69"/>re</unclear>
+          ab isto ne pertingat ad <c>a</c> instans in quo foret mortale et si usque 
+          <lb ed="#S" n="70"/>ad <c>a</c> instans omitteret declinare ab isto <c>a</c> peccat mortaliter non 
+          <lb ed="#S" n="71"/>quidam ista illecebra quae per casum ante <c>a</c> non erit mortale sed peccato 
+          <lb ed="#S" n="72"/>omissionis cautele et declinationis ab ista illecebra quia nisi ante 
+          <lb ed="#S" n="73"/>caveat vel careat manebit per totum tempus <add place="margin-right">sibi</add> conessus ad repri<lb ed="#S" break="no" n="74"/>mendum 
+          illam vel incipiendum ipsam reprimere et principaliter si ipsa pertinget ad 
+          <lb ed="#S" n="75"/><c>a</c> fiet <add place="above-line">in</add> eo <del rend="underline">mihi</del> mortale si vero <add place="margin-right">deus</add> concedat <unclear>habetur</unclear> quod reprimere sibi 
+          <lb ed="#S" n="76"/>sufficiat ad cavendum mortale huius illecebram in <c>a</c> incipi<lb ed="#S" break="no" n="77"/>at 
+          ad ultimum eam reprimere id est quod in <c>a</c> ad ultimum habeat vel prius 
+          <lb ed="#S" n="78"/>actum voluntatis istius repressimum istius illecebre tunc si nec ante <c>a</c>
+          <lb ed="#S" n="79"/>nec tunc incipiat in <c>a</c> primo peccat mortaliter si in <c>a</c> habeat istius 
+          <lb ed="#S" n="80"/>illecebre repressionem liberatus est a culpa mortali
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1597">
+          <pc type="pilcrow">¶</pc> dices in 
+          <lb ed="#S" n="81"/>nullo instanti ante <add place="margin-right">a</add> tenetur declinare ab ea quia sufficit quod ante <c>a</c> incipi<lb ed="#S" break="no" n="82"/>at 
+          reprimere vel ab illa declinare sit ista et post quodlibet instans ante potest ab 
+          <lb ed="#S" n="83"/>ista incipere declinare vel reprimere eam ergo ante <c>a</c> non 
+          <lb ed="#S" n="84"/>peccabit <pc type="punctus"/> consequentia patet quia qua diu potest vitare ne sit peccatum mor<lb ed="#S" break="no" n="85"/>tale 
+          ad hoc non peccat mortaliter recipiendo eam sed semper ante potest quia 
+          <lb ed="#S" n="86"/>semper ante <c>a</c> potest incipere reprimere igitur semper usque ad <c>a</c> potest facere 
+          <lb ed="#S" n="87"/>illud quod de necessitate tenetur et ita usque ad <c>a</c> non peccabit
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1634">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="88"/>istud dicendum sicut ad argumentum de <add place="margin-right">peccato</add> ante <c>a</c> dico igitur si distincte pos<lb ed="#S" break="no" n="89"/>sit 
+          cognoscere <c>a</c> vel percipere etiam omnem partem temporis immediatam <c>a</c> quantumcum<lb ed="#S" break="no" n="90"/>que 
+          <add place="margin-center">parvam</add> minorem in duplo dandam et ista adhuc minorem in 2lo 
+          <lb ed="#S" n="91"/>et sit in infinitum etc haberet <add place="margin-right">veritatem</add>
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1664">
+          <pc type="pilcrow">¶</pc> Respondet altisiodorensis libro 2 quaestione 63 primo in 
+          <lb ed="#S" n="92"/><c>a</c> talis contraheret reatum culpae mortalis sed quia non <add place="margin-right">est</add> sit sed est da<lb ed="#S" break="no" n="93"/>re 
+          minimum tempus ab eo perceptibile distincte secundum circumstantiam praesentem vel 
+          <lb ed="#S" n="94"/>maximum quod non potest distincte cognoscere vel percipere <pc type="punctus"/> dico quod 
+          <lb ed="#S" n="95"/>ad ultimum tenetur in primo instanti extrinseco talis temporis incipiere alioquin si tunc 
+          <lb ed="#S" n="96"/>non vult cum tamen advertat sicut tenetur quod ulterius non potest differe 
+          <lb ed="#S" n="97"/>sine periculo ex tunc erit in peccato mortali
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1689">
+          <pc type="pilcrow">¶</pc> argumentum enim immediate prae<lb ed="#S" break="no" n="98"/>cedens 
+          supponit si debeat valere antecedens praedictae conditionalis verum 
+          <lb ed="#S" n="99"/>esse et non est ita
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1699">
+          <pc type="pilcrow">¶</pc> ad 4m dicendum eo modo quod iste obligatus 
+          <lb ed="#S" n="100"/>sit ad diem ut solvat x tenetur solvere isto die et tenetur 
+          <lb ed="#S" n="101"/>tali hora incipere motum suum et requisita omnia quod omnia possit 
+          <lb ed="#S" n="102"/>perfici ad ultimum instans dici vel ante et hic in hiis quae moram in suo 
+          <lb ed="#S" n="103"/>fieri requirent tenet altisiodorensis ubi prius si autem obligaretur ad 
+          <lb ed="#S" n="104"/>aliquid instantaneum dicendum sicut ad immediate praecedens dictum est
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1717">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="105"/>primum principale dicendum quod nullus habens gratiam tenetur de necessitate salutis ad sibi 
+          <lb ed="#S" n="106"/>inpossibile licet teneretur non sit stricte ad cavendum ista peccata omnia 
+          <lb ed="#S" n="107"/>venialia quod sibi non est <add place="margin-right">possibile</add> secundum sanctos si diu procelabitur vita sua 
+          <lb ed="#S" n="108"/>quodlibet tamen veniale forsan posset vitare sicut in quodam <add place="margin-right">articulo</add> quaestione unius super 
+          <lb ed="#S" n="109"/>2m <unclear>sive<del rend="expunctuation">um</del></unclear> prosequutus  de motu autem servantis ad illicitum quando 
+          <lb ed="#S" n="110"/>totaliter sit peccatum et possibilitate vitandi ipsum slatem ne sit peccatum 
+          <lb ed="#S" n="111"/>mortale satis habitum est in 2o articulo et 3o huius <del rend="strikethrough">quaestionis</del> quaestionis
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1753">
+          <lb ed="#S" n="112"/><pc type="pilcrow">¶</pc> ad 2m dicendum quod homo potest vere poenitere de mortali et si non <del rend="underline">ve</del> <add place="margin-right">potest</add> 
+          <lb ed="#S" n="113"/><del rend="underline">ut</del> vitare quodlibet veniale utrum aut consuetudo peccandi venialiter 
+          <lb ed="#S" n="114"/>sit culpa mortalis et an ad vitandam talem consuetudinem vere 
+          <lb ed="#S" n="115"/>poenitens obligetur de necessitate salutis patet ex primo articulo praesentis
+          <lb ed="#S" n="116"/>quaestionis
+        </p>
+        <p xml:id="aw98wa-xg4387-d1e1777">
+          <pc type="pilcrow">¶</pc> ad 3m neganda est consequentia ut patet ex 3o articulo
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
