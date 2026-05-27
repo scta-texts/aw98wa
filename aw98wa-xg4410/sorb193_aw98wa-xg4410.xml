@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9 [Sorb193 Transcription]</title>
+          <date when="2026-05-26">May 26, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="230-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4410"><!-- b4q10-->
+        <head xml:id="aw98wa-xg4410-Hd1e101">Quaestio 10</head>
+        <p xml:id="aw98wa-xg4410-d1e103">
+          <lb ed="#S" n="117"/>Utrum iste qui peccat mortaliter in opere exteriori teneatur 
+          <lb ed="#S" n="118"/>plus <del rend="strikethrough">de compare</del> poenitere de opere interioria exteriori 
+          <lb ed="#S" n="119"/>simul quam de interiori solo modo
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e115">
+          quod non quia sunt una praevaricatio secundum magistrum 2 libro distinctione 42
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e117">
+          <pc type="pilcrow">¶</pc> Contra de omni peccato suo 
+          <lb ed="#S" n="120"/>mortali et voluntario tenetur homo conteri sed catus exterior est aliud peccatum 
+          <lb ed="#S" n="121"/>mortale ab interiori sicud argui <ref xml:id="aw98wa-xg4410-Rd1e126">chatton in quadam determinatione
+          <lb ed="#S" n="122"/>primo</ref> quia opinio altisodorensis est ut dicit <ref xml:id="aw98wa-xg4410-Rd1e131">libro 2 in ista quaestione utrum intentio 
+          <lb ed="#S" n="123"/>et opus sit idem peccat</ref> Et tenet secundum <name xml:id="aw98wa-xg4410-Nd1e137">chatton</name> quod dicere quod 
+          <lb ed="#S" n="124"/>solus actus interior sit peccatum est contra fidem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e142">
+          <pc type="pilcrow">¶</pc> Item ad <add place="margin-right">eadem</add> 
+          <lb ed="#S" n="125"/>inquit conclusionem posset sic argui capitulo de haereticis ad abolendam Ex 
+          <lb ed="#S" n="126"/>communicatur quilibet qui aliter sentit de articulis fidei et de praeceptis de<lb ed="#S" break="no" n="127"/>calogi 
+          quam sentiat Roma ecclesia sed romana ecclesia sentit quod 
+          <lb ed="#S" n="128"/>inpossibile est hominem salvari sine fide Et ista opinio evacuat veri<lb ed="#S" break="no" n="129"/>tatem 
+          fidei assumptum patet quia ponatur quod sint duo homines aequalis 
+          <lb ed="#S" n="130"/>voluntatis ad credendum aliquem articulum alter credit et alter inpeditur ab 
+          <lb ed="#S" n="131"/>actu credendi dicere igitur quod iste qui non credit tantum meretur sicut
+          <pb ed="#S" n="230-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>alter credens est destruere necessitatem fidei sed opinionem ista videtur huius 
+          <lb ed="#S" n="2"/>igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e176">
+          <pc type="pilcrow">¶</pc> Item videtur quod <add place="margin-left">illa opinio</add> aliter <del rend="underline">ita</del> sentiat de praeceptis decalogi 
+          <lb ed="#S" n="3"/>quam sentiat ecclesia roma quia ponatur quod duo essent aequalis voluntatis 
+          <lb ed="#S" n="4"/>ad ydolatrandum unus inpeditur ab actu exteriori alter non sed 
+          <lb ed="#S" n="5"/>faciat ydolatriam dicere tunc quod tantum iste peccat sicut iste <unclear>est</unclear>
+          <lb ed="#S" n="6"/>aliter sentire id est quod non oportuit illud praeceptum fuisse datum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e199">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="7"/>ista opinio aliter sentit de sacramentis quam est sentiendum quia ponatur 
+          <lb ed="#S" n="8"/>quod sint duo infideles habentes aequales volitiones remis<lb ed="#S" break="no" n="9"/>sas u
+          ut baptizentur baptizetur igitur unus et alius non dicere igitur 
+          quod non baptizatus tantum meretur sicut baptizatus et quod non baptizatus 
+          ita meretur vitam aeternam sicut alius si tunc morietur est destru<lb ed="#S" break="no" n="10"/>ere 
+          necessitatem huius sacramenti Et eodem modo potest argui de sacramento con<lb ed="#S" break="no" n="11"/>formis 
+          et confirmationis externe unctionis et poenitentiae etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e216">
+          <pc type="pilcrow">¶</pc> Item si sic 
+          <lb ed="#S" n="12"/>videretur quod <unclear>laceratio</unclear> lateris christi non valeret nobis ad salutem 
+          <lb ed="#S" n="13"/>quia non habuit tunc actum meritorie vel non habuit
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e228">
+          <pc type="pilcrow">¶</pc> Item per fi<lb ed="#S" break="no" n="14"/>dem 
+          homo meretur quae tamen non est in voluntate
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e236">
+          <pc type="pilcrow">¶</pc> Item christus a sua 
+          <lb ed="#S" n="15"/>conceptione voluit redimere genus humanum si igitur ista voluntas 
+          <lb ed="#S" n="16"/>sufficiat frustra ponebatur ista redemptio si non hic contra 
+          <lb ed="#S" n="17"/>opinionem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e248">
+          <pc type="pilcrow">¶</pc> Item nullus ex communicatur <add place="margin-left">nisi</add> per culpa mortali sed pro homicidio vel 
+          <lb ed="#S" n="18"/>pro percutione clerici homo exercatur et non nisi pro actu exteriori ergo illud est 
+          <lb ed="#S" n="19"/>peccatum mortale
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e262">
+          <pc type="pilcrow">¶</pc> Item maior poena debetur voluntati cum exequutione 
+          <lb ed="#S" n="20"/>exteriori quam sine ista patet per <ref xml:id="aw98wa-xg4410-Rd1e269">augustinum 13 de trinitate</ref> ubi dicit quod so<lb ed="#S" break="no" n="21"/>la 
+          voluntate fit homo miser miserior etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e274">
+          <pc type="pilcrow">¶</pc> ad illam quaestionem primo 
+          <lb ed="#S" n="22"/>videndum est utrum per actus exteriores additos interioribus plus 
+          <lb ed="#S" n="23"/>mereri possumus de communi legel quam per interiores mereantur vel 
+          <lb ed="#S" n="24"/>mereri valeamus quibus exterioris non adducitur et eodem 
+          <lb ed="#S" n="25"/>modo de demerito <add place="margin-below">et secundo per hoc ad titulum quaestionis</add>
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e292">
+          <add place="margin-below"><pc type="pilcrow">¶</pc> Quantum ad primum articulum</add> quod sic videtur quia plus demeretur vel demere<lb ed="#S" break="no" n="26"/>mur 
+          per actum interiorem et exteriorem simul quam interiorm solum 
+          <lb ed="#S" n="27"/>igitur pari ratione in bonis operibus plus meremur assumptum probatur quia aliter 
+          <lb ed="#S" n="28"/>ut videtur frustra prohabiti essent actus exteriores respectu eiusdem distinctis 
+          <lb ed="#S" n="29"/>praeceptis cuius oppositum patet in praeceptis non mechaberis Non 
+          <lb ed="#S" n="30"/>concupisces uxorem proximi tui
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e311">
+          <pc type="pilcrow">¶</pc> contra actus interior et exterior ad 
+          <lb ed="#S" n="31"/>quem inpellit interior non plus inputantur ad meritum vel de<lb ed="#S" break="no" n="32"/>meritum 
+          quam solus interior cum exterior praecise sit inputabilis 
+          <lb ed="#S" n="33"/>propter interiorem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e323">
+          <pc type="pilcrow">¶</pc> ad hoc etiam facit glossa super illud psalmum et in corde o<lb ed="#S" break="no" n="34"/>peram 
+          in iniquitates dicit quod illud quod homo vult et non potest re<lb ed="#S" break="no" n="35"/>putat <add place="margin-left">deus</add> pro facto
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e336">
+          <pc type="pilcrow">¶</pc> Teneo opinionem communem quod non <pc type="punctus"/> quia actus interior 
+          <lb ed="#S" n="36"/>sic est meritorius quod eo solo posito quis meretur exterior 
+          <lb ed="#S" n="37"/>autem non unde infurioso vel puero nihil valet actus ad meri<lb ed="#S" break="no" n="38"/>tum 
+          vel demeritum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e351">
+          <pc type="pilcrow">¶</pc> praeterea malus meretur vel demeretur novo 
+          <lb ed="#S" n="39"/>merito vel demerito actuali ad poenam vel gloriam distinctam 
+          <lb ed="#S" n="40"/>post hanc vitam noviter inputabili quod non est noviter in 
+          <lb ed="#S" n="41"/>eius potestate sed non est in possibilitate alicuius habentis actus interioris 
+          <lb ed="#S" n="42"/>quibus naturaliter sequitur exteriores quin operetur exterius si possit id est si non 
+          <lb ed="#S" n="43"/>inpediatur igitur per exteriores meritum <unclear>praemiale</unclear> non additur et maxime 
+          <lb ed="#S" n="44"/>non super omnes exteriores
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e372">
+          <pc type="pilcrow">¶</pc> Et confirmatur quia illud quod non est inputa<lb ed="#S" break="no" n="45"/>bile 
+          nisi ratione alterius non est meritorium nec demeritorium nisi prae<lb ed="#S" break="no" n="46"/>cise 
+          respectu alterius sed actus exterior non est praecise inputabilis nisi praeci<lb ed="#S" break="no" n="47"/>se 
+          ratione actus vel actuum interiorum sicud argumentum est ad principale 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e384">
+          <lb ed="#S" n="48"/><pc type="pilcrow">¶</pc> prima <add place="margin-left">tunc</add> homo habens actum interiorem ferventiorem ad aliquid bene vel ma<lb ed="#S" break="no" n="49"/>le 
+          agendum minus meretur vel demeretur in casu quam habens remissi<lb ed="#S" break="no" n="50"/>orem 
+          actu <add place="margin-left">interiorem</add> intensiorem ceteris paribus nisi quod habens actus in<add place="margin-center">teriores</add> 
+          <lb ed="#S" n="51"/>remissiores habeat operationes exteriores maiores consequentia patet quia plus 
+          <lb ed="#S" n="52"/>potest ex una parte opus crescere alterius quam ex alia valeat in<lb ed="#S" break="no" n="53"/>tensio 
+          valoris interioris actus Et consequens videtur falsum esse quia tunc 
+          <lb ed="#S" n="54"/>non videretur quod vidua mittens duo minuta etc plus 
+          <lb ed="#S" n="55"/>meruisset omnibus aliis cuius oppositum voluit christus in e<lb ed="#S" break="no" n="56"/>vangleio
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e418">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="aw98wa-xg4410-Rd1e423">anselmus de conceptu virginis capitulo 4</ref> ubi dicit sic si de 
+          <lb ed="#S" n="57"/>actionibus voluntariis quae in iuste fiunt arguantur membra 
+          <lb ed="#S" n="58"/>et sensus quibus fiunt respondere possunt <unclear>dicens<!--corrected --></unclear> nos et potestatem quae 
+          <lb ed="#S" n="59"/>in nobis est subiectum voluntati ut ad imperium eius non possumus 
+          <lb ed="#S" n="60"/>non movere nos vel facere quae vult etc nec nos possumus 
+          <lb ed="#S" n="61"/>per nos illi resistere nec opera quae facit possunt per nos 
+          <lb ed="#S" n="62"/>non fieri domine quam nobis dedit <add place="margin-left">deus</add> nec debemus nec possumus 
+          <lb ed="#S" n="63"/>non obire Et sequitur quidquid faciunt membra sensus et opera totum 
+          <lb ed="#S" n="64"/>inputandum est voluntati Et ideo etiam consequenter dicit et <unclear>obiecit</unclear> quod <add place="margin-center">non</add> <unclear>punitur</unclear> 
+          <lb ed="#S" n="65"/>nisi voluntas haec secundum eum est veritas <del rend="underline">nec secundum eum est veritas habet tamen</del>
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>usus ut <add place="above-line">dicis ut</add> actiones quas facit iniusta voluntas vocemus peccata quia in 
+          <lb ed="#S" n="67"/>voluntate qua fiunt est peccatum sed nec hoc etiam proprie dicitur ut patet in praecedenti 
+          <lb ed="#S" n="68"/>quaestione vel deductione 4i capituli et ex principio 5 capitulo ibidem ubi vult quod 
+          <lb ed="#S" n="69"/>simpliciter nullus actus nec operatio nec interior nec exterior sit proprie peccatum et 
+          <lb ed="#S" n="70"/>per se ymmo nec aliqua essentia est proprie loquendo peccatum et medium suum est quia 
+          <lb ed="#S" n="71"/>talia esse possunt sine hic quod ipsa essent peccata igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e482">
+          <pc type="pilcrow">¶</pc> Istud concordat 
+          <lb ed="#S" n="72"/>cum descriptione peccati mortalis vel cum declaratione descriptionis quam 
+          <lb ed="#S" n="73"/>supra posui quaestione 6 et ultimo etiam de plano quod in voluntate est iniustitia 
+          <lb ed="#S" n="74"/>vel iustitia
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e494">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="aw98wa-xg4410-Rd1e499">de <add place="margin-right">poenitentia</add> distinctione prima </ref> sic cui voluntas remuneratur non opus
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e507">
+          <lb ed="#S" n="75"/><pc type="pilcrow">¶</pc> Item ad hanc conclusionem est hugo de sacramentis <unclear>expressissime</unclear> et diffu<lb ed="#S" break="no" n="76"/>se 
+          satis sicut prosequutus sive <ref xml:id="aw98wa-xg4410-Rd1e517">quaestione prima prologi articulo 3o dubio 3 super 
+          <lb ed="#S" n="77"/>primum</ref>
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e523">
+          <pc type="pilcrow">¶</pc> Item augustinus de bono coniugali dicit quod sicut non est inpar 
+          <lb ed="#S" n="78"/>meritum pative in petro qui passus est et in iohanne qui passus <add place="margin-right">non est sic</add>
+          <lb ed="#S" n="79"/>non est inpar meritum continentiae in iohanne qui nullas expertus 
+          <lb ed="#S" n="80"/>est <unclear>n<del rend="expunctuation">i</del><add place="above-line">u</add>patians</unclear> et in abraham qui finitos generavit
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e547">
+          <pc type="pilcrow">¶</pc> Item positis 
+          <lb ed="#S" n="81"/>duobus aequalibus et aeque iniuste volentibus conc<subst><add place="above-line">i</add><del>e</del></subst>dere et uno <unclear>oc<lb ed="#S" break="no" n="82"/>cidente</unclear> 
+          et alio credente se occidere sed illuso ceteris paribus isti 
+          <lb ed="#S" n="83"/>aequaliter peccant et tamen unus exterius facit <del rend="strikethrough">et tamen facit</del> homicidium alius 
+          <lb ed="#S" n="84"/>non igitur a simili usque alibi omnes actus interiores simul sumpti 
+          <lb ed="#S" n="85"/>in ratione meriti <add>vel <unclear>demeruit</unclear> essent</add> aque boni vel aeque perversi quantumcumque exteriora non essent 
+          <lb ed="#S" n="86"/>paria merita vel demerita paria forent
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e582">
+          <pc type="pilcrow">¶</pc> Item ibidem si cuid contin<lb ed="#S" break="no" n="87"/>git 
+          facultas concubendi cum coniuge aliena planum cum sit 
+          <lb ed="#S" n="88"/>eum cupere et si potestas detur esse futurum non minus rebus est quam si 
+          <lb ed="#S" n="89"/>in isto facto deprehenderetur Et est augustinus 3o de libero arbitrio ut etiam 
+          <lb ed="#S" n="90"/>ibi convocatur Et hoc intelligendum est ubi voluntas quatenus sua voluntas 
+          <lb ed="#S" n="91"/>mala crescerit per executionem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e599">
+          <pc type="pilcrow">¶</pc> Item gregorius in quadam omelia dicit 
+          <lb ed="#S" n="92"/>ponderare debet non censum sed affectum 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e607">
+          <pc type="pilcrow">¶</pc> Item crisostomos in homelia 9a in imper<lb ed="#S" break="no" n="93"/>fecto 
+          4o dicit quod omnia testimonia <add place="margin-right">sunt</add> voluntatis voluntas autem est quae remuneratur 
+          <lb ed="#S" n="94"/>probatio vel condempnatur pro malo
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e621">
+          <pc type="pilcrow">¶</pc> Sed contra hoc potest argui per argumenta 
+          <lb ed="#S" n="95"/><name xml:id="aw98wa-xg4410-Nd1e627">scoti</name> in quolibet suo 13 articulo 3o probat per auctoritatem augustinum 13 de 
+          <lb ed="#S" n="96"/>trinitate capitulo 5 mala voluntas hic solum modo quisque miser efficitur potestate 
+          <lb ed="#S" n="97"/>qua desiderium male voluntatis inpletur perfectio et sic male vocando <unclear>semper</unclear>
+          <lb ed="#S" n="98"/>miser erat minus tamen esset si nihil eorum quae praeperam voluisset habere 
+          <lb ed="#S" n="99"/>potuisset haec iste
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e641">
+          <pc type="pilcrow">¶</pc> Sed iste ut arguit <name xml:id="aw98wa-xg4410-Nd1e646">scotus</name> non potest intelligi de 
+          <lb ed="#S" n="100"/>miseria poenae quia desiderans et non potens habere quod desiderat 
+          <lb ed="#S" n="101"/>plus habet de poena quam iste cuius desiderium inpletur ergo intelligitur 
+          <lb ed="#S" n="102"/>de miseria culpae quae praefuit in actu interiori igitur
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e655">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#S" n="103"/>argui propositione sua per rationem sic et primo supponit quod bonitas 
+          <lb ed="#S" n="104"/>moralis actus est integritas quem secundum rectam rationem operantis dic<lb ed="#S" break="no" n="105"/>tantur 
+          debere convenire ipsi alicui tunc sic vera est alia et alia in<lb ed="#S" break="no" n="106"/>tegritas 
+          ibi est alia et alia moralis bonitas sed alia est inte<lb ed="#S" break="no" n="107"/>gritas 
+          eorum quae per rectam rationem seu per dictamen rationis 
+          <lb ed="#S" n="108"/>recte debent convenire actui interiori et eorum quae actui exteriori 
+          <lb ed="#S" n="109"/>igitur alia bonitas moralis et per consequens alia in malis ma<lb ed="#S" break="no" n="110"/>litia 
+          moralis et hic sive privative tantum quia alia carentia e<lb ed="#S" break="no" n="111"/>orum 
+          quae deberet convenire sive contrarie quia alia disconvenientia repung<lb ed="#S" break="no" n="112"/>nans 
+          illis quae debent convenire igitur etc probatio minoris quia recta ratio non 
+          <lb ed="#S" n="113"/>dictant debere convenire actui quod inpossibile est sibi convenire Nunc a actui 
+          <lb ed="#S" n="114"/>exteriori inpossibile est convenire idem quod actui interiori convenit communiter vel 
+          <lb ed="#S" n="115"/>convenire potest et hoc intelligendo de utroque actu secundum <del rend="expunctuation">eum</del> suum esse 
+          <lb ed="#S" n="116"/>reale et de eo quod sibi convenit secundum tale esse licet actui exteriori 
+          <lb ed="#S" n="117"/>quatenus volitus est aliquo modo possit convenire denominatione quadam 
+          <lb ed="#S" n="118"/>idem quod convenit actui interiori
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e699">
+          <pc type="pilcrow">¶</pc> 3o sic potest argui actus exterior 
+          vet actus interior sunt duae entitates igitur duae bonitates 
+          <lb ed="#S" n="119"/>cum bonitas non distinguatur ab eo quod bonum primo id est cum boni<lb ed="#S" break="no" n="120"/>tas 
+          actus non distinguatur ab actu cuius est bonitas non 
+          <lb ed="#S" n="121"/>plus quam veritas a vero sine appositione vel signo alio quod primo 
+          <lb ed="#S" n="122"/>dicitur veritas distincte igitur sunt bonitates morales vel malitiae 
+          <lb ed="#S" n="123"/>actus interioris et exterioris <pc type="punctus"/> sed duae <del rend="underline">bonitas</del> <unclear>enim</unclear> bonitates 
+          <lb ed="#S" n="124"/>morales sunt meliores quam una istarum solum et sic de 
+          <lb ed="#S" n="125"/>amlitiis ergo meliores sunt actus interior et exterior quam actus interi<lb ed="#S" break="no" n="126"/>or 
+          solum vel exterior solum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e730">
+          <pc type="pilcrow">¶</pc> et hoc est etiam quod tangit <name xml:id="aw98wa-xg4410-Nd1e735">scotus</name>
+          <lb ed="#S" n="127"/>in deductione praecedentis argumenti potentiae enim operative secundum eum actus 
+          <lb ed="#S" n="128"/>interioris et exterioris non sunt capaces actuum eiusdem ratio<lb ed="#S" break="no" n="129"/>nis 
+          igitur alterius rationis est actus exterior ab actu interi<lb ed="#S" break="no" n="130"/>ori 
+          et econverso et per consequens bonitas huius distinguitur a bonitate illius 
+          <lb ed="#S" n="131"/>sive bonitas eius sic actus sive integritas eius de qua tac<lb ed="#S" break="no" n="132"/>tum 
+          est in 2o argumento
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e751">
+          <pc type="pilcrow">¶</pc> Item tunc frustra viderentur poni actus 
+          <pb ed="#S" n="231-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>exteriores quod falsum est quia per solos interiores nec subveniretur pau<lb ed="#S" break="no" n="2"/>peri 
+          nec frustra fuit christus mortuus et passus et consequentia patet quia ex 
+          <lb ed="#S" n="3"/>quo per exterioris nec meritum nec demeritum crescit secundum hanc viam igitur 
+          <lb ed="#S" n="4"/>etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e771">
+          <pc type="pilcrow">¶</pc> Item christi lanceatio erat secundum sanctos nobis meritoria et ibi 
+          <lb ed="#S" n="5"/>secundum sanctos sumpserunt sacramenta efficaciam puta baptismus ex aqua et 
+          <lb ed="#S" n="6"/>eukaristia ex anguine profluxerunt de lacere salvatoris <unclear>dormien<lb ed="#S" break="no" n="7"/>tis</unclear> 
+          et tamen ibi tunc nulla fuit volitio interior <add place="margin-left">meritoria</add> quia nec tunc fuit 
+          <lb ed="#S" n="8"/>anima salvatoris in statu merendi nec ibi etiam sicud fit in <add place="margin-left">accidentibus</add> ali<lb ed="#S" break="no" n="9"/>is 
+          <add place="margin-left">communiter</add> actus interior interior <unclear>intentur</unclear> vel melioratur ex praesentia et positione actus 
+          <lb ed="#S" n="10"/>exterioris igitur quidquid ibi accrescebat meriti erat per additionem actus 
+          <lb ed="#S" n="11"/>exterioris ad actus qui praefuerunt interiores interiores
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e807">
+          <pc type="pilcrow">¶</pc> praeterea omissio actus in<lb ed="#S" break="no" n="12"/>terioris 
+          et exterioris simul gravior est quam alterius tantum ergo et 
+          <lb ed="#S" n="13"/>positio amborum meliorum simul quam interioris tantum <pc type="punctus"/> consequentia patet per 
+          <lb ed="#S" n="14"/>istam consequentiam topicam illud est melius cuius oppositum est peius 
+          <lb ed="#S" n="15"/>Et patet etiam per exemplum quia enim dilectio dei eset volitio optima ideo 
+          <lb ed="#S" n="16"/>eius odium est volitio pessima Et assumptum probo <unclear>exemplo</unclear> peius 
+          <lb ed="#S" n="17"/>est enim pauperem in necessitate positum nec interius diligere nec ex<lb ed="#S" break="no" n="18"/>terius 
+          subvenire quam eum non diligere et tamen sibi subvenire 
+          <lb ed="#S" n="19"/>peius est enim nec benefacere exterius nec benefacere velle quam alterum 
+          solum igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e834">
+          <pc type="pilcrow">¶</pc> praeterea duobus aequalibus in culpa et poena sibi debi<lb ed="#S" break="no" n="20"/>ta 
+          infligi in purgatorio et dum viveret aequaliter disponentibus de 
+          <lb ed="#S" n="21"/>bonis temporalibus pro animabus suis tribuendum et sic morientibus si pro 
+          <lb ed="#S" n="22"/>uno fierent <unclear>clie</unclear> et procurentur orationes et missae de bonis eius 
+          <lb ed="#S" n="23"/>relictis per fideles exequtores et pro alio non prius citius 
+          <lb ed="#S" n="24"/>liberabitur quam 2us alioquin superfluerent suffragia pro mortuis et 
+          <lb ed="#S" n="25"/>tamen per omnes suos actus interiores aequaliter liberari meruerunt 
+          <lb ed="#S" n="26"/>igitur ista opera exteriora addita adducit accelerationem libera<lb ed="#S" break="no" n="27"/>tionis 
+          a poena et per consequens faciunt ad augmentum gloriae saltem ex<lb ed="#S" break="no" n="28"/>tensive 
+          et secundum durationem a parte ante
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e861">
+          <pc type="pilcrow">¶</pc> praeterea mentiri est aliquod gra<lb ed="#S" break="no" n="29"/>ve 
+          peccatum ex hoc quod mendacium tale est sed ista gravitas non est 
+          <lb ed="#S" n="30"/>tantum ex actu interiori sed exteriori et interiori simul quia mendacium 
+          <lb ed="#S" n="31"/>non potest esse sine actu exteriori cum sit falsa significatio voluntatis cum inten<lb ed="#S" break="no" n="32"/>tione 
+          fallendi ergo ex actu exteriori aggravatur peccatum super actum in<lb ed="#S" break="no" n="33"/>teriorem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e878">
+          <pc type="pilcrow">¶</pc> Item secundum beatum gregorium moralium 39 hic inquit leviathan 
+          <lb ed="#S" n="34"/>et vasa eius habere crebro proprium solent quod ad iniquitatis suae 
+          <lb ed="#S" n="35"/>tumulum ea quae nequiter appetunt explere nequius possunt 
+          <lb ed="#S" n="36"/>nam <del rend="expunctuation">con</del> fortasse infirmantur<del rend="expunctuation">is</del> electi atque in desideriis illicitis 
+          <lb ed="#S" n="37"/><del rend="underline">et nunc numerus</del> in hoc<del rend="expunctuation">unc</del> plerumque divini <unclear>nimis</unclear> manu<add place="margin-right">ruunt</add> reti<lb ed="#S" break="no" n="38"/>nentur 
+          quod volutas miseriae nullos effectus invenerunt Ex hoc 
+          <lb ed="#S" n="39"/>argue ad propositum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e914">
+          <pc type="pilcrow">¶</pc> Item cassiodorus in libro collationum quaedam enim vi<lb ed="#S" break="no" n="40"/>cia 
+          consumari non possunt sine actione carnali ut <unclear>casterargia</unclear>
+          <lb ed="#S" n="41"/>et fornicatio quaedam autem possunt consumari sine nulla corporis actione ut 
+          <lb ed="#S" n="42"/>superbia haec ille
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e929">
+          <pc type="pilcrow">¶</pc> praeterea gravius est delictum quo gravior incurritur poena 
+          <lb ed="#S" n="43"/>unde augustinus de unico baptismo libro primo quis dubitat hic esse <unclear>stelatius</unclear>
+          <lb ed="#S" n="44"/>commissus quod est gravius <unclear>uniditatum</unclear> secundum gravior poena datur pro actu in<lb ed="#S" break="no" n="45"/>teriori 
+          et exteriori simul quam pro solo interiori nam pro volente sola 
+          <lb ed="#S" n="46"/>occidendi licet intensa non meretur <unclear>irratas</unclear> nec pro <unclear>volente</unclear> <unclear>verberan<lb ed="#S" break="no" n="47"/>di</unclear> 
+          clericum excommuncatio infligitur et tamen si actus exterior meritori 
+          <lb ed="#S" n="48"/>iungatur incurruntur istae poenae
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e959">
+          <pc type="pilcrow">¶</pc> Praeterea quantumcumque aliquis in principio missae 
+          <lb ed="#S" n="49"/>vellet consecrare et verba sacralia proferre nisi<del rend="expunctuation">on</del> proferat ista 
+          <lb ed="#S" n="50"/>non consecrabit et si unus alius uniformiter vel remissius vellet 
+          <lb ed="#S" n="51"/>quam iste qui tamen etiam esset distractus verba debita proferret con<lb ed="#S" break="no" n="52"/>scecraret 
+          plus igitur videtur velle proferre verba et proferre quam velle tantum 
+          <lb ed="#S" n="53"/>ista proferre <unclear>aliis</unclear> omnibus existentibus periret igitur similiter in proposito
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e981">
+          <pc type="pilcrow">¶</pc> Praeterea 
+          <lb ed="#S" n="54"/>vadens ex proposito ad sanctum iacobum et iter suum continuans 
+          <lb ed="#S" n="55"/>secundum volitum propositum per distractiones varias interumpens aut 
+          <lb ed="#S" n="56"/>meretur aliquid per ambulationem saum dum totaliter distrahitur et habetur inten<lb ed="#S" break="no" n="57"/>tum 
+          quia illud quod ibi additur ex merito non provenit ex novo 
+          <lb ed="#S" n="58"/>merito per actus interioris <pc type="punctus"/> si non igitur talis per causatum et talem labo<lb ed="#S" break="no" n="59"/>rem 
+          <lb ed="#S" n="60"/>quem agit nihil meretur quod videtur inconveniens
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1004">
+          <pc type="pilcrow">¶</pc> praeterea non minus 
+          <lb ed="#S" n="61"/>ut videtur actus exterior additus interiori absolute meritorio 
+          <lb ed="#S" n="62"/>addit meritum quam exterior additus interiori conditionaliter meri<lb ed="#S" break="no" n="63"/>torio 
+          sed in 2o casu crescit meritum per actum exteriorem utpo<lb ed="#S" break="no" n="64"/>te 
+          si quis meretur ut quicumque devoto <unclear>incarnet</unclear> ecclesiam 
+          <lb ed="#S" n="65"/>ibi exaudiretur sicut <unclear>salutem</unclear> et multi sancti et beata <unclear>katerina</unclear>
+          <lb ed="#S" n="66"/><add place="margin-left">simila impe?cuere</add> vel si christus orasset exauditus fuisset quod si corpus suum mortuum 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="67"/>lancearetur tale bonum <add place="above-line">vel tale concederet</add> fidelibus suis pari ratione actus exterior 
+          <lb ed="#S" n="68"/>additus interioribus absolute meritorius id est non pendentibus ex tali<lb ed="#S" break="no" n="69"/>bus 
+          conditionibus addit meritum igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1043">
+          <pc type="pilcrow">¶</pc> ad primum illorum dicendum est quod 
+          <lb ed="#S" n="70"/>verum est quod ista dicit ibi augustinus et iterum velle ibi inquit quod non decet 
+          <lb ed="#S" n="71"/>miserum <del rend="expunctuation">esse</del> <add place="in-line">est</add> nec causa miserum <add place="margin-right">est</add> ut adipisci velle quod non oporte<lb ed="#S" break="no" n="72"/>at 
+          <pc type="punctus"/> sed dico quod istud non obstat praedictis <pc type="punctus"/> Iste enim qui ad<lb ed="#S" break="no" n="73"/>ipiscitur 
+          quae male voluit habet ut communiter actus interiores ac<lb ed="#S" break="no" n="74"/>ceptandi 
+          vel complacendi <add place="margin-right">alios</add> <del rend="underline">altiores</del> quam prius vel priores et inten<lb ed="#S" break="no" n="75"/>siores 
+          vel similes replicantes libere et hic forte efficacio<lb ed="#S" break="no" n="76"/>res 
+          quam prius Et per istos interiores noviter causatos vel 
+          <lb ed="#S" n="77"/>libere continuatos augeretur tali demeritum suum non aut per aliud 
+          <lb ed="#S" n="78"/>additum ex praecisa additione actus exterioris nisi forte quatenus 
+          <lb ed="#S" n="79"/>ex positione actus exterioris potest habere et habet libere quosdam 
+          <lb ed="#S" n="80"/>actus malos interioris experimentales quos sine exterioribus nulla 
+          <lb ed="#S" n="81"/>tenus naturaliter habere potuisset
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1095">
+          <pc type="pilcrow">¶</pc> alia etiam ratio est quare adipiscens 
+          <lb ed="#S" n="82"/>est miserior etiam miseria peccati quam tangit <ref xml:id="aw98wa-xg4410-Rd1e1102">gregorius 34 omelia moralium</ref> 
+          <lb ed="#S" n="83"/>quasi in principio ubi immediate post auctoritatem <ref xml:id="aw98wa-xg4410-Rd1e1106">superius allegetam in 9o articulo</ref> 
+          <lb ed="#S" n="84"/>subditur Cumque eorum voci<del rend="expunctuation">u</del>s valida contrarietas nascitur <unclear>plurium</unclear> ex ipsa 
+          <lb ed="#S" n="85"/><add place="margin-center">im</add>possibiltate corriguntur sed inpossibilitas adipiscendi est <unclear>occisio</unclear> immi<lb ed="#S" break="no" n="86"/>tatandi 
+          malam voluntatem in bonam sicut etiam ibidem sequitur igitur inpossi<lb ed="#S" break="no" n="87"/>bilitas 
+          adipiscendi esset occisio in malitia perserverandi et per 
+          <lb ed="#S" n="88"/>consequens miseriae augmentandae
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1131">
+          <pc type="pilcrow">¶</pc> alia causa est quia sicud dicit glossa <unclear>flee</unclear> 
+          <lb ed="#S" n="89"/>4o Ex partis vitiorum illecebris <add place="margin-right">difficilius</add> caremus quam incognitis mino<lb ed="#S" break="no" n="90"/>risque 
+          laboris est incognitam <unclear>cranis</unclear> cavere volumptatem quam re<lb ed="#S" break="no" n="91"/>mittere 
+          cognitam <pc type="punctus"/> haec ille
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1153">
+          <pc type="pilcrow">¶</pc> 4a causa potest reddi ex actibus enim ex<lb ed="#S" break="no" n="92"/>terioribus 
+          habitualiter appetitus sensitivis et vires animae ad simile aut habi<lb ed="#S" break="no" n="93"/>tuari 
+          miseria est ad malum <unclear>semper</unclear> assumptum patet per <name xml:id="aw98wa-xg4410-Nd1e1164">ysiodorum</name> 
+          <lb ed="#S" n="94"/>libro de numero ubi dicit quod ex suggestione parva cognitio erumpit 
+          <lb ed="#S" n="95"/>parva autem cognitio delectionem parit delectio consensum confessus actionem 
+          <lb ed="#S" n="96"/>actio consuetudinem consuetudo necessitatem
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1174">
+          <pc type="pilcrow">¶</pc> Et istud confirmatur et etiam ex 
+          <lb ed="#S" n="97"/>poni potest <add place="margin-right">per illud</add> quod dicit <ref xml:id="aw98wa-xg4410-Rd1e1184">augustinus 8 <unclear>confessionum</unclear></ref> bene ante medium scilicet capitulo 
+          <lb ed="#S" n="98"/>5 Ex voluntate inquid perversa facta est libuero et dum servitur 
+          <lb ed="#S" n="99"/><unclear>libidim</unclear> facta est consuetudo et dum <unclear>consuetudini</unclear> non resistitur facta est 
+          <lb ed="#S" n="100"/>necessitas
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1199">
+          <pc type="pilcrow">¶</pc> Sed non est propter praedictam dicendum quod actus exteriores addunt 
+          <lb ed="#S" n="101"/>meritum vel demeritum super omnes interiores ita quod propter utrosque 
+          <lb ed="#S" n="102"/>simul sic homo maiori poena dignus quam semper omnes interiores 
+          <lb ed="#S" n="103"/>solum sed bene quia posteriores isto modo addunt super praecedentes 
+          <lb ed="#S" n="104"/>aliquos
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1213">
+          <pc type="pilcrow">¶</pc> ad 2m quod ista descriptio non est universaliter et adaequate vera 
+          <lb ed="#S" n="105"/>alias essent simul in anima actus moraliter boni infiniti specie distincti 
+          <lb ed="#S" n="106"/>vel volitio ista non esse mortaliter bona qua <add place="margin-right">ultimo</add> <del rend="expunctuation">nullo</del> volo dare 
+          <lb ed="#S" n="107"/><unclear>clericam</unclear> indigenti propter deum loco et tempore optimo et sic de 
+          <lb ed="#S" n="108"/>aliis circumstantiis dictatis debere tali datione <unclear>clerice</unclear> convenire cum 
+          <lb ed="#S" n="109"/>ista volitio non sic cognita nec volita nec salte non o<lb ed="#S" break="no" n="110"/>porteat 
+          eam cogitari verum est autem quod ad completam <add place="margin-right">bonitatem</add> et mora<lb ed="#S" break="no" n="111"/>lem 
+          actus oportet ista integre haberi quae secundum rectam rationem dictan<lb ed="#S" break="no" n="112"/>tur 
+          requiri vel coexigit sed n<subst><add>ec</add><del>ihil</del></subst> oportet illam collationem esse bo<lb ed="#S" break="no" n="113"/>nitatem 
+          <add place="margin-right">illius</add> actus nec eetiam sola ista sufficiant quia ipsum etiam dicta<lb ed="#S" break="no" n="114"/>men 
+          et conformis etiam sequens electio requirunt ad hoc ut actus ex<lb ed="#S" break="no" n="115"/>equutionis 
+          sit moraliter bonus et tamen ista non debet dictare sibi 
+          <lb ed="#S" n="116"/>debere convenire nec etiam conformiter eligi in volitione execcutio<lb ed="#S" break="no" n="117"/>nis 
+          dicante quia aliter oporteret haberi ibi dictamina actualia 
+          <lb ed="#S" n="118"/>et conformes electiones specifice distinctas actualiter infinitas 
+          <lb ed="#S" n="119"/>si<add place="above-line">c</add> igitur patet de maiore et minore quia verae sunt sed non ad men<lb ed="#S" break="no" n="120"/>tem 
+          arguentis Est enim alia et alia integritas hic et ibi sed non 
+          <lb ed="#S" n="121"/>totaliter alia quin tota integritas requisita ab bonitatem actus interioris 
+          <lb ed="#S" n="122"/>est de integritate requisita ad bonitatem actus exterioris et ideo 
+          <lb ed="#S" n="123"/>non econtra
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1283">
+          <pc type="pilcrow">¶</pc> Et ut planius dicam ad <unclear>poenitentem</unclear> dico quod ipse 
+          <lb ed="#S" n="124"/>actus interior bonus vel mali simul tales est totalis et totaliter 
+          <lb ed="#S" n="125"/>bonitas actus exterioris boni moralis essentialis utrique enim bonus 
+          <lb ed="#S" n="126"/>est eadem <unclear>prioritate</unclear> sicut causa <unclear>urma</unclear> quam animal est sanum eadem 
+          <lb ed="#S" n="127"/>sanitate et causa homo quam opus suum habuere factum humana 
+          <lb ed="#S" n="128"/>sunt eadem humanitate vel <unclear>probitate</unclear> sicut dictum est prius
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1309">
+          <pc type="pilcrow">¶</pc> actus 
+          <lb ed="#S" n="129"/>enim exterior non dicitur bonus moraliter vel meritorius nisi denominative 
+          <lb ed="#S" n="130"/>ab actu interiori meritorio verum est aut quod alia est entitas 
+          <lb ed="#S" n="131"/>et etiam naturalis bonitas illus actus et illius sed hoc non est ad 
+          <lb ed="#S" n="132"/>propositum nec aliud probatur hiis visis quae iam dixi
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1323">
+          <pc type="pilcrow">¶</pc> per idem patet 
+          <lb ed="#S" n="133"/>ad 3m verum est autem quod ibi sunt distincte bonitates naturales non 
+          <lb ed="#S" n="134"/>morales intrinsece actus interioris et exterioris dicendum quod sua 
+          <pb ed="#S" n="231-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>bonitas ab eo distinguitur ut visum est quia eius moralis boni<lb ed="#S" break="no" n="2"/>tas 
+          ut visum est actus interior ad unum modum exprimendi 
+          <lb ed="#S" n="3"/>veritatem hic enim intelligendo cum hugo dicere quod non distincta poena 
+          <lb ed="#S" n="4"/>punietur actus exterior a deo in futuro a poena qua puniun<lb ed="#S" break="no" n="5"/>tur 
+          actus exterioris simul sumpti
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1348">
+          <pc type="pilcrow">¶</pc> et per idem dicendum est ad confirmationem 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1354">
+          <lb ed="#S" n="6"/><pc type="pilcrow">¶</pc> ad 4m patet ex responsione ad primum quod actus exteriores non sunt frus<lb ed="#S" break="no" n="7"/>tra 
+          quo ad merentem quo ad aliquos verum est quod actus exterioris sunt ne<lb ed="#S" break="no" n="8"/>cessarii 
+          sicud elective <unclear>datio</unclear> quo ad relevationem indigentiae 
+          <lb ed="#S" n="9"/>pauperitatis pauperis et christi passio et mors ad excitanda cor<lb ed="#S" break="no" n="10"/>da 
+          nostra ad eius dilectionem et huius sed hic non est ad propositum quia 
+          <lb ed="#S" n="11"/>hic inquiritur utrum opera exteriora addat meritum ipsi operanti 
+          <lb ed="#S" n="12"/>super omnis actus interioris quo ad gradum ultime beatitudinis 
+          <lb ed="#S" n="13"/>consequendae
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1378">
+          <pc type="pilcrow">¶</pc> ad 5m potest dici quod ista lanceario non addit meritum 
+          <lb ed="#S" n="14"/>respectu aeterne beatitudinis acquirendae et consequendae ultra praemium bonis ac<lb ed="#S" break="no" n="15"/>tibus 
+          animae christi debitum verum est tamen quod illam potuit deus accepta<lb ed="#S" break="no" n="16"/>re 
+          ad quacumque bona sibi <sic>plecebat</sic> meruit etiam multa ibi secundum <unclear>in<lb ed="#S" break="no" n="17"/>nocescentiam</unclear>
+          meruit etiam nobis <unclear>veritatem</unclear> sacramentorum quorumdam tamquam 
+          <lb ed="#S" n="18"/>conditio qua forte meruerat cchristus vivens eadem virtutem ita valet 
+          <lb ed="#S" n="19"/>quod aliqua meruerat nobis forsan christus conditionaliter si lancearetur 
+          non quod lanceario corporis mortui esset pars meriti sed ex ista 
+          <lb ed="#S" n="20"/>pendebat <pc type="punctus"/> aut praecedens aliqua conditionalis volitio esset meri<lb ed="#S" break="no" n="21"/>tum 
+          talium habendorum <pc type="punctus"/> vel non meruit etiam ibi erga christum dulcetudinem 
+          <lb ed="#S" n="22"/>humanae devotionis in missione illius lanceae in latus et cordis 
+          <lb ed="#S" n="23"/>sui persequentis et similia sed haec nihil sunt contra dicta
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1417">
+          <pc type="pilcrow">¶</pc> ad 6m dicendum quod o<lb ed="#S" break="no" n="24"/>missio 
+          interioris et exterioris actus quae habetur habito exteriori 
+          <lb ed="#S" n="25"/>non esset peior in ratione demeriti quam interioris tantum dum posset 
+          <lb ed="#S" n="26"/>interior aequaliter haberi sive exteriori sicut cum eo <pc type="punctus"/> probatio aut assumpti di<lb ed="#S" break="no" n="27"/>vertit 
+          a proposito quia nullus pauperi meritorie vel libere subveniret 
+          <lb ed="#S" n="28"/>nisi velit sibi subvenire etiam sive diligat eum sive non velle 
+          <lb ed="#S" n="29"/>aut pauperi subvenire est iste actus interior qui est ad propositum et 
+          <lb ed="#S" n="30"/>est quo posito et efficaci non est in potestate sic voluntatis quin 
+          <lb ed="#S" n="31"/>subveniat si possit <pc type="punctus"/> et dicendum est quod ibi exterior subventio 
+          <lb ed="#S" n="32"/>non addit meritum dignum praecisa additione praemium super actus in<lb ed="#S" break="no" n="33"/>terioires 
+          subvenientes forte in subveniendo intentur actus eius interi<lb ed="#S" break="no" n="34"/>or 
+          bonus vel habetur novus interior per quem crescit meritum talis 
+          <lb ed="#S" n="35"/>personae
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1454">
+          <pc type="pilcrow">¶</pc> Et si dicas quod tunc dives posset intensius et 
+          <lb ed="#S" n="36"/>plus mereri ceteris paribus volendo subvenire pauperi et exe<lb ed="#S" break="no" n="37"/>quendo 
+          in qua exequutione crescit eius meritum quam pauper reli<lb ed="#S" break="no" n="38"/>giosus 
+          qui non vult eum <add place="margin-left">iuvare</add> <subst><add>nec</add> <del>ut</del></subst> complaceat sibi ipsi ex<lb ed="#S" break="no" n="39"/>perientia 
+          iuvando sicut dives
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1477">
+          <pc type="pilcrow">¶</pc> Concedo quod actus a<lb ed="#S" break="no" n="40"/>liquos 
+          erga pauperem subveniendo habet ceteris paribus melio<lb ed="#S" break="no" n="41"/>res 
+          et magis intensiores in merendo dives quam pauper 
+          <lb ed="#S" n="42"/>sed <unclear>compassionem</unclear> ita meritoriam potest habere pauper ibi sicud dives et etiam actus 
+          <lb ed="#S" n="43"/>alios <unclear>recompensatosus</unclear> actuum bonorum divitis utpote 
+          <lb ed="#S" n="44"/>actum volendi peccare subventionem meditand<subst><add>i</add><del>o</del></subst> quam pro 
+          <lb ed="#S" n="45"/>se facere  non potest et similes et actum acceptandi suam paupertatem 
+          <lb ed="#S" n="46"/>voluntariam propter deum quae obstat ne exequi valeat illud quod 
+          <lb ed="#S" n="47"/>dives Credo tamen quod actus quo quis vellet subvenire 
+          <lb ed="#S" n="48"/>si posset non sit ita bonus sicut velle iuvare efficaciter ceteris 
+          <lb ed="#S" n="49"/>paribus ex quo potest quia primum est facilius 2o in tantum quod voluntarie 
+          <lb ed="#S" n="50"/>pauper qui non invenit obstaculum contionaliter sic volend<subst><add place="above-line">i</add><del rend="expunctuation">o</del></subst> 
+          <lb ed="#S" n="51"/>si forte dives esset vel haberet nihil daret quia res dandas 
+          <lb ed="#S" n="52"/>forte plus diligeret quam non
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1526">
+          <pc type="pilcrow">¶</pc> ad 7m concedo quod unus citius libera 
+          <lb ed="#S" n="53"/>videtur quam alius in isto casu quia ultra hoc quod utrique meruit quo 
+          <lb ed="#S" n="54"/>ad praemium aeterne beatitudinis et hoc absolute meruit vel conditio<lb ed="#S" break="no" n="55"/>naliter 
+          quia si talia suffragia fierent pro eo valerent sibi ad ex<lb ed="#S" break="no" n="56"/>peditionem 
+          a poena et ad beatitudinem et per consequens acceleranda temporaliter 
+          <lb ed="#S" n="57"/>et ista suffragia tunc sunt positio conditionis sub qua liberari 
+          <lb ed="#S" n="58"/>meruit et ideo liberatur non sit alius quia conditio sub qua liberatur 
+          <lb ed="#S" n="59"/>voluit vel meruit respectu istius non ponitur et etiam quod in isto casu ad 
+          <lb ed="#S" n="60"/>dicuntur actus interiores boni et orationes et <unclear>elie<!-- change earlier unclear instances of clericae--></unclear> et oblationes 
+          <lb ed="#S" n="61"/>temporales vel sacramentales quas non nego addere meritum boni 
+          <lb ed="#S" n="62"/>temporalis et iuvare ad praemium aeternum mediantibus adiutoriis 
+          <lb ed="#S" n="63"/>aliorum et devotionibus amicorum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1560">
+          <pc type="pilcrow">¶</pc> ad 8m dico quod licet in actu 
+          <lb ed="#S" n="64"/>interiori non sit mendacium est tamen electio et volitio mendacii 
+          <lb ed="#S" n="65"/>et acceptatio et libera complacentia in mendacio <pc type="punctus"/> quae sunt ista demeri<lb ed="#S" break="no" n="66"/>toria 
+          sicut ipsa cum appositione mendacii exterioris additi 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1574">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="67"/>9 dicendum sicut ad primum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1582">
+          <pc type="pilcrow">¶</pc> ad christum <add place="below-line">similiter sicud ad primum</add>
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1592">
+          <add><pc type="pilcrow">¶</pc> ad 11m</add> dicendum quod verum est de poena 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="68"/>taxata a deo sed de humana non semper est hic verum quia non suspendit 
+          <lb ed="#S" n="69"/>hominem pro adulterio vel pro incestu et tamen pro furto quis suspen<lb ed="#S" break="no" n="70"/>ditur 
+          et tamen praecedentia graviora sunt crimina apud deum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1608">
+          <pc type="pilcrow">¶</pc> ad 12 dicendum 
+          <lb ed="#S" n="71"/>quod consecratio sacramentalis non fit virtute meriti operantis cum vere 
+          <lb ed="#S" n="72"/>consecret qui peccat mortaliter consecrando sed ratione operis operati <add place="margin-right">virtute</add> fe<lb ed="#S" break="no" n="73"/>deris 
+          <unclear>inici</unclear> a deo cum ecclesia militante
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1626">
+          <pc type="pilcrow">¶</pc> ad 13m potest concedi quod infertur 
+          <lb ed="#S" n="74"/>nisi sequatur aliquis actus complacentiae et approbationis laboris talis sui 
+          <lb ed="#S" n="75"/>corporis et compunctionis carnis suae assumpti voluntarie quales forte 
+          <lb ed="#S" n="76"/>actus interiores bonos non haberet sic in copia non comple<lb ed="#S" break="no" n="77"/>to 
+          itinere suo
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1640">
+          <pc type="pilcrow">¶</pc> ad 14 dicendum quod minor non est vera non enim ibi 
+          <lb ed="#S" n="78"/>crescit meritum per potentiam conditionis immo actus praecedens non esset 
+          <lb ed="#S" n="79"/>istius quod datur meritorius posita conditione nisi quod poneretur cum nullus 
+          <lb ed="#S" n="80"/>conditionaliter tantum meretur praemium aeternum beatitudinis sed absolute sicut 
+          <lb ed="#S" n="81"/>quis mereatur actu conditionali sive actu absoluto
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1654">
+          <pc type="pilcrow">¶</pc> ad argumentum principale 
+          <lb ed="#S" n="82"/>negandum est assumptum de actu interiori qui necessitat ad exterio<lb ed="#S" break="no" n="83"/>rem 
+          fit et con<add place="above-line">com</add>itatur ipsum qui si posset esse talis et tantus sine exteriori 
+          <lb ed="#S" n="84"/>qualis cum eo ita graviter peccaret talis sine actu exteriori sicud cum 
+          <lb ed="#S" n="85"/>eo <pc type="punctus"/> Et cum probatur assumptum dicendum quod non sequitur propter hic quod frustra dentur 
+          <lb ed="#S" n="86"/>alia praecepta de interioribus actibus cavendum et alia de ex<lb ed="#S" break="no" n="87"/>terioribus 
+          quia non solum peccatur voluntate quae perducta est ad actum ex<lb ed="#S" break="no" n="88"/>teriorem 
+          et compellit ad ipsum si assit peccans sicut in concupiscentia qua 
+          <lb ed="#S" n="89"/>deliberate concupiscitur res prohabita vel pro nunc <add place="margin-right">vel pro tunc</add> Sed inpedimentum 
+          <lb ed="#S" n="90"/>occurrit executionis vel nunc pro nunc Sed alias quae nec dum 
+          <lb ed="#S" n="91"/>perduci<add place="above-line">tur</add> <add place="margin-right">ad executionem</add> quia igitur velle saepe praecedit extra operari quod si perdura<lb ed="#S" break="no" n="92"/>ret 
+          et assit peccans perducit ad effectum concupiscentiam ne credere 
+          <lb ed="#S" n="93"/>posset aliquis huius concupiscentiam sine executione esse criminosam cum tamen ipsa 
+          <lb ed="#S" n="94"/>fit quaedam volitio et pondus <add place="margin-right">ad opus</add> nisi etiam concupiscentia vel volitio prior 
+          <lb ed="#S" n="95"/>fiat intenta plus prohiberetur ideo tamquam radix mala fructus 
+          <lb ed="#S" n="96"/>peioris et magis prohiberetur concupiscentia a libidine et concupiscentia bonorum 
+          <lb ed="#S" n="97"/>temporalium proximi quia ad illas concupiscentias est homo ex natura lapsa pronior 
+          <lb ed="#S" n="98"/>quam ad alias De concupiscentia iam dicta patet per <ref xml:id="aw98wa-xg4410-Rd1e1714">apostolum ad Romanos 
+          <lb ed="#S" n="99"/>vii</ref> <quote xml:id="aw98wa-xg4410-Qd1e1719">peccatum inquit non cognovi nisi per legem</quote> et loquitur de concupiscentia 
+          <lb ed="#S" n="100"/>non <del rend="strikethrough">pro</del> perducta ad actum in quibusdam secus est
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1727">
+          <pc type="pilcrow">¶</pc> Sed dices 
+          <lb ed="#S" n="101"/>tu fundas te in hoc quod si efficienter volo et possum facio vel 
+          <lb ed="#S" n="102"/>statim faciam et hoc non sequitur quia secundum anselmum de causa dyaboli capitulo 7 libro 3
+          <lb ed="#S" n="103"/>Ista consequentia non valet angelus malus accedit et habuit potestate ac<lb ed="#S" break="no" n="104"/>cipiendi 
+          et voluntatem accipiendi perseverantiam igitur accepit perseverantiam igitur 
+          <lb ed="#S" n="105"/>a simili non sequitur <sic>improposito</sic> nolo fornicari et furari et possum igitur fa<lb ed="#S" break="no" n="106"/>cio 
+          vel statim faciam
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1749">
+          <pc type="pilcrow">¶</pc> Praeterea secundum eum ibidem haec consequentia non valet volo per<lb ed="#S" break="no" n="107"/>scribere 
+          librum et possum ergo perscribo vel perscribam <sic>incepisci</sic> inquit 
+          <lb ed="#S" n="108"/>aliquid cum voluntate et potestate perficiendi quod cum voluntate ante finem rei muta<lb ed="#S" break="no" n="109"/>ta 
+          non perfecisti dicit separe aliter igitur a simili in proposito
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1763">
+          <pc type="pilcrow">¶</pc> praeterea actus 
+          <lb ed="#S" n="110"/>exterior aliquando est peccatum aliter nullum mendacium esset peccatum vel 
+          <lb ed="#S" n="111"/>furtum nec adulterium quia solus actus interior nullum istorum est 
+          <lb ed="#S" n="112"/>Item actus interior est peccatum sed actus interior et exterior non 
+          <lb ed="#S" n="113"/>sunt <del rend="underline">idem actus aliquid</del> <add place="margin-below">illud peccatum quia non sunt id aliquod igitur sunt duo distincta sed duo distincta peccata</add> sunt peiora quam alterum eorum igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1784">
+          <lb ed="#S" n="114"/><pc type="pilcrow">¶</pc> ad primum et 2m dicendum quod non quia non est idem arguere cum verbo 
+          <lb ed="#S" n="115"/>inportante absolute actioni et cum verbo non signante sic actionem 
+          <lb ed="#S" n="116"/>sed durationem et <sic>permanentiam</sic> in statu aliquo connotante
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1797">
+          <pc type="pilcrow">¶</pc> de primis 
+          <lb ed="#S" n="117"/>arguendi modis talem dat <ref xml:id="aw98wa-xg4410-Rd1e1804">philosophus 9 metaphysicae</ref> et experientia probat et philosophus 
+          <lb ed="#S" n="118"/>probat istum Si enim volo efficaciter commedere vel bibere vel 
+          <lb ed="#S" n="119"/>percurrere et sic de aliis si possim ita quod nichil obstat ex<lb ed="#S" break="no" n="120"/>equutor
+          statim
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1814">
+          <pc type="pilcrow">¶</pc> De 2is non valet consequentia unde non sequitur volo semper perma<lb ed="#S" break="no" n="121"/>nere
+          in gratia et possum semper permanere in ea ergo semper manebo 
+          <lb ed="#S" n="122"/>in ea Et ipsa est de perseverantia unde anselmus reddens 
+          <lb ed="#S" n="123"/>causam defectus consequentiae huius voluit et potui accipere perse<lb ed="#S" break="no" n="124"/>verantiam 
+          igitur et accepit Respondente discipulo quod tamen voluntate ante finem 
+          <lb ed="#S" n="125"/><unclear>mutata</unclear> non perfecerit volui inquit utique sed non perserveravi 
+          <lb ed="#S" n="126"/>Et ideo nec in actione inquit magister dicit discipulo suo uno 
+          <lb ed="#S" n="127"/>verbo quid sic perseverantia vel perseverare quantum res exigit in faci<lb ed="#S" break="no" n="128"/>endo 
+          aliquid perficere nam perseverare inscribendo aliquid dominus 
+          <lb ed="#S" n="129"/>perscribere magister dicamus consimiliter et si non sit in usu quod per<lb ed="#S" break="no" n="130"/>serverare 
+          in voluntate sit per velle igitur non perfecisti quia non vo<lb ed="#S" break="no" n="131"/>luisti 
+          et potuisti tunc non perfecisti <c>d</c> quia non pervolui <unclear>q</unclear>
+          <lb ed="#S" n="132"/>magister ita igitur dicit quod dyabolus qui accepit velle et posset ac 
+          <lb ed="#S" n="133"/>operari perseverantiam et velle posset perseverare ideo non ac<lb ed="#S" break="no" n="134"/>cepit 
+          nec perseveraverit quia non pervoluit
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1856">
+          <pc type="pilcrow">¶</pc> 2o etiam dico quod 
+          <pb ed="#S" n="232-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>talis motus arguendi non valet si posse sumatur pro potestate et non pro virtu<lb ed="#S" break="no" n="2"/>te 
+          sufficiente unde non sequitur iste vult efficaciter sive desinat esse episcopus et 
+          <lb ed="#S" n="3"/>potest esse episcopus ergo est vel erit episcopus
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1874">
+          <pc type="pilcrow">¶</pc> Item non valet generaliter cum ver<lb ed="#S" break="no" n="4"/>bo 
+          de praeterito vel de futuro unde non sequitur potui heri fecisse fur<lb ed="#S" break="no" n="5"/>tum 
+          et volui ergo feci et possibile est quod heri ante prandium volui 
+          <lb ed="#S" n="6"/>et non potui sed post prandium potui sed tunc volui Similiter 
+          <lb ed="#S" n="7"/>de futuro non sequitur volui fornicari et potero igitur fornicabor propter 
+          <lb ed="#S" n="8"/>rationem consimilem <add place="margin-left">ad 3m</add> magister sententiarum declinat ad hic quod sic tantum unum 
+          <lb ed="#S" n="9"/>peccatum libro 11 distinctione 42 et 15 quia una praevaricatio vel inobedientia 
+          <lb ed="#S" n="10"/>in utroque admittitur et unus est contemptus respondet enim <subst><add>ibi</add> <del>i</del></subst> rationibus in 
+          <lb ed="#S" n="11"/>contrarium
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1905">
+          <pc type="pilcrow">¶</pc> Sed hoc est verum si sumatur nomen peccati abstractive pro  mali<lb ed="#S" break="no" n="12"/>tia 
+          peccati ut supra dixi sed si sumatur concretive duo sunt ibi 
+          <lb ed="#S" n="13"/>peccata
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1915">
+          <pc type="pilcrow">¶</pc> dices quod ista opinio quam sustinet ibi magister est quod licet sit 
+          <lb ed="#S" n="14"/>ibi unum peccatum quia una praevaricatio et inobedientia et unus contemp<lb ed="#S" break="no" n="15"/>tus 
+          sive quando vult sive quando agit sed tamen minor tum voluntate solum 
+          <lb ed="#S" n="16"/>peccatum committitur maior tamen voluntati etiam operatio additur et ideo maius fit 
+          <lb ed="#S" n="17"/>peccatum et non plura tum voluntas operi mancipatur haec illi 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1929">
+          <pc type="pilcrow">¶</pc> praeterea glossa super 
+          <lb ed="#S" n="18"/>illud ad Romanos primo <unclear>plenos</unclear> invidia et homicidiis bene inquit dicit homi<lb ed="#S" break="no" n="19"/>cidiis 
+          pluraliter quia plura sunt homicidia scilicet voluntatis et operis haec ibi igitur voluntas 
+          <lb ed="#S" n="20"/>et opus quantum ad homicidia sunt diversa
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1943">
+          <pc type="pilcrow">¶</pc> Item super illud appositione 
+          <lb ed="#S" n="21"/>iniquitatem glossa qui malum opus addit male voluntati iniqui<lb ed="#S" break="no" n="22"/>tatem 
+          addit iniquitati
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1953">
+          <pc type="pilcrow">¶</pc> ad primum illud dicitur magister quod sicud dictum est ad 
+          <lb ed="#S" n="23"/>primum contra positionem operando <unclear>exterius</unclear> quod prius fuit volitum volenti ante ex<lb ed="#S" break="no" n="24"/>ecutionem 
+          interdicitur interior operatio vel nova alterius rationis additur 
+          <lb ed="#S" n="25"/>et ista est causa quare addendo opus gravatur culpa
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1968">
+          <pc type="pilcrow">¶</pc> <unclear>Per</unclear> idem 
+          <lb ed="#S" n="26"/>omnino dicetur ad duas alias instantias ex istis potest responderi 
+          <lb ed="#S" n="27"/>ad titulum quaestionis quod ymmo non quod gravius peccavit per utrumque simul quam 
+          <lb ed="#S" n="28"/>per actus interioris simul sumptos sed pro ceteris aliis praetactis supra 
+          <lb ed="#S" n="29"/>ad x principale quaestione 8 et quia duo distincta pertrat sunt quamvis opus 
+          <lb ed="#S" n="30"/>exterius non praecise sit peccatum quia provenit a libera voluntate <add place="margin-left">quae obligatur</add> ipsum non 
+          <lb ed="#S" n="31"/>libere causare ita quod eius malitia consistit in mala volitione ut 
+          <lb ed="#S" n="32"/>supra in primo articulo respondendo ad argumenta satis dictum est
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e1994">
+          <pc type="pilcrow">¶</pc> ad primum igitur principale 
+          <lb ed="#S" n="33"/>quaestionis dicendum quod opus exterius non est praevaricatio nisi quatenus libere procedit 
+          <lb ed="#S" n="34"/>a voluntate contra dei prohibitionem vel contra iudicium ratione rationis malitia 
+          <lb ed="#S" n="35"/>operis exterioris residet penes <del rend="strikethrough">malitiam</del> malam voluntatem 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2009">
+          <pc type="pilcrow">¶</pc> argumentum 
+          <lb ed="#S" n="36"/>autem ad oppositum concludit verum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2017">
+          <pc type="pilcrow">¶</pc> Quia tamen media <name xml:id="aw98wa-xg4410-Nd1e2022">chatton</name> ni<lb ed="#S" break="no" n="37"/>mis 
+          inferunt respondendum est ad ea
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2027">
+          <pc type="pilcrow">¶</pc> ad primum detur quod sit contra fidem 
+          <lb ed="#S" n="38"/>ponere quod solus actus interior sit peccatum quia tunc nec mendacium 
+          <lb ed="#S" n="39"/>nec periurium nec adulterium esset peccatum mortale quia nullum istorum nec etiam 
+          <lb ed="#S" n="40"/>homicidium nec clerici vulneratio sic de similibus est actus interior <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2041">
+          <lb ed="#S" n="41"/><pc type="pilcrow">¶</pc> Dico quod tam actus exterior quam ipsa voluntas interior ex eadem 
+          <lb ed="#S" n="42"/>radice et cetera peccata sunt <pc type="punctus"/>  nec ambo simul plus gravabit animam 
+          <lb ed="#S" n="43"/>ad poenam post mortem quam omnes actus interiores simul iuncti
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2055">
+          <lb ed="#S" n="44"/><pc type="pilcrow">¶</pc> ad 2m dicendum quod haec opinio hugonis et magister communis aliorum non evacuat 
+          <lb ed="#S" n="45"/>fidei necessitatem fidei inquam requisitae ad necessitatem salutis 
+          <lb ed="#S" n="46"/>quae est fides infusam communis parvulis et adultis salvandis nec 
+          <lb ed="#S" n="47"/>etiam in adultis fidei acquisitae
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2068">
+          <pc type="pilcrow">¶</pc> Et cum probatur quod ymmo per casum dicendum 
+          <lb ed="#S" n="48"/>quod iste qui efficaciter vellet et optaret credere articulum aliquem et non potest 
+          <lb ed="#S" n="49"/>plene quia turbatio aliqua <unclear>melan?ca</unclear> vel passo vel <unclear>sopha?a</unclear> <add place="margin-center">est</add> in statu bono 
+          <lb ed="#S" n="50"/>si aliud non obsistat propter desiderium ad credendum et potest esse quod 
+          <lb ed="#S" n="51"/>ex ista voluntate credendi et displicentia rebellionis quam in <unclear>vite</unclear> 
+          <lb ed="#S" n="52"/>sustinet ad contrarium plus mereatur <del rend="strikethrough">sed</del> quam unus alius qui huius temp<lb ed="#S" break="no" n="53"/>tatione 
+          non vexatur sed quiete sedet et credit Ex quo enim vellet 
+          <lb ed="#S" n="54"/>efficaciter quantum posset habere credulitatem et nititur quantum potest certe pro eo 
+          <lb ed="#S" n="55"/>quod non potest perficere nec dampnabitur quia per hoc secundum augustinum est sum<lb ed="#S" break="no" n="56"/>me 
+          in sanum in de duabus animalibus dicere aliquem dampnari 
+          <lb ed="#S" n="57"/>vel peccare pro eo quod non fecit <add place="margin-left">quod non facere potest</add> <del rend="expunctuation">non potuit</del> unde si iste magister 
+          <lb ed="#S" n="58"/>vellet omnino habere quod de necessitate salutis esset ultra voluntatem perfec<lb ed="#S" break="no" n="59"/>tam 
+          creddi ulterius habere ipsum quietum credere non bene in hoc sen<lb ed="#S" break="no" n="60"/>tiret 
+          ymmo contra magistros et sanctos et <sic>compostelanum</sic> et alios 
+          <lb ed="#S" n="61"/>decretistas 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2125">
+          <pc type="pilcrow">¶</pc> dices plus meretur iste <add place="margin-left">qui</add> quiete credit quam qui vellet 
+          <lb ed="#S" n="62"/>et non facit
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2136">
+          <pc type="pilcrow">¶</pc> dicendum quod potest esse ut sit et potest esse ut non et quando 
+          <lb ed="#S" n="63"/>sic h<subst><add place="above-line">oc</add><del rend="expunctuation">omo</del></subst> erit propter actus voluntatis simul collectos meliores ex 
+          <lb ed="#S" n="64"/>una parte quam ex alia 
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2152">
+          <pc type="pilcrow">¶</pc> ad 3m sufficit dicere quod ille qui de facto 
+          <lb ed="#S" n="65"/>committit ydolatriam non gravius peccat ex facto interiori et exteriori
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>quam ipsemet <add place="above-line">ex omnibus</add> interioribus simul et solum vel tunc habitis ceteris 
+          <lb ed="#S" n="67"/>apud deum omnibus paribus Sed cum hoc stat quod ille qui non actu ydo<lb ed="#S" break="no" n="68"/>latriam 
+          habet exterius cum voluntate committendi aliquando minimus peccet quia non 
+          <lb ed="#S" n="69"/>habet forte tot malas volitiones vel non ita intensas nec 
+          <lb ed="#S" n="70"/>tales <unclear>notorias</unclear> complacentias in facto suo sicud primus sed omnibus pari<lb ed="#S" break="no" n="71"/>bus 
+          praeter exteriorem operationem quam forte posset facere unus furiosus 
+          <lb ed="#S" n="72"/>non <unclear>poenitet</unclear> talis in culpa disperes verumptamen sicud hugo <add place="margin-right">dicit</add> vix 
+          <lb ed="#S" n="73"/>esset possibile quin ex actu exteriori vel actu ipse cresceret interior o<lb ed="#S" break="no" n="74"/>peratio 
+          vel quin aliqua interior <del rend="expunctuation">in</del>operatio augeatur
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2195">
+          <pc type="pilcrow">¶</pc> ad 4m dico 
+          <lb ed="#S" n="75"/>quod opera sacramentalia non faciunt solum ex vi meriti personalis istius vel 
+          <lb ed="#S" n="76"/>illius qui baptizat sed etiam virtute operis operati valent et ideo iste 
+          <lb ed="#S" n="77"/>qui baptizetur ceteris paribus maiorem consequitur gratiam quam volens 
+          <lb ed="#S" n="78"/>baptizari et non baptizatus si cetera essent paria quia forsan crescit de 
+          <lb ed="#S" n="79"/>novo voluntas istius qui opere sacramentum baptismi consequitur et meritoria com<lb ed="#S" break="no" n="80"/>placentia
+          in hoc ipso
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2215">
+          <pc type="pilcrow">¶</pc> ad 5m prius responsum
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2221">
+          <pc type="pilcrow">¶</pc> ad 6m concedo quod per fidem 
+          <lb ed="#S" n="81"/>quis meretur quatenus est operatio <unclear>notoria</unclear> secundum augustinum intrare ecclesiam 
+          <lb ed="#S" n="82"/>potest volens sed credere non nisi volens
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2233">
+          <pc type="pilcrow">¶</pc> ad 7m et 8m satis 
+          <lb ed="#S" n="83"/>patet
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2241">
+          <pc type="pilcrow">¶</pc> verumptamen ad 7m respondet aliqui et ben quod passio christi requi<lb ed="#S" break="no" n="84"/>rebatur 
+          per modum praetii non meriti quia ianua aperiebatur quando <add place="margin-right">praetium</add> 
+          <lb ed="#S" n="85"/><del rend="underline">peccatum</del> solvebatur
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2256">
+          <pc type="pilcrow">¶</pc> ad 9m nego antecedens cum accipitur quod maior 
+          <lb ed="#S" n="86"/>poena etc nisi intelligatur de poena minime non de poena recom<lb ed="#S" break="no" n="87"/>pensativa 
+          post hanc vitam <add place="margin-right">nec plus</add> potest haberi de auctoritate augustini qua arguitur 
+          <lb ed="#S" n="88"/>antecedens
+        </p>
+        <p xml:id="aw98wa-xg4410-d1e2271">
+          <pc type="pilcrow">¶</pc> ad quam supra respondendi solvendo primum argumentum contra possent 
+          <lb ed="#S" n="89"/>et sic patet quaestio
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
