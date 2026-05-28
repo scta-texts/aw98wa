@@ -120,7 +120,10 @@
           2i distinctionis tollitur tantum in proportione non tantum in quantitate et sic semper aliquid 
           <lb ed="#S" n="4"/>remanet sed esse argumentum offertur hoc glossa et eandem sententiam finaliter 
           <lb ed="#S" n="5"/>quo ad propositum et quo ad indulgentias tenet glossa extra de 
-          <lb ed="#S" n="6"/>celebratione missarum Cum <unclear>marthe</unclear> Sed ista responsio non vita<lb ed="#S" break="no" n="7"/>ret 
+          <lb ed="#S" n="6"/>celebratione missarum Cum <unclear>marthe</unclear> 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e262">
+          Sed ista responsio non vita<lb ed="#S" break="no" n="7"/>ret 
           punctum de quo inquiritur licet vitet <unclear>ple?am</unclear> poenae sublationem 
           <lb ed="#S" n="8"/>dato etiam quod fundaretur in vero quod per istum modum veniretur ad 
           <lb ed="#S" n="9"/>poenam ceteris paribus insensibilem per se nisi plus addatur sibi 
@@ -147,7 +150,7 @@
         </p>
         <p xml:id="aw98wa-xg4436-d1e345">
           <pc type="pilcrow">¶</pc> Sed hic inquiritur an valent ipsis 
-          <lb ed="#S" n="19"/>mortalis si pro ipsis oraretur et non quod liceat nobis
+          <lb ed="#S" n="19"/>mortuis si pro ipsis oraretur et non quod liceat nobis
         </p>
         <p xml:id="aw98wa-xg4436-d1e353">
           <pc type="pilcrow">¶</pc> Et quod 
@@ -499,6 +502,7 @@
         <p xml:id="aw98wa-xg4436-d1e1238">
           <lb ed="#S" n="110"/><pc type="pilcrow">¶</pc> 7m concludit unum verum prius concessum
         </p>
+        <!-- note that abbreviatio has a few additional paragraphs here-->
       </div>
     </body>
   </text>

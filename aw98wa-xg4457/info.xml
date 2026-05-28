@@ -38,15 +38,21 @@
           <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e100-d1e189"/>
         </assertions>
       </p>
+      <p xml:id="aw98wa-xg4457-d1e251">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e100-d1e211"/>
+        </assertions>        
+      </p>
       <p xml:id="aw98wa-xg4457-d1e301">
       </p>
       <p xml:id="aw98wa-xg4457-d1e325">
       </p>
       <p xml:id="aw98wa-xg4457-d1e340">
+
       </p>
       <p xml:id="aw98wa-xg4457-d1e389">
         <assertions>
-          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e100-d1e211"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e100-d1e219"/>
         </assertions>
       </p>
       <p xml:id="aw98wa-xg4457-d1e442">
