@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 11 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 11 [Sorb193 Transcription]</title>
+          <date when="2026-05-27">May 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="232-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4436"><!-- b4q11-->
+        <head xml:id="aw98wa-xg4436-Hd1e101">Quaestio 11</head>
+        <p xml:id="aw98wa-xg4436-d1e103">
+          <lb ed="#S" n="90"/>Utrum aliqua poena infernalis possit esse insensibilis 
+          <lb ed="#S" n="91"/>dampnato
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e110">
+          quod sic videtur quia quolibet actu qui est peccatum 
+          <lb ed="#S" n="92"/>mortale potest esse actus eiusdem specie in 2lo remissior 
+          <lb ed="#S" n="93"/>igitur cum poena correspondeat culpae poena infernalis 
+          <lb ed="#S" n="94"/>poterit in duplo esse remissior et per consequens sic dividendo tandem po<lb ed="#S" break="no" n="95"/>terit 
+          devenire ad potentiam infernalem insensibilem debitam 
+          <lb ed="#S" n="96"/>peccato mortali quod erat probandum
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e123">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="aw98wa-xg4436-Rd1e128">13 quaestione 2 tempus</ref> recitatur 
+          <lb ed="#S" n="97"/>illud <ref xml:id="aw98wa-xg4436-Rd1e132">augustinus in enchiridion</ref> et ponitur in <ref xml:id="aw98wa-xg4436-Rd1e134">libro 4 distinctione 45 capitulo 2 vel 6</ref> secundum quosdam 
+          <lb ed="#S" n="98"/>est quidam vivendi motus et tam bonus quod non requirat ista 
+          <lb ed="#S" n="99"/>post mortem scilicet suffragantia etc Et post eum sacrificia altaris 
+          <lb ed="#S" n="100"/>sive quarumcumque <unclear>e?liarum</unclear> pro baptizatis offeruntur pro omnibus pro valde bo<lb ed="#S" break="no" n="101"/>nis 
+          gratiarum actiones sunt pro non valde bonis propitiatio<lb ed="#S" break="no" n="102"/>nes 
+          sunt pro valde malis et si nulla sunt <unclear>adiu?ta</unclear> mor<lb ed="#S" break="no" n="103"/>tuorum 
+          sunt cum vivorum consolationes <pc type="punctus"/> quibus autem prosunt ac <add place="margin-right">pro valde bonis gratiarum actiones ad hoc</add> 
+          <lb ed="#S" n="104"/><add place="margin-left">prosunt</add> ut plena sit remissio aut certe ut tollerator eorum fiat 
+          <lb ed="#S" n="105"/>dampnatio super quo dicit apparatus sit hic augustinus distinguit
+          <lb ed="#S" n="106"/>genera hominum valde bonos valde malos mediocriter 
+          <lb ed="#S" n="107"/>bonos mediocriter malos Et dicit quod suffragantia non prosunt de 
+          <lb ed="#S" n="108"/>functis valde bonis nec valde malis mediocriter vero bonis 
+          <lb ed="#S" n="109"/>ut citius liberentur ab igne purgatorii mediocriter malis prosunt 
+          <lb ed="#S" n="110"/>ad hoc ut minus puniantur numquam tamen liberabuntur et secundum hoc 
+          <lb ed="#S" n="111"/>patet etiam in oratione <unclear>nisi</unclear> oratus specialiter pro illis qui docesserunt 
+          <lb ed="#S" n="112"/>in mortali <add place="margin-right">dummodo</add> non sint summe in tali haec ille 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e187">
+          <pc type="pilcrow">¶</pc> Ex hoc potest sic 
+          <lb ed="#S" n="113"/>argui quorum poena totaliter <add place="margin-left">potest</add> tolli in eis poterit ad poenam in<lb ed="#S" break="no" n="114"/>sensibilem 
+          deveniri sed ista est ut videtur de poena mediocriter ma<lb ed="#S" break="no" n="115"/>lorum 
+          in inferno <unclear>que</unclear> qua ratione per hic suffragentia poterit tolli damp<lb ed="#S" break="no" n="116"/>natio 
+          tanta <add place="margin-right">poena</add> per similia poterit tolli poena aequalis Et tamen 
+          <lb ed="#S" n="117"/>peccat eorum sint finita secundum intentionem tandem totaliter aufertur 
+          <lb ed="#S" n="118"/>si praedicta sint vera
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e215">
+          <pc type="pilcrow">¶</pc> Sed hic argumentum facit et respondet ibi appara<lb ed="#S" break="no" n="119"/>tus 
+          consequenter suppono inquit quod aliquis det <unclear>eleemosinam</unclear> pro illo qui 
+          <lb ed="#S" n="120"/>decessit in mortali qui est mediocriter malus <unclear>eleemosinam</unclear> et orationes 
+          <lb ed="#S" n="121"/>possunt talibus prodesse ad minorem poenam ut hic dicit secundum glossam 
+          <lb ed="#S" n="122"/>augustini hic apparatus igitur aliquid de poena est sublatum ponamus 
+          <lb ed="#S" n="123"/>quod 4a pars poenae sit sublata per unam eleemosinam si igitur dentur 
+          <lb ed="#S" n="124"/><unclear>c</unclear> <pc type="punctus"/>  eleemosinam totam poena erit remissa igitur iste liberabitur quod hic 
+          <lb ed="#S" n="125"/>negatur
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e244">
+          <pc type="pilcrow">¶</pc> Et consequenter respondet ad hic inquit dico scilicet prima eleemosina tollat 
+          <lb ed="#S" n="126"/>primam partem poenae 2a eleemosina tollit tantam poenam sed non 
+          <lb ed="#S" n="127"/>tantam in quantitate sed in proportione et sic semper aliquid remaneret 
+          <lb ed="#S" n="128"/>aliquid de poena haec ille
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e256">
+          <pc type="pilcrow">¶</pc> Et addit exemplum et sic inquit sol<lb ed="#S" break="no" n="129"/>vo 
+          illud de indulgentiis quod si propter solutionem unius donare
+          <pb ed="#S" n="232-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>tollitur 4a pars peccatorum mortalium <unclear>expone tu</unclear> id est 4a pars poenae 
+          <lb ed="#S" n="2"/>in purgatorio pro ipsis per poenitentiam remissus debite et per so<lb ed="#S" break="no" n="3"/>lutionem 
+          2i distinctionis tollitur tantum in proportione non tantum in quantitate et sic semper aliquid 
+          <lb ed="#S" n="4"/>remanet sed esse argumentum offertur hoc glossa et eandem sententiam finaliter 
+          <lb ed="#S" n="5"/>quo ad propositum et quo ad indulgentias tenet glossa extra de 
+          <lb ed="#S" n="6"/>celebratione missarum Cum <unclear>marthe</unclear> Sed ista responsio non vita<lb ed="#S" break="no" n="7"/>ret 
+          punctum de quo inquiritur licet vitet <unclear>ple?am</unclear> poenae sublationem 
+          <lb ed="#S" n="8"/>dato etiam quod fundaretur in vero quod per istum modum veniretur ad 
+          <lb ed="#S" n="9"/>poenam ceteris paribus insensibilem per se nisi plus addatur sibi 
+          <lb ed="#S" n="10"/>vel misi poena in percipiendo minus et minus esset efficaciae infinite
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e296">
+          <lb ed="#S" n="11"/><pc type="pilcrow">¶</pc> Praeterea ista responsio fundatur in falso
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e303">
+          <pc type="pilcrow">¶</pc> primo quia eadem causa scilicet <ref xml:id="aw98wa-xg4436-Rd1e308">13 quaestione 21 
+          <lb ed="#S" n="12"/>pro obeuntibus</ref> dicitur quod congruit quod sacerdos pro cathezizatis mor<lb ed="#S" break="no" n="13"/>tuis 
+          faciat memoriam et intendat non tamen pro impiis <add place="margin-left">quamvis</add> qui christi<lb ed="#S" break="no" n="14"/>ani 
+          fuerunt tale aliquid agere licebit
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e321">
+          <pc type="pilcrow">¶</pc> sed hic leviter diceretur quod 
+          <lb ed="#S" n="15"/>loquitur de inpiis morientibus in executione vel praecisis et condempna<lb ed="#S" break="no" n="16"/>tis 
+          ab ecclesia
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e332">
+          <pc type="pilcrow">¶</pc> Sed hic non sufficit quia ibi inquiritur pro quibus li<lb ed="#S" break="no" n="17"/>citum 
+          est orare <add place="margin-left">et verum est hoc forte quod pro talibus orare</add> si tamen exequuti sint sine satisfactione merue<lb ed="#S" break="no" n="18"/>runt 
+          non est hic licitum
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e345">
+          <pc type="pilcrow">¶</pc> Sed hic inquiritur an valent ipsis 
+          <lb ed="#S" n="19"/>mortalis si pro ipsis oraretur et non quod liceat nobis
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e353">
+          <pc type="pilcrow">¶</pc> Et quod 
+          <lb ed="#S" n="20"/>non valeat illis ex priori capitulo tempus potest argui primo per augustinum 
+          <lb ed="#S" n="21"/>dicit ibi quod aliquis est tam malus ut nec hiis valeat cum 
+          <lb ed="#S" n="22"/>hic a vita transierit adiuvari Tum quia dicit ibidem quod pro val<lb ed="#S" break="no" n="23"/>de 
+          malis non sunt adiuvata mortuorum sed vivorum consolationes 
+          <lb ed="#S" n="24"/>sed hic leviter diceretur quod augustinus non loquitur ibi de omnibus deamp<lb ed="#S" break="no" n="25"/>natis 
+          sed de <unclear>pessis</unclear> <unclear>n?ll</unclear> valde malis cum dicit quod non iu<lb ed="#S" break="no" n="26"/>vantur 
+          per suffragia ymmo nec valde malis dicit quod non 
+          <lb ed="#S" n="27"/>sunt eius iuvamenta sed loquitur conditionaliter pro valide malis in<lb ed="#S" break="no" n="28"/>quiens 
+          si nulla sint adiuvata mortuorum Tum etiam quia non loquitur ibi de 
+          <lb ed="#S" n="29"/>specialibus suffragiis factis in communi pro defunctis omnibus <c>d</c> 
+          <lb ed="#S" n="30"/>Cum sacrificia altaris sive quarumcumque eleemosinarum pro omnibus baptizatis of<lb ed="#S" break="no" n="31"/>feruntur 
+          pro valde bonis etc ut supra
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e391">
+          <pc type="pilcrow">¶</pc> Item secundum augustinus perfecte 
+          <lb ed="#S" n="32"/>dampnatis sicut dicit glossa supradicta apparet quod ibi addit augustinus 
+          <lb ed="#S" n="33"/>quibus autem prosunt nam aut adhuc prosunt ut plena sit remissio 
+          <lb ed="#S" n="34"/>aut certe ut collerator sit eorum dampnatio si ipsa dampnatio eorum 
+          <lb ed="#S" n="35"/>per talia suffragia sit tollerator igitur et dampnatis prosunt 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e405">
+          <lb ed="#S" n="36"/><pc type="pilcrow">¶</pc> Praeterea dicit augustinus secundum altissiodorensis quod poena arrii incerta est <add place="margin-left">quia incertum est</add> quot per doc<lb ed="#S" break="no" n="37"/>trinam 
+          eius sunt subvertendi Si vero augetur poena eius qui 
+          <lb ed="#S" n="38"/>male docuit cum homines corrumpuntur per eius pravam doctirnam 
+          <lb ed="#S" n="39"/>multo fortius diminuitur poena alicuius dampnati cum per eius doctri<lb ed="#S" break="no" n="40"/>nam 
+          bonam aedificantur homines deus eni pronior est ad mi<lb ed="#S" break="no" n="41"/>serandum 
+          quam ad dampnandum
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e426">
+          <pc type="pilcrow">¶</pc> praeterea gregorius eripuit <unclear>tarianum</unclear>
+          <lb ed="#S" n="42"/>de foribus inferni et si ad preces unius sancti liberatus est aliquis 
+          <lb ed="#S" n="43"/>totaliter a poenis inferni multo fortius ad preces totius ecclesiae li<lb ed="#S" break="no" n="44"/>berabitur 
+          quis a parte poenae suae
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e441">
+          <pc type="pilcrow">¶</pc> Praeterea suffragia facta pro 
+          <lb ed="#S" n="45"/>illis qui sunt in purgatorio <del rend="expunctuation">non</del> inpetrant accelerationem gloriae 
+          <lb ed="#S" n="46"/>igitur quare non eius qui sunt in inferno valeret ad deletionem <del rend="expunctuation">cul</del>poenae
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e457">
+          <lb ed="#S" n="47"/><pc type="pilcrow">¶</pc> Praeterea vulgariter dicitur quod nullum bonum erit irremuneratum sed 
+          <lb ed="#S" n="48"/>iste dampnatus qui totam vitam suam usque ad ultimam horam 
+          <lb ed="#S" n="49"/>in qua peccavit bene visit multa bona fecit pro quibus non est 
+          <lb ed="#S" n="50"/>remuneratus in praesenti igitur remunerabitur in futuro et non in gloria 
+          <lb ed="#S" n="51"/>ergo in mitigatione poenae debite quantitati suae scilicet culpae
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e472">
+          <pc type="pilcrow">¶</pc> Unde 
+          <lb ed="#S" n="52"/>etiam secundum magistrum et doctores opera facta extra caritatem valent 
+          <lb ed="#S" n="53"/>ad minorem poenam post mortem
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e482">
+          <pc type="pilcrow">¶</pc> praeterea <name xml:id="aw98wa-xg4436-Nd1e487">praepostinus</name> qui tenet hanc 
+          <lb ed="#S" n="54"/>viam quod in vita sancti bernardam continetur quod vidit <del rend="expunctuation">in</del>quadam 
+          <lb ed="#S" n="55"/>intendentem per praedicta etc Et cum quaereret ab eo quare non esset 
+          <lb ed="#S" n="56"/>in inferno respondet quod ad tempus refrigerium habuit propter bona 
+          <lb ed="#S" n="57"/>quae fecit in vita sua
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e502">
+          <pc type="pilcrow">¶</pc> contra hanc conclusionem videtur esse <ref xml:id="aw98wa-xg4436-Rd1e507">illud Iob</ref> in in<lb ed="#S" break="no" n="58"/>ferno 
+          nulla est redemptio 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e512">
+          <pc type="pilcrow">¶</pc> Item <ref xml:id="aw98wa-xg4436-Rd1e517">magister libro 4 de 45 capitulo 
+          <lb ed="#S" n="59"/>2</ref> ubi prius et sumitur a glosa supra <ref xml:id="aw98wa-xg4436-Rd1e522">ad thess 4</ref> No<lb ed="#S" break="no" n="60"/>lumus 
+          vos ignorare etc Non est inquit ambiguum ista 
+          <lb ed="#S" n="61"/>prodesse sed talibus qui ista vixerunt ante mortem ut possint 
+          <lb ed="#S" n="62"/>haec eius esse utilia post mortem nam qui sine fide dilectione 
+          <lb ed="#S" n="63"/>operante eiusque sacramentis de corpore exierunt frustra a suis 
+          <lb ed="#S" n="64"/>huius illis pietatis officia inpenduntur cuius dum
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="65"/>hic essent pignore caruerunt
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e541">
+          <pc type="pilcrow">¶</pc> Praeterea dicit augustinus secundum altisiodorensis sed non 
+          <lb ed="#S" n="66"/><del rend="strikethrough">q</del>notat si scirem patrem meum dampnatum nullo modo orarem pro ipso 
+          <lb ed="#S" n="67"/>sicut nec pro dyabolo
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e553">
+          <pc type="pilcrow">¶</pc> Et istud confirmari potest quia si ecclesia <add place="margin-right">esset</add> certa de 
+          <lb ed="#S" n="68"/>aliquo viatore quod dampnaretur non oraret pro ipso igitur multo 
+          <lb ed="#S" n="69"/>fortius non oraret pro aliquo dampnato scito esse huius
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e566">
+          <pc type="pilcrow">¶</pc> Assumptum patet per 
+          <lb ed="#S" n="70"/><ref xml:id="aw98wa-xg4436-Rd1e572">augustinum 21 de civitate dei capitulo 23</ref> ubi dicit sic denui inquit si de 
+          <lb ed="#S" n="71"/>aliquibus ecclesia certa esset ut qui sunt illi etiam <unclear>vollet<!-- corrected somehow --></unclear> quibus ad hoc in 
+          <lb ed="#S" n="72"/>hac vita constituti sunt praedestinati tamen sunt in aeternum ignem ire 
+          <lb ed="#S" n="73"/><add place="margin-center">cum</add> dyabolo causa pro eis non oraret quam nec pro ipso
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e588">
+          <pc type="pilcrow">¶</pc> Praeterea suffragia 
+          <lb ed="#S" n="74"/>ecclesiae non prosunt beatis dicit enim augustinus ut recitat magister ubi 
+          <lb ed="#S" n="75"/>prius et est super epistolam ad hebreos 12 non dum usque ad iniuria est 
+          <lb ed="#S" n="76"/>pro martire orare igitur nec valaret dampnatis non enim minus 
+          <lb ed="#S" n="77"/>meruissent illi ut per tales cresceret eorum gloria quam isti ut <unclear>im<lb ed="#S" break="no" n="78"/>mieretur</unclear>
+          eorum poena
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e608">
+          <pc type="pilcrow">¶</pc>  Et confirmatur istud per illud ad hoc augustinus super illud 
+          <lb ed="#S" n="79"/>ad corinthios omnes nos manifestari oportet <pc type="punctus"/> ante tribunalis etc et recitat 
+          <lb ed="#S" n="80"/>magister ubi supra quod suffragia huius pro <unclear>valdis</unclear> bonis sunt gratiarum ac<lb ed="#S" break="no" n="81"/>tiones 
+          et non dicit nec verum est quod per hoc augeatur eorum gloria 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e625">
+          <lb ed="#S" n="82"/><pc type="pilcrow">¶</pc> praeterea illi dicuntur valde boni qui statim evolant igitur a contrario sensu 
+          <lb ed="#S" n="83"/>valde mali dicuntur qui statim ad infirmum <add place="margin-right">descendunt</add> sed suffragia 
+          <lb ed="#S" n="84"/>non sunt ut videtur per augustinum nisi consolationes vivorum ubi supra unde 
+          <lb ed="#S" n="85"/>videtur sumere si pro quia secundum intellectum omnium exponentium etc
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e642">
+          <pc type="pilcrow">¶</pc> Praeterea dicit 
+          <lb ed="#S" n="86"/>augustinus in eadem glossa et recitat illud magister ubi prius quod oportet quod u<lb ed="#S" break="no" n="87"/>nusquisque in hac vita omne meritum <del rend="expunctuation">comparatur</del> comparet quo 
+          <lb ed="#S" n="88"/>post hanc vitam possit generari vel recitari sicut dicit dominus 
+          <lb ed="#S" n="89"/>per ezechialem quod si averteret se iustus a iustitia sua etc igitur 
+          <lb ed="#S" n="90"/>per merita praesentis vice non reveleabitur nec<del rend="expunctuation">on</del> per alia secundum auctoritatem 
+          <lb ed="#S" n="91"/>augustini quia omne meritum hic compatitur quo quis post hanc vitam 
+          <lb ed="#S" n="92"/>poterit revelari etc
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e669">
+          <pc type="pilcrow">¶</pc> praeterea in inferno secundum quantitatem culpae est 
+          <lb ed="#S" n="93"/>quantitas poenae secundum <ref xml:id="aw98wa-xg4436-Rd1e676">illud ysa 27</ref> in mensura contra mensuram cum abiecta 
+          <lb ed="#S" n="94"/>fuerit iudicabit eam Et concordat evangelium cum dicit in qua <add place="margin-right">mensura</add> 
+          <lb ed="#S" n="95"/>mensi fueritis remetietur vobis Et in <ref xml:id="aw98wa-xg4436-Rd1e686">apocalypsis</ref> quantum se glorifi<lb ed="#S" break="no" n="96"/>cavit 
+          in deliciis etc In caelo aut secundum quantitatem secundum augustinum 
+          <lb ed="#S" n="97"/>in enchiridion mensuratur proportionaliter gloria <pc type="punctus"/> igitur pari ratione in inferno 
+          <lb ed="#S" n="98"/>secundum quantitatem culpae mensurabitur poena Sed parva suffragia 
+          <lb ed="#S" n="99"/>facta pro dampnatis minuetur eorum culpa igitur nec eorum poena 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e700">
+          <lb ed="#S" n="100"/><pc type="pilcrow">¶</pc> ad propositum illud scilicet quod aliqua poena infernalis totaliter possit esse 
+          <lb ed="#S" n="101"/>insensibilis concederetur nisi daretur quod omni peccato mortali commissionis 
+          <lb ed="#S" n="102"/>id est actu simpliciter pro habito voluntatis possit dari actus in duplo remis<lb ed="#S" break="no" n="103"/>sior 
+          et 4lo et sic in infinitum quorum quilibet foret peccatum morta<lb ed="#S" break="no" n="104"/>le
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e715">
+          <pc type="pilcrow">¶</pc> Sed consequens est falsum quia tunc posset dari ultimum instans gratiae in quo 
+          <lb ed="#S" n="105"/>sic cessaret quod nihil ipsius ulterius remaneret consequens falsum praecise 
+          <lb ed="#S" n="106"/><del rend="expunctuation">se</del> parte et per philosophum quia non est dare ultimum instans rei per<lb ed="#S" break="no" n="107"/>manentis 
+          in esse consequentiam probo quia a quovis instanti possit sic incipere 
+          <lb ed="#S" n="108"/>velle vel nolle per totum aliquod tempus immediate sequens huius instans et in 
+          <lb ed="#S" n="109"/>quolibet instanti intrinseco istius temporis velit nolit actus istius 
+          <lb ed="#S" n="110"/>speciei qui in gradu maximo poneretur esse peccatum mortale licet 
+          <lb ed="#S" n="111"/>nullum velle vel nolle subito causaret et simul sed solum par<lb ed="#S" break="no" n="112"/>tibiliter 
+          et successive et per consequens <add place="margin-right">per</add> totum aliquod tempus immediatum tali instanti et 
+          <lb ed="#S" n="113"/>quamlibet eius partem iste peccaret mortaliter tali posito casu 
+          <lb ed="#S" n="114"/>igitur cum gratia stet cum hoc quod aliquis peccet mortaliter iste per totum illud 
+          <lb ed="#S" n="115"/>tempus et quamlibet eius partem privabitur gratia et ista instans datum erat ultimum 
+          <lb ed="#S" n="116"/>instans gratiae quod erat probandum
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e752">
+          <pc type="pilcrow">¶</pc> Sed hic leviter diceretur sicud respondet 
+          <lb ed="#S" n="117"/><name xml:id="aw98wa-xg4436-Nd1e758">Reperes</name> quod aliquod est mortale peccatum sicut odium dei quod <add place="margin-right">si</add> esset
+          <lb ed="#S" n="118"/>in duplo remissius non esset peccatum mortale Et per hic ulterius 
+          <lb ed="#S" n="119"/>dicendum esset quod omnis poena debita odio dei vel alteri actui in <add place="margin-right">gradu in</add> 
+          <lb ed="#S" n="120"/>quo esset peccatum mortale <add place="margin-right">etiam</add> esset satis sensibilis <add place="margin-below">cum iste finaliter dampnatus avertit se a iustitia sua omnes iustitiae eius non recordabuntur amplius igitur</add>
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e780">
+          <pc type="pilcrow">¶</pc> Praeterea illud <!-- insertion here? --> patet ad primum 
+          <lb ed="#S" n="121"/>argumentum ad poenam partem quaestionis assumptum enim est falsum de actu illius 
+          <lb ed="#S" n="122"/>qui primo esset peccatum mortale ut pote de actu malo elicito 
+          <lb ed="#S" n="123"/>ex plena deliberatione vel post plenam deliberationem de actu vero 
+          <lb ed="#S" n="124"/>qui esset peccatum mortale propter omissionem deliberaitonis necessarie id est quo 
+          <lb ed="#S" n="125"/>posito inputatur homini peccatum mortale quia ipsa non ammovit nec 
+          <lb ed="#S" n="126"/>ammovet Et hic magis proprie dicitur qua quod iste actus sit peccatum mor<lb ed="#S" break="no" n="127"/>tale 
+          de tali inquam actu qui inproprie et indirecte dictur peccatum mor<lb ed="#S" break="no" n="128"/>tale 
+          seu 2ario nam pro isto solo praeciso numquam aliquis damp<lb ed="#S" break="no" n="129"/>naretur 
+          sed potius et principalius pro omissione sublationis
+          <pb ed="#S" n="233-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>illius vel tentionis ex deliberatione haberetur de tali inquam actu bene cre<lb ed="#S" break="no" n="2"/>do 
+          quod huius habitio in aliquo gradu inputetur homini ad peccatum mortale 
+          <lb ed="#S" n="3"/>et in aliquo non quia non est sensibilis nec advertibilis pro sui remissione 
+          <lb ed="#S" n="4"/>non inputatur eius habitio ad mortale quando aut <unclear>sentit</unclear> et bene percipit 
+          <lb ed="#S" n="5"/>et tamen permittitur satis retineri se negligit quis <unclear>in??</unclear> ad ammovendum 
+          <lb ed="#S" n="6"/>ipsum tunc eius habitio vel retentio vel potius remissio removendi eum 
+          <lb ed="#S" n="7"/>reputatur ad peccatum mortale
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e832">
+          <pc type="pilcrow">¶</pc> ad 2m argumentum <add place="margin-left">bene</add> possit credere quod in pur<lb ed="#S" break="no" n="8"/>gatorio<del rend="expunctuation">ndum</del> 
+          pervenitur ad poenam <unclear>aliquem</unclear> insensibilem 2o modo dicto in positione 
+          <lb ed="#S" n="9"/>sed in dampnatis finaliter hoc non credo quia pari ratione posset totaliter col<lb ed="#S" break="no" n="10"/>li 
+          ut supra arguit apparatus contra se nec sufficit apparatus Responsio 
+          <lb ed="#S" n="11"/>propter responsionem deductionis ibi tactam utrum autem suffragia facta 
+          <lb ed="#S" n="12"/>pro dampnatis finaliter valeant eis vel non ad mitigationem poenae 
+          <lb ed="#S" n="13"/>sicut supra argui diffuse pro et contra nescio nec apparatus potest movere 
+          <lb ed="#S" n="14"/>sufficienter ex verbis augustini non dicit plus ad propositum nisi quod pro non 
+          <lb ed="#S" n="15"/>valde bonis suffragia propitiationes sunt et certe tales qui vel 
+          <lb ed="#S" n="16"/>moriuntur invenialibus gravibus vel qui <del rend="expunctuation">ab hoc</del> ad hoc non 
+          <lb ed="#S" n="17"/>satisfacerent pro commissum moralibus deletis cum quo ad culpam in 
+          <lb ed="#S" n="18"/>contritione vel sacramentali absolutione sed fallacia consequentis est arguere ultra 
+          <lb ed="#S" n="19"/>pro non valde bonis sunt propitiationes ergo pro dampnatis finaliter
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e875">
+          <lb ed="#S" n="20"/><pc type="pilcrow">¶</pc> dices quod secundum augustinum valerent quia loquitur disiunctive et ideo verum dicitur 
+          <lb ed="#S" n="21"/><unclear>q</unclear> altera pars sit vera
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e885">
+          <pc type="pilcrow">¶</pc> vel aliter potest dici ut tollerabilior sit ipsa damp<lb ed="#S" break="no" n="22"/>natio 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e893">
+          <pc type="pilcrow">¶</pc> Respondetur leviter vel ut plena sit remissio vel quod ibi sumit 
+          <lb ed="#S" n="23"/>pro poena temporali <add place="margin-left">debita in purgatorio sicud etiam pro temporali</add> dampnationem sicut sumitur in evangelio neque tu <unclear>tines</unclear> deum 
+          <lb ed="#S" n="24"/>qui in eadem damnationem es et tunc vult augustinus dicere quod valeret talibus 
+          <lb ed="#S" n="25"/>vel ad hoc ut plenarie liberentur a poenis purgatorii vel ad 
+          <lb ed="#S" n="26"/>hoc ut mitius intensive vel extensive se habeant
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e913">
+          <pc type="pilcrow">¶</pc> apparet tamen 
+          <lb ed="#S" n="27"/>michi quod si mitigetur poena talium finaliter dampnatorum per suffra<lb ed="#S" break="no" n="28"/>gia 
+          eis facta non erit secundum intentionem aeternam poenae debitae pro 
+          <lb ed="#S" n="29"/>mortali bene tamen credo et melius quod mitigetur aliquando et tandem 
+          <lb ed="#S" n="30"/>tollatur poena a dampnatis ipsis debita pro venialibus et etiam pro pro morta<lb ed="#S" break="no" n="31"/>libus 
+          pro quibus sufficienter contriti fuerunt et absoluti et pro quibus poena 
+          <lb ed="#S" n="32"/>aeterna commuta fuit in temporalem
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e932">
+          <pc type="pilcrow">¶</pc> Possem etiam credere quod poe<lb ed="#S" break="no" n="33"/>na 
+          debita pro morta<lb ed="#S" break="no" n="34"/>libus pro quibus dampnatur possit per talia 
+          <lb ed="#S" n="35"/>suffragia differri usque ad tempus vel interpolari sicut supra 
+          <lb ed="#S" n="36"/>argumentum est per visionem sancti <unclear>brandani</unclear> et alias <unclear>hystarios</unclear> similes et ista 
+          <lb ed="#S" n="37"/>sunt duae <add place="margin-left">quaestiones</add> <del rend="underline">sicut</del> una qualiter potest secundum legem dei ordinatam miti<lb ed="#S" break="no" n="38"/>gari 
+          eorum poena et alia qualiter non <pc type="punctus"/> Et secundum istud potest ista glossa 
+          <lb ed="#S" n="39"/>super textum pro quanto nititur textui suo et angelus <unclear>conteri</unclear> modo concesso 
+          <lb ed="#S" n="40"/>in conclusione affirmativa nego tamen responsionem eiusdem glossae ad rationes contra se 
+          <lb ed="#S" n="41"/>qua ponit poenam in finalem posse secundum legem dei omnem mi<lb ed="#S" break="no" n="42"/>tigari 
+          aeternaliter secundum <unclear>re?em</unclear> aeternam intensive per suffragia pro eis 
+          <lb ed="#S" n="43"/>facta nec est simile de mitigatione poenae secundum legem iustitiae qualis 
+          <lb ed="#S" n="44"/>mitigatio <add place="margin-left">poenae</add> defunctorum et de mitigatione poenae secundum legem gratiae spiritualis 
+          <lb ed="#S" n="45"/>vel sacramentalis concessa quia magis apud me est voluntaria lex et 
+          <lb ed="#S" n="46"/>praesumpta quam secundum <unclear>cra?mitem</unclear> iustitiae observata
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e992">
+          <pc type="pilcrow">¶</pc> Sed nec ibi vi<lb ed="#S" break="no" n="47"/>deo 
+          qui poena debita uni in terra vel cum venerit ad purgatorium 
+          <lb ed="#S" n="48"/>si indulgentiae valeant quantum sonant possit sibi de lege 
+          <lb ed="#S" n="49"/>communi qui dum vivit per tales indulgentias totaliter relaxari 
+          <lb ed="#S" n="50"/>cuius contrarium dicit glossa ista Tum quia indulgentiae saepe conceditur de 
+          <lb ed="#S" n="51"/>parte 7a vel 3a iniuncte poenitentiae <pc type="punctus"/> tum quia si occurrerent simul duo vel 3 
+          <lb ed="#S" n="52"/><unclear>indulgentarii</unclear> et hic simul et <unclear>eidem</unclear> voluntate mitteret quis vere contritus et confessu 
+          <lb ed="#S" n="53"/>singulis sub conditione illius cuius conceditur relaxatio 7e non esset rationabile 
+          <lb ed="#S" n="54"/>quin duae 7ae totalis poenitentiae sibi relaxarentur quare enim minus re<lb ed="#S" break="no" n="55"/>laxu 
+          per unum quam per alterum igitur si daret simul sine omni ordine 
+          <lb ed="#S" n="56"/>aliqua tota poena esset relaxata igitur pari ratione si successive ymmo fortius 
+          <lb ed="#S" n="57"/>quia ceteris paribus tunc haberent plures bonos actus interiores
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1027">
+          <pc type="pilcrow">¶</pc> Et 
+          <lb ed="#S" n="58"/>prima sicut prius arguendo tactum est non esset maior ratio quare minu<lb ed="#S" break="no" n="59"/>eretur 
+          poena dampnati divisione aeterna per suffragia huius quam per 
+          <lb ed="#S" n="60"/>talia facta pro beatis similiter cresceret eorum gloria quod non conceduntur 
+          <lb ed="#S" n="61"/>fieri Ex dictis patet ad 3 pars rationes pro opinionem glossatoris vel pro de<lb ed="#S" break="no" n="62"/>fensione 
+          opinionis suae
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1044">
+          <pc type="pilcrow">¶</pc> ad 4m de arrio responsio sicud altissiodorensis quod et 
+          <lb ed="#S" n="63"/>poena accidentalis non essentialis augetur cum videt descendere illos 
+          <lb ed="#S" n="64"/>qui sunt corrumpti per ovis perversam doctrinam et gloria etiam accidentalis 
+          <lb ed="#S" n="65"/>petri et pauli non essentialis augetur cum homines convertuntur per eorum 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>bonam doctrinam secundum illud gaudium est in caelo etc
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1061">
+          <pc type="pilcrow">¶</pc> ad 5m potest 
+          <lb ed="#S" n="67"/>dupliciter responderi secundum altissiodorensem primo quod non est simile quia bene permittit iustitia 
+          <lb ed="#S" n="68"/>aliquem revocari a statu culpae ad statum gratiae in quo mereatur 
+          <lb ed="#S" n="69"/>et postea salvetur sed non permittit poenam remitti post hanc vi<lb ed="#S" break="no" n="70"/>tam 
+          non remissa culpa
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1075">
+          <pc type="pilcrow">¶</pc> aliter etiam communiter quia <unclear>cro?anus</unclear> non erat damp<lb ed="#S" break="no" n="71"/>natus 
+          penitus finaliter ymmo secundum altissiodrensem ad vitam revocandus 
+          <lb ed="#S" n="72"/>erat precibus beati gregorii
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1087">
+          <pc type="pilcrow">¶</pc> Et multi revocati sunt de mor<lb ed="#S" break="no" n="73"/>te 
+          corporis ad vitam ad partes sanctorum qui forte decessrunt 
+          <lb ed="#S" n="74"/>in tali statu informis fidei vel proprie fidem in aliquo proposito remerendi 
+          <lb ed="#S" n="75"/>ad deum licet in sufficienti quod possunt revocari
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1100">
+          <pc type="pilcrow">¶</pc> ad 6 concedi potest conclusio 
+          <lb ed="#S" n="76"/>secundum praedicta
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1108">
+          <pc type="pilcrow">¶</pc> ad 7 dupliciter potest dici vel quod remuneratur per interpollationem 
+          <lb ed="#S" n="77"/>eius vel mitigationem temporalem unde alitssiodrensis
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1116">
+          <pc type="pilcrow">¶</pc> posset inquit dici quod bene 
+          <lb ed="#S" n="78"/>possunt inpetrare dilectionem poenae quia non est contra iustitiam dei quin 
+          <lb ed="#S" n="79"/>dampnati ad momentum habeat refrigerium sed quod diminuatur de poena 
+          <lb ed="#S" n="80"/>suppositum aeternaliter et nihil minuatur de culpa hic est contra iustitiam dei 
+          <lb ed="#S" n="81"/>hic ille id est hoc non permittit divina iustitia
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1130">
+          <pc type="pilcrow">¶</pc> alio modo respondet et bene 
+          <lb ed="#S" n="82"/>idem doctor quod iste qui fuit in caritate per totam vitam 
+          <lb ed="#S" n="83"/>suam puta per 4 annos et pro aliquo mortali in fine vitae suae commisso 
+          <lb ed="#S" n="84"/>aeternaliter dampnatur <unclear>amprae</unclear> meruit quam sibi retribuatur in vita 
+          <lb ed="#S" n="85"/>sua sed non habebit istam gloriam quam meruit quia eam destruxit 
+          <lb ed="#S" n="86"/>per peccatum sequens meritum suum et radicem meriti scilicet gratiam haec iste
+          <lb ed="#S" n="87"/>unde eius iustitiae sicut dicit ezechiel non recordabuntur propter demeritum 
+          <lb ed="#S" n="88"/>et simile est de isto sicut de aliquo qui colendo vineam alicuius 
+          <lb ed="#S" n="89"/>meruit aliquos denarios et antequam recipiat destruxit pe<lb ed="#S" break="no" n="90"/>nitus 
+          quod fecerat et tali non debetur quod meruerat quia destruxit 
+          <lb ed="#S" n="91"/>meritum suum
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1160">
+          <pc type="pilcrow">¶</pc> ad 8m dicendum quod concludit verum secundum istum modum 
+          <lb ed="#S" n="92"/>respondendi 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1168">
+          <pc type="pilcrow">¶</pc> ad argumenta quae probant quod nullam omnino mitigationem habent 
+          <lb ed="#S" n="93"/>dampnati quia nimis concludunt dicendum est ad primum sicud respondet propositioni 
+          <lb ed="#S" n="94"/><unclear>terminus</unclear> quod in inferno nulla est redemptio quantum ad liberationem totalem vel 
+          <lb ed="#S" n="95"/>partialem aeternam aliqua tamen est ibi quantum ad mitigationem poenae 
+          <lb ed="#S" n="96"/>modo concesso
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1184">
+          <pc type="pilcrow">¶</pc> Similiter ad 2m quod frustra fiunt pro talibus orare ut 
+          <lb ed="#S" n="97"/>per hoc totaliter liberentur non tamen quo ad hoc quod eorum poena ali<lb ed="#S" break="no" n="98"/>qualiter 
+          mitigaretur dummodo meruerunt scilicet sic iuvari posset 
+          <lb ed="#S" n="99"/>dum hic vixerint quia hic omne meritum comparatur ut dicit augustinus
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1196">
+          <lb ed="#S" n="100"/><pc type="pilcrow">¶</pc> per idem dicendum ad 3m quod isto casu posito non oraret pro eius li<lb ed="#S" break="no" n="101"/>beratione 
+          totali sed pro mitigatione poenae non hic forte diceret anselmus 
+          <lb ed="#S" n="102"/>sed tantum dum vixerat tantum boni habuit quod meruit talibus quo
+          <lb ed="#S" n="103"/>ad hoc posse iuvari quod tamen non meruit dyabolus ymmo quo 
+          <lb ed="#S" n="104"/>ad hoc est dissimile
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1211">
+          <pc type="pilcrow">¶</pc> ad 4m dicendum quod concludit verum prius concessum 
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1217">
+          <lb ed="#S" n="105"/><pc type="pilcrow">¶</pc> ad 5m dicendum quod per valde malos intelligendi sunt illi secundum hanc vi<lb ed="#S" break="no" n="106"/>am 
+          qui dum vixerunt ita fuerint mali quod nec talia bona fece<lb ed="#S" break="no" n="107"/>runt 
+          unde merebantur cum praedicto posse iuvari
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1228">
+          <pc type="pilcrow">¶</pc> Ad 6m dicendum quod 
+          <lb ed="#S" n="108"/>non recordabuntur quo ad remunerationem vitae aeternae sed temporaliter 
+          <lb ed="#S" n="109"/>possunt aliqua post hanc vitam remunerari modo prius concesso
+        </p>
+        <p xml:id="aw98wa-xg4436-d1e1238">
+          <lb ed="#S" n="110"/><pc type="pilcrow">¶</pc> 7m concludit unum verum prius concessum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
