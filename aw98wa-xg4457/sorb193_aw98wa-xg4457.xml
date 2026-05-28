@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 12 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 12 [Sorb193 Transcription]</title>
+          <date when="2026-05-27">May 27, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-27" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="233-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4457"><!-- b4q12-->
+        <head xml:id="aw98wa-xg4457-Hd1e101">Quaestio 12</head>
+        <p xml:id="aw98wa-xg4457-d1e103">
+          <lb ed="#S" n="111"/>Utrum sit maxima gloria possibilis beato
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e108">
+          videtur sic quia potentia 
+          <lb ed="#S" n="112"/>quaelibet beatificabilis est solum finite beatitudinis capax 
+          <lb ed="#S" n="113"/>sicut et ipsa est finite entitatis sed hoc non si ultra 
+          <lb ed="#S" n="114"/>omnem beatitudinem possibile esset sibi maior possibilis
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e117">
+          <pc type="pilcrow">¶</pc> contra quacumque <add place="margin-right">beatitudine</add> 
+          <lb ed="#S" n="115"/>alicuius speciei repletur creatura beata ad hoc posset repleri causa<add place="margin-right">ta</add> no<lb ed="#S" break="no" n="116"/>bilioris 
+          speciei <add place="margin-right">sed causata beatitudo nobilioris speciei</add> sicut est prima data minus nobilis speciei qua est ista 
+          <lb ed="#S" n="117"/>nobiliori nec est status <unclear>in spec?us</unclear> beatitudinem <unclear>possibilium</unclear> recipi in 
+          <lb ed="#S" n="118"/>hoc beato ad operatam secundum speciem igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e145">
+          <pc type="pilcrow">¶</pc> hic primo respondebitur ad titulum 
+          <lb ed="#S" n="119"/>quaestionis quae introducta est <unclear>obvi?d</unclear> replicationibus cuiusdam magistri contra 
+          <lb ed="#S" n="120"/>ista quae dixi super 2m quaestione 5 Et ego <add place="margin-right">currendo</add> <del rend="expunctuation">credo</del> per istas replicationes 
+          <lb ed="#S" n="121"/>per modum <unclear>du?corum</unclear> expediam me de eis
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e169">
+          <pc type="pilcrow">¶</pc> De primo dico quod 
+          <lb ed="#S" n="122"/>supposita distinctione communi de magnitudine intensiva formarum possibilium inten<lb ed="#S" break="no" n="123"/>di 
+          et remitti infra suas species etiam perfectionales ubi est exces<lb ed="#S" break="no" n="124"/>sus 
+          vel esse potest per aequivalentiam et si non per partem aliquam sit 
+          <lb ed="#S" n="125"/><unclear>excedenter <!-- corrected --></unclear> et exclusa a proposito in gratudine extensiva quia locum 
+          <lb ed="#S" n="126"/>non habet informis pure spiritualibus
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e189">
+          <pc type="pilcrow">¶</pc> Dico inquam quod non est aliqua 
+          <lb ed="#S" n="127"/>beatitudo vel gloria maxima possibilis in beato in quavis una specie 
+          <lb ed="#S" n="128"/>beatitudinis vel gloriae Tum quia repleta creatura intellectuali tali beatitudine 
+          <lb ed="#S" n="129"/>non plus repungnat sibi miraculose aliam prior aequalem re<lb ed="#S" break="no" n="130"/>cipere 
+          quam vasi corporali repleto uno liquore recipere aliud aequale 
+          <lb ed="#S" n="131"/>miraculose secundum extensionem ut patet <del rend="expunctuation">q</del> primo quaestione prima Tum quia dato 
+          <pb ed="#S" n="233-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>quod haec creatura intellectualis demonstrata aliqua possit sic repleri quod per nullam 
+          <lb ed="#S" n="2"/>potentiam posset simul recipere intentiorem quia cum omni natura tali posset fieri 
+          <lb ed="#S" n="3"/>natura intellectualis nobilior quae nobilior possit plus recipere ad hoc 
+          <lb ed="#S" n="4"/>sequitur quod prima gloria non eset maxima receptibilis in beato pro eo quod 
+          <lb ed="#S" n="5"/>magis recipi potest in beato lice non in illo bono quo prius
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e224">
+          <pc type="pilcrow">¶</pc> 2a conclusio sit de 
+          <lb ed="#S" n="6"/>magnitudine perfectionali quod non est aliqua gloria optima in beato possibilis 
+          <lb ed="#S" n="7"/>tum quia omni creata gloria minus nobilis speciei receptibilis in hoc beato puta 
+          <lb ed="#S" n="8"/>petro est una in duplo nobilioris speciei totidem graduum in sua 
+          <lb ed="#S" n="9"/>specie receptibilis in eodem sicut omni liquore receptibili in hoc vase 
+          <lb ed="#S" n="10"/>etc Tum quia ut ad priorem conclusionem 2o argutum est et si esset dare opti<lb ed="#S" break="no" n="11"/>mam 
+          gloriam receptibilem in hoc beato non tamen optimam vel nobilissimam re<lb ed="#S" break="no" n="12"/>ceptibilem 
+          in beato propter causam ibidem tactam
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e245">
+          <pc type="pilcrow">¶</pc> Sed contra ista possunt 
+          <lb ed="#S" n="13"/>esse multa dubia primo quia si anima beata petri non posset per potentiam ali<lb ed="#S" break="no" n="14"/>quam 
+          ista perfecte videre deum quin ad hoc perfectius si placeret deo per<lb ed="#S" break="no" n="15"/>fectiorem 
+          in eo produceret visionem iam data tunc sequitur quod deus 
+          <lb ed="#S" n="16"/>non posset de potentia sua aboluta hominem vel angelum creare cum 
+          <lb ed="#S" n="17"/>tanta visione beatifica quin posset ista beatus plus videre id est magis 
+          <lb ed="#S" n="18"/>beatifice non aucta eius capacitate per viam aliam a deo creabilem sed hoc 
+          <lb ed="#S" n="19"/>est inconveniens quia <!-- addition here ? --> dato hoc potentia eius <unclear>visiva</unclear> esset infinitam ita quod deus 
+          <lb ed="#S" n="20"/>posset facere infinitam visionem in ista potentia quia in quolibet instanti alicuius temporis posset 
+          <lb ed="#S" n="21"/>duplare visionem prius causatam consequentia patet consequens est inpossibile igitur etc Respondeo quod 
+          <lb ed="#S" n="22"/>primum consequens saepe datum <add place="margin-left">est</add> n<subst><add>ec</add><del rend="expunctuation">ut</del></subst> ipsum debet inconveniens videri sed veritas 
+          <lb ed="#S" n="23"/>multipliciter declarata <add place="margin-left">et</add> cum probatur esse inconveniens eo quod potentia tunc visiva pe<lb ed="#S" break="no" n="24"/>tri 
+          esset infinita consequentia esset neganda quia suppono ad praesens communem 
+          <lb ed="#S" n="25"/>doctorum opinionem quod omni creatura facta vel futura posset deus de potentia 
+          <lb ed="#S" n="26"/>sua absoluta facere substantialiter meliorem et quod anima petri posset quamlibet 
+          <lb ed="#S" n="27"/>factibilem si fieret videre Et quod semper respectu nobilioris haberet nobiliorem 
+          <lb ed="#S" n="28"/>visionem quam respectu minus nobilis ceteris paribus praeter visionem et eius obiectum 
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e301">
+          <lb ed="#S" n="29"/><pc type="pilcrow">¶</pc> hiis suppositis quae apud me sunt vera certissima constat quod anima 
+          <lb ed="#S" n="30"/>petri non potest respectu creaturae visionem aliquam ita perfectam habere et no<lb ed="#S" break="no" n="31"/>bilem 
+          quin possit respectu creaturae nobiliorem habere et tamen ex hoc non 
+          <lb ed="#S" n="32"/>sequitur quod habeat potentiam visivam infinitam cum consequens hoc sit inpossibile 
+          <lb ed="#S" n="33"/>et antecedens verum unde tamen et in hoc exemplo in proposito de visionibus respectu 
+          <lb ed="#S" n="34"/>dei concederem quod anima petri est infinite visiva dei sumendo 
+          <lb ed="#S" n="35"/>ly <mentioned>infinite</mentioned> civitate ad hunc intellectum non ita perfecte est visi<lb ed="#S" break="no" n="36"/>va 
+          dei quin adhuc perfectius
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e325">
+          <pc type="pilcrow">¶</pc> Sed contra istud potest dici ulterius 
+          <lb ed="#S" n="37"/>argumenti prosecutio sic <pc type="punctus"/> deus potest causare in anima petri infinitam visionem 
+          <lb ed="#S" n="38"/>ergo ipsa est infinita antecedens probatur data priori responsione quod in quolibet instanti a<lb ed="#S" break="no" n="39"/>licuius 
+          temporis sicud ille arguit etc
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e340">
+          <pc type="pilcrow">¶</pc> dicendum quod antecedens est negandum et ad probationem 
+          <lb ed="#S" n="40"/>dicendum quod ibi accipitur truncata propositio cum dicitur secundum data in quolibet instanti ali<lb ed="#S" break="no" n="41"/>cuius 
+          temporis etc deficit enim ibi hoc verbum potest ad perfectionem <unclear>omnis</unclear>
+          <lb ed="#S" n="42"/>illius quod oportet eum apponere ad complementum illius antecedentis adhuc ut sic 
+          <lb ed="#S" n="43"/>intelligibile quaero igitur ab eo ubi intromittet illud verbum sub intellectum scilicet vel 
+          <lb ed="#S" n="44"/>si ante distributionem ad hunc intellectum quod si primum consequens a me concessum 
+          <lb ed="#S" n="45"/>sic verum scilicet quod omni forma in anima petri creabili posset deus creare 
+          <lb ed="#S" n="46"/>in ea nobiliorem tunc sequitur quod deus posset in quocumque instanti alicuius temporis 
+          <lb ed="#S" n="47"/>in ipsa duplare visionem prius tantam nego consequentiam sicud et consimilis ab 
+          <lb ed="#S" n="48"/>omnibus est neganda cum peccet per <unclear>fi?am</unclear> dictionis omni creatura creabili 
+          <lb ed="#S" n="49"/>potest deus creare meliorem igitur meliorem omni creatura si autem inten<lb ed="#S" break="no" n="50"/>dat 
+          quod ly potest non expressum debeat sequi distributionem ad hunc 
+          <lb ed="#S" n="51"/>intellectum secundum data a me in quolibet instanti alicuius temporis posset deus 
+          <lb ed="#S" n="52"/>duplare visionem in anima petri prius tantam tunc illud concedo sed nego 
+          <lb ed="#S" n="53"/>ulteriorem consequentiam cum infertur ergo deus posset infinitam in anima ista 
+          <lb ed="#S" n="54"/>sicut et ista consimilis consequentia est neganda ab omnibus in quolibet instanti 
+          <lb ed="#S" n="55"/>posset deus creare <add>creaturam duplo meliorem substantialiter prius tnata igitur deus potest causare creaturam</add> in duplo nobiliorem substantialiter prius tantam 
+          <lb ed="#S" n="56"/>igitur potest deus creare creaturam infinitam
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e389">
+          <pc type="pilcrow">¶</pc> 2m dubium potest esse contra responsionem 
+          <lb ed="#S" n="57"/>meam qua arguebam in prima quaestione primi quod sicut simul potest deus mi<lb ed="#S" break="no" n="58"/>raculose 
+          poneretur duo corpora in eodem loco etc quia haec responsio non plus 
+          <lb ed="#S" n="59"/>concludit nisi quod quacumque gratia vel visione posita in anima petri vel in 
+          <lb ed="#S" n="60"/>angelo posset in illa vel illo duplum huius accidens facere et 
+          <lb ed="#S" n="61"/>quadruplum et sic in infinitum quod verum est secundum istum sed ex hoc non 
+          <lb ed="#S" n="62"/>sequitur quod huius accidens duplum foret dupla gratia vel visio ista quod 
+          <lb ed="#S" n="63"/>ex duplatione accidentis quae est gratia non sequitur anima eius cuius 
+          <lb ed="#S" n="64"/>esset acceptari ad duplam beatitudinem nisi augeretur proportionaliter virtus visiva 
+          <lb ed="#S" n="65"/>naturae talis <add place="margin-left">igitur</add> deficit deductio facta ibi a simili <pc type="punctus"/>  Quod autem non oporte<lb ed="#S" break="no" n="66"/>at 
+          accidens duplatum tale esse duplam visionem arguit iste magister 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="67"/>ex hoc quod tale accidens quod secundum veritatem est gratia in anima petri vel 
+          <lb ed="#S" n="68"/>visio posset deus facere in posce et omni gradu <del rend="expunctuation">b</del> iam dato 
+          <lb ed="#S" n="69"/>posset in posce sicut in subiecto ponere gradum secundum entitatem perfectiorem sed tamen 
+          <lb ed="#S" n="70"/>constat quod in posce tale accidens non foret gratia quod hic nomen significat huius 
+          <lb ed="#S" n="71"/>accidens pro ut informat subiectum aliquod inclinando ipsum et disponendo ad 
+          <lb ed="#S" n="72"/>aliquod opus certum et respondendo ipsum acceptum ad beatitudinem certi gradus 
+          <lb ed="#S" n="73"/>et proportionaliter de accidente quod est visio
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e442">
+          <pc type="pilcrow">¶</pc> primum argumentum non plus probat 
+          <lb ed="#S" n="74"/><add place="margin-left">nisi</add> quod cum forma huius receptabili in anima petri possit idem subiec<lb ed="#S" break="no" n="75"/>tive 
+          duplam recipere et quod deus tunc per consequens duplam in ipsa 
+          <lb ed="#S" n="76"/>possit producere sicut ego haberem sic plus probare valet quod in tali 
+          <lb ed="#S" n="77"/>dupla posset anima esse informata ad plus utique quam prima replen<lb ed="#S" break="no" n="78"/>te 
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e461">
+          <pc type="pilcrow">¶</pc> Sed istud non probo non obstante primo qua licet <add place="margin-right">ultra</add> omne ac<lb ed="#S" break="no" n="79"/>cidens 
+          quod sit eo sicut subiectum accidentis possit recipere in duplo 
+          <lb ed="#S" n="80"/>intensius cum virtus eius activa non poterit intensiorem 
+          <lb ed="#S" n="81"/>visionem prima replente ipsa potentia non aucta quia anima non repletur 
+          <lb ed="#S" n="82"/>visione dei per se loquendo nisi ista perfecte videat deum sicut sibi 
+          <lb ed="#S" n="83"/>possibile est per quamcumque potentiam activam ipsa capacitate non aucta 
+          <lb ed="#S" n="84"/>sicud <del rend="expunctuation">u</del>nonquam est anima plena gratia per se loquendo de gratia <add place="margin-right">ut gratia</add> est n<add place="above-line">isi</add><del rend="expunctuation">on</del> causa<lb ed="#S" break="no" n="85"/>tam 
+          habeat qua accepta sic ad tantam visionem beatificam qua maio<lb ed="#S" break="no" n="86"/>rem 
+          non possit habere non aucta capacitate id est non facta ista virtu<lb ed="#S" break="no" n="87"/>te 
+          <unclear>potentiore</unclear> ad videndum deum beatifice etiam de quacumque potentia
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e503">
+          <pc type="pilcrow">¶</pc> Praeterea 
+          <lb ed="#S" n="88"/>si sola <unclear><subst><del rend="expunctuation">ac</del><add>re</add></subst>ceptatio</unclear> naturalis <add place="margin-right">competeret</add> animae beatae respectu visionis beatificae ita quod haec esset 
+          <lb ed="#S" n="89"/>praecisa causa videndi clarius et beatificus <unclear>haberet<!-- possibly corrected --></unclear> scilicet quod huius actus in visu 
+          <lb ed="#S" n="90"/>animae intensive sed hoc est locum magis inpleri corpore habere scilicet solum 
+          <lb ed="#S" n="91"/>passive infra latera sua extensius corpus tunc bene iret ad 
+          <lb ed="#S" n="92"/>propositum sed assumptum est irrationabile ut lapis vel postis possit 
+          <lb ed="#S" n="93"/>esse beatus cum possit recipere subiective talem <add place="margin-right">rem</add> 
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e539">
+          <pc type="pilcrow">¶</pc> Ad illud dubium dico 
+          <lb ed="#S" n="94"/>quod exemplum est satis bonum ad propositum probandum et declarandum quia 
+          <lb ed="#S" n="95"/>licet non sit idem rem istam quae est visio esse talem et esse visionem eo 
+          <lb ed="#S" n="96"/>quod sic talis res fieret per divinam potentiam in subiecto aliquo sicut est de 
+          <lb ed="#S" n="97"/>actibus in sacramento altaris ipsa tunc non foret visio nisi visive 
+          <lb ed="#S" n="98"/>potentiae similiter etiam licet non sic idem istam ratio quae est gratia esse talem 
+          <lb ed="#S" n="99"/>rem et esse gratiam nec etiam sic idem eam esse talem rem informan<lb ed="#S" break="no" n="100"/>tem 
+          naturam beatificabilem vel gratificabilem et esse gratiam ut probavi distinctione 17
+          <lb ed="#S" n="101"/>primi tamen ut probavi <ref xml:id="aw98wa-xg4457-Rd1e561">primo libro distinctione prima quaestione 3a</ref> et etiam solui mortiva quae 
+          <lb ed="#S" n="102"/>videntur esse in contrarium inpossibile est rem istam quae nata est esse visio vel 
+          <lb ed="#S" n="103"/>cognitio informare potentiam cognitivam cuius ipsa nata est esse visio 
+          <lb ed="#S" n="104"/>vel cognitio quin eo ipso ipsa sic visio vel cognitio et eadem ratione 
+          <lb ed="#S" n="105"/>si augmentetur per tales novas partes talis forme inhaerentes tali 
+          <lb ed="#S" n="106"/>potentiae subiective et unitas adinvicem per quem modum probavi augmentationem 
+          <lb ed="#S" n="107"/>fieri informis ipsa potentia videbit perfectius ex eadem causa
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e578">
+          <pc type="pilcrow">¶</pc> Oppositum aut hic 
+          <lb ed="#S" n="108"/>ille supponit et ideo sua ratio non procedit Concedit et mihi quod anima 
+          <lb ed="#S" n="109"/>potest recipere duplum accidens tale et quadruplum et ista deinceps 
+          <lb ed="#S" n="110"/>et ego probavi quod per partes distinctas fit augmentatio etc
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e590">
+          <pc type="pilcrow">¶</pc> Praeterea 
+          <lb ed="#S" n="111"/>si illud quod dat michi sit verum et forma sua arguendi in primo libro 
+          <lb ed="#S" n="112"/>posita vel in primo dubio praesentis articuli posita sit bona tunc ad minus haberet 
+          <lb ed="#S" n="113"/>concedere quod potentia animae receptive talis accidentis esset infinita et quod 
+          <lb ed="#S" n="114"/>corpus posset esse album per infinitam albedinem vel grave per infinitam gratuita<lb ed="#S" break="no" n="115"/>tem 
+          et sic de similibus quae videntur apud <add place="margin-right">me</add> satis esse inconvenientia quia tale grave 
+          <lb ed="#S" n="116"/>nec successive nec subito <unclear>dese?ris</unclear> posset ut probavi libro 3o in materia de 
+          <lb ed="#S" n="117"/>infinto consequentiam ego arguo per formam arguendi suam contra me positam si
+          <lb ed="#S" n="118"/>cum omni tali accidente recepto in se et etiam receptibili possit duplum re<lb ed="#S" break="no" n="119"/>cipere 
+          tunc deus posset facere infinitum tale accidens in tali subiecto probo 
+          <lb ed="#S" n="120"/>hanc consequentiam similem sive per medium ibi quia in quolibet instanti alicuius 
+          <lb ed="#S" n="121"/>temporis posset deus tunc huiusmodi accidens duplum causare et in tali potentia 
+          <lb ed="#S" n="122"/>ad <unclear>prius</unclear> in ea creatum <pc type="punctus"/> Respondeat igitur hic rationi meae et tunc respondebit <add place="margin-right">suae</add> 
+          <lb ed="#S" n="123"/>ibidem
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e637">
+          <pc type="pilcrow">¶</pc> ad primum medium huius magistri <add place="margin-right">quod</add> cum probat quod non oportet tale 
+          <lb ed="#S" n="124"/>accidens duplatum esse duplam gratiam vel duplam visionem de gratia con<lb ed="#S" break="no" n="125"/>cedendum 
+          est sibi quod non oportet quod ipsa sit gratia etiam si informet quia 
+          <lb ed="#S" n="126"/>gratia non est gratia nisi ex acceptione divina sed de visione si informaret 
+          <lb ed="#S" n="127"/>dico quod ipsa non potest <add place="margin-right">non</add> esse visio dum informat potentiam cuius ipsa potest 
+          <lb ed="#S" n="128"/>esse visio et dupla si informet potentiam visivam talem eo ipso 
+          <lb ed="#S" n="129"/>ipsa erit dupla
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e662">
+          <pc type="pilcrow">¶</pc> Et cum probatur quod visio non necessario est visio etiam cum 
+          <lb ed="#S" n="130"/>informet potentiam cuius ipsa nata est esse visio <add place="margin-below">quia si poneretur in posce non esset visio</add>
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e673">
+          <pc type="pilcrow">¶</pc> dico quod haec 
+          <lb ed="#S" n="131"/>probatio deficit in duobus primo quia supponit unum <del rend="expunctuation">apud me</del> apud 
+          <lb ed="#S" n="132"/>me falssissimum valet quod ista res quae est visio beatifica posset 
+          <lb ed="#S" n="133"/>recipi in posce subiective
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e688">
+          <pc type="pilcrow">¶</pc> Nam hoc non est possibilius nisi 
+          <lb ed="#S" n="134"/>quid quod angelus dealbetur 
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e697">
+          <pc type="pilcrow">¶</pc> 2o dato quod sic ad hoc non inprobaret 
+          <pb ed="#S" n="234-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>dictum <add place="above-line">meum</add> quia non dico plus ad propositum nisi quod inpossibile est quod ista res quae est 
+          <lb ed="#S" n="2"/>visio vel quae potest esse visio informet potentiam cui ipsa nata sit 
+          <lb ed="#S" n="3"/>esse visio quin eo ipso ipsa sit visio
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e717">
+          <pc type="pilcrow">¶</pc> per idem per omnia ad 2m 
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e723">
+          <pc type="pilcrow">¶</pc> ad 
+          <lb ed="#S" n="4"/>3m etiam mihi videtur dicendum quod anima nihil agente sed solo deo ipsa possit simul 
+          <lb ed="#S" n="5"/>cum hoc videre deum et intelligere nec auderem contrarium tenere cum 
+          <lb ed="#S" n="6"/>etiam secundum philosophiam intelligere sic quodam pati et dato quod anima ageret vi<lb ed="#S" break="no" n="7"/>sionem 
+          suam idem sequitur et sit finis
+        </p>
+        <p xml:id="aw98wa-xg4457-d1e737">
+          <pc type="pilcrow">¶</pc> Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
