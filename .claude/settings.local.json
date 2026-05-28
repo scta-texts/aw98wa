@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://raw.githubusercontent.com/scta-texts/GHYaf3/refs/heads/master/GHYaf3-d1e100/paris1512_GHYaf3-d1e100.xml\")"
+    ]
+  }
+}
