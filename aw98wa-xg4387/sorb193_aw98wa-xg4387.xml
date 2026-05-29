@@ -370,17 +370,17 @@
           <lb ed="#S"/>proprie <add place="above-line">dictum</add> peccatum actum reprobandi liberum cui debetur poena temporalis 
           <lb ed="#S"/>vel aeterna post hanc vitam nisi satisfaciat
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Et hic conclusio patet per <ref>augustinum 
+        <p xml:id="aw98wa-xg4387-d1e1016">
+          <pc type="pilcrow">¶</pc> Et hic conclusio patet per <ref>augustinum
           <lb ed="#S"/>12 de trinitate capitulo 24 et 25</ref> et <ref>magister ponit libro 2o de 24 capitulo 5 et 6</ref>
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1017">
           <lb ed="#S"/><pc type="pilcrow">¶</pc> 2o dixit quod modus sensualitatis inproprie dictus id est qui non est libere
           <lb ed="#S"/>vere nec interpretative non est peccatum quia omne peccatum proprie dictum 
           <lb ed="#S"/>est liberum per augustinum 3 de libero arbitrio a in multis aliis locis
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> 3o 
+        <p xml:id="aw98wa-xg4387-d1e1018">
+          <pc type="pilcrow">¶</pc> 3o
           <lb ed="#S"/>dicit<del rend="expunctuation">o</del> quod motus sensualitatis est inproprie <add place="margin-right">dictum</add> <del>dictus</del> id est pro quo non debetur poena 
           <lb ed="#S"/>sensus <add place="margin-center">aliqua</add> sed est actus reprobandus vel vitiosus contra primam insti<lb ed="#S"/>tutionem
           <add place="margin-right">hominis</add> Et uniformiter loquendo peccatum veniale in renatus et sic in<lb ed="#S"/>telliguntur 
@@ -389,8 +389,8 @@
           <lb ed="#S"/>libro nullo omnis temptatio carnis peccatum scilicet communiter dictum vel proprie scilicet 
           <lb ed="#S"/>cum libera est vel inproprie cum non est libera aliquo modo
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Contra arguitur 
+        <p xml:id="aw98wa-xg4387-d1e1019">
+          <pc type="pilcrow">¶</pc> Contra arguitur
           <lb ed="#S"/>primo quod aliquod peccatum putat peccatum ignorantiae est poena iuste inflic<lb ed="#S"/>ta 
           et per consequens a deo volita cuius voluntati nemo potest resistere 
           <lb ed="#S"/>iuxta illud apostoli ad Romanos primo quia non glorificaverunt deum proprea 
@@ -399,7 +399,7 @@
           <lb ed="#S"/>ut videtur quia ex quo fuit poena a deo volita et non potuerunt 
           <lb ed="#S"/>diem voluntati resistere etc
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1020">
           <pc type="pilcrow">¶</pc> 2o si<del rend="expunctuation">c</del> ponatur quod aliquis ex unidictam dei pro 
           <lb ed="#S"/>peccato ydolatrae incurrat furiam et in plena furia cognoscat ux<lb ed="#S"/>orem 
           <lb ed="#S"/>alienam peccat alioquin reptaret lucrum de peccato y<lb ed="#S"/>dolatrae 
@@ -407,22 +407,22 @@
           <lb ed="#S"/>in plena furia non agit libere ergo non omne peccatum proprie dictum est 
           <lb ed="#S"/>liberum
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1021">
           <pc type="pilcrow">¶</pc> Confirmatur per exemplum de operante similia in plena ebrietate
           <lb ed="#S"/>quam voluntarie incidit talis enim peccat occido vel adulteran<lb ed="#S"/>do 
           propter medium prius tactum quia <ref>philosophus dicit in ethicorum</ref> <quote>Ebrius faciens 
           <lb ed="#S"/>aliquid enorme duplici interpositione dignus est</quote>
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Praeterea praecipiat deus 
+        <p xml:id="aw98wa-xg4387-d1e1022">
+          <pc type="pilcrow">¶</pc> Praeterea praecipiat deus
           <lb ed="#S"/>alicui ut sciat aliqua et contempnat iste scire tamen possit et post 
           <lb ed="#S"/>incidit in furiam <pc type="punctus"/> in furiam quae sit poena peccati sui vel in 
           <lb ed="#S"/>poenam peccati sui iste in furia quam ex culpa sua incidit 
           <lb ed="#S"/>tenetur talia scire quia per eum stetit quod non sic et quod infuriam inci<lb ed="#S"/>dit 
           ergo ista ignorantia est sibi peccatum
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Praeterea aliquis bene agens ex 
+        <p xml:id="aw98wa-xg4387-d1e1023">
+          <pc type="pilcrow">¶</pc> Praeterea aliquis bene agens ex
           <lb ed="#S"/>necessitate quam sibi ipsi fecit non solum meretur sed magis meretur 
           <lb ed="#S"/>quam si sine tali necessitate bene ageret per anselum cur deus homo 
           <lb ed="#S"/>et per hoc salvat quomodo christus meruit redimendo nos licet necessario 
@@ -430,14 +430,14 @@
           <lb ed="#S"/>necessitate sibi fortiter non solum demeretur sed magis demeretur quam 
           <lb ed="#S"/>unus alius ceteris paribus
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1024">
           <pc type="pilcrow">¶</pc> Praeterea sensualitas est perfecte obediens voluntati 
           <lb ed="#S"/>igitur voluntas subito potest reprimere <del rend="expunctuation">actum</del> motum deordinate sensualitatis 
           <lb ed="#S"/>ergo si non faciat talis motus est libre interpretative et per consequens omnis talis mo<lb ed="#S"/>tus 
           est peccatum proprie dictum antecedens patet per anselmum de conceptu virginis 
           <lb ed="#S"/>ubi dicit quod non possunt non obedire voluntati
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1025">
           <pc type="pilcrow">¶</pc> praeterea magister libro 2o de 14 
           <lb ed="#S"/>capitulo 5 docet quando motus sensualis ad illicitum est peccatum mortale 
           <lb ed="#S"/>et quando veniale et capitulo 6 vult quod sit mortale quando homo voluntarie cum 
@@ -445,11 +445,11 @@
           <lb ed="#S"/>quando non est tantum in sensu huius illecebra tunc non tantum est poena sed <add place="margin-right">culpa sed</add> 
           <lb ed="#S"/>culpa est peccatum proprie dictum igitur etc
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1026">
           <pc type="pilcrow">¶</pc> Item glossa super illud ad Romanso 
           <lb ed="#S"/>video aliam lege etc nisi<del rend="expunctuation">vel</del> vult quod sit culpa et non tantum poena 
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1027">
           <lb ed="#S"/><pc type="pilcrow">¶</pc> Item quaero utrum voluntas possit subito tollere motum sensualitatis ad il<lb ed="#S"/>licitum 
           cum percipitur et hoc non videtur ymmo quod nec subito nec successive 
           <lb ed="#S"/>praesente re delectabili nunc enim non est in potestate voluntatis quin crescetur 
@@ -457,8 +457,8 @@
           subito quantumcumque velit <pc type="punctus"/> Et tunc erunt ibi simul in edendum re aspectus 
           <lb ed="#S"/>contrarii cum in homine non sit nisi unus appetitus et una anima
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Item 
+        <p xml:id="aw98wa-xg4387-d1e1028">
+          <pc type="pilcrow">¶</pc> Item
           <lb ed="#S"/>si motus sensualitatis ad illicitum idem stans sic aliquando peccatum solum in<lb ed="#S"/>proprie 
           et aliquando peccatum veniale proprie dictum et aliquando mortale tunc quaero 
           <lb ed="#S"/>utrum sit dare instans in quo <add place="margin-right">sit</add> peccatum proprie dictum et primum eadem ratione 
@@ -474,11 +474,11 @@
           <lb ed="#S"/>sit verum dicere in instanti mobile moveri si non et contra dictam Responsionem tunc 
           <lb ed="#S"/>esset dare ultimum instans caritatis post quod immediate totaliter non esset contra alias probata
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1029">
           <lb ed="#S"/><pc type="pilcrow">¶</pc> Responsio quod satis rationabiliter respondet iste ut videtur mihi praeter hoc quod non ponit aliquem 
           <lb ed="#S"/>peccare in instanti nec mereri eadem ratione nec tunc aliquem vel nunc primo peccare
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1030">
           <lb ed="#S"/><pc type="pilcrow">¶</pc> unde ad primum istorum dicendum quod illud peccatum ignorantiae in illis non fuit 
           <lb ed="#S"/>a deo volitum nisi conditionaliter si valet ipsi vellent quod cooparetur 
           <lb ed="#S"/>non quod solus causaret istam poenam sic vellent nec etiam quod vellet id est approbaret 
@@ -486,7 +486,7 @@
           <lb ed="#S"/>praeservando eos ab eodem Et propter ea ad illum responsum est in praecedenti 
           <lb ed="#S"/>quaestione
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1031">
           <pc type="pilcrow">¶</pc> ad 2m dicendum ut alias quod talis sic operando in plena furia nec 
           <lb ed="#S"/>peccat proprie <del rend="expunctuation">enim</del> id est peccato cui correspondeat poena aliqua alia sensus peccat 
           <lb ed="#S"/>tamen quia deordinatum actum habet et vitiosum contra poenam hominis <unclear>institutionem</unclear>
@@ -496,8 +496,8 @@
           <lb ed="#S"/>cognitae filias ubi dicitur quod non erat propter hoc dignus puniri quanta 
           <lb ed="#S"/>poena debetur incestui sed <unclear>consequentia</unclear> debetur ebrietati
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> ad argumentum concedo 
+        <p xml:id="aw98wa-xg4387-d1e1032">
+          <pc type="pilcrow">¶</pc> ad argumentum concedo
           <lb ed="#S"/>bene quod ebriosus multiplici plena dignus est quia talis sci<lb ed="#S"/>ens 
           vere vel interpretative quanta mala agit ebrii et quanta 
           <lb ed="#S"/>ipsemet alias in ebrietate operatus est et tamen hoc non obstante libere a<lb ed="#S"/>lias 
@@ -506,14 +506,14 @@
           <lb ed="#S"/>vitet inputabiliter sibi utrumque non tamen noviter peccat cum in plena 
           <lb ed="#S"/>furia vel ebrietate facti homicidium vel adulterium
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Si dicis quod tunc ut 
+        <p xml:id="aw98wa-xg4387-d1e1033">
+          <pc type="pilcrow">¶</pc> Si dicis quod tunc ut
           <lb ed="#S"/>prius qui incidit infuriam propter suum peccatum et tunc occidens ex 
           <lb ed="#S"/>tunc non peccat noviter et tamen peccaret nisi esse furiosus si simile 
           <lb ed="#S"/>faceret reportaret lucrum de ydolatria propter quam incidit in furiam 
           <lb ed="#S"/>per quam excusatur
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1034">
           <pc type="pilcrow">¶</pc> dicendum quod consequentia non valet bene tamen sequitur quod ex furia 
           <lb ed="#S"/>sua lucratur dato quod ante furiam deliberasset et consensisset oc<lb ed="#S"/>cidere 
           hominem innocentem et in tali existens proposito devenisset furi<lb ed="#S"/>osus 
@@ -523,7 +523,7 @@
           <lb ed="#S"/>sola furia hoc facit sine praemediatione et electione nihil lucratur ex 
           <lb ed="#S"/>furia ex ydolatria vero multo fortius nihil lucratur nisi ma<lb ed="#S"/>lum 
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1035">
           <pc type="pilcrow">¶</pc> ad 3m de ignorantia <add place="margin-left">dicendum ignorantia</add> istorum quae sunt necessaria sciri non excusat a 
           <lb ed="#S"/>peccato proprie dicto ymmo nec morali nisi sit ignorantia invincibilis vel 
           <lb ed="#S"/>simpliciter vel pro tempore quo non potest uniti ut patet per gloriam super 
@@ -531,7 +531,7 @@
           <lb ed="#S"/>ignorantia et similiter glossa super illud ad Romanos qui sine lege peccaverunt etc
           <lb ed="#S"/>quod ignorantia non sic excusat quin ardebunt sed sic quod minus ardebit 
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1036">
           <lb ed="#S"/><pc type="pilcrow">¶</pc> ad 4m dicendum quod nulla necessarias ad bene agendum cum qua stat quod 
           <lb ed="#S"/>libere bene agat excludit meritum sicut patet quia religiosus habet necessario 
           <lb ed="#S"/>contingere si sufficienter debet custodiem statum suum ita quilibet etiam christianus 
@@ -541,28 +541,28 @@
           <lb ed="#S"/>male <del rend="expunctuation">age</del> agendum et certe dum quis eset plene ebrius vel furiosus 
           <lb ed="#S"/>non agit libere quae agit
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1037">
           <pc type="pilcrow">¶</pc> ad 5m dico quod voluntas potest subito velle 
           <lb ed="#S"/>reprimere licet <name>firaf</name> hic non diceret si tamen non potest subito mo<lb ed="#S"/>tum 
           sensualitatis ad illicita semper tollere bene tamen potest incipere tollere 
           <lb ed="#S"/>ex ponendo incipere per remotionem praesentis etc et 2o modo intelligendus 
           <lb ed="#S"/>est anselmus
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1038">
           <pc type="pilcrow">¶</pc> ad 6m patet ex 6 quaestione
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1039">
           <pc type="pilcrow">¶</pc> ad 7 dicendum quod non subito 
           <lb ed="#S"/>sed successive et cum probatur quod neutro modo dicendum quod nec voluntas potest vo<lb ed="#S"/>luptuoso 
           sensato nec delectabili nec tristabili sensato non tristabili 
           <lb ed="#S"/>sed nihilominus potest mediante deliberatione et dictamine rationis nolle talem 
           <lb ed="#S"/>delectionem et velle talem tristitiam
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1040">
           <pc type="pilcrow">¶</pc> Et cum probatur quod non quia tunc contrarii 
           <lb ed="#S"/>appetitus simul essent in eadem
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1041">
           <pc type="pilcrow">¶</pc> dicendum quod volendo appetitus contrarios quorum 
           <lb ed="#S"/>unus inclinat ad prosequtionem actus et alter ad fugam vel 
           <lb ed="#S"/>econverso respectu eiusdem verum est quod sit contrarii possunt simul esse in eodem 
@@ -572,7 +572,7 @@
           <lb ed="#S"/>volitio talis rei quam volitio <add place="margin-left">in casu</add> ubi concurrit et aliud obiectum per consequens 
           <lb ed="#S"/><del rend="expunctuation">habens</del> habet
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4387-d1e1042">
           <pc type="pilcrow">¶</pc> ad 8m dicendum quod licet in aliquo casu non sit dare 
           <lb ed="#S"/>primum instans in quo voluntas vult vel odit tamen semper est dare
           <cb ed="#S" n="b"/> <!--230rb-->
