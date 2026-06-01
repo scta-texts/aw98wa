@@ -942,8 +942,8 @@
           <lb ed="#S"/>ab alter dependeat et non videtur possibile quin alter sit periurus quidquid 
           <lb ed="#S"/>decreverunt fratre et cum sanctae ut videtur iuraverunt
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> ad illud dicendum quod u<lb ed="#S"/>trique 
+        <p xml:id="aw98wa-xg4357-d1e2533">
+          <pc type="pilcrow">¶</pc> ad illud dicendum quod u<lb ed="#S"/>trique
           licet licite iuraverit vel voverit quia tamen ista voca repungnant 
           <lb ed="#S"/>non obstante quod utrumque fuerit licitum ideo ex quo tantum conditionaliter vovit 
           <lb ed="#S"/>utrique et conditiones non compatiuntur se inpleri ideo agant sicut si 
@@ -951,8 +951,8 @@
           <lb ed="#S"/>nubat et altera contineat si sic omnino finaliter consentiunt dividere 
           <lb ed="#S"/>inter se absolute tamen quod iustius esset quod uterque eligeret continere 
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Conclusio 
+        <p xml:id="aw98wa-xg4357-d1e2534">
+          <pc type="pilcrow">¶</pc> Conclusio
           <lb ed="#S"/>principaliter arguitur sic <sic>sic</sic> ita quod aliquis peccavit tantum venialiter tamen ex post facto 
           <lb ed="#S"/>credat se falso cum peccasse mortaliter quaero aut ille de necessitate salutis 
           <lb ed="#S"/>tenetur conteri aut non <pc type="punctus"/> si sic contra de solo veniali non tenetur homo conteri de 
@@ -962,8 +962,8 @@
           <lb ed="#S"/>ad puniendum vel ad deponendum conscientiam non est autem 
           <lb ed="#S"/>peccatum ipsum veniale quo secundum veritatem peccavit 
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Xo principaliter potest sic 
+        <p xml:id="aw98wa-xg4357-d1e2535">
+          <pc type="pilcrow">¶</pc> Xo principaliter potest sic
           <lb ed="#S"/>argui si conclusio principalis sit vera tunc aliquis teneretur conteri de peccato actus exteri<lb ed="#S"/>oris 
           <pc type="virgula">/</pc> et hoc non quia non addit malitiam super interiorem actum 
           <lb ed="#S"/>unde <ref>augustinus primo de libero arbitrio capitulo 7 vel secundum aliquos capitulo 6 in fine</ref> si 
@@ -978,21 +978,21 @@
           <lb ed="#S"/>et qui poeniteret citius quam sagitta percuraret non teneretur conteri de occisione 
           <lb ed="#S"/>vel vulneratione tali consequens falsum quia talis est excommunicatus
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> dicitur quod 
+        <p xml:id="aw98wa-xg4357-d1e2536">
+          <pc type="pilcrow">¶</pc> dicitur quod
           <lb ed="#S"/>non apud deum sed apud ecclesiam militantem contra illi clerico fit 
           <lb ed="#S"/>iniuria et non a re inanimata quia talis non potest iniuriam facere nec 
           <lb ed="#S"/>ab alio quam ab emittente sagittam igitur ab illo et ita iste meretur 
           <lb ed="#S"/>poenam ergo tenetur conteri igitur etc
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2537">
           <pc type="pilcrow">¶</pc> Item bonefacius libro 6 sentiat 
           <lb ed="#S"/>contra istum qui mandavit clericum occidere quamvis revocet antequam 
           <lb ed="#S"/>fiat non obstante revocatione dummodo fiat igitur poenitentia <unclear>mea</unclear> quae habetur 
           <lb ed="#S"/>inter mandatum et mortem non sufficit tali igitur nec priori
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> ad illud 
+        <p xml:id="aw98wa-xg4357-d1e2538">
+          <pc type="pilcrow">¶</pc> ad illud
           <lb ed="#S"/>concedo quod qui formatus est vel commissit homicidium tenetur conteri de peccato actus 
           <lb ed="#S"/>exterioris quia non posset exprimere sine hoc plene malitiam suae vo<lb ed="#S"/>luntatis 
           male et eius efficaciam <pc type="punctus"/> dato etiam quod tota poena peccati 
@@ -1000,11 +1000,11 @@
           <lb ed="#S"/>nolendi ut alias declaravi per hugonem sicut dicam in Xa quaestione huius 
           <lb ed="#S"/>4i dandem est igitur primum consequens
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> Et cum probatur quod non quia malitia non 
+        <p xml:id="aw98wa-xg4357-d1e2539">
+          <pc type="pilcrow">¶</pc> Et cum probatur quod non quia malitia non
           <lb ed="#S"/>additur ex actu exteriori
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2540">
           <pc type="pilcrow">¶</pc> dicendum quod ymmo occasionaliter non tamen quia actui 
           <lb ed="#S"/>exteriori debeatur aliqua poena praecisa in purgatorio vel in in<lb ed="#S"/>ferno 
           et cum probatur per exemplum de emittente sagittam ad iniuste occi<lb ed="#S"/>dendum 
@@ -1013,7 +1013,7 @@
           igitur solus ibi actus exterior est culpa cui debetur poe<lb ed="#S"/>na 
           praecisa
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2541">
           <pc type="pilcrow">¶</pc> dicendum quod in isto casu actus exterior non est cul<lb ed="#S"/>pa 
           nec debetur illi poena in isto casu nisi <unclear>hanc</unclear> bnee tamen 
           <lb ed="#S"/>volo quod emittens sagittam tenetur dolere et <unclear>conteri<!-- all instances of this should be checked against "confiteri"--></unclear> de occisione 
@@ -1021,13 +1021,13 @@
           <lb ed="#S"/>proximo et quod tenetur dolere quia malitia sua propria <unclear>praedicata</unclear> secundum actum interi<lb ed="#S"/>orem 
           fuit illativa mali 
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2542">
           Et cum probatur quod sibi ad hoc debeatur poena 
           <lb ed="#S"/>specialis pro facto exteriori non obstante poenitentia interiori puta 
           <cb ed="#S" n="b"/>
           <lb ed="#S"/>pro morte illata
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2543">
           <pc type="pilcrow">¶</pc> Dicendum videtur quod talis in tali casu non est apud deum 
           <lb ed="#S"/>exemplificatus iudicatur tamen ab ecclesia militante excommunicatus nec mirtum quia 
           <lb ed="#S"/>factum est manifestum et sua poenitentia interior est occulta Et cum probatur quod 
@@ -1036,19 +1036,19 @@
           <lb ed="#S"/>facere iniuriam nec bruta nec pueri nec furiosi aut carens usu 
           <lb ed="#S"/>rationis sicud habetur <ref><add place="margin-right">in decretis</add> 15 quaestione 1 merito</ref> et alias allegavi <ref>libro 1 distinctione 17</ref>
         </p>
-        <p>
-          <pc type="pilcrow">¶</pc> dicendum 
+        <p xml:id="aw98wa-xg4357-d1e2544">
+          <pc type="pilcrow">¶</pc> dicendum
           <lb ed="#S"/>quod non sequitur ipse in iuste occiditur vel in iurio se ergo aliquis iniuste vel 
           <lb ed="#S"/>iniuriose eum occidit sed vel hic sequitur vel quod aliquis iniuriose sive 
           <lb ed="#S"/>iniuste egit unde sequitur iniusta mors illius et ista est hic quia ille sagittans 
           <lb ed="#S"/>iniuste et iniuriose emisit sagittam ex quo necessario cursu 
           <lb ed="#S"/>communi sequebatur mors iniusta illius
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2545">
           <pc type="pilcrow">¶</pc> Et cum arguitur 2o quod ipse apud 
           <lb ed="#S"/>deum sit exemplificatus quia bonifacius etc
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2546">
           <pc type="pilcrow">¶</pc> dicendum quod in libro 6 non habetur 
           <lb ed="#S"/>hoc a domino benefacio nisi eo quo quidlibet quod ponitur in <ref>6o est dictum 
           <lb ed="#S"/>bonfacii concilio de sententia excommunicationis capitulo quique</ref> a domino gregorio 10 quod 
@@ -1067,7 +1067,7 @@
           <lb ed="#S"/>6 quod sit mandans incidit in canonem nisi revocatio perveniat 
           <lb ed="#S"/>ad mandatorium ante iniectionem in clericum
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2547">
           <pc type="pilcrow">¶</pc> Et ex hoc videtur posset 
           <lb ed="#S"/>argui quod in primo casu ubi emittens sagittam poenitet ante percutionem
           <lb ed="#S"/>passivam clerici ad hoc apud deum sit exemplificatus quia aliter iudicatur in<lb ed="#S"/>fero 
@@ -1093,7 +1093,7 @@
           <lb ed="#S"/>in eundem et tamen <add place="margin-right">nisi</add> citius perveneat revocatio ad mandatorium non excusatur 
           <lb ed="#S"/>secundum dicta ab exercitione igitur etc
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2548">
           <pc type="pilcrow">¶</pc> Sed hic respondissem nisi plus obsta<lb ed="#S"/>ret 
           quid alqiuid <add place="margin-right">hic</add> praedictum quod iste in 2o casu ubi revocatio <del rend="expunctuation">non</del> est nota 
           <lb ed="#S"/>ecclesiae vel sufficienter sibi probata ideo apud ecclesiam <unclear>indi?tur</unclear> excommunicatus ad 
@@ -1111,12 +1111,12 @@
           <lb ed="#S"/>unde verba sua ibi sunt haec sed positione quod mandavit sed quod ante 
           <lb ed="#S"/>iniectionem manuum penitus quid est
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2549">
           <pc type="pilcrow">¶</pc> Responsio inquid nihilominus 
           <lb ed="#S"/>in canonem incidit nisi revocaverit mandatum ita quod revocatio ad 
           <lb ed="#S"/>ipsum pervenerit supra ante iniectionem manuum
         </p>
-        <p>
+        <p xml:id="aw98wa-xg4357-d1e2550">
           <pc type="pilcrow">¶</pc> Responsio ut prius
           <pb ed="#S" n="228-v"/>
           <cb ed="#S" n="a"/>
