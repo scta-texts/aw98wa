@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8 [Mazarine Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8 [Mazarine Transcription]</title>
+          <date when="2026-06-01">June 1, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="maz">Paris, Bibl. Mazarine, Ms. 915</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-06-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="220-v"/> 
+        <cb ed="#M" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg4357"><!-- b4q8-->
+        <head xml:id="aw98wa-xg4357-Hd1e101">Quaestio 8</head>
+        <p xml:id="aw98wa-xg4357-d1e103">
+          <lb ed="#M" n="63"/><unclear>Tertio</unclear> quaero propter conditionem implicatam praecedenti quaestione utrum 
+          <lb ed="#M" n="64"/>quilibet qui commisit peccatum mortale teneatur secundum legem dei 
+          <cb ed="#M" n="b"/>
+          <lb ed="#M" n="65"/>communem de illo conteri 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e110">
+          et videtur quod non quia nullus ad sibi impossibile sed ali<lb ed="#M" n="66"/>cui 
+          qui commisit peccatum mortale impossibile est conteri 
+          <lb ed="#M" n="67"/>quia sit ista quod sit totaliter oblicus illius igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e119">
+          <pc type="pilcrow">¶</pc> Contra nullus 
+          <lb ed="#M" n="68"/>arbiter suae voluntatis potest novam vitam inchoare 
+          <lb ed="#M" n="69"/>nisi poeniteat eum veteris vitae igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e131">
+          dicendum quod sic
+          <lb ed="#M" n="70"/>si possit sibi ocurrere vel quando sibi occurreret sicud habitum est 
+          <lb ed="#M" n="71"/>praecedenti quaestione <pc type="pilcrow">¶</pc> Et tenetur quilibet talis conteri saltem 
+          <lb ed="#M" n="72"/>formaliter vel virtualiter ut alias explanam super primum librum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e142">
+          <lb ed="#M" n="73"/><pc type="pilcrow">¶</pc> Sed in contrarium potest obici <pc type="punctus"/> quia aliquando unum peccatum est <sic>iuxta</sic> 
+          <lb ed="#M"/>poena alterius hoc probatur per multas auctoritates <ref xml:id="aw98wa-xg4357-Rd1e149">2 sententiarum distinctione 36
+          <lb ed="#M"/>capitulo primo</ref> similiter dicit <name xml:id="aw98wa-xg4357-Nd1e154">gregorius</name> 15 moralium ut ibidem habetur capitulo 3 quod peccatum 
+          <lb ed="#M"/>quod per poenitentiam non diluitur suo pondere mox ad aliud trahit
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e162">
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> Item dicit <ref xml:id="aw98wa-xg4357-Rd1e168">ysidorus libro 2o de summo bono capitulo 39</ref> secundum <name xml:id="aw98wa-xg4357-Nd1e170">firaf</name> quod deus 
+          <lb ed="#M"/>ocultam superbiam vindicat per manifestum luxuriam
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e175">
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> Item diffinitive dicit magister ubi prius capitulo 5 quod in nullo fieri praeiu<lb ed="#M"/>dicium 
+          putatur veritati si quis dicat ipsa eadem quia 
+          <lb ed="#M"/>peccata etc addit tum quod novum quam peccata sunt poena peccati 
+          <lb ed="#M"/>et tum inquantum peccata sunt privationes boni <pc type="punctus"/> sed cau<lb ed="#M"/>saliter 
+          et active ut dixerat <ref xml:id="aw98wa-xg4357-Rd1e189">distinctione 15</ref> arguitur igitur sic unum peccatum 
+          <lb ed="#M"/>est iusta poena alterius <pc type="punctus"/> sed quaelibet iusta poena potest optari 
+          <lb ed="#M"/>alteri qui eam meruit sed ego non teneor conteri de aliquo 
+          <lb ed="#M"/>quod in suo simili licite possum alteri optare igitur 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e198">
+          <!-- disagreement with sorb on para division -->
+          probabiliter potest 
+          <lb ed="#M"/>ad istud dici quod peccatum <pc type="pilcrow">¶</pc> 2m gravius non est proprie poena 
+          <lb ed="#M"/>recompensativa praeceptis sed sic quod per primum demeretur praeserva<lb ed="#M"/>ri 
+          a 2 graviori si tamen perseveret et tunc ad formam 
+          <lb ed="#M"/>alterius videtur quod etiam quod 2a propositio neganda est sive intelligatur de 
+          <lb ed="#M"/>poena recompensativa quia non possum licite alicui viatori op<lb ed="#M"/>tare 
+          <del rend="expunctuation">vitavi</del> aeternam licet illam meruerunt sive etiam intelligatur de 
+          <lb ed="#M"/>poena in qua permittitur homo cadere ratione peccati sui<del rend="expunctuation">o</del> quomodo 
+          <lb ed="#M"/>unum peccatum est iusta poena alterius id est in quam iuste permittitur 
+          <lb ed="#M"/>cadere et a qua meruit minime praeservari quia non possum fornicari 
+          <lb ed="#M"/>optari quod cadat in homicidium licet in illud sit casurus in poenam 
+          <lb ed="#M"/>et confusionem suae prioris culpae quam non vult dimittere sed 
+          <lb ed="#M"/>potius teneor sibi optare emendationem per vias licitas et poenas 
+          <lb ed="#M"/>et confusiones temporales quae non sunt culpae <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e238">
+          videtur tamen quia augustinus 
+          <lb ed="#M"/>et alii sancti ponentes posteriores culpas esse iustas poenas pri<lb ed="#M"/>orum 
+          non dicant verum quia nullum iniustum est iustum sed omne peccatum 
+          <lb ed="#M"/>est iniustum igitur nullum peccatum iniustum est si non est iustum non est 
+          <lb ed="#M"/>aliquod iustum igitur nec poena iusta quia tunc esset hoc iustum demonstrando poenam 
+          <lb ed="#M"/>illam et tamen non esset aliquod iustum quae non possunt se compati ut videtur 
+          <lb ed="#M"/>istam materiam tractat multipliciter diffuse <ref xml:id="aw98wa-xg4357-Rd1e259">libro 2 distinctione 26</ref> et tan<lb ed="#M"/>git 
+          quaestione <c>a</c> idem argumentum Et ibi ponutur auctoritates augustini gregorii et apostoli ad 
+          <lb ed="#M"/>hoc et respondet secundum viam tenentium nullum peccatum inquantum est aliquid esse a deo 
+          <lb ed="#M"/>quod peccatum non est iusta poena essentialiter sed solum active quia infert 
+          <lb ed="#M"/>poenam corrumpendo bonum naturae vel minuendo modo alias exposito
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e271">
+          <lb ed="#M"/>secundum aliam viam respondet quod peccatum quatenus est a deo bonum est 
+          et iustum quatenus alio arbitrio peccantis peccatum est et in<lb ed="#M"/>iustum 
+          est et ideo licet secundum eum secundum hanc viam quae magis concordat cum 
+          <lb ed="#M"/>auctoritatibus sanctorum idem sit peccatum et poena in multis sicud ibi declaravit 
+          <lb ed="#M"/>tamen illud quod simul est peccatum et poena non est poena nec iusta poena ex hoc 
+          <lb ed="#M"/>quod illud simul est peccatum seu inquantum peccatum est <pc type="punctus"/> sed inquantum ad cumulum 
+          <lb ed="#M"/>poenae agregandae permittitur iste iuste in aliud sequens peccatum 
+          <lb ed="#M"/>cadere <name xml:id="aw98wa-xg4357-Nd1e302">scotus</name> <unclear>tum</unclear> ibidem dicit quod si culpa in eo quod culpa sit poena 
+          <lb ed="#M"/>ipsa sub hac conditione non est a deo efficiente sed <unclear>desereun<lb ed="#M"/>te</unclear> <pc type="punctus"/>  
+          Et sic glosat augustinus primo retractationum dicentem quod omnis 
+          <lb ed="#M"/>poena a deo est <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e313">
+          <pc type="pilcrow">¶</pc> 2o potest argui contra dictam conclusionem quia tunc posito 
+          <lb ed="#M"/>quod aliquis habeat multa peccata aut tenetur de quolibet sigillatim 
+          <lb ed="#M"/>poenitere aut non si sic hoc esset periculosum tum quia possent non 
+          <lb ed="#M"/>habere tempus <unclear>plaugendi</unclear> sigillatim et poenitendi de quolibet 
+          <lb ed="#M"/>ante mortem et ista videretur non esse in statu salutis quia non faceret 
+          <lb ed="#M"/>ad quod tenetur et etiam tunc de nullo perfectissime posset conteri occurren<lb ed="#M"/>te 
+          alio consequentia patet quia per actum circa aliud remitteretur actus respectu 
+          <lb ed="#M"/>prioris
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e341">
+          <pc type="pilcrow">¶</pc> Ad illud dico quod expedit tali <pc type="punctus"/> ut convertat se ad deum 
+          <lb ed="#M"/>primo horrendo in confuso quia multipliciter offendit <unclear>dictum</unclear> mortaliter cum 
+          <pb ed="#M" n="221-r"/>
+          <cb ed="#M" n="a"/>
+          <lb ed="#M"/>spe veniae ac desiderio inplorandi divinam et misericordiam et ex 
+          <lb ed="#M"/>tunc discurrat lamentando et amplificando sibi materiam do<lb ed="#M"/>loris 
+          et voluntarie assumendo poenitentiam et sive praeoccupetur mor<lb ed="#M"/>te 
+          antequam praecurrerit illo modo singula sive non ex quo tamen 
+          <lb ed="#M"/>est <unclear>tu</unclear> voluntate emendandi conscientiam suam plene et 
+          <lb ed="#M"/>perveniendi est in <unclear>tuto</unclear> apud deum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e373">
+          et cum arguitur quod si in confuso 
+          <lb ed="#M"/>de omnibus simul debet poenitere primo hoc impediret eum a 
+          <lb ed="#M"/>perfectissima poenitentia singulorum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e386">
+          dicendum quod non est malum 
+          <lb ed="#M"/>incipere ab inperfecto sufficiente ad salutem dato quod totus proces<lb ed="#M"/>sus \
+          non potest perfici et ad perfectionem poenitentiae postea quantum licuit 
+          <lb ed="#M"/>tendere singulorum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e396">
+          <pc type="pilcrow">¶</pc> 3o potest argui si conclusio illa sit vera tunc de 
+          <lb ed="#M"/>peccato pro quo debetur poena intensive infinita teneretur 
+          <lb ed="#M"/>conteri infinite sed tale est impossibile sicud si quis voluisset christum 
+          <lb ed="#M"/>occidere sciens ipsum esse christum per <ref xml:id="aw98wa-xg4357-Rd1e412"><name xml:id="aw98wa-xg4357-Nd1e413">anselmum</name> <unclear>co</unclear> cur deus homo capitulo 
+          <lb ed="#M"/>14 et 15</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e417">
+          <pc type="pilcrow">¶</pc> Item si quis <sic>velle</sic> mortaliter peccare per 
+          <lb ed="#M"/>unum diem deberetur sibi poena gravis in certo gradu <pc type="punctus"/> Et si vellet 
+          <lb ed="#M"/>per duos dies ceteris paribus in <unclear>duplo</unclear> gravior vel saltem 
+          <lb ed="#M"/>si per dies multos igitur per infinitos infinita consequentia negatur
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e433">
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> contra si quis velit male facere et non stet per eum quin faciat 
+          <lb ed="#M"/>aeque peccat sicut si faceret quia etiam parte opus exterius non addit meri<lb ed="#M"/>tum 
+          vel demeritum nisi per accidens quatenus auget voluntatem bonam 
+          <lb ed="#M"/>vel malam igitur velle committere per infinitos dies vel in aliquo 
+          <lb ed="#M"/>casu si committeret peccata infinita successive vel simul si pos<lb ed="#M"/>set 
+          erit ita imputabile ad poenam sicut si actu committeret et 
+          <lb ed="#M"/>tunc meretur poenam infinitam igitur et nunc <!-- para break point? --><pc type="pilcrow">¶</pc> ad istud 
+          <lb ed="#M"/>dicendum quod nullum potest esse peccatum pro quo alicui debeatur poena aeterna in finita 
+          <lb ed="#M"/>intensive et cum probatur quod immo per anselmum de peccato quo quis volu<lb ed="#M"/>isset 
+          christum occidere etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e466">
+          dicendum quod si quis invitatur anselmo nisi 
+          <lb ed="#M"/>igitur est ad oppositum quia dicit quod nullus hoc voluisse actu potuisset <pc type="punctus"/>
+          <!-- possible para break point -->
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> dicendum quod si aliquis posset esse ita perversus quod ex <unclear>minima</unclear> malitia et cre<lb ed="#M"/>dulitate 
+          posset velle deum hominem ipsum offendentem velle oc<lb ed="#M"/>cidere 
+          et in facto faceret quod non clare apparet simpliciter impossibile
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e487">
+          <lb ed="#M"/>dicendum inquam quod adhuc illud peccatum non esse infinitum secundum intrinsecam quan<lb ed="#M"/>titatem 
+          intensivam malitiae sed solam extrinsecam denominationem <pc type="punctus"/> 
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> Contra vult illud occidere quod infinitis bonis creabilibus deberet 
+          <lb ed="#M"/>praeponere in amore et citius velle infinita bona tollere quam tol<lb ed="#M"/>lere 
+          tantum bonum praecipere dato quod crederet per errorem se posse 
+          <lb ed="#M"/>etiam occidere infinitam ipsam deitatem et non solum sibi iniuriari 
+          <lb ed="#M"/><unclear>in infinita</unclear> sibi unita dicendum quod esset infinite malum non proprie <unclear>infinitum</unclear> 
+          <lb ed="#M"/>non sic de aliis peccatis crudelitatis quorum obiecta quibus per se et 
+          <lb ed="#M"/>directe vult inferre mortem vel iniuriam sunt bona finita 
+          <lb ed="#M"/>licet alio modo sint etiam talia communia crimina infinite mala quia fiunt contra 
+          <lb ed="#M"/>praeceptum dei qui est bonum infinitum et quia non dimittuntur ob amo<lb ed="#M"/>rem 
+          boni infiniti quod deus est et quia sunt digna puniri secundum 
+          <lb ed="#M"/>legem communem dei poena infinita secundum extensionem sed praeter omnes tales 
+          <lb ed="#M"/>habitudines communes omnibus peccatis mortalibus haberet iste de quo est 
+          <lb ed="#M"/>sermo conditionem infinitis propriam ex <unclear>ordo</unclear> quod directe respicitur aliter quam 
+          <lb ed="#M"/>alia quare sit infinite malum secundum talem habitudinem extrinsecam ad infini<lb ed="#M"/>tum 
+          bonum cum hoc tamen stat quod sicud intrinsece secundum intensionem malum 
+          <lb ed="#M"/>finitum ista sibi debeatur poena intensive finita et extensive infinita
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e541">
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> ad aliam qua probatur quod est dare peccatum infinitum quia volens 
+          <lb ed="#M"/>peccare per infinitos dies peccaret infinite etc <pc type="pilcrow">¶</pc> Respondendi alias quod 
+          <lb ed="#M"/>assumptum non est verum et quod probo opposita ideo non tenet quia non posset 
+          <lb ed="#M"/><del rend="expunctuation">e</del>exequi infinitis diebus noviter aequaliter peccando nisi median<lb ed="#M"/>tibus 
+          infinitis distinctis volitionibus non sic esset in illo qui solum confuse 
+          <lb ed="#M"/>vellet vel cognosceret peccare infinities dicto modo <pc type="pilcrow">¶</pc> Contra 
+          <lb ed="#M"/>istam responsionem reducit <name xml:id="aw98wa-xg4357-Nd1e568">skeleton</name> contra me ad cuius argumentum quoddam suae 
+          <lb ed="#M"/>primae lectionis ita responderam in <ref xml:id="aw98wa-xg4357-Rd1e570">secundo libro quaestione 5</ref> quod assumptum suum falsum erat 
+          <lb ed="#M"/>de circumstantia temporis dixi enim ut recitat iste magister scriben<lb ed="#M"/>do 
+          et beati quod circumstantia maioris <del rend="underline">tc</del> <unclear>temporis</unclear> arguit actum maiorem si cetera 
+          <lb ed="#M"/>sunt paria et tamen arguit contra me quod tunc ille qui vult peccare per 
+          <lb ed="#M"/>infinitos dies in aliquo habet peccatum suum agravatum quatenus 
+          <lb ed="#M"/>respectu <unclear>festae</unclear> unius diei etc dixi sibi ut recitat et bene quod ex nullo 
+          <lb ed="#M"/>determinato die est actus illius meritorius vel demeritorius alicuius praecisi 
+          <lb ed="#M"/>meriti esset tamen si distincte feretur super quemlibet infinitorum dierum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e594">
+          <pc type="pilcrow">¶</pc><lb ed="#M"/>Contra istam responsionem arguit magister <pc type="punctus"/> iste primo sic <pc type="punctus"/> quia ex ista 
+          <lb ed="#M"/>positione sequitur <del rend="expunctuation">om</del> oppositum positi si fuerunt duo aeque volentes pecca<lb ed="#M"/>re 
+          in omnibus praeter quam quod unus post lapsum proxime diei futurae 
+          <lb ed="#M"/>peccare infinitis diebus sequentibus et alius illo toto die <pc type="punctus"/> Et cum 
+          <lb ed="#M"/>infinitis sequentibus sub hac forma volo semper ex nunc pec<lb ed="#M"/>care 
+          si igitur non sit aggravatio aliqua praecisa respectu unius diei gravius 
+          <lb ed="#M"/>peccaret volens plus de tempore consumere et citius incipere 
+          <lb ed="#M"/>quam volens tardius post volendo continuare aequaliter cuius pono oppositum ut 
+          <lb ed="#M"/>michi imponit praedictus magister <del rend="strikethrough">sm</del>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e632">
+          <pc type="pilcrow">¶</pc> Similiter secundum istud sequetur quod non 
+          <lb ed="#M"/>foret gravius velle peccare die pasce ceteris paribus aut 
+          <lb ed="#M"/>quocumque die festo quam alio die non festo et probat consequentiam magister 
+          <lb ed="#M"/>iste supposito quod ad praeceptum dei ecclesia statuerat aliquo certo 
+          <lb ed="#M"/>anno non fore servandum aliquod festum nec pasce nec aliquid ve<lb ed="#M"/>lint 
+          tunc duo homines aequaliter peccare per omnia praeter hoc tantum quod unus 
+          <lb ed="#M"/>velit peccare per totum annum in quo forent festa servanda 
+          <lb ed="#M"/>velit alius solum isto anno peccare in quo statutum est nullum 
+          <lb ed="#M"/>festum fore servandum et neuter ferat distincte intensio<lb ed="#M"/>nem 
+          suam super ullum diem sui anni huius tunc sic ex nulla 
+          <lb ed="#M"/>die est hic aggravatio facta unde in aliquo praecise esset additio in 
+          <lb ed="#M"/>demerito si postea peccaverit secundum eum igitur non plus in die festo 
+          <lb ed="#M"/>quocumque quam ex alio quae fuit conclusio probanda quae tamen est irrationalis et 
+          <lb ed="#M"/>false et forte ecclesia hoc dampnaret 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e677">
+          quod autem ista conclusio sit falsa probo 
+          <lb ed="#M"/>nam sequitur iste vult toto isto anno continuare peccatum suum 
+          <lb ed="#M"/>sibi est reus volitionis transgressionis determino observando 
+          <lb ed="#M"/>aliquod festum alius non sic igitur in aliquo praecise aggravatur <unclear>retractus</unclear> huius 
+          <lb ed="#M"/>volitionis quatenus est respectu diei festi et non plus quam respec<lb ed="#M"/>tu 
+          alterius diei igitur inquit secundum istam opinionem meam ego haberem 
+          <lb ed="#M"/>concederem <!-- something else here? --> illam suspectam conclusionem vel quod respectu cuiuslibet 
+          <lb ed="#M"/>diei sit propria aggravatio quod est oppositum positi <pc type="punctus"/> <!-- possible para break --> <pc type="pilcrow">¶</pc> Item contra aliam 
+          <lb ed="#M"/>responsionem in qua dixi sicud communiter dicitur ad similia argumenta concludentia 
+          <lb ed="#M"/>infinitatem meriti vel demeriti quod scilicet non sequitur ista conclusio propter confu<lb ed="#M"/>siorem 
+          cognitionem
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e709">
+          contra hoc inquit arguo sic et rogat quod ego respondeam 
+          <lb ed="#M"/>clare solvendo illud et tunc adhaerebit mihi in hac parte scilicet ceteris 
+          <lb ed="#M"/>inquit paribus non foret data aliqua certa aggravatio<del rend="expunctuation">ne</del> ex toto 
+          <lb ed="#M"/>tempore <!-- possible para break --><pc type="pilcrow">¶</pc> Item ex additione tanti temporis additio tanta in aggra<lb ed="#M"/>vatione 
+          nec duplum tempus duplo aggravaret propter confu<lb ed="#M"/>sionem 
+          cognitionis qua cognoscitur maius sequitur quod infinita 
+          <lb ed="#M"/>confusio totam tollit aggravationem ex tempore possibilem probatur consequentia 
+          <lb ed="#M"/>sic aliqua confusa cognitio finitorum temporum aliquid minuit vel minuit de 
+          <lb ed="#M"/>aggravatione quae foret dupla forsan si fuisset aeque distincta co<lb ed="#M"/>gnitio 
+          sicud prius ergo iuxta proportionem cognitionis ad confusionem erit 
+          <lb ed="#M"/>huius dummodo aggravationis respectu alterius aggravationis quia 
+          <lb ed="#M"/>ipsa est principaliter causa diminuitionis et quare ergo non crescit proportionaliter ag<lb ed="#M"/>gravatio 
+          cum tempore iuxta proportionem temporum invicem quis igitur nisi spon<lb ed="#M"/>te 
+          proferens quod mente non potest concipere <unclear>negabit</unclear> sequi ex in<lb ed="#M"/>finita 
+          confusione infinitam diminuitionem aggravationis et ita per consequens 
+          <lb ed="#M"/>minus grave foret velle per infinitum tempus peccare quam omnibus ali<lb ed="#M"/>is 
+          paribus per diem <unclear>c?m</unclear>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e761">
+          <pc type="pilcrow">¶</pc> Istud argumentum inquit saepe feci contra 
+          <lb ed="#M"/>istum modum respondendi nec unquam audivi solutionem <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e769">
+          <pc type="pilcrow">¶</pc> Item 
+          <lb ed="#M"/>ista duo inquit sunt opposita vel antecedentia ad opposita quae secundum 
+          <lb ed="#M"/>eum ego pono valet quod velle peccare per maius tempus cognitum 
+          <lb ed="#M"/>esse ceteris tale paribus est gravius quam velle per minus tempus et haec aliud 
+          <lb ed="#M"/>quod in huius volitione quae est respectu multorum temporum confuse cognitorum non est 
+          <lb ed="#M"/>additio alia respectu dici unius de illis diebus cognitis confuse 
+          <lb ed="#M"/>quia ex uno inquit istorum infertur oppositum alterius quia sequitur ex primo quod 
+          <lb ed="#M"/>sub <sic>directo</sic> uno die de maiori tempore quod minus est demeritum 
+          <lb ed="#M"/>in aliquo ceteris paribus cum hoc quod cognoscatur ista subductio 
+          <lb ed="#M"/>ergo ex appositione tantum crescit quantum diminuitur ceteris paribus 
+          <lb ed="#M"/>igitur aliquid praecise est additum respectu cuiuslibet diei et econverso si nihil respectu diei 
+          <lb ed="#M"/>praecise additur ergo nihil diminuitur per eius subtractionem consequens est contra primum sup<lb ed="#M"/>positum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e807">
+          <pc type="pilcrow">¶</pc> Item ex ista responsione videtur quod continans malam voluntatem 
+          <lb ed="#M"/>respectu fornicationis vel alterius criminis sive actum ipsum moralem 
+          <lb ed="#M"/>nihil cogitando de tempore nec cognoscendo actualiter confusa cogni<lb ed="#M"/>tione 
+          vel distincta tempus non aggravaret actum suum ex tempore nec 
+          <lb ed="#M"/>augeret plus ex tempore maiori patet consequentia ex quo procedit diminutio ag<pb ed="#M" n="221-v"/><cb ed="#M" n="a"/><lb ed="#M" break="no"/>gravationis 
+          in infinitum iuxta diminutionem distincte cognitionis igitur 
+          <lb ed="#M"/>ubi nulla actualis cognitio nulla erit aggravatio 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e838">
+          <pc type="pilcrow">¶</pc> ad ista respondeo ad 
+          <lb ed="#M"/>primum nego illud quod accepit quod ex illa mea positione sequitur oppositum positi
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e849">
+          <lb ed="#M"/><pc type="pilcrow">¶</pc> Ad primam probationem bene concedo quod 2us ille quid statim 
+          <lb ed="#M"/>ex nunc vult incipere simile peccatum per omnia sicud alius 
+          <lb ed="#M"/>ex die crastina et dico inceps post infinitis di<lb ed="#M"/>ebus 
+          illud continuare gravius peccat ceteris omnibus paribus 
+          <lb ed="#M"/>sic volendo quin de exequendo non est dubium quin suum 
+          <lb ed="#M"/>praedicatum sit maius extensive <pc type="punctus"/> quia citius inchoavit et non 
+          <lb ed="#M"/>terminabitur inquantum stat pro nunc per eum sicud peccatum alterius 
+          <lb ed="#M"/>causa una quare 2us gravius peccat est quia habet velle efficax 
+          <lb ed="#M"/>primus non sed velle consimile hoc quod 2us habet horae ita quod 
+          <lb ed="#M"/>cras eligat sic ex <del rend="expunctuation">tunc</del> nunc volo sic peccare ita graviter pecca<lb ed="#M"/>bit 
+          ille cras ut credo sicud alius hodie ex hoc quod sic praecise vult 
+          <lb ed="#M"/>quia consimilem actum per omnia habebit tunc sicud 2us hodie
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e888">
+          exemplum lon<lb ed="#M"/>ge 
+          meliorem actum habet ille qui statim vult propter deum re<lb ed="#M"/>linquere 
+          <unclear>tand?ci</unclear> quam qui vult hinc ad annum non solum 
+          <lb ed="#M"/>propter tempus sed propter <del rend="expunctuation">solum</del> meliorem actum secundum se quia unus est dila<lb ed="#M"/>tius 
+          boni operis et inefficax et alter efficax
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e901">
+          alia causa potest esse 
+          <lb ed="#M"/>quia alius potest ferre cognitiones suas per omnia sicud primus ita 
+          <lb ed="#M"/>quod cogitet sic volo incipere statim et continuare usque cras 
+          <lb ed="#M"/>et deinceps usque in infinitum ubi alius dicit volo differre usque 
+          <lb ed="#M"/>cras et deinceps usque in infinitum et tunc ille qui statim 
+          <lb ed="#M"/>vult incipere habet duo peccata unum quo distincte vult pec<lb ed="#M"/>care 
+          per unum diem et alium quo vult confuse ex tunc 
+          <lb ed="#M"/>per omnes dies confuse conceptos in infinitum continuare vel alter 
+          <lb ed="#M"/>habet tantum unum aequivalens vel quasi alteri eorumdem distinctorum 
+          <lb ed="#M"/>peccatorum alterius si igitur primo modo solum sit velle prius 2i gra<lb ed="#M"/>vius 
+          peccatum quam velle prius primi hoc non erit in iota 
+          <lb ed="#M"/>ex die uno contento sub tempore pro quo nunc eligit 
+          <lb ed="#M"/>peccare quia tunc dixi quod si primus oratio similem actum 
+          <lb ed="#M"/>eliciat ita graviter peccabit ille cras per positionem primam <del rend="expunctuation"><pc type="pilcrow">¶</pc> verumptamen dico quod ille</del> sui actus sicut 2us homine per actus sui 
+          <lb ed="#M"/>poenam causationem <pc type="punctus"/> <pc type="pilcrow">¶</pc> verumtamen dico quod ille qui incipit hodie 
+          <lb ed="#M"/>gravius peccabit ex circumstantia primae diei quam ille qui cras in<lb ed="#M"/>cipiet 
+          <pc type="virgula">/</pc> simile peccatum secundum omnes alias circumstantias si neuter 
+          <lb ed="#M"/>cessabit ante alium vel nunquam ex mora maiori distincte quia 
+          <lb ed="#M"/>quantitative aggravabitur <del rend="expunctuation">ante alium vel numquam</del> noviter et distincte 
+          <lb ed="#M"/>peccatum utriusque ex mora et continuatione voluntaria ex quo 
+          <lb ed="#M"/>posset dimittere peccatum malum et tenetur et tamen libere continuat 
+          <lb ed="#M"/>eum sed istud non est ad propositum contra me in praesenti puncto sed solum 
+          <lb ed="#M"/>est hic ad propositum de maiori vel minori tempore principaliter volito tamquam 
+          <lb ed="#M"/>duratione in <sic>qua</sic> modo vult post mala agere in illo modo 
+          <lb ed="#M"/>casus est adhuc multo planior et satis expressus quare 2us peccat 
+          <lb ed="#M"/>gravius et ibi concedendum est quod est distincta et <unclear>singulare</unclear> aggravatio ex primo 
+          <lb ed="#M"/>die et ex nullo alio nisi ponatur aliter casus ita enim posset casus po<lb ed="#M"/>ni 
+          quod distincta aggravatio proveniret ex hoc quod vellet peccare 
+          <lb ed="#M"/>per duos primos dies vel 3 primos etc sed semper minus et 
+          <lb ed="#M"/>minus esset consequenter ceteris paribus quanto de pluribus sic simul 
+          <lb ed="#M"/>cogitaret antequam veniret ad confusionem dierum infinitorum 
+          <lb ed="#M"/>sequentium et ex tunc ex nullo die illius confusionis aggra<lb ed="#M"/>varetur 
+           secundum quantitatem aliam certam et distinctam
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1006">
+          <pc type="pilcrow">¶</pc> ad 2m argumentum istius 
+          <lb ed="#M"/>magistri in primis dico quod velle violare sabbatum non est 
+          <lb ed="#M"/>eo ipso quod est tale velle violatio sabbati non plus quam hic 
+          <lb ed="#M"/>ad <unclear>annum</unclear> velle percutere clericum <unclear>sic</unclear> percusio clerici sed quis 
+          <lb ed="#M"/>in ipso praesente sabbato male faceret vel vellet malefacere 
+          <lb ed="#M"/>tunc violaret sabbatum peccando realiter in sabbato et 
+          <lb ed="#M"/>hoc sine actu cogitat de sabbato nec propter istam reverentiam sabbati 
+          <lb ed="#M"/>dimittit sive non cogitet quia teneretur recolligere se 
+          <lb ed="#M"/>cogitando de deo et sabbato et aliis circumstantiis retrac<lb ed="#M"/>tivis
+          a peccato et cogitare quod peccatum suum si fiat in sab<lb ed="#M"/>bato 
+          esset violatio sabbati contra praeceptum dei nihil enim debet quis 
+          <lb ed="#M"/>deliberate facere nisi scito vel firmiter opinato quod ipsum non 
+          <lb ed="#M"/>sit contra aliquod dei praeceptum si recogitaret autem ut sequitur 
+          <lb ed="#M"/>surgente temptatione deo et praeceptis dei occurreret illud 
+          <cb ed="#M" n="b"/>
+          <lb ed="#M"/>memento quod diem sabbati sanctifices et ista haberet <unclear>unde</unclear> se retra<lb ed="#M"/>here 
+          debet ab opere peccati et quod non cogitat non excusatur a toto 
+          <lb ed="#M"/>saltem licet a tanto in casu illo praecise stante a tanto ubi 
+          <lb ed="#M"/>conscientia sua sibi dictat et post facto quod si dicitur sabbato
+          <lb ed="#M"/>cogitasset dimississet peccare et similiter etiam dato quod conscientia 
+          <lb ed="#M"/>sua dicit sibi ex post facto quod non dimississet propter sabbatum ad hoc 
+          <lb ed="#M"/>si nihil cogitavit de sabbato attenuatur peccatum suum ex hic quod 
+          <lb ed="#M"/>non ita expressam irreverentiam fecisset sabbato tunc sicud si de 
+          <lb ed="#M"/>sabbato cogitasset et nihilominus peccare destitisset
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1079">
+          <pc type="pilcrow">¶</pc> 2o videtur mihi 
+          <lb ed="#M"/>quod ille qui vult peccare per annum in quo festa sunt ser<lb ed="#M"/>vanda 
+          si omnia alia sint in paria gravius peccat quam qui solum 
+          <lb ed="#M"/>per annum vult peccare in quo statueretur festa non esse ser<lb ed="#M"/>vanda 
+          maxime si propter festa si essent servanda dimitteret 
+          <lb ed="#M"/>in festis diebus peccare vel dimittere intenderet si enim 
+          <lb ed="#M"/>penes eum determinetur expresse et propter festa non dimitteret si es<lb ed="#M"/>sent 
+          nescio eius praesens nullae attenuari in ratione demeri<lb ed="#M"/>ti 
+          respectu alterius qui quolibet die sui anni tam festo quam in alio vult 
+          <lb ed="#M"/>peccare
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1108">
+          <pc type="pilcrow">¶</pc> 3o videtur mihi dicendum quod gravioritas peccati unius istorum 
+          <lb ed="#M"/>super alium non est in aliquo ex quantitate temporis pro quo iste vel ille proponit 
+          <lb ed="#M"/>peccare <pc type="punctus"/> sed vel ex qualitate vel circumstantia ipsa vel praecepti 
+          <lb ed="#M"/>dei vel de sabbato et de festis aliis servandum cuius praecepti 
+          <lb ed="#M"/>transgressio esset executio volita ab uno in casu principalis argumenti 
+          <lb ed="#M"/>et non exsecutio volita ab alio ceteris paribus eligens 
+          <lb ed="#M"/>aut illud quod fiat si erit plurium praeceptorum dei vel ecclesiae transgres<lb ed="#M"/>sio 
+          plus peccat quam alter eligens ceteris paribus <pc type="punctus"/> id quod 
+          <lb ed="#M"/>paucorum de eisdem transgressio quid mirum <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1141">
+          <pc type="pilcrow">¶</pc> 4to 
+          <lb ed="#M"/>dico quod cum hoc quod velle unius istorum sit gravius peccatum quam 
+          <lb ed="#M"/>velle alterius et circumstantia festorum servandorum qualificatum 
+          <lb ed="#M"/>tempus et obiectum volitum staret optime quod ex nullo die anni aliqua 
+          <lb ed="#M"/>praecisa aggavatione aggravaretur illud quo vult vel eligit 
+          <lb ed="#M"/>peccare per totum annum in quo sunt festa servanda quia cum hoc 
+          <lb ed="#M"/>staret quod in libera voluntate sui praelati esset post huius velle ordinare 
+          <lb ed="#M"/>indifferenter sicud sibi placeret quibus diebus anni servarentur 
+          <lb ed="#M"/>illa festa ita quod de nullo die constaret sic voluntati peccare per 
+          <lb ed="#M"/>totum annum <unclear>anim</unclear> illo vel in alio celberaretur pasca vel festum 
+          <lb ed="#M"/>aliquid et per consequens cum toto hoc staret quod non plus ex uno die quam ex 
+          <lb ed="#M"/>alio aggravaretur malitia sui velle quo vult peccare 
+          <lb ed="#M"/>quolibet die anni sed aggravaretur ex hoc quod non vult deferre fe<lb ed="#M"/>stis 
+          sicud teneretur ex praecepto
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1190">
+          <pc type="pilcrow">¶</pc> Ex hiis ad formam argumenti 
+          <lb ed="#M"/>istius magistri dicendum quod prima consequentia qua ex antecedente per me dato <sic>in</sic> 
+          <lb ed="#M"/>infert quod non foret gravius velle peccare die pasce mortaliter 
+          <lb ed="#M"/>vel alio die solempni quam in die non festo <pc type="punctus"/> non valet quia velle 
+          <lb ed="#M"/>peccare die pasce mortaliter vel alio die <sic>solepni</sic> est velle ante<lb ed="#M"/>cedenter 
+          et expresse transgredi distinctione 1 verum praeceptum dei vel ecclesiae quod non 
+          <lb ed="#M"/>vult simile omnino peccatum quo ad alia non falsa facere in die <unclear>non</unclear> 
+          <lb ed="#M"/>festo
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1221">
+          et non probationem huius consequentiae cum praemisso casu illo qui ponitur 
+          <lb ed="#M"/>arguitur ex eo contra me <unclear>sic</unclear> ex nulla die est hic aggrava<lb ed="#M"/>tio 
+          facta unde in aliquo praeciso esset additio in demerito secundum positionem 
+          <lb ed="#M"/>meam ut dicit igitur nec ex die festo <pc type="punctus"/> 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1238">
+          <pc type="pilcrow">¶</pc> ad istud dico quod <del rend="expunctuation">a</del> 
+          <lb ed="#M"/>antecedens est falsum haec enim non est positio mea nec alicuius rationalis hominis sed 
+          <lb ed="#M"/>positio mea et aliorum est quod cum quis eligit vel vult peccare per infi<lb ed="#M"/>nitos 
+          dies tunc ex nullo illorum dierum si suum velle non di<lb ed="#M"/>stantius 
+          feratur super unum illorum quam super alium est in aliquo praecise 
+          <lb ed="#M"/>additio in demerito talis hominis sic volenter ex hoc prae<lb ed="#M"/>cise 
+          quod sic vult et istud scribendo recitat de me non 
+          <lb ed="#M"/>illud aliud quod mihi hic inponit nec istud quod nunc imponit habet a me 
+          <lb ed="#M"/>teste suo proprio sexterno in quo posuit dicta mea immo 
+          <lb ed="#M"/>de diebus finitis dixi quod confusius cognoscuntur simul sicut sint paria 
+          <lb ed="#M"/>quam unus illorum per se et scilicet 4or cognoscuntur adhuc confusius cognoscitur 
+          <lb ed="#M"/>tunc quilibet quam primus et proportionaliter confusius eligitur et est volitum quod 
+          <lb ed="#M"/>ad circumstantiam temporis quod quis eligit facere pluri<lb ed="#M"/>bus 
+          diebus quam quod paucioribus ita quod quamvis ex <sic>quod</sic> 
+          <lb ed="#M"/>die addito crescat meritum vel demeritum minus tamen ex 
+          <lb ed="#M"/>quolibet dierum aeque confuse apprehensorum cum quis 
+          <lb ed="#M"/>vult per plures dies <unclear>continuare</unclear> vel iterare simile meritum 
+          <lb ed="#M"/>vel demeritum quam cum per pauciores conatu et aliis 
+          <pb ed="#M" n="222-r"/>
+          <cb ed="#M" n="a"/>
+          <lb ed="#M"/>circumstantiis existentibus paribus et ideo licet ex omni die addito intran<lb ed="#M"/>te 
+          aequalem confusionem cognitionis et volitionis cum quolibet 
+          <lb ed="#M"/>aliorum crescat meritum vel demeritum ipsum tamen differenter crescit 
+          <lb ed="#M"/>et non crescit meritum ita copiose ex decimo die sicut ex 2o 
+          <lb ed="#M"/>die addito crevit in praeterito ergo patet quod posui quod quando pro di<lb ed="#M"/>ebus 
+          multis in certo numero finito eligitur aliquid fieri meritorie 
+          <lb ed="#M"/>maxime cum quilibet illorum individualiter apprehenditur confuse vel 
+          <lb ed="#M"/>distincte pro quolibet die habet distinctum meritum ac remissius 
+          <lb ed="#M"/>ex circumstantia temporis quanto dies illi fuerunt confusius 
+          <lb ed="#M"/>apprehensi et cum toto hoc stat immo sequitur ex tali casu quod 
+          <lb ed="#M"/>quod ex die <unclear>festo</unclear> est aliquod praecipuum meritum cum hoc etiam stat 
+          <lb ed="#M"/>quod ex die festo magis demeritum crescit talis volitionis quam 
+          <lb ed="#M"/>ex die non festo non ratione more sed ratione <unclear>ppalis</unclear> prae<lb ed="#M"/>cepti 
+          de sanctificando sabbatum ut dixi <pc type="punctus"/> Et ita ex hoc nichil habet contra 
+          <lb ed="#M"/>me
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1352">
+          <pc type="pilcrow">¶</pc> Dicas si quis vult vel vellet ex 
+           nunc infitis diebus aut omnibus diebus futuris peccare volitio 
+           ista esset electio transgressionis praecepti de sanctificando sabbatum ex presse 
+          vel interpretative igitur tunc ex diebus festivis cresceret tunc peccati 
+           sui gravitas ratione circumstantiae istius specialis praecepti et <unclear>non</unclear> in in finitum 
+          plus ex die festo quam ex die non festo igitur ad hoc 
+           ex quolibet istorum esset aliquod praecipiuum demeritum igitur totale de meritum 
+          erit infinitum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1375">
+          <pc type="pilcrow">¶</pc> Et confirmatur quia dato quod ex diebus non
+           festis non adderentur praecipuum demerita si tamen ex diebus 
+           festis addantur ut iam videtur esse probatum adhuc haberet de meritum 
+          infinitum quia qui vult peccare infinitis diebus non 
+           obstante praecepto sanctificationis sabbati expresse vel interpretive 
+           in diebus festis infinitis peccare quia omnis pars <unclear>aliquota</unclear>
+           temporis infinit<del rend="expunctuation">a</del><add place="above-line">i</add> est infinita vel esse sed nunc est ita quod ad minus 
+           dies festi sive sanctificato sabbati id est dominici dies sunt aliqua pars 
+           igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1407">
+          <pc type="pilcrow">¶</pc> ad illud dicendum est proportionaliter sicut prius quod si aeque confuse 
+           vellet infinitis diebus festis futuris peccare gravius peccaret 
+           quam alius volenus peccare infinitis diebus futuris dato quod 
+           non esset multa festa servanda cum tamen neuter ex aliquo die 
+           sit confuse cognitio haberet aliquod praecipium demeritum sicud in simili prius 
+           dictum est
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1426">
+          <pc type="pilcrow">¶</pc> ad clariorem tamen intellectum responsionum istarum et pro <add place="above-line">se</add>quentibus 
+           etiam argumentis notandum quod aliqua cognosci vel diligi vel odiri vel 
+           eligi vel esse volita confuse potest ad propositum dupliciter intelligi uno modo 
+           quod talia sunt confuse cognita vel volita individualiter alio modo 
+           confusione cognitionis specifice vel generalis vel aliter universalis <del rend="underline">actus</del> primo modo 
+           cum video totam superiorem albi ad me versam et quodammodo 
+           distincte et eam <add place="margin-right">cognosco</add> cognitione individuali et propria video eius medietatos 
+           confuse et eius quartas confusius et sit sine fine procedendo isto 
+           modo si videam pedalme albedinem distincte alias modo si sibi 
+           iungatur alia pedalis videbo utramque confusius quam prius 
+           vidi unam partem et si tertiam ad hoc confusius quamlibet quam prius 
+           indifferenter me ferendo super omnes istas simul per visum 
+           ita etiam est cum aspexero multa hominum capita de solario 
+           in vico confusius videbo quodlibet istorum quam si aspexero apu ciores 
+          et semper quanto plures uniuntur simul vel ordine quodam eo 
+           confusius etiam quanto proceditur in <add place="margin-right">tali</add> ordine individuali cognitione ad 
+           confusiorem semper et confusiorem et proprtionaliter diligendo et volendo meritorie 
+           vel demeritorie sive iuxta talem confusam cognitionem individualem 
+           sensitivam per sensum interiorem vel exteriorem sive iuxta confusam 
+           cognitionem intellectivam semper dicam quod ex quolibet sic confuse cognito 
+           vel volito addatur meritum vel demeritum aliquod licet minus semper 
+           et minus quanto confusius et sic cognoscitur diligitur vel eligitur aut respu <del rend="expunctuation">t</del>itur 
+          contra rationem rectam vel secundum rectam rationem <pc type="punctus"/> Et sit intelligo
+           quod praedixi quod crescente confusione cognitionis vel volitionis 
+           de crescit crementum <add place="above-line">in</add> merito vel demerito et tamen cuilibet aliquid debetur 
+           ita quod si isto modo habeatur confusa cognitio vel ymaginatio isto modo 
+           dierum multorum et aliorum obiectorum et correspondenter actus cognitionis vel vo litionis 
+          proportionales in confusione tali sive ymaginationi individuali si aeque 
+           confuse cognoscatur quodlibet talium et non aliter quam sic uniformiter et 
+           proportionaliter ocnfuse eligitur vel respuit cuilibet debetur aliqua propria 
+           additio in merito vel demerito vere vel interpretive vel per aequivalentiam 
+           quam diu sic proceditur quanto tamen ex additione plurium ex parte 
+           obiectorum fuerit cognitio vel volitio confusior tanto minus correspon debit 
+          unicuique talium <pc type="punctus"/> quamvis semper aliquid <pc type="punctus"/> ita quod ibi de crescit 
+          crementum sicut crescit confusio ita scilicet quod sic cognitio 
+           vel volitio confusior ut praedixi de tali cognitione confusa igitur 
+           vel amore intelligatur ista pars responsionis <add place="margin-right">talis</add> tamen cognitio confusa 
+           vel potest esse per hoc quod <unclear>intelligitur</unclear> semper ad minus et ad minus secundum partes 
+           proportionales vel alio aliquo modo sicut in exemplo et ex hoc non potest 
+           inferri meritum esse infinitum licet daretur ex quolibet tali cognito 
+           vel volito isto modo confuse in casu isto fieri aliqua praecisa 
+           additio in merito vel demerito etiam si darentur infinite huius ad ditiones 
+          quia proportiones non essent aequales si <del rend="expunctuation">re</del> irent semper aliud minus
+          <pb ed="#S" n="227-r"/>
+          <cb ed="#S" n="a"/>
+           et minus
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1558">
+          <pc type="pilcrow">¶</pc> 2o modo in isto principali sensu potest fieri confusior et confusior cognitio 
+           vel volitio semper ex additione ex parte obiectorum semper aequalium et hic vel 
+           sic <pc type="punctus"/> quod facta additione plurium quam prius cognita vel volita non 
+           cognoscuntur nec diliguntur ita distincte sicut prius et sicut pauciora 
+           ceteris paribus cognoscerentur vel diligerentur omnia tamen uniformiter cognos cuntur 
+          et aequaliter ita quod non distinctius unum quam reliquum 
+           vel alio modo quod talia sic ordinantur quod primum ex illis cognoscatur 
+           vel diligatur distinctius quam 2m et 2m quam 3m et sic consequenter sicud 
+           cum video unum magnum proprium uno aspectu distincto respectu totius 
+           propri sed confuso respectu partium distinctius video mihi propinquiores 
+           quam remotiores sicud et propinquiores immutant sensum meum ista 
+           forte est cum cogito <add place="margin-left">uno actu</add> bene facere cras vel 3o <add place="margin-center">die</add> et 4o et sic secundum ordinem 
+           obiectorum quorumdam inter se in compositione ad actum <unclear>continendum</unclear> et neu tro 
+          istorum duorum modorum possunt simul confuse cognosci vel di ligi 
+          confusione individuali actu obiecta distincta ab alio quo vis 
+          aequlia infinita et ideo de talibus obiectis sic confuse cognitis 
+           vel volitis loquendo licet simul cognitorum vel volitorum detur 
+           aliqua certa portio meriti vel demeriti vel per aequivalentiam in actu 
+           electionis vel resputionis talium nonquam tamen potest inferri infirmitas 
+           meriti vel demeriti in actum meritorio vel demeritorio sit confuso quia 
+           numquam possunt simul infinita talia apprehendi diligi 
+           individualiter 2o modo principali confuse cognitionis vel dilectionis vel 
+           volitionis confuse eligit quis vel vult qui determinat 
+           apud se quod cotidie vult pascere duos pauperes 
+           vel aliquos in certo numero non determinando se ad aliqua individua 
+           mundi plus ad unum quam ad aliud
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1629">
+          <pc type="pilcrow">¶</pc> Similliter cumquis ex a more 
+          dei omnibus hominibus optat intense salutem de nullo 
+           individualiter cogitando sed solum confuse in specie et sic de simili bus 
+          Et breviter in tali casu <del rend="underline">si non</del> determinetur per actum talem 
+           certa aliqua multitudo tunc planum est quod ex nullo obiecto sic specifice 
+           cognito vel volito crescit meritum vel demeritum in aliquo prae cise 
+          <pc type="punctus"/> unde si mille milia proximorum essent pauciores in mun do 
+          isto quam de facto sunt in nullo iota propter hoc minus meretur 
+           iste qui omnibus proximis optat ferventer salutem quam modo de 
+           facto mereatur ceteris existentibus paribus nec plus quam de facto meretur 
+           si cotidem essent plures proximi quam de facto sunt <pc type="punctus"/> si autem intellectio 
+           vel volitio feratur super plura simul solum mediante actu 
+           cognitionis vel volitionis confuse confusione specifica vel ulteriori 
+           sub termino numerali vel multitudinis infinite ut pote cum quis pro 
+           amore dei vult pascere 10 pauperes in die ieiuna re 
+          10 sextus feriis in ammo ad nullum individuum se de terminando 
+          nec etiam aliquod individualiter cognoscendo sed solum in 
+           specie vel in ulterioribus
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1679">
+          <pc type="pilcrow">¶</pc> dico quod cum quis <add place="margin-left">sic fert</add> se super multitudinem in finitam 
+          utpote cum eligit infinitis diebus bene facere si posset 
+           tantum vivere non <unclear>determinatius</unclear> se ferendo super unum istorum plus quam 
+           alterum tunc nec iota nec ex aliquo infinitorum dierum talium 
+           super que cadit sua volitio redditur suum velle alicuius 
+           determinate quantitatis in merito ista quod ex nullo talium aliquod <unclear>praeceptum<del rend="expunctuation">uum</del></unclear>
+           meritum <unclear>sicud<!-- corrected--></unclear> <unclear>nec <!-- corrected --></unclear> priori exemplo cum quis omnibus proximis optat salutem 
+           quando vero determinate fertur quis se per actum unum specificum non in divudalem 
+          modificatum <add place="margin-left">sincategorematice</add> <del>intelligentiae</del> numerali super certam pluralitatem 
+           aliquorum licet ex nullo individuo sic specifice cognito aliquid sibi 
+           accrescat <unclear>praeceptum<del rend="underline">uum</del></unclear> intrinsecum vel demeritum quia nec aliquid determinate 
+           sive individualiter apprehendit sic ista nec plus determinat se ad sortes 
+           et platonem quam ad quoscumque alios qui eligit cotidie pas cere 
+          duos pauperes et ita de talibus ad hoc si cetera sint paria 
+           plus meretur iste qui super plura isto modo fertur per volitionem quam qui 
+           super puaciora pro eo quod velle maiius bonum et executionem magis 
+           meritoriam est magis meritorium si cetera sint paria quam vel le 
+          minus bonum et minus bonas executiones vel minus bonam 
+           sed executio est magis meritoria ceteris paribus si quis vult 
+           pascere X pauperes quam tantum deuos quia in executione pas cendi 
+          10 pauperes erunt 10 bonae et meritoriae operationes 
+           habita sua in paria <unclear>exequtiva</unclear> mediantibus quibus <unclear>fieret</unclear> 
+           vel unam vel alias voluntates 10 non sic cum quis pas ceret 
+          solum duos ceteris paribus <add place="margin-left">nam meliorum executionis electio semper est ceteris paribus</add> melior sed electio qua 
+           quis statuit pascere 10 pauperes <del rend="expunctuation">et etiam</del> est electio 
+          me<cb ed="#S" n="b"/> lioris executionis quam ista qua ceteris paribus duos pau peres 
+          tantum statuerit pascere et nunc concedit hic magister iste quod 
+           opera bona omnia similia frequentata augent noviter meritum 
+           verumptamen ista iteratio est una circumstantia quam non habuit primum 
+           opus ut dicit etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1787">
+          <pc type="pilcrow">¶</pc> Eodem modo potest argui ex parte demeriti 
+           uno velle gravis peccare ceteris paribus est peccatum gra vius 
+          quam velle minus graviter peccare <pc type="punctus"/> sed velle 10 
+           <unclear>di?tes</unclear> homines spoliare in futuro et ex tunc cessare a la trociniis 
+          est velle gravius peccare quam velle unum vel 
+           suos spoliare antequam cesset a latrociniis igitur primum 
+           est gravius Et in rei veritate maior vel minor confusio in 
+           isto <unclear>peccato<!-- correction? --></unclear> nihil facit <pc type="punctus"/>  quia ista distincte concipio mille homines sub 
+           hoc conceptu specifico hominis demonstrato per hoc sincathegorema mille 
+           sicut per hoc sex vel duos ymmo et aeque distincte conditio infinitos 
+           homines sicut cum dico vel concipio specifice solum duos homines 
+           et ideo ut praedixi distinctio vel confusio in hoc puncto 
+           ad propositum nihil facit sed hoc quod ceteris paribus eligit 
+           plura vel pauciora bona vel mala facere in futuro et 
+           electio plurium bonorum melior est quam paucorum quia ad 
+           plura bona inpellit si ab isto numero recederetur igitur est 
+           melior et sic patet quod confusio specificata ab individuo 
+           sic volito tollit <unclear>praecisum</unclear> meritum si non aliter apprehendatur
+           ista in se
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1844">
+          <pc type="pilcrow">¶</pc> Istis visus Responsio ad residua argumenta illius magistri
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1850">
+           <pc type="pilcrow">¶</pc> Ad 3m dico quod maior vel minor confusio non habet locum de 
+           hiis quae sunt cognita vel volita eadem cognitione specifica praeci se 
+          ut visum est sed de cognitis et volitis et volitis con fuse 
+          actu cognitionis individualis id est latis super determinata 
+           et certa individua vel quod non sunt alia et in tali primo concessi 
+           quod non oportet data certa aggravatione ex certo tempore iterum 
+           ex additione causati temporis fieri causatam additionem in aggravatione 
+           demeriti dummodo super utrumque cadat confusius 2a vite quam 
+           priori super primum tempus nam si distincto et alio actu intelligeret secundum aequale 
+           tempus per se 11a vice sicut prius fecerat primum tunc bene esset simile 
+           ceteris paribus et par aggravatio utrobique sed sic loqui 
+           non est ad propositum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1881">
+          <pc type="pilcrow">¶</pc> Concedo igitur quod non est tanta aliud 
+           dicto in tali casu qui sic de confusa volitione individu ali 
+          plurium simul et aequaliter quam ante ex 2o sicut erat ex primo ymmo 
+           semper minor erit et minor quando plura cadunt sub actu posteri ori 
+          quam sub priori <pc type="punctus"/> et tunc quando infertur quod tunc sicud maior con fusio 
+          facit ut ceteris paribus ex quolibet confuse cognitorum vel 
+           volitorum minus redditur actus meritorius quam si pau ciora 
+          aequalia semper ad invicem et totaliter distincta essent aeque in tense 
+          et ex aequali caritate et pro aequaliter bono fine et ita 
+           de ceteris circumstantiis igitur infinita confusio totam 
+           tollit aggravationem ex aequali tempore primo dato vel vo lito 
+          vel cognito sic confuse possibilem non valet consequentia u nitate 
+          loquendo de <add place="margin-right">confusione</add> <del rend="expunctuation">confirmatione</del> quia inpossibile est infinita 
+           vel aequalia ad invicem et totaliter distincta simul cognosci sic 
+           confuse ut superius habitum est in praemissa 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e1928">
+          <pc type="pilcrow">¶</pc> Et 
+           dato ad hoc quod possent concedet conclusionem sicud dedi ex 
+           alia parte de cognitis vel volitis confuse universaliter sed tunc 
+           tota bonitas meriti surgit ex natura actus et ex circumstantia 
+           obiecti secundum speciem sive ex hoc quod ex aliquo individuo aliquod 
+           potest primum <del rend="expunctuation">primum</del> surgat in merito et ex circumstantia finis et aliis 
+           huius ut patet satis quod non ex aliqua parte finite talis 
+           consequens infiniti totaliter cogniti confuse vel aliquo singulari obiecto 
+           taliter solum cognito sicu de cognitis et volitis confuse con fusione 
+          universali ut <unclear>supra<del rend="expunctuation">l</del></unclear> visum est nec valet etiam ulterior consequentia quod 
+           si ex infinita confusione respectu unio diei cum quis eligit 
+           peccare per dies infinitos sequeretur infinita diminutio aggravatio nis 
+          respectu unius diei igitur minus grave foret velle peccare 
+           per tempus infinitum quam ceteris paribus per unum diem <del rend="strikethrough">11</del> 
+           tantum quia cum hoc quod ex uno in nullo aggravaretur in eo qui 
+           vellet per infinitum tempus peccare demeritum suum secundum aliquid prae cisum 
+          sibi correspondens staret quod aggravaretur tantum aliunde 
+           puta ex natura malititae talis actus qui licet non sit in tensior 
+          quam prior ex casu est tamen alterius speciei mali tie 
+          ex obiecto etiam volito infinito quantum stat per voluntatem quae
+          <pb ed="#S" n="227-v"/>
+          <cb ed="#S" n="a"/>
+           in tantum licet non intensius quam prius fert se in malum volitum 
+           secundum protensionem tam amplam ut dies una vel finitum quid istius
+           voliti nullatenus advertatur verumptamen ut praedixi penitus in possibile 
+          est ut infinita aequalia totaliter diversa confuse sic indivi dualiter 
+          scilicet cognoscantur vel sint etiam volita tali modo et ideo argumentum 
+           istis visis <unclear>parvum</unclear> cogit
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2006">
+          <pc type="pilcrow">¶</pc> 4m argumentum huius magistri procedit ex 
+           malo intellectu non enim negavi quin volitio quae est respectu mul torum 
+          in certa pluralitate cognitorum confuse individualiter ut prae ex posui 
+          habeat additionem propriam in demerito ex uno isto rum 
+          dierum <pc type="punctus"/> nec <add place="margin-left">quin minuatur demeritum</add> <del rend="underline">quod immutatur</del> ex subductione unius diei in simili 
+           actu respectu pauciorum ceteris paribus <pc type="punctus"/> sed negavi et ad hoc 
+           nego certam additionem esse in merito vel demerito voli tionis 
+          quae est confusa respectu infintorum dierum nec mirum quia 
+           nullus habet volitionem malefaciendi per infinitos dies cognitos 
+           individualiter sed specifice solum et ex nullo die solum specifice cognito 
+           et consequenter sive proportionaliter volito tum quis eligit per dies infinitos 
+           malefacere crescit demeritum solum in iota ut prius declaravi 
+           nec etiam decrescit subducto uno die ab entibus non distinctis 
+           cognito sicut dixi supra si tentum materia proximorum subtraherentur 
+           <unclear>amendo</unclear> non minus meretur quam nunc qui omnibus proximis opta ret 
+          salutem solum in specie apprehensis et ideo quod quis perpendat 
+           subductionem vel additionem non potest intelligi solum in cognitis 
+           confuse confusione universalitatis vel <del rend="expunctuation">de</del> speciei sed de cognitis in dividualiter 
+          confuse sed taliter non est possibile infinita simul aequa lia 
+          cognosci vel apprehendi ut ostendi in <del rend="strikethrough">4</del> quaestione <add place="margin-left">10</add> distinctione 14 et in <!-- possible margin addition of 3a -->
+           quaestionibus sequentibus <sic>sequentibus</sic> de infinitis
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2081">
+          <pc type="pilcrow">¶</pc> 5m argumentum est inpertinens 
+           ad propositum de aggravatione volitionis male ex reali du ratione 
+          in diebus vel temporibus maioribus vel minoribus et non 
+           de agravatione proveniente ex hoc quod volitio mala transit 
+           super plures vel pauciores dies Cum quid de tali moro sa 
+          mansione male volitionis vel tempus maius vel minus ego 
+           dicere habeam satis notum est hiis qui viderunt et audierunt 
+           quae superius diximus in multis locis
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2103">
+          <pc type="pilcrow">¶</pc> 4o principaliter argui potest contra conclusionem 
+           positionis sit <pc type="punctus"/> quia aliquod est peccatum de quo non potest conteri in <unclear>confusione</unclear> 
+           et tamen tunc maxime tenetur si umquam ut videtur et de quo non 
+           potest sufficienter poenitere <pc type="punctus"/> quia sententialis in poenitentia est huius ymmo 
+           mentiretur in confusione qui diceret se conteri vel confiteri de finali 
+           in poenitentia igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2126">
+          <pc type="pilcrow">¶</pc> ad illud dicendum quod licet nullus possit sufficienter poe nitere 
+          de finali in poenitentia eundo ad vim sermonis quia praedicatum 
+           appellat suam formam tamen de finali in poenitentia potest quilibet 
+           ea peccans si spatium sibi supererit vite cum usu liberi arbitrii 
+           poenitere <add place="margin-left">et ideo non sequitur quod aliquod sit peccatum de quo concesso spatio vite cum usu liberi arbitrii non valeat poenitere</add> et tamen probatur quod non quia sit <unclear>fa?ns</unclear> mentiretur dicendo minus in con fessione 
+          quod peccasset finali in poenitentia
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2148">
+          <pc type="pilcrow">¶</pc> dicendum quod non debet isto 
+           modo confiteri sed quod peccavit tali vel tali peccato quia secundum verita tem 
+          non est nec unquam fuit finalis in poenitentia si de 
+           isto vere poeniteret
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2160">
+          <pc type="pilcrow">¶</pc> 5o principaliter sic arguitur <add place="margin-left">sic</add> quod alqiuis in <c>a</c> instanti primo peccet 
+           mortaliter et numquam post ante mortem habeat <del rend="expunctuation">ubi</del> usum liberi arbitrii 
+           iste non tenetur conteri nec potest conteri de isto peccato quia nec tunc quando 
+           primo sic peccat nec ante <del rend="expunctuation">a</del> nec post igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2184">
+          <pc type="pilcrow">¶</pc> ad illud potest dici 
+           quod iste tenetur prius non sic peccas quia in hoc instanti prius natura posset 
+           non peccare etc ad propositum applica et ad illud etiam est responsum 
+           supra in suo simili quaestione 6 huius 4i ad 4m argumentum 2i articuli
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2196">
+          <pc type="pilcrow">¶</pc> 6o 
+           principaliter potest sic argui quia homo non tenetur de primo peccato suo conteri 
+           igitur etc probatio assumpti quia omne peccatum est primo peccatum in instanti sed 
+           pro tali non tenetur conteri quia aut potuit prius vitasse quod <add place="margin-center">nunc</add> 
+           non peccaret et non fecit nec voluerit et per eum <unclear>steterit</unclear> et tunc prius 
+           omisit ad quod tenebatur et per consequens non primo peccavit <add place="above-line">nunc contra casum vel non potuit</add> vi tasse 
+          usque nunc primo <add place="above-line">et</add> <del rend="expunctuation">tunc</del> non potest hic vitare quia omne quod est 
+           quando est etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2233">
+          <pc type="pilcrow">¶</pc> ad istud dicendum quod si sibi concedatur spatium <add place="margin-center">vite</add> 
+           ad poenitendum cum usu rationis tenetur conteri de peccato nunc com misso
+          <pc type="punctus"/> vel quod nunc primo et peccatum mortale vel in instanti fu it 
+          vel erit primo peccatum mortale et cum quaeritur utrum nunc pec cans 
+          mortaliter potuit vitasse nec nunc peccaret etc 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2253">
+          <pc type="pilcrow">¶</pc> dico 
+           quod utrumque est possibile in casu alio et alio possibili non enim potuit 
+           prius si tunc primo habuit praeceptum vel iudicium contra quod tunc 
+           agit
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2265">
+          <pc type="pilcrow">¶</pc> Si vero detur casus aliquis in quo nunc primo peccat 
+          <cb ed="#S" n="b"/>
+           mortaliter et hoc peccato quod nondum potuit cavisse ne autem 
+           esset et ne nunc etiam esset mortale sicut causa <unclear>genetur</unclear> exemplum de illecebra mo rose 
+          recenta sicut ponitur exemplum in alia quaestione tunc dicendum sicut ibi 
+           ista enim posset poni casus quod nunc primo peccaret mortaliter et ista quod non <add place="margin-right">nunc primo</add>
+           sicut ibi calrius ostendetur unde ista consequentia non est necessaria iste ante <add place="margin-right">instans</add>
+           <c>a</c> potuit cavere ne in <c>a</c> peccaret mortaliter in quo secundum verita tem 
+          peccat sic et non cavit ergo ante <c>a</c> mortaliter peccat vel pec cavit 
+          quia angeli qui per peccatum facti sunt dyaboli antequam pec caverunt 
+          non potuerunt melius facere quam fecerunt forte quia <add place="margin-right">per sanctos</add>
+           <del rend="underline">perfecti</del> usque ad lapsum s<del rend="expunctuation">t</del>ecerunt ita bene sicut fecerunt non 
+           illi angeli qui steterunt et per consequens angeli non peccaverunt 
+           Et tamen videtur cuidam doctori quod bene cavisse potuerunt <add place="margin-right">ne peccassent quando peccaverunt</add> unde si 
+           arguatur quod angeli mali numquam peccaverunt <add place="below-line">quia</add> <unclear>nec</unclear> potuerunt ca vere 
+          ergo non peccaverunt quia nullus peccat in eo quod vitari non potest 
+           secundum augustinum 3o de libero arbitrio <c>a</c> capitulo 28 et de duabus animabus capitulo 
+           6 et 9
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2343">
+          <pc type="pilcrow">¶</pc> assumptum probatur quia nec postquam peccaverunt modum est 
+           nec etiam quando peccaverutn quia omne quod est quando est etc nec ante quia 
+           ante angelus non potuit melius facere quam fecit ad vitandum 
+           peccatum quia ita fecit tunc sicud illi qui steterunt igitur omnino <add place="margin-right">non</add> potuerit
+           cavere peccatum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2361">
+          <pc type="pilcrow">¶</pc> Responsio inquit quod antequam peccaverunt potuerunt 
+           cavere peccatum Et cum probatur quod non <pc type="punctus"/> quia antequam peccaverunt non po tuerunt 
+          melius facere quam fecerunt <add place="margin-below">ponatur inquit quod hoc sit verum ergo inquies antequam peccaverunt non potuerunt melius facere</add> ad cavendum peccatum conceditur similiter 
+           hic et non sequitur ergo ipsi <add place="margin-center">ita</add> peccaverunt peccatum sicut illi qui steterunt 
+           ratio sumitur ex <sic>loyca</sic> quia isti termini cavebant praecavebant ante 
+           peccatum dicebantur de eis per modum futuri contingentis vel dependentis <add place="margin-right">a</add>
+           futuro sicut isti termini praedestinatus sive electus Et ideo si ante istum 
+           actum futurum a quo dependebat veritas istarum propositionum non poterant 
+           melius facere quam fecerunt ad hoc quod essent caventes vel prae caventes 
+          sive electi sive praedestinati non tamen sequitur quod tunc fuerunt 
+           electi vel praedestinati et pari ratione nec caventes peccatum nec praecaven tes 
+          nisi aliquis dicat quod cavere non dependet quo ad significatum 
+           a futuro contingenti Et si hoc dicatur oportet dicere consequenter quod angeli illi 
+           cavebant peccatum suum quia ante <add place="margin-center">quam</add> peccaverunt cavebant illud nec sequitur ex 
+           hoc quod non peccaverunt ymmo si argumentum tunc habeat locum tunc accipitur cavere 
+           pro praecavere et tunc respondetur ut dictum est haec iste Et haec sunt pulchra et 
+           probabiliter dicta
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2417">
+          <pc type="pilcrow">¶</pc> 7o principaliter potest sic argui quia aliquod est peccatum quod homo ca vere 
+          non potest et de tali non tenetur conteri igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2426">
+          probatio assumpti habeat 
+           homo praeceptum de conformando voluntatem suam deo involito et post revelet 
+           sibi deus quod ipse vult eum dampnari iste non potest evadere peccatum 
+           ergo etc.
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2437">
+          <pc type="pilcrow">¶</pc> Item revelet deus alicui quod nisi cadat in aliquod vile peccatum 
+           non salvabitur et si cadat salvabitur iste non potest evadere peccatum 
+           sive nullum peccatum sit sive non igitur non peccat peccando quia nemo 
+           peccat in eo quod vitare non potest
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2449">
+          <pc type="pilcrow">¶</pc> ad illud dico quod nullum est peccatum 
+           mortale actuale quod non possit caveri prius natura vel tempore quam sit pec cetur
+          Et cum probat in contrarium de isto cui deus revelet <add place="margin-right">quod vult eum dampnare</add> dico quod si 
+           talis usque tunc fuisset in gratia non oportet ex hoc quod sic sibi 
+           talis revelatio quod necessitetur <add place="margin-right">peccare</add> vel gratia suam perdere ut declaravi 
+           in simili super <ref xml:id="aw98wa-xg4357-Rd1e2471">3m distinctione 14 tractando materiam de revelationibus</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2474">
+          <pc type="pilcrow">¶</pc> Et ad 
+           2m cum instatur per alium modum revelationis ibi appositum dicerem quod ille 
+           cui <unclear>exunt</unclear> in caritate fieret ad hoc talis revelatio posset eva dere 
+          peccatum mortale ad hoc et dico quod talis habet formaliter velle 
+           cavere omne peccatum mortale occurrens ei de quo temptatur et ro gare 
+          deum fortissime <unclear>nec</unclear> unquam  cadat in aliquod peccatum mortale 
+           parvum vel <unclear>gravde</unclear> tamen cum toto hoc stat quod posset et talis sine peccato 
+           mortali malle cadere in vile peccatum et salvari quam non in vile 
+           sed <unclear>incongrue</unclear> <pc type="punctus"/> si omnino oporteret alterium et dampnari ista scilicet quod plus odi at 
+          dampnari ex levi mortali futuro quam in <unclear>futuro</unclear> <add place="margin-right"><unclear>viliter</unclear></add> peccare et per poenitentiam 
+           de isto salvari nulla tamen revelatio possibilis potest sibi facere licitum velle 
+           mortaliter peccare vel leviter nec graviter sive viliter sed non obstante quacumque 
+           revelatione tenetur de necessitate salutis quod licet occurrens de quo temptaretur 
+           vitare vel nulle vitare et rogare deum quod per viam aliam possibilem 
+           salvet eum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2524">
+          <pc type="pilcrow">¶</pc> 8o principaliter potest sic argui de periurio inevitabili 
+           non tenetur homo conteri et hic cum ipsum esset peccatum ergo etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2532">
+          <pc type="pilcrow">¶</pc> Quod sit tale 
+           possibile probatur sic <pc type="punctus"/> super et soror ambo boni ambo devoti et utrique 
+           bene aestimans de reliquo Et <unclear>moveat</unclear> super per se sorore 
+           ignorante cogitans eam esse bonam <add place="below-line">et volens eam</add> <unclear>unitari</unclear> in bono voverat
+          <pb ed="#S" n="228-r"/>
+          <cb ed="#S" n="a"/>
+           inquam sit si soror mea nubat et utatur coniunxtione coniugali ad
+           procreationem prolis et ad dei honorem ego nubam Et consimiliter illa agat 
+           econtra nesciens de voco fratris sui veneat cogitans licite de 
+           successione generis sui hereditantia ad honorem dei si frater meus nu bat 
+          et procreat prolem ego servabo castitatem si autem ipse velit 
+           castitatem et hoc mihi innotuerit ego nubam hoc facio neuter 
+           potest evadere periurium igitur de tali non tenetur conteri Quod aut isti fratri sit 
+           periurium mortale in se vel etiam in sorore patet et inevitabile quia aut contine bit 
+          et tunc si soror nubat est periurus et si ipsa continat ipsa est 
+           periura vel frater talis nubet et tunc si soror <add place="margin-left">continuat</add> <del rend="underline">nubat</del> est periurus si ipsa 
+           nubat est periura Quid igitur facient cum <unclear>convenerunt</unclear> <add place="margin-center">quia</add> utriusque vocum 
+           ab alter dependeat et non videtur possibile quin alter sit periurus quidquid 
+           decreverunt fratre et cum sanctae ut videtur iuraverunt
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2533">
+          <pc type="pilcrow">¶</pc> ad illud dicendum quod u trique
+          licet licite iuraverit vel voverit quia tamen ista voca repungnant 
+           non obstante quod utrumque fuerit licitum ideo ex quo tantum conditionaliter vovit 
+           utrique et conditiones non compatiuntur se inpleri ideo agant sicut si 
+           a capite non venissent expendit tamen quod persona infirmior et periculosior 
+           nubat et altera contineat si sic omnino finaliter consentiunt dividere 
+           inter se absolute tamen quod iustius esset quod uterque eligeret continere 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2534">
+          <pc type="pilcrow">¶</pc> Conclusio
+           principaliter arguitur sic <sic>sic</sic> ita quod aliquis peccavit tantum venialiter tamen ex post facto 
+           credat se falso cum peccasse mortaliter quaero aut ille de necessitate salutis 
+           tenetur conteri aut non <pc type="punctus"/> si sic contra de solo veniali non tenetur homo conteri de 
+           necessitate salutis sed solum venialiter peccavit igitur non tenetur de peccato suo 
+           conteri de necessitate salutis si dicatur quod non est hoc propositum quod habens conscientiam 
+           de suo veniali quod fuerit mortale conscientia sua reddit eum ob ligatum 
+           ad puniendum vel ad deponendum conscientiam non est autem 
+           peccatum ipsum veniale quo secundum veritatem peccavit 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2535">
+          <pc type="pilcrow">¶</pc> Xo principaliter potest sic
+           argui si conclusio principalis sit vera tunc aliquis teneretur conteri de peccato actus exteri oris 
+          <pc type="virgula">/</pc> et hoc non quia non addit malitiam super interiorem actum 
+           unde <ref>augustinus primo de libero arbitrio capitulo 7 vel secundum aliquos capitulo 6 in fine</ref> si 
+           cui inquam non competit facultas concubandi cum coniuge aliena planum 
+           tamen sic idem eum cupere et si facultas detur illud esse facturus non minus 
+           reus est quam in ipso facto deprehenderetur et respondit a deo <add place="in-line">clarius nihil est</add>
+           <add place="in-line">nec</add> manifestus omnino et iam video non opus esse longa innova tione 
+          ut mihi de homicidio et sacrilegio ac prorsus de omnibus 
+           peccatis suadeatur clarum est enim nihil aliud quam libidinem in toto ma lefaciendi 
+          genere condemnari Et consequenter ibi quod sic libido cupiditatis 
+           etc consequentia probatur quia aliter iste qui eminuisset sagittam ad <unclear>percurandum</unclear> clericum 
+           et qui poeniteret citius quam sagitta percuraret non teneretur conteri de occisione 
+           vel vulneratione tali consequens falsum quia talis est excommunicatus
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2536">
+          <pc type="pilcrow">¶</pc> dicitur quod
+           non apud deum sed apud ecclesiam militantem contra illi clerico fit 
+           iniuria et non a re inanimata quia talis non potest iniuriam facere nec 
+           ab alio quam ab emittente sagittam igitur ab illo et ita iste meretur 
+           poenam ergo tenetur conteri igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2537">
+          <pc type="pilcrow">¶</pc> Item bonefacius libro 6 sentiat 
+           contra istum qui mandavit clericum occidere quamvis revocet antequam 
+           fiat non obstante revocatione dummodo fiat igitur poenitentia <unclear>mea</unclear> quae habetur 
+           inter mandatum et mortem non sufficit tali igitur nec priori
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2538">
+          <pc type="pilcrow">¶</pc> ad illud
+           concedo quod qui formatus est vel commissit homicidium tenetur conteri de peccato actus 
+           exterioris quia non posset exprimere sine hoc plene malitiam suae vo luntatis 
+          male et eius efficaciam <pc type="punctus"/> dato etiam quod tota poena peccati 
+           debeatur post hanc vitam pro solis actibus malis volendi vel 
+           nolendi ut alias declaravi per hugonem sicut dicam in Xa quaestione huius 
+           4i dandem est igitur primum consequens
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2539">
+          <pc type="pilcrow">¶</pc> Et cum probatur quod non quia malitia non
+           additur ex actu exteriori
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2540">
+          <pc type="pilcrow">¶</pc> dicendum quod ymmo occasionaliter non tamen quia actui 
+           exteriori debeatur aliqua poena praecisa in purgatorio vel in in ferno 
+          et cum probatur per exemplum de emittente sagittam ad iniuste occi dendum 
+          clericum et poenitente antequam clericus percutiatur quod talis 
+           peccat cum alius occiditur et <add place="above-line">non</add> per actum interiorem cum prius poenitu erit 
+          igitur solus ibi actus exterior est culpa cui debetur poe na 
+          praecisa
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2541">
+          <pc type="pilcrow">¶</pc> dicendum quod in isto casu actus exterior non est cul pa 
+          nec debetur illi poena in isto casu nisi <unclear>hanc</unclear> bnee tamen 
+           volo quod emittens sagittam tenetur dolere et <unclear>conteri<!-- all instances of this should be checked against "confiteri"--></unclear> de occisione 
+           illius hominis quia sine iusta causa est ab eo occisus et quia tenetur compati 
+           proximo et quod tenetur dolere quia malitia sua propria <unclear>praedicata</unclear> secundum actum interi orem 
+          fuit illativa mali 
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2542">
+          Et cum probatur quod sibi ad hoc debeatur poena 
+           specialis pro facto exteriori non obstante poenitentia interiori puta 
+          <cb ed="#S" n="b"/>
+           pro morte illata
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2543">
+          <pc type="pilcrow">¶</pc> Dicendum videtur quod talis in tali casu non est apud deum 
+           exemplificatus iudicatur tamen ab ecclesia militante excommunicatus nec mirtum quia 
+           factum est manifestum et sua poenitentia interior est occulta Et cum probatur quod 
+           ymmo etiam apud deum quia illi innocenti fit iniuria quia iniuste 
+           occidetur et non it sibi iniuria a sagitta quia res inanimantia non potest 
+           facere iniuriam nec bruta nec pueri nec furiosi aut carens usu 
+           rationis sicud habetur <ref><add place="margin-right">in decretis</add> 15 quaestione 1 merito</ref> et alias allegavi <ref>libro 1 distinctione 17</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2544">
+          <pc type="pilcrow">¶</pc> dicendum
+           quod non sequitur ipse in iuste occiditur vel in iurio se ergo aliquis iniuste vel 
+           iniuriose eum occidit sed vel hic sequitur vel quod aliquis iniuriose sive 
+           iniuste egit unde sequitur iniusta mors illius et ista est hic quia ille sagittans 
+           iniuste et iniuriose emisit sagittam ex quo necessario cursu 
+           communi sequebatur mors iniusta illius
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2545">
+          <pc type="pilcrow">¶</pc> Et cum arguitur 2o quod ipse apud 
+           deum sit exemplificatus quia bonifacius etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2546">
+          <pc type="pilcrow">¶</pc> dicendum quod in libro 6 non habetur 
+           hoc a domino benefacio nisi eo quo quidlibet quod ponitur in <ref>6o est dictum 
+           bonfacii concilio de sententia excommunicationis capitulo quique</ref> a domino gregorio 10 quod 
+           si quis mandaverit seu humanam dederit capi occidi etc
+           nisi lineam ipsam revocaverit <unclear>exercitionem</unclear> incurrit et hic forsan ca piunt 
+          alii quod oportet ad hoc quod mandans non mandat in ca none 
+          quando sequitur occisio vel iniusta captio clerici etiam si mandans 
+           revocet mandatum ante mortem vel verberationem seu <unclear>cap?onem</unclear> 
+           clerici iniustam quod revocatio pervenerit ad <unclear>mandatorium</unclear> reintegra 
+           id est clerico nondum percusso vel violentiam passo et tunc excusatur hic 
+           mandatorius sed non nisi desistat Et hic videtur tenere <ref><unclear>b?</unclear> extra de 
+           sententia excommunicati mulier</ref> ubi textus dicit quod illi qui non per se ipsos sed 
+           eorum auctoritate aut mandato alii violentas initiunt malus 
+           in clericos ad sedem apostolicam sunt mittendi tamen <unclear>hii</unclear> cum mittunt 
+           cuius mandato vel auctoritate committi debite delictum ubi vult 
+           6 quod sit mandans incidit in canonem nisi revocatio perveniat 
+           ad mandatorium ante iniectionem in clericum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2547">
+          <pc type="pilcrow">¶</pc> Et ex hoc videtur posset 
+           argui quod in primo casu ubi emittens sagittam poenitet ante percutionem
+           passivam clerici ad hoc apud deum sit exemplificatus quia aliter iudicatur in fero 
+          conscientiae aliter in foro <unclear>pn?to</unclear> si veritas quae latet propter latentiam aliter <add place="margin-right">iu</add> dicatur 
+          infero conscientiae vel poenitentiae quam inputato essent nota vel notoria 
+           vel <add place="margin-right">plene</add> <del rend="expunctuation">bene</del> probaretur in facie eccleisae uniformiter iudicatur utrobique 
+           sicut probari possit de isto qui successive contraxit cum duabus <unclear>m?rio?m</unclear>
+           et utramque cognovit sed primus contractus est calndestinus et 2us no torius 
+          in facie ecclesiae aliter iudicatur ibi in foro <unclear>pu?to</unclear> et aliter in foro 
+           privatae poenitentiae quia veritas secreta non potest innotescere ibi eccleisae 
+           scilicet sufficienter et sic in aliis casibus similibus non enim est ista hic ut 
+           videtur quod licet <unclear>poeniteat</unclear> poenam illus qui vere conteritur inter emissionem sagittae 
+           et percutionem clerici toto ecclesiae notoria et per <unclear>productionem</unclear> lacrimam ad hoc ecclesia 
+           iudicaret ipsum excommunicatum igitur secundum veritatem et apud deum est ex communicatus 
+          vel ecclesia perverse scienter iudicaret quod non esset praesumendum 
+           minor potest probari per allegata quia licet mandans poeniteat et revo cet 
+          mandatorium ante iniectionem manuum ad hoc est excommunicatus si 
+           talis verberetur ex mandato suo vel occiditur ex mandante suo detur 
+           quod revocatio sic nota vel probata facta fuisse ad unam diem ante 
+           illationem mortis utpote si magnum spatium sic inter man dantem 
+          et clericum vulnerandum hic notat est revocatio vel probari potest <unclear>line</unclear>
+           sit ista et per consequens poenitentia ante occisionem clerici vel iniectionem manuum 
+           in eundem et tamen <add place="margin-right">nisi</add> citius perveneat revocatio ad mandatorium non excusatur 
+           secundum dicta ab exercitione igitur etc
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2548">
+          <pc type="pilcrow">¶</pc> Sed hic respondissem nisi plus obsta ret 
+          quid alqiuid <add place="margin-right">hic</add> praedictum quod iste in 2o casu ubi revocatio <del rend="expunctuation">non</del> est nota 
+           ecclesiae vel sufficienter sibi probata ideo apud ecclesiam <unclear>indi?tur</unclear> excommunicatus ad 
+           hoc nisi <add place="margin-right">revo</add>catio praeveniat re integra quia talis revocatio non est signum 
+           sufficiens poenitentiae de mandato iniusto <pc type="punctus"/> posset enim talem revocationem ad 
+           cautelam facere nec evaderet manus ulcertes ecclesiae absque 
+           contritione vera vel vera poenitentiae de mandato Et argumentum esset quod ista ad 
+           cautelam ageret et non ex animo poenitendi si tunc primo man daret 
+          nuntios ad revocandum praecedens mandacium de verbera tione 
+          vel occisione clerici quando nuntii revocationis non possunt pertin gere
+          ad ipsum mandatum ante iniectionem in clericum istum <pc type="punctus"/> Sed 
+           haec responsio non sufficit secundum mentem <ref><unclear>b</unclear> super casum praedictum mulieris</ref>
+           quia non solum dicit quae praedicta sunt sed etiam si poeniteat ante iniectionem 
+           mannum nisi revocetur mandatarius prius incidit in canonem 
+           unde verba sua ibi sunt haec sed positione quod mandavit sed quod ante 
+           iniectionem manuum penitus quid est
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2549">
+          <pc type="pilcrow">¶</pc> Responsio inquid nihilominus 
+           in canonem incidit nisi revocaverit mandatum ita quod revocatio ad 
+           ipsum pervenerit supra ante iniectionem manuum
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2550">
+          <pc type="pilcrow">¶</pc> Responsio ut prius
+          <pb ed="#S" n="228-v"/>
+          <cb ed="#S" n="a"/>
+           quod si vere <unclear>poenituerit</unclear> apud dei iudicium non incidit in canonem 
+           propter causam quam reddidi et nego istum <unclear>ubi</unclear> in hoc puncto tenens 
+           cum domino innocentis qui ut recitat tabula iuris in vocabulo 
+           exemplificato de quod si aliquis poeniteret vel talis non incidit in canonem 
+           et si revoco non poterit pervenire ad <unclear>mandaco?m</unclear> quia canon tantum 
+           <ref xml:id="aw98wa-xg4357-Rd1e2576">2 quaestione 3 nemo</ref>
+        </p>
+        <p xml:id="aw98wa-xg4357-d1e2580">
+          <pc type="pilcrow">¶</pc> ad primum argumentum principale quod totaliter oblicus si poe niteat 
+          in genere de omnibus cum proposito considerandi vel benefaciendi et nihil 
+           mali mortaliter velit actu vel habitu sive poeniteat formaliter utpo te 
+          si cogitet se peccasse vel virtualiter deum super omnia diligendo et 
+           de peccatis nichil penitus cogitando
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
