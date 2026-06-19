@@ -1,17 +1,12 @@
 {
   "permissions": {
-    "ask": [
-      "Edit(**.xml)",
-      "Edit(**.json)",
-      "Write(**.xml)",
-      "Write(**.json)"
-    ],
     "allow": [
       "Bash(curl -s \"https://raw.githubusercontent.com/scta-texts/GHYaf3/refs/heads/master/GHYaf3-d1e100/paris1512_GHYaf3-d1e100.xml\")",
       "Bash(python3 ~/.claude/skills/paragraph-align/build_alignment_html.py aw98wa-xg4436/info.xml aw98wa-xg4436/sorb193_aw98wa-xg4436.xml /Users/jcwitt/Projects/scta/scta-texts/GHYaf3/GHYaf3-d1e102/paris1512_GHYaf3-d1e102.xml)",
       "Bash(open aw98wa-xg4436/alignment_review.html)",
       "Bash(code -g /Users/jcwitt/Projects/scta/scta-texts/aw98wa/aw98wa-xg4357/sorb193_aw98wa-xg4357.xml:99)",
-      "Bash(code --command scta.showIframe)"
+      "Bash(code --command scta.showIframe)",
+      "Bash(curl *)"
     ]
   }
 }

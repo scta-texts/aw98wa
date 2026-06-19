@@ -55,17 +55,17 @@
       <div xml:id="aw98wa-xg3916"><!-- b3q6-->
         <head xml:id="aw98wa-xg3916-Hd1e101">Quaestio 6</head>
         <p xml:id="aw98wa-xg3916-d1e103">
-          <lb ed="#S" n="30"/>Sexto quaero circa praesentem distinctione 14 utrum deus vel verbum 
-          <lb ed="#S" n="31"/>dei existenti in gratia possit revelare quod talis finaliter 
-          <lb ed="#S" n="32"/>sic dampnandus
+          <lb ed="#S" n="31"/>Sexto quaero circa praesentem distinctione 14 utrum deus vel verbum 
+          <lb ed="#S" n="32"/>dei existenti in gratia possit revelare quod talis finaliter 
+          <lb ed="#S" n="33"/>sic dampnandus
         </p>
         <p xml:id="aw98wa-xg3916-d1e112">
           videtur quod non <pc type="punctus"/> quia tunc vel deus posset aliquem 
-          <lb ed="#S" n="33"/>cogere ad peccatum puta ad desperationem 
+          <lb ed="#S" n="34"/>cogere ad peccatum puta ad desperationem 
         </p>
         <p xml:id="aw98wa-xg3916-d1e119">
-          <pc type="pilcrow">¶</pc> contra omen futurum 
-          <lb ed="#S" n="34"/>contingens inpertinens ad actum revelationis potest deus revelare cui vo<lb ed="#S" break="no" n="35"/>luerit 
+          <pc type="pilcrow">¶</pc> contra omne futurum 
+          <!-- <lb ed="#S"/> line coord error; missing line coord -->contingens inpertinens ad actum revelationis potest deus revelare cui vo<lb ed="#S" break="no" n="35"/>luerit 
           ex supra habitis et concessis
         </p>
         <p xml:id="aw98wa-xg3916-d1e129">
@@ -109,8 +109,8 @@
           <pc type="pilcrow">¶</pc> Contra sortes <add>non</add> potest 
           <lb ed="#S" n="58"/>modo iuste orare vel velle quod scit deum nolle <pc type="punctus"/> ergo si oppositum nollet 
           <lb ed="#S" n="59"/>vel orare iniuste vellet vel oraret natura unusquisque tenetur se conforma<lb ed="#S" break="no" n="60"/>re 
-          voluntati divinae cum scivit ipsam quia servus sciens voluntati domini sui 
-          <lb ed="#S" n="61"/>et non fa etc <ref xml:id="aw98wa-xg3916-Rd1e237">luce 12</ref>
+          voluntati divinae cum scivit ipsam quia  <quote xml:id="aw98wa-xg3916-Qsj8cdd" corresp="#aw98wa-xg3916-Rd1e237" source="http://scta.info/resource/lc12_47@3-14">servus sciens voluntati domini sui 
+          <lb ed="#S" n="61"/>et non facit</quote> etc <ref xml:id="aw98wa-xg3916-Rd1e237">luce 12</ref>
         </p>
         <p xml:id="aw98wa-xg3916-d1e240">
           <pc type="pilcrow">¶</pc> dicetur leviter quod non oportet hominem conformare 
@@ -160,72 +160,72 @@
         </p>
         <p xml:id="aw98wa-xg3916-d1e357">
           <pc type="pilcrow">¶</pc> Si dicis quod non potest iuste orare ut salvetur <unclear>qua</unclear> <unclear>adhuc</unclear> facta ista 
-          revelatione sortes est in caritate ergo adhuc tenetur se amare ex caritate 
-          <lb ed="#S" n="92"/>ergo adhuc potest iuste velle salvari et per consequens potest hic iuste orare <pc type="punctus"/> 
+          <lb ed="#S" n="92"/>revelatione sortes est in caritate ergo adhuc tenetur se amare ex caritate 
+          <lb ed="#S" n="93"/>ergo adhuc potest iuste velle salvari et per consequens potest hic iuste orare <pc type="punctus"/> 
         </p>
         <p xml:id="aw98wa-xg3916-d1e371">
-          <lb ed="#S" n="93"/><pc type="pilcrow">¶</pc> praeterea adhuc tenetur sortes amare proximum suum ex caritate et velle proximo suo 
-          <lb ed="#S" n="94"/>vitam aeternam sed quam diu sortes est in caritate vel aequaliter debet se diligere 
-          <lb ed="#S" n="95"/>et ad tantum bonum sicut proximum nam sit a sanctis exponitur praeceptum de di<lb ed="#S" break="no" n="96"/>ligendo 
+          <lb ed="#S" n="94"/><pc type="pilcrow">¶</pc> praeterea adhuc tenetur sortes amare proximum suum ex caritate et velle proximo suo 
+          <lb ed="#S" n="95"/>vitam aeternam sed quam diu sortes est in caritate vel aequaliter debet se diligere 
+          <lb ed="#S" n="96"/>et ad tantum bonum sicut proximum nam sit a sanctis exponitur praeceptum de di<lb ed="#S" break="no" n="97"/>ligendo 
           proximum sicut seipsum id est ad illud bonum ad quod se 
         </p>
         <p xml:id="aw98wa-xg3916-d1e385">
           <pc type="pilcrow">¶</pc> praeterea si sortes non 
-          <lb ed="#S" n="97"/>posset iuste velle suam beatitudinem tunc non posset iuste servat ordinem caritatis 
-          <lb ed="#S" n="98"/>quia ordo caritatis est se maxime diligere post deum sicut patet 3 libro sententiarum 
-          <lb ed="#S" n="99"/>distinctione 29 capitulo 1 et sequentibus et si non vellet se salvari et vellet alios 
-          <lb ed="#S" n="100"/>salvari tunc non se maxime amaret post deum igitur
+          <lb ed="#S" n="98"/>posset iuste velle suam beatitudinem tunc non posset iuste servat ordinem caritatis 
+          <lb ed="#S" n="99"/>quia ordo caritatis est se maxime diligere post deum sicut patet 3 libro sententiarum 
+          <lb ed="#S" n="100"/>distinctione 29 capitulo 1 et sequentibus et si non vellet se salvari et vellet alios 
+          <lb ed="#S" n="101"/>salvari tunc non se maxime amaret post deum igitur
         </p>
         <p xml:id="aw98wa-xg3916-d1e399">
           <pc type="pilcrow">¶</pc> hic primo mihi apparet 
-          <lb ed="#S" n="101"/>quo ad causam quod satis est possibile quod sortes reveletur sua futura dampnatio 
-          <lb ed="#S" n="102"/>sicut patuit ex evangelio in simile de iudaeis quibus christus dicit et in peccato 
-          <lb ed="#S" n="103"/>vestro moriemini etc
+          <lb ed="#S" n="102"/>quo ad causam quod satis est possibile quod sortes reveletur sua futura dampnatio 
+          <lb ed="#S" n="103"/>sicut patuit ex evangelio in simile de iudaeis quibus christus dicit et in peccato 
+          <lb ed="#S" n="104"/>vestro moriemini etc
         </p>
         <p xml:id="aw98wa-xg3916-d1e411">
           <pc type="pilcrow">¶</pc> 2o etiam mihi apparet ut prius quod homini existenti in caritate 
-          <lb ed="#S" n="104"/>posset stante ea sibi revelari sua futura dampnatio quia posset sibi <unclear>veraciter</unclear>
-          <lb ed="#S" n="105"/>a deo praenunciari omnis aut vera praenuntiatio facta alicui a deo vel mediate 
-          <lb ed="#S" n="106"/>vel immediate dicitur ad praesens revelatio
+          <lb ed="#S" n="105"/>posset stante ea sibi revelari sua futura dampnatio quia posset sibi <unclear>veraciter</unclear>
+          <lb ed="#S" n="106"/>a deo praenunciari omnis aut vera praenuntiatio facta alicui a deo vel mediate 
+          <lb ed="#S" n="107"/>vel immediate dicitur ad praesens revelatio
         </p>
         <p xml:id="aw98wa-xg3916-d1e425">
           <pc type="pilcrow">¶</pc> Et praeterea nihil obstaret nisi quia 
-          <lb ed="#S" n="107"/>facta sortes talis de seipso revelatione statim desperaret et per consequens perderet ca<lb ed="#S" break="no" n="108"/>ritatem 
+          <lb ed="#S" n="108"/>facta sortes talis de seipso revelatione statim desperaret et per consequens perderet ca<lb ed="#S" break="no" n="109"/>ritatem 
           <pc type="punctus"/> sed hoc non oportet quia licet sibi existenti in caritate fieret talis revelatio 
-          <lb ed="#S" n="109"/>ad hoc staret quod dubitaret an praenuntiatio ista sive revelatio vel an esset 
-          <lb ed="#S" n="110"/>absoluta revelatio vel conditionalis conditione non expressa et per consequens non habet adhuc 
-          <lb ed="#S" n="111"/>necessario desperare ymmo teneretur adhoc desperationem vitare et omne peccatum 
-          <lb ed="#S" n="112"/>mortale
+          <lb ed="#S" n="110"/>ad hoc staret quod dubitaret an praenuntiatio ista sive revelatio vel an esset 
+          <lb ed="#S" n="111"/>absoluta revelatio vel conditionalis conditione non expressa et per consequens non habet adhuc 
+          <lb ed="#S" n="112"/>necessario desperare ymmo teneretur adhoc desperationem vitare et omne peccatum 
+          <lb ed="#S" n="113"/>mortale
         </p>
         <p xml:id="aw98wa-xg3916-d1e446">
-          <pc type="pilcrow">¶</pc> praeterea talis ad hoc haberet scire vel firmiter credere quod nullus un<lb ed="#S" break="no" n="113"/>quam 
-          dapmanbitur finaliter nisi pro peccato mortali et quod nullus ex terminis in gratia pecca<lb ed="#S" break="no" n="114"/>bit 
+          <pc type="pilcrow">¶</pc> praeterea talis ad hoc haberet scire vel firmiter credere quod nullus un<lb ed="#S" break="no" n="114"/>quam 
+          dapmanbitur finaliter nisi pro peccato mortali et quod nullus ex terminis in gratia pecca<lb ed="#S" break="no" n="115"/>bit 
           mortaliter nisi voluntarie et libere faciendo quod tenetur non  facere vel omittendo 
-          <lb ed="#S" n="115"/>quod tenetur facere ergo si sciat vel speret seu credat vel firmiter aestimet 
-          <lb ed="#S" n="116"/>se esse in gratia habet credere vel firmiter aestimare etiam qua<del rend="expunctuation">m</del>cumque revelatorum <add place="margin-right">sibi facta quod non</add>
-          <lb ed="#S" n="117"/><del rend="underline">sibi</del> dampnabitur <del rend="underline">facta</del> nisi libere peccat mortaliter tenetur aut velle numquam 
-          <lb ed="#S" n="118"/>mortaliter peccare et potest haec exequi si <add place="above-line">habet</add> <unclear>gratiam cum</unclear> <unclear>communi distinctione</unclear> adiutorio ergo tenetur illud 
-          <lb ed="#S" n="119"/>antichristum inplorare et niti ad salutem sui cum hoc sit ad hoc mediante 
-          <lb ed="#S" n="120"/>gratia quam habet in eius potestate libera igitur
+          <lb ed="#S" n="116"/>quod tenetur facere ergo si sciat vel speret seu credat vel firmiter aestimet 
+          <lb ed="#S" n="117"/>se esse in gratia habet credere vel firmiter aestimare etiam qua<del rend="expunctuation">m</del>cumque revelatorum <add place="margin-right">sibi facta quod non</add>
+          <lb ed="#S" n="118"/><del rend="underline">sibi</del> dampnabitur <del rend="underline">facta</del> nisi libere peccat mortaliter tenetur aut velle numquam 
+          <lb ed="#S" n="119"/>mortaliter peccare et potest haec exequi si <add place="above-line">habet</add> <unclear>gratiam cum</unclear> <unclear>communi distinctione</unclear> adiutorio ergo tenetur illud 
+          <lb ed="#S" n="120"/>antichristum inplorare et niti ad salutem sui cum hoc sit ad hoc mediante 
+          <lb ed="#S" n="121"/>gratia quam habet in eius potestate libera igitur
         </p>
         <p xml:id="aw98wa-xg3916-d1e488">
           <pc type="pilcrow">¶</pc> Iuxta has conlusiones videtur mihi 3o 
-          <lb ed="#S" n="121"/>dicendum quod nullus potest per aliquam revelationem sibi factam de est viator scire se fi<lb ed="#S" break="no" n="122"/>naliter 
+          <lb ed="#S" n="122"/>dicendum quod nullus potest per aliquam revelationem sibi factam de est viator scire se fi<lb ed="#S" break="no" n="123"/>naliter 
           dampnandum proprie loquendo de scientia propter argumentum substantia factum in 4 quaestione huius distinctione pro 
-          <lb ed="#S" n="123"/>prima conclusione quod de nullo futuro contingenti potest haberi scientia talis proprie et hoc est plane 
-          <lb ed="#S" n="124"/>sententia <ref xml:id="aw98wa-xg3916-Rd1e502">anselmi de casu dyaboli capitulo 21 in principio</ref> intellige eum de scientia 
-          <lb ed="#S" n="125"/>creata quia obicis de scientia divina contra se
+          <lb ed="#S" n="124"/>prima conclusione quod de nullo futuro contingenti potest haberi scientia talis proprie et hoc est plane 
+          <lb ed="#S" n="125"/>sententia <ref xml:id="aw98wa-xg3916-Rd1e502">anselmi de casu dyaboli capitulo 21 in principio</ref> intellige eum de scientia 
+          <lb ed="#S" n="126"/>creata quia obicis de scientia divina contra se
         </p>
         <p xml:id="aw98wa-xg3916-d1e508">
           <pc type="pilcrow">¶</pc> 4o videtur mihi dicendum quod fides illa 
-          <lb ed="#S" n="126"/><add place="margin-left">vel</add> opinio vel prima credulitas sive adhaesio excludens etiam dubitationem haberi 
-          <lb ed="#S" n="127"/>de isto futuro quod scilicet iste dampnabitur sicut de alio haec patet de illis 
-          <lb ed="#S" n="128"/>qui de facto desperant de simile propria
+          <lb ed="#S" n="127"/><add place="margin-left">vel</add> opinio vel prima credulitas sive adhaesio excludens etiam dubitationem haberi 
+          <lb ed="#S" n="128"/>de isto futuro quod scilicet iste dampnabitur sicut de alio haec patet de illis 
+          <lb ed="#S" n="129"/>qui de facto desperant de simile propria
         </p>
         <p xml:id="aw98wa-xg3916-d1e522">
           <pc type="pilcrow">¶</pc> 5o videtur mihi quod sollicite nullus 
-          <lb ed="#S" n="129"/>potest habere talem firmam credulitatem quod ipse sit dampnandus nisi deus immediate 
-          <lb ed="#S" n="130"/><del rend="expunctuation">creatae</del> sibi talem credulitatem inprimeret quia qualescumque praeuntiationes vel vi<pb ed="#S" n="190-r"/><cb ed="#S" n="a"/><lb ed="#S" break="no" n="1"/>siones 
+          <lb ed="#S" n="130"/>potest habere talem firmam credulitatem quod ipse sit dampnandus nisi deus immediate 
+          <lb ed="#S" n="131"/><del rend="expunctuation">creatae</del> sibi talem credulitatem inprimeret quia qualescumque praeuntiationes vel vi<pb ed="#S" n="190-r"/><cb ed="#S" n="a"/><lb ed="#S" break="no" n="1"/>siones 
           signorum exteriorum vel interiorum sibi obiective proponentur habet semper velle 
           <lb ed="#S" n="2"/>cavere omnia cavenda et facere omnia facienda pro salute optinenda 
           <lb ed="#S" n="3"/>et indubitaliter speratis quia si sic faciat <add place="margin-left">quod salvabitur</add> ad quem etiam divinum auxilium debetur im<lb ed="#S" break="no" n="4"/>plorare 
@@ -289,7 +289,7 @@
           <lb ed="#S" n="50"/><del rend="expunctuation">aliter</del>
           <!-- jump to 191vb middle "non teneremur credere" -->
           non teneremur credere futurum iudicium nec futuram resurrectionem nisi 
-          <lb ed="#S" n="51"/>deus talem credulitatem nobis inprimeret quod constat esse falsum ergo constante 
+          <lb ed="#S" n="51" type="fixed=191-v"/>deus talem credulitatem nobis inprimeret quod constat esse falsum ergo constante 
           <lb ed="#S" n="52"/>casu primo illud futurum ista sine inpressione credulitatis a deo in men<lb ed="#S" break="no" n="53"/>te 
           possit sorti praedici et revelari a deo secundum suam conclusionem sicud aliud ista 
           <lb ed="#S" n="54"/>tenetur credere sed fore finaliter dampnandum sicud unum <add place="margin-right">aliud</add> futurum sibi praenuntiatum a 
@@ -359,167 +359,167 @@
           <lb ed="#S" n="7"/>de morte <unclear>infantibili</unclear> sui et tum quia scimus contrarium et ipse scivit esse deo 
           <lb ed="#S" n="8"/>possibile ad hoc fideliter et devote rogamus deum ne illo eveniat sicut cre<lb ed="#S" break="no" n="9"/>dimus 
           eventurum bene enim scimus quod non sequitur credimus quod ista eveniet ergo 
-          sic eveniet sicut nec sequitur credimus ita esse ergo sic est et scimus 
-          <lb ed="#S" n="10"/>quod optime sequitur scimus ita esse vel ista fore ergo ista est vel ita erit 
+          <lb ed="#S" n="10"/>sic eveniet sicut nec sequitur credimus ita esse ergo sic est et scimus 
+          <lb ed="#S" n="11"/>quod optime sequitur scimus ita esse vel ista fore ergo ista est vel ita erit 
         </p>
         <p xml:id="aw98wa-xg3916-d1e954">
-          <lb ed="#S" n="11"/><pc type="pilcrow">¶</pc> Ad primum in contrarium dico quod sortes non scit deum ista velle proprie loquendo de 
-          <lb ed="#S" n="12"/>scire immo dico quod solus deus proprie scit aliquod futurum contingens fore 
-          <lb ed="#S" n="13"/>nec aliud scire potest nisi in opposito sumendo scire propter credere vel fir<lb ed="#S" break="no" n="14"/>miter 
+          <lb ed="#S" n="12"/><pc type="pilcrow">¶</pc> Ad primum in contrarium dico quod sortes non scit deum ista velle proprie loquendo de 
+          <lb ed="#S" n="13"/>scire immo dico quod solus deus proprie scit aliquod futurum contingens fore 
+          <lb ed="#S" n="14"/>nec aliud scire potest nisi in opposito sumendo scire propter credere vel fir<lb ed="#S" break="no" n="15"/>miter 
           aestimari et quod plus est dico quod sortes tenetur non firmiter credere istud
-          <lb ed="#S" n="15"/>nec credere quod sic super hoc revelatio sibi <unclear>sunt</unclear> vel revelare sperari quod non 
-          <lb ed="#S" n="16"/>nisi deus ipse inprimere<add place="above-line">t</add> sibi credulitatem talem <add place="margin-center">rectam</add> vel reflexam 
-          <lb ed="#S" n="17"/>et dato quod <unclear>impressionem</unclear> talem crederet sibi super hoc factam revelationem 
-          <lb ed="#S" n="18"/>tenetur rogare contrarium nec per hoc absolvitur a praecepto diligendi 
-          <lb ed="#S" n="19"/>se ad vitam aeternam nec tenetur se conformare deo involito et in isto 
-          <lb ed="#S" n="20"/>quod credit deum velle esse futurum praecise cum scire hanc quod potest deus non 
-          <lb ed="#S" n="21"/>velle illud esse futurum nec unquam voluisse
+          <lb ed="#S" n="16"/>nec credere quod sic super hoc revelatio sibi <unclear>sunt</unclear> vel revelare sperari quod non 
+          <lb ed="#S" n="17"/>nisi deus ipse inprimere<add place="above-line">t</add> sibi credulitatem talem <add place="margin-center">rectam</add> vel reflexam 
+          <lb ed="#S" n="18"/>et dato quod <unclear>impressionem</unclear> talem crederet sibi super hoc factam revelationem 
+          <lb ed="#S" n="19"/>tenetur rogare contrarium nec per hoc absolvitur a praecepto diligendi 
+          <lb ed="#S" n="20"/>se ad vitam aeternam nec tenetur se conformare deo involito et in isto 
+          <lb ed="#S" n="21"/>quod credit deum velle esse futurum praecise cum scire hanc quod potest deus non 
+          <lb ed="#S" n="22"/>velle illud esse futurum nec unquam voluisse
         </p>
         <p xml:id="aw98wa-xg3916-d1e993">
           <pc type="pilcrow">¶</pc> Et ad argumentum verum dicit 
-          <lb ed="#S" n="22"/>si loquitur de certitudine scire proprie dictae et <unclear>de vesse</unclear> simili modo sumpto sed tunc 
-          <lb ed="#S" n="23"/>est <del rend="expunctuation">alias</del> impossibile pro membris ecclesiae licet caput ecclesiae bene sic sciat scientia in<lb ed="#S" break="no" n="24"/>creata 
+          <lb ed="#S" n="23"/>si loquitur de certitudine scire proprie dictae et <unclear>de vesse</unclear> simili modo sumpto sed tunc 
+          <lb ed="#S" n="24"/>est <del rend="expunctuation">alias</del> impossibile pro membris ecclesiae licet caput ecclesiae bene sic sciat scientia in<lb ed="#S" break="no" n="25"/>creata 
           se divina <pc type="punctus"/> si autem vocet certitudinem notitiam veram quae est certa id est 
-          <lb ed="#S" n="25"/>indubitata adhaesio dico quod <unclear>quid<!-- correction--></unclear> scit voluntarie et libere <add place="margin-center">certitudinaliter</add> se dampnandum 
-          non post sed iuste orare pro salute sua stante notitia tali et libere 
-          <lb ed="#S" n="26"/>retenta <pc type="virgula">/</pc> quia sic talem libere causans et libere retinens esset iniustus 
-          <lb ed="#S" n="27"/>nec etiam licitum est hoc sentire ultimate diffiniendo de alio vitare 
-          <lb ed="#S" n="28"/>sine revelatione per notitiam inpressam vel per revelationem exteriorem adhibito 
-          <lb ed="#S" n="29"/>praecepto de non volendo alium salvari et vix credendum quod tale 
-          <lb ed="#S" n="30"/>praeceptum veniret a deo nisi per credulitatem mihi super hoc a deo impres<lb ed="#S" break="no" n="31"/>sam 
+          <lb ed="#S" n="26"/>indubitata adhaesio dico quod <unclear>quid<!-- correction--></unclear> scit voluntarie et libere <add place="margin-center">certitudinaliter</add> se dampnandum 
+          <lb ed="#S" n="27"/>non post sed iuste orare pro salute sua stante notitia tali et libere 
+          <lb ed="#S" n="28"/>retenta <pc type="virgula">/</pc> quia sic talem libere causans et libere retinens esset iniustus 
+          <lb ed="#S" n="29"/>nec etiam licitum est hoc sentire ultimate diffiniendo de alio vitare 
+          <lb ed="#S" n="30"/>sine revelatione per notitiam inpressam vel per revelationem exteriorem adhibito 
+          <lb ed="#S" n="31"/>praecepto de non volendo alium salvari et vix credendum quod tale 
+          <lb ed="#S" n="32"/>praeceptum veniret a deo nisi per credulitatem mihi super hoc a deo impres<lb ed="#S" break="no" n="33"/>sam 
           vel inspiratam <pc type="punctus"/> odium autem propositum quo ad salutem aeternam 
-          <lb ed="#S" n="32"/>non est praeceptibile alicui sicud nec odium dei sicud nec deus potest velle 
-          <lb ed="#S" n="33"/>quod aliquis sponte et libere eligat odium dei vel simpliciter verum cum de 
-          <lb ed="#S" n="34"/>alio longe aliud quam de se ipso quia secundum praecepta dei quilibet tenetur sperare 
-          <lb ed="#S" n="35"/>salvari et non sperare de aliquo alio quod salvabitur et per consequens non ista 
-          iniusto dimitteret orare pro alio facta sibi revelatione communi dicitur alio sicut di<lb ed="#S" break="no" n="36"/>mitteretur 
+          <lb ed="#S" n="34"/>non est praeceptibile alicui sicud nec odium dei sicud nec deus potest velle 
+          <lb ed="#S" n="35"/>quod aliquis sponte et libere eligat odium dei vel simpliciter verum cum de 
+          <lb ed="#S" n="36"/>alio longe aliud quam de se ipso quia secundum praecepta dei quilibet tenetur sperare 
+          <lb ed="#S" n="37"/>salvari et non sperare de aliquo alio quod salvabitur et per consequens non ista 
+          <lb ed="#S" n="38"/>iniusto dimitteret orare pro alio facta sibi revelatione communi dicitur alio sicut di<lb ed="#S" break="no" n="39"/>mitteretur 
           orare pro se ipso credo tamen quod nulla extrinseca revelatio possibilis 
-          <lb ed="#S" n="37"/>sine plurali nec etiam forsan intrinseca sine plurali id est sine praecepto alicuo ad<lb ed="#S" break="no" n="38"/>hibito 
+          <lb ed="#S" n="40"/>sine plurali nec etiam forsan intrinseca sine plurali id est sine praecepto alicuo ad<lb ed="#S" break="no" n="41"/>hibito 
           vel relaxatione praecepti antiqui absolveret viatorem quin 
-          <lb ed="#S" n="39"/>teneretur optare salutem proximi cuiuslibet viatoris et pro ea orare et <unclear>mento</unclear>
-          <lb ed="#S" n="40"/>magis hoc dicerem de salute propria
+          <lb ed="#S" n="42"/>teneretur optare salutem proximi cuiuslibet viatoris et pro ea orare et <unclear>mento</unclear>
+          <lb ed="#S" n="43"/>magis hoc dicerem de salute propria
         </p>
         <p xml:id="aw98wa-xg3916-d1e1062">
           <pc type="pilcrow">¶</pc> ad aliud de angelis dicendum quod beati 
-          <lb ed="#S" n="41"/>non volerent nisi quod iste sumptu vult eos velle sed hoc non est contra 
-          <lb ed="#S" n="42"/>dicta
+          <lb ed="#S" n="44"/>non volerent nisi quod iste sumptu vult eos velle sed hoc non est contra 
+          <lb ed="#S" n="45"/>dicta
         </p>
         <p xml:id="aw98wa-xg3916-d1e1072">
           <pc type="pilcrow">¶</pc> ad 3m et 4m patet ex dictis in <unclear>positione</unclear> et aliis Responsionibus huius difficultatis
         </p>
         <p xml:id="aw98wa-xg3916-d1e1080">
-          <lb ed="#S" n="43"/><pc type="pilcrow">¶</pc> argumenta ad aliam partem argumenti concludunt verum licet <name xml:id="aw98wa-xg3916-Nd1e1086">firaph</name> teneat contrario modo credo enim 
-          <lb ed="#S" n="44"/>quod angeli custodes nostri orarent pro nobis donec haberent praeceptum vel 
-          <lb ed="#S" n="45"/>mandatum de contrario et illi non possent ita decipi sicut nos per angelos 
-          <lb ed="#S" n="46"/>malos <unclear>potentem</unclear> se nobis transformare in angelos lucis non sic illis
+          <lb ed="#S" n="46"/><pc type="pilcrow">¶</pc> argumenta ad aliam partem argumenti concludunt verum licet <name xml:id="aw98wa-xg3916-Nd1e1086">firaph</name> teneat contrario modo credo enim 
+          <lb ed="#S" n="47"/>quod angeli custodes nostri orarent pro nobis donec haberent praeceptum vel 
+          <lb ed="#S" n="48"/>mandatum de contrario et illi non possent ita decipi sicut nos per angelos 
+          <lb ed="#S" n="49"/>malos <unclear>potentem</unclear> se nobis transformare in angelos lucis non sic illis
         </p>
         <p xml:id="aw98wa-xg3916-d1e1098">
-          <lb ed="#S" n="47"/><pc type="pilcrow">¶</pc> Praeterea ista argumenta si cogenter aequaliter parerent quod petrus post revelationem sibi 
-          <lb ed="#S" n="48"/>existenti in caritate factam quod negaret dum non potuisset iuste oras<lb ed="#S" break="no" n="49"/>se 
+          <lb ed="#S" n="50"/><pc type="pilcrow">¶</pc> Praeterea ista argumenta si cogenter aequaliter parerent quod petrus post revelationem sibi 
+          <lb ed="#S" n="51"/>existenti in caritate factam quod negaret dum non potuisset iuste oras<lb ed="#S" break="no" n="52"/>se 
           preservari ab isto peccato mortali consequens est falsum
         </p>
         <p xml:id="aw98wa-xg3916-d1e1110">
           <pc type="pilcrow">¶</pc> alia difficultas est quod 
-          <lb ed="#S" n="50"/>si 2a positio conclusionis vera sic tunc multo fortius posset deus revelare <unclear>sorti</unclear>
-          <lb ed="#S" n="51"/>istam conditionalem existenti in gratia <pc type="punctus"/>  si committas ex nunc aliquod peccatum 
-          <lb ed="#S" n="52"/>mortale finaliter dampnaberis possibile est enim quod deus velit sibi 
-          <lb ed="#S" n="53"/>gratiam subtrahere si incidat in peccatum mortale numquam sibi 
-          <lb ed="#S" n="54"/>gratiam postea daturus <pc type="punctus"/>  hac igitur revelatione facta sorti quaerietur utrum sortes ex tunc 
-          <lb ed="#S" n="55"/>possit mortaliter peccare vel non <pc type="punctus"/> si sic <pc type="punctus"/> ergo potest velle scienter unde miser 
-          <lb ed="#S" n="56"/>erit contra <ref xml:id="aw98wa-xg3916-Rd1e1141"><unclear>anselmum<!-- corrected--></unclear> de casu dyaboli capitulo 23</ref> si non potest misci casu posito 
-          <lb ed="#S" n="57"/>mortaliter peccari ergo voluntas sortes non esset tunc libera a necessitate contra <ref xml:id="aw98wa-xg3916-Rd1e1149">magistrum 
-          <lb ed="#S" n="58"/>libro 2 distinctione 25 capitulo 9</ref> ubi dicit quod triplex est libertas scilicet a necessitate 
-          <lb ed="#S" n="59"/>a peccato a miseria a necessitate <add place="above-line">et</add> ante peccatum et post aequae librum est arbitrium 
-          <lb ed="#S" n="60"/>sicut enim tunc cogi non poterat nec modo <pc type="punctus"/>  ideoque quod voluntas merito apud 
-          <lb ed="#S" n="61"/>deum iudicatur quae semper a necessitate libera est et numquam cogi potest 
-          <lb ed="#S" n="62"/>ubi enim est necessitas ibi non est libertas haec ille et per consequens voluntas sortis 
-          <lb ed="#S" n="63"/>non necessitabitur ex ea revelatione ad non peccandum 
+          <lb ed="#S" n="53"/>si 2a positio conclusionis vera sic tunc multo fortius posset deus revelare <unclear>sorti</unclear>
+          <lb ed="#S" n="54"/>istam conditionalem existenti in gratia <pc type="punctus"/>  si committas ex nunc aliquod peccatum 
+          <lb ed="#S" n="55"/>mortale finaliter dampnaberis possibile est enim quod deus velit sibi 
+          <lb ed="#S" n="56"/>gratiam subtrahere si incidat in peccatum mortale numquam sibi 
+          <lb ed="#S" n="57"/>gratiam postea daturus <pc type="punctus"/>  hac igitur revelatione facta sorti quaerietur utrum sortes ex tunc 
+          <lb ed="#S" n="58"/>possit mortaliter peccare vel non <pc type="punctus"/> si sic <pc type="punctus"/> ergo potest velle scienter unde miser 
+          <lb ed="#S" n="59"/>erit contra <ref xml:id="aw98wa-xg3916-Rd1e1141"><unclear>anselmum<!-- corrected--></unclear> de casu dyaboli capitulo 23</ref> si non potest misci casu posito 
+          <lb ed="#S" n="60"/>mortaliter peccari ergo voluntas sortes non esset tunc libera a necessitate contra <ref xml:id="aw98wa-xg3916-Rd1e1149">magistrum 
+          <lb ed="#S" n="61"/>libro 2 distinctione 25 capitulo 9</ref> ubi dicit quod triplex est libertas scilicet a necessitate 
+          <lb ed="#S" n="62"/>a peccato a miseria a necessitate <add place="above-line">et</add> ante peccatum et post aequae librum est arbitrium 
+          <lb ed="#S" n="63"/>sicut enim tunc cogi non poterat nec modo <pc type="punctus"/>  ideoque quod voluntas merito apud 
+          <lb ed="#S" n="64"/>deum iudicatur quae semper a necessitate libera est et numquam cogi potest 
+          <lb ed="#S" n="65"/>ubi enim est necessitas ibi non est libertas haec ille et per consequens voluntas sortis 
+          <lb ed="#S" n="66"/>non necessitabitur ex ea revelatione ad non peccandum 
         </p>
         <p xml:id="aw98wa-xg3916-d1e1171">
-          <pc type="pilcrow">¶</pc> dicetur for<cb ed="#S" n="b"/><lb ed="#S" n="64"/>te 
+          <pc type="pilcrow">¶</pc> dicetur for<cb ed="#S" n="b"/><lb ed="#S" n="67"/>te 
           ait <name xml:id="aw98wa-xg3916-Nd1e1179">firaph</name> quod istud argumentum non probat nisi quod voluntas potest necessitari ad aliquid 
-          <lb ed="#S" n="65"/>est non volendum et hoc non negat magister <add place="margin-right">sed non argumentum probat</add> argumentum hic probat quod voluntas 
-          <lb ed="#S" n="66"/>possit necessitari ad aliquid volendum nam hic bene negat magister
+          <lb ed="#S" n="68"/>est non volendum et hoc non negat magister <add place="margin-right">sed non argumentum probat</add> argumentum hic probat quod voluntas 
+          <lb ed="#S" n="69"/>possit necessitari ad aliquid volendum nam hic bene negat magister
         </p>
         <p xml:id="aw98wa-xg3916-d1e1190">
           <pc type="pilcrow">¶</pc> Sed contra illud 
-          <lb ed="#S" n="67"/>in casu priori ponatur quod deus revelet sorti quod ipse dampnabitur finaliter 
-          <lb ed="#S" n="68"/>nisi faciat actionem aliam certam bonam et tunc procedit argumentum quod necessitabitur 
-          <lb ed="#S" n="69"/>ad volendum illud
+          <lb ed="#S" n="70"/>in casu priori ponatur quod deus revelet sorti quod ipse dampnabitur finaliter 
+          <lb ed="#S" n="71"/>nisi faciat actionem aliam certam bonam et tunc procedit argumentum quod necessitabitur 
+          <lb ed="#S" n="72"/>ad volendum illud
         </p>
         <p xml:id="aw98wa-xg3916-d1e1202">
           <pc type="pilcrow">¶</pc> ubi dicitur licet <name xml:id="aw98wa-xg3916-Nd1e1207">firaph</name> teneat contrarium quod iste potest scienter 
-          <lb ed="#S" n="70"/>comittere peccatum mortale isto casu posito nam miseriam pene tantum 
-          <lb ed="#S" n="71"/>non est vilior miseria quam sic miseria culpae et cum angelus 
-          <lb ed="#S" n="72"/>peccavit scienter
+          <lb ed="#S" n="73"/>comittere peccatum mortale isto casu posito nam miseriam pene tantum 
+          <lb ed="#S" n="74"/>non est vilior miseria quam sic miseria culpae et cum angelus 
+          <lb ed="#S" n="75"/>peccavit scienter
         </p>
         <p xml:id="aw98wa-xg3916-d1e1216">
           <pc type="pilcrow">¶</pc> Similiter <name xml:id="aw98wa-xg3916-Nd1e1221">adam</name> quod secundum apostolum ubi non est deceptus vel 
-          <lb ed="#S" n="73"/>seductus sed mulier et cum sibi praerevelatum fuerat quacumque die 
-          <lb ed="#S" n="74"/>commoderis ex eo morte moreris
+          <lb ed="#S" n="76"/>seductus sed mulier et cum sibi praerevelatum fuerat quacumque die 
+          <lb ed="#S" n="77"/>commoderis ex eo morte moreris
         </p>
         <p xml:id="aw98wa-xg3916-d1e1228">
-          <pc type="pilcrow">¶</pc> Et si hii scienter voluerit unde mi<lb ed="#S" break="no" n="75"/>seri 
+          <pc type="pilcrow">¶</pc> Et si hii scienter voluerit unde mi<lb ed="#S" break="no" n="78"/>seri 
           essent quantum magis qui habitant domos luceas id est quanto magis 
-          <lb ed="#S" n="76"/>homo passibilibus et voluptibilis inflammationibus ad peccatum <unclear>illatus<!-- corrected somehow --></unclear> ymmo nec 
-          <lb ed="#S" n="77"/><unclear>poenis nec poenitentis</unclear> nec temporalibus nec aeternis retrahitur quando homo ab ille<lb ed="#S" break="no" n="78"/>cebris 
+          <lb ed="#S" n="79"/>homo passibilibus et voluptibilis inflammationibus ad peccatum <unclear>illatus<!-- corrected somehow --></unclear> ymmo nec 
+          <lb ed="#S" n="80"/><unclear>poenis nec poenitentis</unclear> nec temporalibus nec aeternis retrahitur quando homo ab ille<lb ed="#S" break="no" n="81"/>cebris 
           nec amoris nec timoris sicud nimis docet experientia ubi tamen 
-          <lb ed="#S" n="79"/>est certa notitia quod hic fecit se dignum privari istis et torqueri illis 
-          <lb ed="#S" n="80"/>hoc etiam declarari potest exemploillius de quo refertur ambrosius super lucis libro 3o 
-          <lb ed="#S" n="81"/>quod cum oculorum incommodo laboraret et amaret uxorem interdicta sibi 
-          <lb ed="#S" n="82"/>a <unclear>medico</unclear> facultate coeundi cupiditatis <unclear>inpa?ns</unclear> atque inpetu libidinis 
-          <lb ed="#S" n="83"/>captus moderavi nequivit sciens enim quod esset oculos amissurus 
-          <lb ed="#S" n="84"/>prius quam <unclear>corret</unclear> uxori in isto <unclear>aestu</unclear> fruentis cupiditatis vale inquit 
-          <lb ed="#S" n="85"/>amicum lumen et cum magna miseria est ex natura invita ista privari 
-          <lb ed="#S" n="86"/>visu iuxta illud <unclear>chob</unclear> quale gaudium mihi est qui lumen dei non vi<lb ed="#S" break="no" n="87"/>deo 
+          <lb ed="#S" n="82"/>est certa notitia quod hic fecit se dignum privari istis et torqueri illis 
+          <lb ed="#S" n="83"/>hoc etiam declarari potest exemploillius de quo refertur ambrosius super lucis libro 3o 
+          <lb ed="#S" n="84"/>quod cum oculorum incommodo laboraret et amaret uxorem interdicta sibi 
+          <lb ed="#S" n="85"/>a <unclear>medico</unclear> facultate coeundi cupiditatis <unclear>inpa?ns</unclear> atque inpetu libidinis 
+          <lb ed="#S" n="86"/>captus moderavi nequivit sciens enim quod esset oculos amissurus 
+          <lb ed="#S" n="87"/>prius quam <unclear>corret</unclear> uxori in isto <unclear>aestu</unclear> fruentis cupiditatis vale inquit 
+          <lb ed="#S" n="88"/>amicum lumen et cum magna miseria est ex natura invita ista privari 
+          <lb ed="#S" n="89"/>visu iuxta illud <unclear>chob</unclear> quale gaudium mihi est qui lumen dei non vi<lb ed="#S" break="no" n="90"/>deo 
           ex omnibus istis patet quod nec indubitata notitia vel timor aeternae 
-          <lb ed="#S" n="88"/>miseriae vel temporalis nec etiam periculum ammittendi gaudium sempiternum 
-          <lb ed="#S" n="89"/>necessitat hominem ad non scienter peccandum
+          <lb ed="#S" n="91"/>miseriae vel temporalis nec etiam periculum ammittendi gaudium sempiternum 
+          <lb ed="#S" n="92"/>necessitat hominem ad non scienter peccandum
         </p>
         <p xml:id="aw98wa-xg3916-d1e1283">
           <pc type="pilcrow">¶</pc> ad argumentum dicendum quod ista 
-          <lb ed="#S" n="90"/>revelatio non necessitaret sortes ad non peccandum mortaliter quia posset non co<lb ed="#S" break="no" n="91"/>gitare 
+          <lb ed="#S" n="93"/>revelatio non necessitaret sortes ad non peccandum mortaliter quia posset non co<lb ed="#S" break="no" n="94"/>gitare 
           de sibi facta revelatione et quia non posset assentire firmiter quod 
-          <lb ed="#S" n="92"/>esset revelatio licet esset et etiam aestimando firmiter quod esset revelatio sicud probatum est ad<lb ed="#S" break="no" n="93"/>huc 
+          <lb ed="#S" n="95"/>esset revelatio licet esset et etiam aestimando firmiter quod esset revelatio sicud probatum est ad<lb ed="#S" break="no" n="96"/>huc 
           peccare potest quia credens ex articulis fidei per divinam revelationem 
-          <lb ed="#S" n="94"/>poenam aeternam deberi peccantibus mortaliter et vitam aeternam amitti ad 
-          <lb ed="#S" n="95"/>hoc sicut quibus experitur posset peccare mortaliter nam si talis peccare non 
-          <lb ed="#S" n="96"/>posset non mereretur vitando peccatum quando actu attenderet <unclear>poenitentiae<!-- corrected somehow --></unclear>
-          <lb ed="#S" n="97"/>trina peccato debitam et pari ratione nec faciendo <subst><add place="margin-right">bonum</add> <del>peccatum</del></subst> propter beatitudinem <unclear>op?dam</unclear>
-          <lb ed="#S" n="98"/>si non posset non facere non enim videtur quod plus necessitat poena aeterna nota 
-          <lb ed="#S" n="99"/>debere peccanti vitare peccatum quam praemium aeternum notum deberi bene 
-          <lb ed="#S" n="100"/>operanti necessitet ad faciendum opus naturae 
+          <lb ed="#S" n="97"/>poenam aeternam deberi peccantibus mortaliter et vitam aeternam amitti ad 
+          <lb ed="#S" n="98"/>hoc sicut quibus experitur posset peccare mortaliter nam si talis peccare non 
+          <lb ed="#S" n="99"/>posset non mereretur vitando peccatum quando actu attenderet <unclear>poenitentiae<!-- corrected somehow --></unclear>
+          <lb ed="#S" n="100"/>trina peccato debitam et pari ratione nec faciendo <subst><add place="margin-right">bonum</add> <del>peccatum</del></subst> propter beatitudinem <unclear>op?dam</unclear>
+          <lb ed="#S" n="101"/>si non posset non facere non enim videtur quod plus necessitat poena aeterna nota 
+          <lb ed="#S" n="102"/>debere peccanti vitare peccatum quam praemium aeternum notum deberi bene 
+          <lb ed="#S" n="103"/>operanti necessitet ad faciendum opus naturae 
         </p>
         <p xml:id="aw98wa-xg3916-d1e1325">
           <pc type="pilcrow">¶</pc> Et tunc ad anselmum dicendum 
-          <lb ed="#S" n="101"/>quod licet nullus posset propter se vel per se velle esset miser <pc type="punctus"/>  cum potest velle aliquid 
-          <lb ed="#S" n="102"/>unde sequitur quod erit miser praecise si concupiscentia vehemens ad idem volendum 
-          <lb ed="#S" n="103"/>inpellat <pc type="punctus"/>  nec anselmum absolute dicit quod non posset posset si sciret se puniendum 
-          <lb ed="#S" n="104"/>dato quod <del>potest</del> peccare velle<add place="above-line">t</add> unde miser esse <pc type="punctus"/> sed dicit quid <pc type="punctus"/>  si scivisset 
-          <lb ed="#S" n="105"/>non poni volens etiam habens beatitudinem sponte velle unde miser esse et 
-          <lb ed="#S" n="106"/>intelligit sensum compositionis scilicet quod haec est inpossibilis angelus volens et habens beatitudinem 
-          <lb ed="#S" n="107"/>scienter vult sponte id est libere unde miser esset <pc type="punctus"/>  et si loqueretur de beatitudine si 
-          <lb ed="#S" n="108"/><unclear>nali</unclear> quae est fruitio beatifica dei <unclear>manifeste</unclear> clara visione verum 
-          <lb ed="#S" n="109"/>diceret <unclear>planum</unclear> <add place="above-line">est</add> quia sic beatus non potest peccare scienter stante ista 
-          <lb ed="#S" n="110"/>beatitudine si etiam non loquatur de ista beatitudine sed de tali qualem secundum eum et secundum augustinum habu<lb ed="#S" break="no" n="111"/>erunt 
-          angeli ante casum quorumdam ad hoc verum dicit quia volitio beatitu<lb ed="#S" break="no" n="112"/>dinis 
-          firma et fruens non tamen naturalis sed libera qualitatem tunc habebat ex<lb ed="#S" break="no" n="113"/>clusis 
+          <lb ed="#S" n="104"/>quod licet nullus posset propter se vel per se velle esset miser <pc type="punctus"/>  cum potest velle aliquid 
+          <lb ed="#S" n="105"/>unde sequitur quod erit miser praecise si concupiscentia vehemens ad idem volendum 
+          <lb ed="#S" n="106"/>inpellat <pc type="punctus"/>  nec anselmum absolute dicit quod non posset posset si sciret se puniendum 
+          <lb ed="#S" n="107"/>dato quod <del>potest</del> peccare velle<add place="above-line">t</add> unde miser esse <pc type="punctus"/> sed dicit quid <pc type="punctus"/>  si scivisset 
+          <lb ed="#S" n="108"/>non poni volens etiam habens beatitudinem sponte velle unde miser esse et 
+          <lb ed="#S" n="109"/>intelligit sensum compositionis scilicet quod haec est inpossibilis angelus volens et habens beatitudinem 
+          <lb ed="#S" n="110"/>scienter vult sponte id est libere unde miser esset <pc type="punctus"/>  et si loqueretur de beatitudine si 
+          <lb ed="#S" n="111"/><unclear>nali</unclear> quae est fruitio beatifica dei <unclear>manifeste</unclear> clara visione verum 
+          <lb ed="#S" n="112"/>diceret <unclear>planum</unclear> <add place="above-line">est</add> quia sic beatus non potest peccare scienter stante ista 
+          <lb ed="#S" n="113"/>beatitudine si etiam non loquatur de ista beatitudine sed de tali qualem secundum eum et secundum augustinum habu<lb ed="#S" break="no" n="114"/>erunt 
+          angeli ante casum quorumdam ad hoc verum dicit quia volitio beatitu<lb ed="#S" break="no" n="115"/>dinis 
+          firma et fruens non tamen naturalis sed libera qualitatem tunc habebat ex<lb ed="#S" break="no" n="116"/>clusis 
           omne actu scitum repungnare beatitudini firmiter volite <pc type="punctus"/> sicut et efficax 
-          <lb ed="#S" n="114"/>amore libere vite excludit amorem cuiuslibet rei quae si sciretur 
-          <lb ed="#S" n="115"/>mortem deberet inferre et efficax amore libere sanitatis necessitat ad 
-          <lb ed="#S" n="116"/>recipere herbam amaram scito quod sine eius <unclear>pura?one</unclear> non potest <unclear>sanit?is</unclear> 
-          <lb ed="#S" n="117"/>naturaliter optim<subst><del rend="expunctuation">a</del><add place="above-line">e</add></subst> <pc type="punctus"/>  et quod haec sic intentio anselmi patet ex quaestione dicens in fine 
-          <lb ed="#S" n="118"/>praecedentis capituli quomodo inquit si sciebat se debere puniri si iusti<lb ed="#S" break="no" n="119"/>tiam 
+          <lb ed="#S" n="117"/>amore libere vite excludit amorem cuiuslibet rei quae si sciretur 
+          <lb ed="#S" n="118"/>mortem deberet inferre et efficax amore libere sanitatis necessitat ad 
+          <lb ed="#S" n="119"/>recipere herbam amaram scito quod sine eius <unclear>pura?one</unclear> non potest <unclear>sanit?is</unclear> 
+          <lb ed="#S" n="120"/>naturaliter optim<subst><del rend="expunctuation">a</del><add place="above-line">e</add></subst> <pc type="punctus"/>  et quod haec sic intentio anselmi patet ex quaestione dicens in fine 
+          <lb ed="#S" n="121"/>praecedentis capituli quomodo inquit si sciebat se debere puniri si iusti<lb ed="#S" break="no" n="122"/>tiam 
           <unclear>deseret</unclear> potuit sponte velle unde miser esset qui acceperat 
-          <lb ed="#S" n="120"/>inseparabiliter velle ut beatus esset ex quo patet quod non vult nisi quod stan<lb ed="#S" break="no" n="121"/>te 
-          velle inseparabili beatitudinis <unclear>sumptu</unclear> <unclear>concor?te</unclear>etima amori libero non po<lb ed="#S" break="no" n="122"/>tuit 
+          <lb ed="#S" n="123"/>inseparabiliter velle ut beatus esset ex quo patet quod non vult nisi quod stan<lb ed="#S" break="no" n="124"/>te 
+          velle inseparabili beatitudinis <unclear>sumptu</unclear> <unclear>concor?te</unclear>etima amori libero non po<lb ed="#S" break="no" n="125"/>tuit 
           velle scitum tollere debere beatitudinem et quid mirum ex quo 
-          <lb ed="#S" n="123"/>non potuit simul velle habere illam efficaciter etc velle unde sciret 
-          <lb ed="#S" n="124"/>se istam perdere sed dicet sicut tu supra in Responsione tetigit angelus 
-          <lb ed="#S" n="125"/>non peccavit ex ignorantia ymmo scivit quid deberet velle et quid non 
-          <lb ed="#S" n="126"/>sicut et vult et probat anselmus capitulo alio 22o et aliud ibi opposit ibi discipulus 
-          <lb ed="#S" n="127"/>magistro si sciebat se non debere deserere quod acceperat utique sci<lb ed="#S" break="no" n="128"/>ebat 
-          nihilominus debere puniri si desereret quomodo ergo sponte po<lb ed="#S" break="no" n="129"/>tuit 
+          <lb ed="#S" n="126"/>non potuit simul velle habere illam efficaciter etc velle unde sciret 
+          <lb ed="#S" n="127"/>se istam perdere sed dicet sicut tu supra in Responsione tetigit angelus 
+          <lb ed="#S" n="128"/>non peccavit ex ignorantia ymmo scivit quid deberet velle et quid non 
+          <lb ed="#S" n="129"/>sicut et vult et probat anselmus capitulo alio 22o et aliud ibi opposit ibi discipulus 
+          <lb ed="#S" n="130"/>magistro si sciebat se non debere deserere quod acceperat utique sci<lb ed="#S" break="no" n="131"/>ebat 
+          nihilominus debere puniri si desereret quomodo ergo sponte po<lb ed="#S" break="no" n="132"/>tuit 
           velle <unclear>verum</unclear> miser esset qui acceperat inseparabiliter velle 
           <pb ed="#S" n="192-v"/>
           <cb ed="#S" n="a"/>
@@ -792,7 +792,7 @@
           <lb ed="#S" n="49"/>per anselmum de casu dyaboli capitulo 23 in principio ubi plane dicit quod ipsi <add place="above-line">non</add> potu<lb ed="#S" break="no" n="50"/>erunt 
           ignorare se puniendos si peccarent quia cum de hoc quod sic pu<lb ed="#S" break="no" n="51"/>nirentur 
           non actualiter cogitaverunt ista scientia suum casum non exclu<lb ed="#S" break="no" n="52"/>sit 
-          <pc type="punctus"/>  quia cum probabile est mihi quod omnia actu considerent respectu quorum sunt in 
+          <pc type="punctus"/> quia cum probabile est mihi quod omnia actu considerent respectu quorum sunt in 
           <lb ed="#S" n="53"/>habitu <unclear>determinato</unclear> et particulari licet non unico actu solum modo in habitu in 
           <lb ed="#S" n="54"/>quam inpresso vel acquisito non dico de habitu virtuali quae est ipsamet 
           <lb ed="#S" n="55"/>substantia aniame habituata simplicibus notitiis realiter ideo intelligo anselmum 
@@ -862,13 +862,14 @@
           <lb ed="#S" n="98"/>rogare quod non eveniret sicut credit vel timet firmiter quod eveniet 
           <lb ed="#S" n="99"/>et si faceret quod
           <!-- jumps to 194vb -->
-          posset ad non a habendum talem diffidentiam <unclear>diffi<lb ed="#S" break="no" n="100"/>dentur</unclear> in vice habita post esset sola poena in tali casu quam culpa ista 
-          <lb ed="#S" type="fixed=194v" n="101"/>est de multis fidelibus qui vexantur per invincibiles sibi quasi haesita<lb ed="#S" break="no" n="102"/>tiones 
+          posset ad non a habendum talem diffidentiam <unclear>diffi<lb ed="#S" break="no" n="105" type="fixed=194v"/>dentur</unclear> 
+          in vice habita post esset sola poena in tali casu quam culpa ista 
+          <lb ed="#S" n="106"/>est de multis fidelibus qui vexantur per invincibiles sibi quasi haesita<lb ed="#S" break="no" n="107"/>tiones 
           seu <unclear>citibationibus</unclear> <add place="margin-right">in quibusdam</add> articulis specantibus ad fidem qui tamen 
-          <lb ed="#S" n="103"/>sunt in statu bono quam diu displicent habentibus et laborant orando 
-          <lb ed="#S" n="104"/>et aliis modis possibilibus ut evellant huius <unclear>citibationes</unclear> vo<lb ed="#S" break="no" n="105"/>lendo
+          <lb ed="#S" n="108"/>sunt in statu bono quam diu displicent habentibus et laborant orando 
+          <lb ed="#S" n="109"/>et aliis modis possibilibus ut evellant huius <unclear>citibationes</unclear> vo<lb ed="#S" break="no" n="110"/>lendo
           firmiter libenter sentire in omnibus sicut ecclesia dei sentit 
-          <lb ed="#S" n="106"/>ista ibi de desperatione et timore dampnationis sibi non inputabili.
+          <lb ed="#S" n="111"/>ista ibi de desperatione et timore dampnationis sibi non inputabili.
         </p>
       </div>
     </body>
