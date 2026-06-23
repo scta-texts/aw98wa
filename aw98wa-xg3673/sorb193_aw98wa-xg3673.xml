@@ -482,6 +482,7 @@
         <p xml:id="aw98wa-xg3673-d1e1124">
           <pc type="pilcrow">¶</pc> Contra arguit iste tunc sequeretur quod beatus haberet visionem 
           <lb ed="#S" n="134"/>beatificam aliquando magis perfectam aliquando minus perfectam consequens falsum quoniam
+          <lb ed="#S" n="135"/><!-- line coord error -->
           <pb ed="#S" n="167-v"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>secundum hoc sequeretur quod aliquando esset magis beatus aliquando minus beatus quia perfectiori cognitioni 
@@ -980,14 +981,18 @@
           <lb ed="#S" n="120"/>intellectus simul habet potentiam causandi in se visionem huius creaturae dandae 
           <lb ed="#S" n="121"/>sic a et duplae nobilioris secundum speciem si approximaretur in 4lo nobilioris 
           <lb ed="#S" n="122"/>secundum speciem et si sine termino finito quia quaelibet talis ordinis excedit infinite 
-          <lb ed="#S" n="123"/>ratio huius socii sic efficax est potentiae infinitae consequentiam probo sic ipse 
-          <lb ed="#S" n="124"/>suam quia si aliquis esset intellectus qui praecise haberet naturalem potentiam efficiendi par<lb ed="#S" break="no" n="125"/>tialiter 
+          <lb ed="#S" n="123"/>etiam visiones rerum distinctarum specie si specie distinguuntur igitur talis intellectus
+        </p>
+        <p xml:id="aw98wa-xg3673-d1e2239">
+          <pc type="pilcrow">¶</pc> Si
+          <lb ed="#S" n="124"/>ratio huius socii sic efficax est potentiae infinitae consequentiam probo sic ipse 
+          <lb ed="#S" n="125"/>suam quia si aliquis esset intellectus qui praecise haberet naturalem potentiam efficiendi par<lb ed="#S" break="no" n="126"/>tialiter 
           quia totaliter nullus creatus intellectus potest nisi respectu suimet in se 
-          <lb ed="#S" n="126"/>visionem respectu <c>a</c> obiecti ille esset alicuius determinatae perfectionis in agendo et 
-          <lb ed="#S" n="127"/>si esset alius qui praecise posset in se causare visionem <c>a</c> et visionem etiam 
-          <lb ed="#S" n="128"/>obiecti duplo nobilioris speciei ad <c>a</c> ille in duplo vel in 
-          <lb ed="#S" n="129"/>aliqua alia certa proportione excederet primo datum intellectum sic quod 
-          <lb ed="#S" n="130"/>in sexquialtera et sic non tantum quin ultra posset deus procedere as<pb ed="#S" n="169-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>cendendo 
+          <lb ed="#S" n="127"/>visionem respectu <c>a</c> obiecti ille esset alicuius determinatae perfectionis in agendo et 
+          <lb ed="#S" n="128"/>si esset alius qui praecise posset in se causare visionem <c>a</c> et visionem etiam 
+          <lb ed="#S" n="129"/>obiecti duplo nobilioris speciei ad <c>a</c> ille in duplo vel in 
+          <lb ed="#S" n="130"/>aliqua alia certa proportione excederet primo datum intellectum sic quod 
+          <lb ed="#S" n="131"/>in sexquialtera et sic non tantum quin ultra posset deus procedere as<pb ed="#S" n="169-r"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>cendendo 
           ad intellectus huius meliores et omnes tales intellectus inproportionaliter 
           <lb ed="#S" n="2"/>excedit intellectus quilibet iam beatus qui ad nullum finitum meritum limitatur 
           <lb ed="#S" n="3"/>respectu huius obiectorum igitur quilibet intellectus beatus est virtutis sive potentiae infinitae ecce 

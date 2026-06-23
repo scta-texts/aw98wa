@@ -73,7 +73,7 @@
             <lb ed="#S" n="54"/>Tertiodecimo circa distinctionem primam quaero occasione <choice><orig>2ae</orig><reg>secundae</reg></choice> conclusionis 
             <lb ed="#S" n="55"/>quaestione 12 utrum liceat filium dei plus diligere 
             <lb ed="#S" n="56"/>vel frui eo quam patrem vel spiritum sanctum
-            <lb ed="#P" n="57"/><!-- line coord error -->
+            <lb ed="#S" n="57"/><!-- line coord error -->
           </p>
         </div>
         <div xml:id="aw98wa-xg1657-Dd1e151" type="rationes-principales">
@@ -185,7 +185,7 @@
             <pb ed="#S" n="70-r"/>
             <cb ed="#S" n="a"/>
             <lb ed="#S" n="1"/>enim filii seipsa immediate incarnatur et ideo bene sequitur quod deitas 
-            <lb ed="#S" n="2"/>incarnatur secus autem est de hiis quae conveniunt filio non per fi<lb ed="#P" n="3"/><!-- line coord error--><lb ed="#S" n="4" break="no"/>lii 
+            <lb ed="#S" n="2"/>incarnatur secus autem est de hiis quae conveniunt filio non per fi<lb ed="#S" n="3"/><!-- line coord error--><lb ed="#S" n="4" break="no"/>lii 
             personalitatem, sed per humanitatem unde licet filius fuerit mor<lb ed="#S" n="5" break="no"/>tuus 
             famescens et fatigatus natus de virgine et sic 
             <lb ed="#S" n="6"/>de similibus quae sibi conveniebant non per personalitatem suam aeternam sed 
@@ -493,7 +493,7 @@
             <pc type="pilcrow">¶</pc> dicendum est ut prius quod toti trinitati aequaliter 
             <lb ed="#S" n="9"/>tenemur ex hoc quod voluerunt nos per divinam personam redimi 
             <lb ed="#S" n="10"/>sed istae non est proprie amor dei fruitivus sive propter se ipsum sed 
-            <lb ed="#P" n="11"/><!-- line coord error-->
+            <lb ed="#S" n="11"/><!-- line coord error-->
             <lb ed="#S" n="12"/>est amor propter utile <pc type="#punctus"/> sed tamen illo totam trinitatem diligere ex grati<lb ed="#S" n="13" break="no"/>tudine 
             obligamur sicut et propter creationem quia tota simul trinitas 
             <lb ed="#S" n="14"/>redemptionem nostram concorditer voluit et disposuit <pc type="#punctus"/> quod autem ul<lb ed="#S" n="15" break="no"/>tra 
@@ -540,7 +540,7 @@
           <p xml:id="aw98wa-xg1657-d1e281">
             <note type="marginal-note" place="margin-left">Siransis</note> 
             <lb ed="#S" n="50"/><pc type="pilcrow">¶</pc> Ex isto eodem medio patet quod minus bene respondet ad instantiam 
-            <lb ed="#P" n="51"/><!--line coord error -->
+            <lb ed="#S" n="51"/><!--line coord error -->
             <lb ed="#S" n="52"/>de redemptione arguit enim contra se sicut ego argui supra contra  
             <lb ed="#S" n="53"/>me quod praeter amorem deitatis habet beatus amorem filii inquantum 
             <lb ed="#S" n="54"/>est mediator sive redemptor et non est redemptor nisi in<lb ed="#S" n="55" break="no"/>quantum 
@@ -653,7 +653,7 @@
             <lb ed="#S" n="16"/>quod licet amor idem sit respectu utriusque naturae in supposito redemp<lb ed="#S" n="17" break="no"/>toris 
             tamen iste actus est uniformiter fruitio omnium personarum et non 
             <lb ed="#S" n="18"/>est intensius respectu filii quam respectu patris ut supra in praecedenti responsione <add place="margin-center">est</add> 
-            <lb ed="#P" n="19"/>dictum
+            <lb ed="#S" n="19"/>dictum
           </p>
           <p xml:id="aw98wa-xg1657-d1e325">
             <pc type="pilcrow">¶</pc> Ex hiis satis patet quid sit dicendum ad quaestionem
@@ -714,7 +714,7 @@
             <lb ed="#S" n="53"/>est quia suppono quod iudeus diligat deum et hoc ad<lb ed="#S" n="54" break="no"/>vertat 
             et sciat minor vera est quia quem crucifixerunt 
             <lb ed="#S" n="55"/>ex odio crediderunt se non diligere igitur <pc type="pilcrow">¶</pc> Sed istis non 
-            <lb ed="#P" n="56"/><!-- line coord error -->
+            <lb ed="#S" n="56"/><!-- line coord error -->
             <cb ed="#S" n="b"/><!-- 71-v b -->
             <lb ed="#S" n="57"/>obstantibus dicendum est ad argumentum principale quod ymmo quidquid scitur de persona 
             <lb ed="#S" n="58"/>aliqua divina scitur de deo licet non de deitate nam genera<lb ed="#S" n="59" break="no"/>re 
@@ -825,7 +825,7 @@
           <p xml:id="aw98wa-xg1657-d1e388">
             <pc type="pilcrow">¶</pc> Similiter tunc quicumque 
             <lb ed="#S" n="32"/>scienter percuteret hominem qui esset <unclear>Telicus<!-- looks like "clericus"--></unclear> scienter percuteret <unclear>Telicum<!-- looks like clericum --></unclear> 
-            <lb ed="#P" n="33"/>etc
+            <lb ed="#S" n="33"/>etc
           </p>
           <p xml:id="aw98wa-xg1657-d1e391">
             <note type="marginal-note" place="margin-left">Ad primam formam</note> 
@@ -862,7 +862,7 @@
             <lb ed="#S" n="56"/>et tamen in sensu composito utraque falsa est et eius contradictoria vera <pc type="#punctus"/> sed hoc re<lb ed="#S" n="57" break="no"/>linquo 
             sub dubio an licet haec sit vera in sensu diviso <mentioned>deum sci<lb ed="#S" n="58" break="no"/>vit 
             <name>aristoteles</name> se diligere vel deum novit christianus communis viator 
-            <lb ed="#P" n="59"/>se diligere</mentioned>, non obstante quod sit certum tali se diligere deum 
+            <lb ed="#S" n="59"/>se diligere</mentioned>, non obstante quod sit certum tali se diligere deum 
             <lb ed="#S" n="60"/>dato quod sic dico consequenter quod talis iudeus vel paganus trinitatem sci<lb ed="#S" n="61" break="no"/>ret 
             se diligere sumendo in sensu diviso dictum istud et ideo etiam 3o 
             <lb ed="#S" n="62"/>dico quod haec consequentia non valet <mentioned>scio me diligere deum igitur scio deum me 

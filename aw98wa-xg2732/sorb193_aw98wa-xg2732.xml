@@ -895,7 +895,7 @@
             <lb ed="#S" n="33"/>sine causa sicut declarat innocentius super c ga?vem[?] extra de singula 
             <lb ed="#S" n="34"/>ex communi et docet ibi quod hic est ad meritum[?]initum[?] illius qui sustinet 
             <lb ed="#S" n="35"/>si patienter toleret non tamen credo ut prius dixi quod in foro 
-            <lb ed="#S" n="36"/>?scientiae propter eventum talis infortum ubi invenitur circulariter quis 
+            <lb ed="#S" n="36"/>conscientiae propter eventum talis infortum ubi invenitur circulariter quis 
             <lb ed="#S" n="37"/>ab omni culpa praecedenti esse immunis quod esset sibi imponenda in 
             <lb ed="#S" n="38"/>foro poenitentia poena alia nisi ille tineret[?] se peccasse quod videretur videri 
             <lb ed="#S" n="39"/>simile ex quo de hoc conficeretur ideo ad patiendam suam conscientiam 
@@ -905,7 +905,7 @@
             <lb ed="#S" n="43"/>inponendam quia non faceret de hoc in confessione rationaliter et 
             <lb ed="#S" n="44"/>sponte mentionem nisi tineret[?] se aliqualiter deliquisse de 
             <lb ed="#S" n="45"/>foro tamen publico indici?li[?] propter duplicatis ambiguitatem et ad 
-            <lb ed="#S" n="46"/>curorem[?] ut et talis et alii melius caueant in futurorum ex<lb ed="#S" break="no" n="47"/>pedit 
+            <lb ed="#S" n="46"/>terrorem ut et talis et alii melius caueant in futurorum ex<lb ed="#S" break="no" n="47"/>pedit 
             poenas inponere competentes tamen <g ref="#dot"/> si quaeratur an in 
             <lb ed="#S" n="48"/>foro publico aliquis sic sine culpa puniendus licet hoc sit in<lb ed="#S" break="no" n="49"/>pertinens 
             ad difficultatem quae principaliter hic inquiritur
@@ -995,17 +995,17 @@
             <lb ed="#S" n="109"/>causa primam tenerem si sciens et <choice><orig>actendens</orig><reg>attendens</reg></choice> vere vel interpre<lb ed="#S" break="no" n="110"/>tative 
             quanta mala provenient ex ebrietate scienter et ex 
             <lb ed="#S" n="111"/>electione permisisset se in ebriari et sic intelligo dictum <name xml:id="aw98wa-xg2732-Nd1e3171" ref="#Aristotle">philosophi</name> 
-            quod ebrius male operans duplici interpretatione fit dignus
+            <lb ed="#S" n="112"/>quod ebrius male operans duplici interpretatione fit dignus
           </p>
           <p xml:id="aw98wa-xg2732-d1e3175">
-            <lb ed="#S" n="112"/><g ref="#pilcrow"/>ad <choice><orig>4m</orig><reg>quartum</reg></choice> verum est quod non omnis infirmitas in potentia vel 
-            <lb ed="#S" n="113"/>ignorantia excusat a peccato quando venit ex culpa <g ref="#dot"/> dico 
-            <lb ed="#S" n="114"/>tamen quod omnis infirmitas etc qua homo non est compos mentis <add place="marginRight">et in qua perdit simpliciter cosis[?] rationis</add> 
-            <lb ed="#S" n="115"/>excusat facta quae in taliter disposito ab eo <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>iterum</add> fiunt actu 
-            <lb ed="#S" n="116"/><add place="margin-center">et tunc</add> noviter peccando nec contrarium volunt auctoritates quae primum[?] dicunt
+            <lb ed="#S" n="113"/><g ref="#pilcrow"/>ad <choice><orig>4m</orig><reg>quartum</reg></choice> verum est quod non omnis infirmitas in potentia vel 
+            <lb ed="#S" n="114"/>ignorantia excusat a peccato quando venit ex culpa <g ref="#dot"/> dico 
+            <lb ed="#S" n="115"/>tamen quod omnis infirmitas etc qua homo non est compos mentis <add place="marginRight">et in qua perdit simpliciter cosis[?] rationis</add> 
+            <lb ed="#S" n="116"/>excusat facta quae in taliter disposito ab eo <g ref="#carrot"/><add place="marginRight"><g ref="#carrot"/>iterum</add> fiunt actu 
+            <lb ed="#S" n="117"/><add place="margin-center">et tunc</add> noviter peccando nec contrarium volunt auctoritates quae primum[?] dicunt
           </p>
           <p xml:id="aw98wa-xg2732-d1e3206">
-            <g ref="#pilcrow"/>Et per hoc patet ad <choice><orig>5m</orig><reg>quintum</reg></choice> <g ref="#dot"/> quod non est simile de factis ex infirmitate 
+            <lb ed="#S" n="118"/><g ref="#pilcrow"/>Et per hoc patet ad <choice><orig>5m</orig><reg>quintum</reg></choice> <g ref="#dot"/> quod non est simile de factis ex infirmitate 
             <pb ed="#S" n="115-v"/>
             <cb ed="#S" n="a"/>
             <lb ed="#S" n="1"/>fomitis et factis ex furia quia si facta ex infirmitate ita saepe 

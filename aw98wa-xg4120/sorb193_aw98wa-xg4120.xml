@@ -425,127 +425,127 @@
           <pc type="pilcrow">¶</pc> 2o quia dictae rationes non <add place="margin-right">plus</add> probant si va<lb ed="#S" break="no" n="65"/>leant 
           nisi quod creatura non potest aliquid producere nisi in receptivo sed cum hoc 
           <lb ed="#S" n="66"/>staret satis quod crearet quia deus multa creat in receptivo sicud animam 
-          <lb ed="#S" n="67"/><!-- line coord error; lots of line coord errors on this page. -->
-          <lb ed="#S" n="68"/>et gratiam 
+          <lb ed="#S" n="67"/><!-- line coord error; 67 and 68 are out of order -->et gratiam
         </p>
         <p xml:id="aw98wa-xg4120-d1e1200">
           <pc type="pilcrow">¶</pc> Sed prima cauvillatio non obstat <pc type="punctus"/> quia non potest ad communicari creaturae 
-          <lb ed="#S" n="69"/>quin illud sibi communicatum esset creatura et de isto stant argumenta priora <pc type="punctus"/> dici potest <add place="margin-right">quod</add> 
-          <lb ed="#S" n="70"/><add place="margin-left">deus potest</add> aliter cum creatura concurrere quam facit nec haec valet <pc type="punctus"/> quia vel deus assistens
+          <lb ed="#S" n="68"/>quin illud sibi communicatum esset creatura et de isto stant argumenta priora <pc type="punctus"/> dici potest <add place="margin-right">quod</add> 
+          <!-- <lb ed="#S"/> line coord error missing 69 -->
+          <add place="margin-left">deus potest</add> aliter cum creatura concurrere quam facit nec haec valet <pc type="punctus"/> quia vel deus assistens
           <cb ed="#S" n="b"/>
-          <lb ed="#S" n="71"/>seu concurrens esset totale efficiens et tunc ista non crearet <add place="above-line">licet</add> sed esset sine alio 
-          <lb ed="#S" n="72"/>non crearet deus sicut de facto est in collatione sacramentorum a <unclear>ministris</unclear> 
-          <lb ed="#S" n="73"/>ecclesiae vel in creatione animae vel gratiae vel in collatione sacramentorum a ministris 
-          <lb ed="#S" n="74"/>ecclesiae ubi creatura partialiter potest creare et stant argumenta contra hoc prius facta
+          <lb ed="#S" n="69"/>seu concurrens esset totale efficiens et tunc ista non crearet <add place="above-line">licet</add> sed esset sine alio 
+          <lb ed="#S" n="70"/>non crearet deus sicut de facto est in collatione sacramentorum a <unclear>ministris</unclear> 
+          <lb ed="#S" n="71"/>ecclesiae vel in creatione animae vel gratiae vel in collatione sacramentorum a ministris 
+          <lb ed="#S" n="72"/>ecclesiae ubi creatura partialiter potest creare et stant argumenta contra hoc prius facta
         </p>
         <p xml:id="aw98wa-xg4120-d1e1238">
-          <lb ed="#S" n="75"/><pc type="pilcrow">¶</pc> 2m non movet quia licet deus producat gratiam in anima et animam in corpore tamen nec 
-          <lb ed="#S" n="76"/>in producendo animam requirit necessario corpus concurrere <unclear>ut?us</unclear> principium in suo genere crean<lb ed="#S" break="no" n="77"/>di 
+          <lb ed="#S" n="73"/><pc type="pilcrow">¶</pc> 2m non movet quia licet deus producat gratiam in anima et animam in corpore tamen nec 
+          <lb ed="#S" n="74"/>in producendo animam requirit necessario corpus concurrere <unclear>ut?us</unclear> principium in suo genere crean<lb ed="#S" break="no" n="75"/>di 
           in quo ista anima <unclear>reci?tur</unclear> nec animam adhuc ut producat gratiam <add place="margin-right">vel saltem non <unclear>v?t</unclear> producat illam rem absolutam quae est gratia</add>
-          <lb ed="#S" n="78"/>quia utrumque posset producere sine subiecto illud aut quod si deberet producere necessario 
-          <lb ed="#S" n="79"/>requireret subiectum in quo nec posset creare eo ipso quia hic non <add place="above-line">est</add> creare necessario 
-          <lb ed="#S" n="80"/>sic in producendo requirere <add place="margin-left">receptivum</add> <del rend="expunctuation">subiectum</del> nulla <unclear>enim</unclear> alia totalis causa salvat eductionem 
-          <lb ed="#S" n="81"/>formae vel totius de potentia receptiva eius aut de potentia eius aliquid educitur vel 
-          <lb ed="#S" n="82"/>producitur est <add>ex</add><del rend="expunctuation">con</del>cludere creationem <add place="margin-right">produci</add> quia illud quo posito et quo ammoto etc
-          <lb ed="#S" n="83"/>non enim plus latitat forma ignis in materia quam animam intellectiva in 
-          <lb ed="#S" n="84"/>corpore
+          <lb ed="#S" n="76"/>quia utrumque posset producere sine subiecto illud aut quod si deberet producere necessario 
+          <lb ed="#S" n="77"/>requireret subiectum in quo nec posset creare eo ipso quia hic non <add place="above-line">est</add> creare necessario 
+          <lb ed="#S" n="78"/>sic in producendo requirere <add place="margin-left">receptivum</add> <del rend="expunctuation">subiectum</del> nulla <unclear>enim</unclear> alia totalis causa salvat eductionem 
+          <lb ed="#S" n="79"/>formae vel totius de potentia receptiva eius aut de potentia eius aliquid educitur vel 
+          <lb ed="#S" n="80"/>producitur est <add>ex</add><del rend="expunctuation">con</del>cludere creationem <add place="margin-right">produci</add> quia illud quo posito et quo ammoto etc
+          <lb ed="#S" n="81"/>non enim plus latitat forma ignis in materia quam animam intellectiva in 
+          <lb ed="#S" n="82"/>corpore
         </p>
         <p xml:id="aw98wa-xg4120-d1e1293">
           <pc type="pilcrow">¶</pc> Dices quod sola potentia receptiva passi eset causa exludens 
-          <lb ed="#S" n="85"/>creationem
+          <lb ed="#S" n="83"/>creationem
         </p>
         <p xml:id="aw98wa-xg4120-d1e1301">
           <pc type="pilcrow">¶</pc> contra ex hoc statim sequeretur quod creatura posset creare quia ista possio est 
-          <lb ed="#S" n="86"/>entitas quaedam positiva et si est de novo in <unclear>realiter</unclear> natura producitur ad 
-          <lb ed="#S" n="87"/>entitatem aliam igitur mediate passione receptiva passi et erit in infinitum 
-          <lb ed="#S" n="88"/>processus vel immediate sine creatione passiva receptiva materiae et tunc creatur 
-          <lb ed="#S" n="89"/>quia per istum <add place="above-line">sic</add> obviantem sola talis passio mediante qua res producitur sive 
-          <lb ed="#S" n="90"/>in subiecto sive per se existens excludit illud quod dicitur creari sicut igitur per<lb ed="#S" break="no" n="91"/>suasa 
+          <lb ed="#S" n="84"/>entitas quaedam positiva et si est de novo in <unclear>realiter</unclear> natura producitur ad 
+          <lb ed="#S" n="85"/>entitatem aliam igitur mediate passione receptiva passi et erit in infinitum 
+          <lb ed="#S" n="86"/>processus vel immediate sine creatione passiva receptiva materiae et tunc creatur 
+          <lb ed="#S" n="87"/>quia per istum <add place="above-line">sic</add> obviantem sola talis passio mediante qua res producitur sive 
+          <lb ed="#S" n="88"/>in subiecto sive per se existens excludit illud quod dicitur creari sicut igitur per<lb ed="#S" break="no" n="89"/>suasa 
           est aliquo modo conclusio licet non sufficienter contra protervos
         </p>
         <p xml:id="aw98wa-xg4120-d1e1325">
           <pc type="pilcrow">¶</pc> Praecipue 
-          <lb ed="#S" n="92"/>autem hoc movent auctoritates quarum alias supra adduxi Quibus ad hoc 
-          <lb ed="#S" n="93"/>addo illud <ref xml:id="aw98wa-xg4120-Rd1e1334">augustinus 3 de trinitate capitulo 9</ref> quod <quote xml:id="aw98wa-xg4120-Qd1e1336" source="http://scta.info/resource/adt-l3-d1e425@24-34">nec angelos bonos nec ma<lb ed="#S" break="no" n="94"/>los 
+          <lb ed="#S" n="90"/>autem hoc movent auctoritates quarum alias supra adduxi Quibus ad hoc 
+          <lb ed="#S" n="91"/>addo illud <ref xml:id="aw98wa-xg4120-Rd1e1334">augustinus 3 de trinitate capitulo 9</ref> quod <quote xml:id="aw98wa-xg4120-Qd1e1336" source="http://scta.info/resource/adt-l3-d1e425@24-34">nec angelos bonos nec ma<lb ed="#S" break="no" n="92"/>los 
           fas est putare creatores</quote>
         </p>
         <p xml:id="aw98wa-xg4120-d1e1342">
           <pc type="pilcrow">¶</pc> Item augustinus de trinitate libro 12 capitulo 
-          <lb ed="#S" n="95"/>14 <quote xml:id="aw98wa-xg4120-Qd1e1349" source="http://scta.info/resource/adcd-l12-d1e1781@82-96">non enim fas est <add place="margin-right"><sic>nullius<!-- "ullius" in augustine text --></sic></add> <del rend="expunctuation">illius</del> naturae quamlibet minim<add place="above-line">e</add><del rend="expunctuation">um</del> creatorem nisi deum credere 
-          <lb ed="#S" n="96"/>aut dicere</quote>
+          <lb ed="#S" n="93"/>14 <quote xml:id="aw98wa-xg4120-Qd1e1349" source="http://scta.info/resource/adcd-l12-d1e1781@82-96">non enim fas est <add place="margin-right"><sic>nullius<!-- "ullius" in augustine text --></sic></add> <del rend="expunctuation">illius</del> naturae quamlibet minim<add place="above-line">e</add><del rend="expunctuation">um</del> creatorem nisi deum credere 
+          <lb ed="#S" n="94"/>aut dicere</quote>
         </p>
         <p xml:id="aw98wa-xg4120-d1e1369">
           <pc type="virgula">//</pc> item sicut efficientia artis creaturae praesupponit effectum naturae de quo 
-          <lb ed="#S" n="97"/>ita efficientia naturae creatae et cuiuscumque aeque necessario videtur praesupponere effectum 
-          <lb ed="#S" n="98"/>dei de <unclear>quo</unclear>
+          <lb ed="#S" n="95"/>ita efficientia naturae creatae et cuiuscumque aeque necessario videtur praesupponere effectum 
+          <lb ed="#S" n="96"/>dei de <unclear>quo</unclear>
         </p>
         <p xml:id="aw98wa-xg4120-d1e1381">
           <pc type="pilcrow">¶</pc> contra praedicta potest multipliciter dubitari et primo contra conclusionem in se 2o 
-          <lb ed="#S" n="99"/>contra argumenta 3o movebitur quodam aliud dubium circa hanc materiam
+          <lb ed="#S" n="97"/>contra argumenta 3o movebitur quodam aliud dubium circa hanc materiam
         </p>
         <p xml:id="aw98wa-xg4120-d1e1389">
           <pc type="pilcrow">¶</pc> contra conclusionem 
-          <lb ed="#S" n="100"/>in se quod sit falsa videtur quia prius naturaliter est forma substantialis vel actualis producat 
-          <lb ed="#S" n="101"/>in subiecto ab activo <unclear>creatio</unclear> aliquid in se quam aliquid inhaerens alteri <pc type="punctus"/> aliter per 
-          <lb ed="#S" n="102"/>nullam potentiam posset illud activum conservari in essendo vel produci inesse absque 
-          <lb ed="#S" n="103"/>hoc quod inhaereret consequens falsum secundum fidem igitur de potentia <add place="margin-right">dei</add> <del rend="expunctuation">activa</del> posset 
-          <lb ed="#S" n="104"/>ut videtur aliquid activa produci ad esse absque hoc quod produceretur ad 
-          <lb ed="#S" n="105"/>inhaerere 
+          <lb ed="#S" n="98"/>in se quod sit falsa videtur quia prius naturaliter est forma substantialis vel actualis producat 
+          <lb ed="#S" n="99"/>in subiecto ab activo <unclear>creatio</unclear> aliquid in se quam aliquid inhaerens alteri <pc type="punctus"/> aliter per 
+          <lb ed="#S" n="100"/>nullam potentiam posset illud activum conservari in essendo vel produci inesse absque 
+          <lb ed="#S" n="101"/>hoc quod inhaereret consequens falsum secundum fidem igitur de potentia <add place="margin-right">dei</add> <del rend="expunctuation">activa</del> posset 
+          <lb ed="#S" n="102"/>ut videtur aliquid activa produci ad esse absque hoc quod produceretur ad 
+          <lb ed="#S" n="103"/>inhaerere 
         </p>
         <p xml:id="aw98wa-xg4120-d1e1418">
           <pc type="pilcrow">¶</pc> Item aut productus rei est illius distinctus a productio aut non 
-          <lb ed="#S" n="106"/>si sic igitur poterit poni naturaliter <unclear>po?tis</unclear> <add place="margin-right">fundamento</add> <del>subiecto</del> et ceteris vel termino sed sublato respec<lb ed="#S" break="no" n="107"/>tivo 
+          <lb ed="#S" n="104"/>si sic igitur poterit poni naturaliter <unclear>po?tis</unclear> <add place="margin-right">fundamento</add> <del>subiecto</del> et ceteris vel termino sed sublato respec<lb ed="#S" break="no" n="105"/>tivo 
           habetur adhuc terminus et fundamentum si sit res ipsa producta multo magis 
-          <lb ed="#S" n="108"/>videtur quod non plus requiritur
+          <lb ed="#S" n="106"/>videtur quod non plus requiritur
         </p>
         <p xml:id="aw98wa-xg4120-d1e1438">
           <pc type="pilcrow">¶</pc> Item prior est dependentia formae accidentalis 
-          <lb ed="#S" n="109"/>vel substantialis cuiuscumque absoluti ad agens quam ad respectum vel 
-          <lb ed="#S" n="110"/>receptivum aliter a nullo agente sine receptivo posset hoc fieri igitur po<lb ed="#S" break="no" n="111"/>terit 
-          dependere <add place="margin-right">ad</add> agens non dependendo ad subiectum qui prius potest ab<lb ed="#S" break="no" n="112"/>solvi 
+          <lb ed="#S" n="107"/>vel substantialis cuiuscumque absoluti ad agens quam ad respectum vel 
+          <lb ed="#S" n="108"/>receptivum aliter a nullo agente sine receptivo posset hoc fieri igitur po<lb ed="#S" break="no" n="109"/>terit 
+          dependere <add place="margin-right">ad</add> agens non dependendo ad subiectum qui prius potest ab<lb ed="#S" break="no" n="110"/>solvi 
           a posteriori vel fieri sine posteriori
         </p>
         <p xml:id="aw98wa-xg4120-d1e1456">
           <pc type="pilcrow">¶</pc> praeterea agens naturale potest de 
-          <lb ed="#S" n="113"/>speciebus panis et vini in eukaristia generare vel producere formam 
-          <lb ed="#S" n="114"/>substantialem vermis et ista non educitur de potentiae materiae quia nulla est igitur creatura
+          <lb ed="#S" n="111"/>speciebus panis et vini in eukaristia generare vel producere formam 
+          <lb ed="#S" n="112"/>substantialem vermis et ista non educitur de potentiae materiae quia nulla est igitur creatura
         </p>
         <p xml:id="aw98wa-xg4120-d1e1467">
-          <pc type="pilcrow">¶</pc> praeterea creatura potest adnihilare <add place="margin-right">igitur creare 5o</add> <del rend="expunctuation">cum</del> consequentia conceditur communiter quia non videtur aliquid magis 
-          <lb ed="#S" n="115"/>esse facere aliquid ex nihilo quod redigere aliud in nichilum
+          <lb ed="#S" n="113"/>et gratiam <pc type="pilcrow">¶</pc> praeterea creatura potest adnihilare <add place="margin-right">igitur creare 5o</add> <del rend="expunctuation">cum</del> consequentia conceditur communiter quia non videtur aliquid magis 
+          <lb ed="#S" n="114"/>esse facere aliquid ex nihilo quod redigere aliud in nichilum
         </p>
         <p xml:id="aw98wa-xg4120-d1e1481">
           <pc type="pilcrow">¶</pc> Hugo etiam 
-          <lb ed="#S" n="116"/>de sacramentis libro primo per 6a capitulo ultimo dicit de nihilo facere sive de 
-          <lb ed="#S" n="117"/>aliquo nihil solus deus potest Et ibidem quaestione in principio capituli dicit 
-          <lb ed="#S" n="118"/>quod de nichilo aliquid facere vel de aliquo nihil sunt opera soli deo possibilia 
-          <lb ed="#S" n="119"/>ergo dato quod creatura posset adnihilare sequitur pari ratione quod poterit <add place="margin-right">creare</add> antecedens probatur 
-          <lb ed="#S" n="120"/>cum quia in corruptione compositi formatur adnihilatur cum nec in se nec 
-          <lb ed="#S" n="121"/>in aliqua parte sui remaneat nec in actu nec in potentia naturalia quia aliter potentia 
-          <lb ed="#S" n="122"/>esset frustra in natura cum per naturam non possit reduci ad actum Tum 
-          <lb ed="#S" n="123"/>quia <add place="above-line">si</add> <unclear>modius</unclear> frigidus separatum esset in maximo igne et calidissimo non 
-          <lb ed="#S" n="124"/>videtur quin agens destrueret ipsum et tunc adnihilaret ipsum quia retine<lb ed="#S" break="no" n="125"/>batur 
+          <lb ed="#S" n="115"/>de sacramentis libro primo per 6a capitulo ultimo dicit de nihilo facere sive de 
+          <lb ed="#S" n="116"/>aliquo nihil solus deus potest Et ibidem quaestione in principio capituli dicit 
+          <lb ed="#S" n="117"/>quod de nichilo aliquid facere vel de aliquo nihil sunt opera soli deo possibilia 
+          <lb ed="#S" n="118"/>ergo dato quod creatura posset adnihilare sequitur pari ratione quod poterit <add place="margin-right">creare</add> antecedens probatur 
+          <lb ed="#S" n="119"/>cum quia in corruptione compositi formatur adnihilatur cum nec in se nec 
+          <lb ed="#S" n="120"/>in aliqua parte sui remaneat nec in actu nec in potentia naturalia quia aliter potentia 
+          <lb ed="#S" n="121"/>esset frustra in natura cum per naturam non possit reduci ad actum Tum 
+          <lb ed="#S" n="122"/>quia <add place="above-line">si</add> <unclear>modius</unclear> frigidus separatum esset in maximo igne et calidissimo non 
+          <lb ed="#S" n="123"/>videtur quin agens destrueret ipsum et tunc adnihilaret ipsum quia retine<lb ed="#S" break="no" n="124"/>batur 
           separatum a subiecto Tum quia peccata adnihilant gratiam 
         </p>
         <p xml:id="aw98wa-xg4120-d1e1517">
           <pc type="pilcrow">¶</pc> Praeterea omnis virtus 
-          <lb ed="#S" n="126"/>est communicabilis creaturae alicui vel creaturae quam non oportet esse infinita nam omnis 
-          <lb ed="#S" n="127"/>potentia finita possibilis proportionalis est creaturae sed alia potest esse virtus finita 
-          <lb ed="#S" n="128"/>creativa ergo ista non repungnant creaturae minor probatur quia virtus creativa 
-          <lb ed="#S" n="129"/>non oportet quod sit infinita quia hoc aut esse ratione termini productivi aut 
-          <lb ed="#S" n="130"/>ratione modi producendi aut ratione productionis aut ratione distantiae 
-          <lb ed="#S" n="131"/>inter terminum a quo terminum ad quem sed primum non inpedit hoc enim non 
-          <lb ed="#S" n="132"/>exigit infinitatem quia omnis trinus creationis est finitus
+          <lb ed="#S" n="125"/>est communicabilis creaturae alicui vel creaturae quam non oportet esse infinita nam omnis 
+          <lb ed="#S" n="126"/>potentia finita possibilis proportionalis est creaturae sed alia potest esse virtus finita 
+          <lb ed="#S" n="127"/>creativa ergo ista non repungnant creaturae minor probatur quia virtus creativa 
+          <lb ed="#S" n="128"/>non oportet quod sit infinita quia hoc aut esse ratione termini productivi aut 
+          <lb ed="#S" n="129"/>ratione modi producendi aut ratione productionis aut ratione distantiae 
+          <lb ed="#S" n="130"/>inter terminum a quo terminum ad quem sed primum non inpedit hoc enim non 
+          <lb ed="#S" n="131"/>exigit infinitatem quia omnis trinus creationis est finitus
         </p>
         <p xml:id="aw98wa-xg4120-d1e1538">
           <pc type="pilcrow">¶</pc> Nec 2m 
-          <lb ed="#S" n="133"/>cum omni modus creationis sit finitus cum sic aliquid extra deum
+          <lb ed="#S" n="132"/>cum omni modus creationis sit finitus cum sic aliquid extra deum
         </p>
         <p xml:id="aw98wa-xg4120-d1e1546">
           <pc type="pilcrow">¶</pc> Nec 
-          <lb ed="#S" n="134"/>3m quia ipsa <add place="margin-center">creatio</add> est finita cum ipsa sit creata vel aliquid increata nec 
-          <lb ed="#S" n="135"/>4m quia nulla est ibi distantia nec positiva nec privativa sine negativa
-          <lb ed="#S" n="136"/>distantia si quae sit <add place="above-line">non</add> est <unclear>taxenda</unclear> nisi secundum quantitatem termini positivi nec 
+          <lb ed="#S" n="133"/>3m quia ipsa <add place="margin-center">creatio</add> est finita cum ipsa sit creata vel aliquid increata nec 
+          <lb ed="#S" n="134"/>4m quia nulla est ibi distantia nec positiva nec privativa sine negativa
+          <lb ed="#S" n="135"/>distantia si quae sit <add place="above-line">non</add> est <unclear>taxenda</unclear> nisi secundum quantitatem termini positivi nec 
           <pb ed="#S" n="210-r"/>
           <cb ed="#S" n="a"/>
           <lb ed="#S" n="1"/>nec aliqua est ibi resistentia igitur non apparet ratio currit potentia creativa necessario 
