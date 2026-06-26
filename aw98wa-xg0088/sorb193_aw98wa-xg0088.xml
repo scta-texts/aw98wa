@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium [Sorb193 Transcription]</title>
+          <date when="2026-06-22">June 22, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-06-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>  
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="3-r"/>
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg0088">
+        <head>Principium [Sorb 193 Transcription]</head>
+        <p>
+          <pb ed="#S" n="3-r"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S" n="1"/>Ita est enim lex adam domine deus et R 7 Mi<lb ed="#S" n="1"/>rari 
+          solent mundi sapientes et lucris tantum saecula<lb ed="#S" n="2"/>ribus 
+          et commodis temporalibus <unclear>inlyyantes</unclear> sacra scrip<lb ed="#S"/>turae 
+          deditos quos et iudicant nescientes et 
+          <lb ed="#S"/>fatuos <add place="margin-left">cur</add> ita solicitere in hac scientia divinae <unclear>legis</unclear> cum 
+          <lb ed="#S"/>fides pro notitia sufficiat ipsorum iudicio inani<lb ed="#S"/>ter 
+          occupant dies suos <pc type="punctus"/> ex quo per ipsam lu<lb ed="#S"/>crari 
+          non potuerunt <unclear>v?t</unclear> medici curando nec 
+          <lb ed="#S"/>ut causiditi placiendo nec per saluaria petunias 
+          <lb ed="#S"/>colligendo sicud artisce iuriste grammatici et o<lb ed="#S"/>parii 
+          manuales nec pro obsequio ecclesias conse<lb ed="#S" break="no"/>quendo 
+          ut clerici curiales ut quid igitur
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Ita <unclear>Kmi</unclear> de 
+          <lb ed="#S"/>theologis sapientia huius mundi quae et stultitia apud deum est iudicat 
+          <lb ed="#S"/>Sed dei sapientia aliter loquitur per psalmistam Beatus vir qui non abiit 
+          <lb ed="#S"/>sicut tales in consilio inpiorum <pc type="punctus"/> sed in lege deum voluntas eius et in le eius 
+          <lb ed="#S"/>medi di ac nocte <!-- quote here -->
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Talis enim meditatio est sanctissima 
+          <lb ed="#S"/>occupatio et tale studium valde meritoria operatio cum ad hoc eligitur 
+          <lb ed="#S"/>atque suscipitur ut deus ferventius diligatur et amor proximi <unclear>mit?<lb ed="#S"/>atur</unclear>
+          et species salutis augeatur ut anima pascatur et cebris 
+          <lb ed="#S"/>consolationibus spiritus repleatur et spiritus angelici nobis studentibus 
+          <lb ed="#S"/>et legentibus assistant auxilia ferant et assistentes divinis 
+          <lb ed="#S"/>colloquiis reficiantur et ex opposito daemones confundantur quae 
+          <lb ed="#S"/>multis probari possent testimoniis si prolixitas non obsta<lb ed="#S"/>ret 
+          ex quibus probatis satis pateret studium scripturae sacrae 
+          <lb ed="#S"/>esse meritorium et summe proficuum inter omnia studia et non esse 
+          <lb ed="#S"/>superfluum et inane 
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Ista enim est lex adam domine deus 
+          <lb ed="#S"/>lex divinae instructionis lex humanae eruditionis quia lex a<lb ed="#S"/>dam 
+          caelestis lex adam terrestris De quibus <ref>i corinthios 15</ref> 
+          <lb ed="#S"/>factus est primus adam in anima viventem novissimus a<lb ed="#S"/>dam 
+          in spiritum vivificantem primus de terra terreneus 2us de 
+          <lb ed="#S"/>caelo caelestis hic est utriusque <add place="margin-left">lex</add> quia lex divini immaculata con 
+          <lb ed="#S"/>a ces deo fi sa prae per <!-- abbreviated bible quote here --> Ista ergo ex lex adam domine deus
+        </p>
+        <p>
+          <lb ed="#S"/><pc type="pilcrow">¶</pc> In quibus verbis sacrae scripturae in generali et libri sententiarum 
+          <lb ed="#S"/>in speciali causam 4tem videtur annuere istud thema dum tan<lb ed="#S"/>git 
+          obiectum effectum modum et fructum effectum potentiae obiectum 
+          <lb ed="#S"/>notitiae modum formalem et fructum finalem effectum potentiae 
+          <lb ed="#S"/>in existentia designata <hi>ista est</hi> obiectum notitiae in subsistentia 
+          <lb ed="#S"/>nominata <hi>adam</hi> modum formalem in legis qualitate lex 
+          <lb ed="#S"/>et fructum finalem in dei bonitate domine deus Ista est enim 
+          <lb ed="#S"/>lex adam domine deus
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Tangit inquam primo effectum 
+          <lb ed="#S"/>potentiae in existentia designata tum quia pronomen demonstratam notat 
+          <lb ed="#S"/>singularitatem et actiones sunt singularium et circa singularia 
+          <lb ed="#S"/>1o metaphysicae tum quia esse appetunt omnia 2o de anima et causa illius 
+          <lb ed="#S"/>agunt quaecumque agunt quatenus <add place="margin-left">ipso semper et</add> <del>in specie</del> divinae essentiae <add>et</add> divino esse 
+          <lb ed="#S"/>participent secundum quod possunt et bene notatur existentia singularis designata 
+          <lb ed="#S"/>cum ratione ipsam inspirantis
+          <lb ed="#S"/>cum ratione ipsam promulgantis
+          <lb ed="#S"/>cum ratione ipsam contemplantis
+          <lb ed="#S"/>cum ratione ipsam recitantis 
+          Eius inspirator est deus 
+          bar?t 3 hic est deus noster et 
+          non aestimabitur alius ad illum hic
+          adinvenit omnem viam
+          <lb ed="#S"/>disciplinae etc Ex hic eius inventore et auctore principali ipsam
+          <lb ed="#S"/>de super inspirante qui dicit exodus 3 ego sim qui sum et qui est 
+          <lb ed="#S"/>misit me ad nos infallibilem et inpercurbabilem continet veritatem 
+          <lb ed="#S"/>et non est in illa est et non sed est in ista est 2a corinthios
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> De hoc loquitur
+          <lb ed="#S"/>augustinus contra faustum sit inquit Extat auctoritas scripturarum novi et 
+          <lb ed="#S"/>veteris testamenti cui omnis fidelis et pius subserviat intellectus 
+          <lb ed="#S"/>ibi inquit nihil absurdum et invenitur ibi non licet dicere auctor 
+          <lb ed="#S"/>huius rei non tenuit veritatem sed Huc codex mendosus 
+          <lb ed="#S"/>est aut interpres erravit aut tu non intelliges
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Et 
+          <lb ed="#S"/>hugo didascolion 4 capitulo 1 Eloqui divina sola sunt aliena 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S"/>a falsitatis contagione Ideo bene dicitur ecc 24 haec omnia liber vice et 
+          <lb ed="#S"/>testamentum altissimi et agnitio veritatis et haec ideo quia ipsam altissimus 
+          <lb ed="#S"/>inspiravit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Eius promulgator erat legislatorum christus vel mox<lb ed="#S" break="no"/>ses 
+          et eius quilibet peccator Eius <del rend="expunctuation">contemp</del> compilator quo ad <unclear>li?m</unclear> 
+          <lb ed="#S"/>sententiarum extat magister petrus qui sacram theologiam per in<lb ed="#S"/>finita 
+          dispersam volitiva ad certos redignens cyculos priorum 
+          <lb ed="#S"/>sententias recollegit et posterioribus viam dedit
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Eius recita<lb ed="#S"/>tor 
+          est omnis eius lector Ex quibus unus est hic discipulus ille 
+          <lb ed="#S"/>qui testimonium perhibet de hiis Io 21 ista est enim lex adam 
+          <lb ed="#S"/>domine deus
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> 2o principaliter tangitur in themate motus formalis in legis 
+          <lb ed="#S"/>qualitate Ista est enim lex legis autem qualitas est mira <unclear>forosi<lb ed="#S"/>tas</unclear>
+          nam si est lex iusta est vel iustitia unde augustinus libero arbitrio 
+          <lb ed="#S"/>libro 1o capitulo 10 lex mihi esse non videtur quae iusta non fuerit 5 aut ethicorum 
+          <lb ed="#S"/>dicitur capitulo 3o praeclarissima virtutum esse videtur iustitia et neque hesperus 
+          <lb ed="#S"/>neque lucifer tam admirabilis
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Potest autem sacra scriptura in sententiis re<lb ed="#S"/>collecta 
+          dici lex pro eo quod ligat liberat et levat 
+          <lb ed="#S"/>a ligando lex naturae 
+          <lb ed="#S"/>a legendo lex scripturae
+          <lb ed="#S"/>a liberando lex gratiae 
+          <lb ed="#S"/>a levando lex gloriae
+          nam sacram scriptura et <unclear>ignea</unclear> lex lex 
+          dicitur quia nos refrenando ligat ig<lb ed="#S"/>nea 
+          quia ad amorem creaotre inflammat 
+          ut dicit richardus super apo libro 2
+          <lb ed="#S"/>unde <unclear>bara</unclear> 4 hic est <unclear>li?r</unclear> mandatorum dei et lex quae est meternum 
+          <lb ed="#S"/>omnis qui tenent eam ad vitam qui aut relinquit eam ad 
+          <lb ed="#S"/>mortem
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Tertio principaliter huius notitiae tangitur obiectum expressa sub<lb ed="#S"/>sistentia 
+          nominatim cum dicitur <hi>adam</hi> ista enim est lex adam <del rend="expunctuation">dei</del> 
+          lex divinae generationis lex humanae procreationis lex divinae incarna<lb ed="#S"/>tionis 
+          lex humanae restaurationis
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Nam verbi emanatio 
+          <lb ed="#S"/>secundi adam ad librum spectat primum et congruit orienti hominis plas<lb ed="#S"/>matio 
+          et primi adam ad 2m et congruit <unclear>occi?ti</unclear> verbi incarnatio 
+          <lb ed="#S"/>pertinet ad 3m et congruit austro hominis curatio primi 
+          <lb ed="#S"/>adam pertinet ad 4m et congruit aquiloni nam dicit pa<lb ed="#S"/>pias 
+          quod adam in 4 graecis <unclear>licteris</unclear> 4 principia verborum graecorum significat 
+          <lb ed="#S"/>anachole dyas archos messembra id est orientis oc<lb ed="#S"/>cidentis 
+          septemteronis et meridiani quod alius gramaticus ista 
+          <lb ed="#S"/>scribit anachole dedit a dysis de contulit archos 
+          <lb ed="#S"/><c>a</c> messembria <c>m</c> collige fiet adam sicut enim caelum 
+          <lb ed="#S"/>quantum ad primum superorizontem semper emergit et oritur sic pater 
+          <lb ed="#S"/>innascibilis natura  semper pullulans indesinenter gignit filium 
+          <lb ed="#S"/>deum de deo lumen de lumine hoc lumen indeficiens ex patre 
+          <lb ed="#S"/>semper nascitur tamquam splendor de glossa et candor de luce et 
+          <lb ed="#S"/>ars de artifice et virtus de opifice paterne proles fecun<lb ed="#S"/>ditatis 
+          yamgo patris spiritus principium persona media trinitatis nam 
+          <lb ed="#S"/>adam <add place="margin-right">maximus</add> ibi inter enachi ubi situs est Iosue 14 <gap/>
+          <lb ed="#S"/><gap/> adam inter patrem et spiritum sanctum 
+          <lb ed="#S"/>gignitur et spirat <unclear>mediat</unclear> per originem sed pluraliter loqui lice<lb ed="#S"/>at 
+          sicut notat enachim potentes tri?les ac ra<lb ed="#S"/>bustos 
+          ut sic de primo libro qui verbi ex patre aeternam 
+          <lb ed="#S"/>originem prosequitur dici possit illud <ref>genesem 5</ref> hic est 
+          <lb ed="#S"/>liber generationis adam
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Pro libris sequentibus ista 
+          <lb ed="#S"/>vide adaptare congruentias praetermitto
+        </p>
+        <p>
+          <pc type="pilcrow">¶</pc> Quarto principaliter 
+          <lb ed="#S"/>tangitur fructus finalis huius notitiae qui est dei bontias et finis 
+          <lb ed="#S"/>finium ultimatus <hi>domine deus</hi> qui iuxta 4tem conditionem fina<lb ed="#S"/>lis 
+          beatitudinis summe est amirabilis summe delectabilis 
+          <lb ed="#S"/>summe amabilis et summe perdurabilis et quia sic amirabilis ideo 
+          <lb ed="#S"/>afficiens ut beatifice videatur quia sic amabilis ideo alliciens 
+          <lb ed="#S"/>ut spontaneae diligatur quia sic delectabilis ideo resi?ns
+          <lb ed="#S"/>ut suaviter hauriatur et quia sic perdurabilis ideo suffi<lb ed="#S"/>ciens 
+          ut perhenniter teneatur 2 mach capitulo 1 domine deus 
+          <lb ed="#S"/>omnium creator terribilis et forits instus et miseritors qui 
+          <lb ed="#S"/>solus es bonus solus res solus praestans solus 
+          <pb ed="#S" n="3-v"/>
+          <cb ed="#S" n="a"/>
+          <lb ed="#S"/>iustus omnipotens et aeternus qui liberas israel ab omni malo 
+          <lb ed="#S"/>custodi partem tuam et sanctificata scilicet theologos Et si sumus 
+          <lb ed="#S"/>peccatores domine deus virtutum converte nos os fa c<!-- bible quote here --> et 
+          <lb ed="#S"/>sal e psalmus 83 Quod nobis praestare dignetur auctor ipse sa<lb ed="#S"/>lutis 
+          qui cum patre et spiritu sancto vi et reg etc
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
