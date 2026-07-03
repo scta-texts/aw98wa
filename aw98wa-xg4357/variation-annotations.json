@@ -1,0 +1,353 @@
+{
+  "aw98wa-xg4357-d1e103": [
+    {
+      "precedingTokenPosition": 0,
+      "tokenRange": "1-7",
+      "before": "",
+      "lemma": "Tertio quaero propter conditionem implicatam praecedenti quaestione",
+      "after": "utrum quilibet qui",
+      "decisionBasis": "M",
+      "note": "Preference for the more explicit informative reading",
+      "witnesses": {
+        "M": {
+          "lemma": "Tertio quaero propter conditionem implicatam praecedenti quaestione",
+          "tokenRange": "1-7",
+          "before": "",
+          "after": "utrum quilibet qui"
+        },
+        "S": {
+          "lemma": null,
+          "precedingLemma": null,
+          "precedingTokenPosition": 0,
+          "before": "",
+          "after": "utrum quilibet qui"
+        }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e110": [
+    {
+      "tokenRange": "1-2",
+      "before": "",
+      "lemma": "Et videtur",
+      "after": "quod non quia",
+      "decisionBasis": "M",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "M": {
+          "lemma": "et videtur",
+          "tokenRange": "1-2",
+          "before": "",
+          "after": "quod non quia"
+        },
+        "S": {
+          "lemma": null,
+          "precedingTokenPosition": 0,
+          "before": "",
+          "after": "quod non quia"
+        }
+      }
+    },
+    {
+      "tokenPosition": 7,
+      "before": "quia nullus",
+      "lemma": "tenetur",
+      "after": "ad sibi impossibile",
+      "decisionBasis": "S",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "S": {
+          "lemma": "tenetur",
+          "tokenPosition": 5,
+          "before": "quia nullus",
+          "after": "ad sibi impossibile"
+        },
+        "M": {
+          "lemma": null,
+          "precedingLemma": "nullus",
+          "precedingTokenPosition": 6,
+          "before": "quia nullus",
+          "after": "ad sibi impossibile"
+        }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e119": [
+    {
+      "tokenPosition": 6,
+      "before": "arbiter suae voluntatis",
+      "lemma": "constitutus",
+      "after": "potest novam vitam",
+      "decisionBasis": "S",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "S": {
+          "lemma": "constitutus",
+          "tokenPosition": 6,
+          "before": "arbiter suae voluntatis",
+          "after": "potest novam vitam"
+        },
+        "M": {
+          "lemma": null,
+          "precedingLemma": "voluntatis",
+          "precedingTokenPosition": 5,
+          "before": "arbiter suae voluntatis",
+          "after": "potest novam vitam"
+        }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e131": [
+    {
+      "tokenRange": "4-5",
+      "before": "dicendum quod sic",
+      "lemma": "quia posset",
+      "after": "sibi occurrere vel",
+      "decisionBasis": "S",
+      "note": "quia posset provides the causal connection required by the argument",
+      "witnesses": {
+        "S": {
+          "lemma": "quia posset",
+          "tokenRange": "4-5",
+          "before": "dicendum quod sic",
+          "after": "sibi occurrere vel"
+        },
+        "M": {
+          "lemma": "si possit",
+          "tokenRange": "4-5",
+          "before": "dicendum quod sic",
+          "after": "sibi occurrere vel"
+        }
+      }
+    },
+    {
+      "tokenRange": "12-16",
+      "before": "sibi occurreret",
+      "lemma": "sicut habitum est praecedenti quaestione",
+      "after": "et tenetur quilibet",
+      "decisionBasis": "M",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "M": {
+          "lemma": "sicut habitum est precedenti questione",
+          "tokenRange": "12-16",
+          "before": "sibi occurreret",
+          "after": "et tenetur quilibet"
+        },
+        "S": {
+          "lemma": null,
+          "precedingLemma": "occurreret",
+          "precedingTokenPosition": 11,
+          "before": "sibi occurreret",
+          "after": "et tenetur quilibet"
+        }
+      }
+    },
+    {
+      "tokenRange": "23-25",
+      "before": "conteri saltem",
+      "lemma": "virtualiter vel formaliter",
+      "after": "ut alias declaravi",
+      "decisionBasis": "S",
+      "note": "preference for SORB when meaning is the same",
+      "witnesses": {
+        "S": {
+          "lemma": "virtualiter vel formaliter",
+          "tokenRange": "18-20",
+          "before": "conteri saltem",
+          "after": "ut alias declaravi"
+        },
+        "M": {
+          "lemma": "formaliter vel virtualiter",
+          "tokenRange": "23-25",
+          "before": "conteri saltem",
+          "after": "ut alias explanavi"
+        }
+      }
+    },
+    {
+      "tokenPosition": 28,
+      "before": "ut alias",
+      "lemma": "declaravi",
+      "after": "super primum librum",
+      "decisionBasis": "S",
+      "note": "preference for SORB when meaning is the same; MAZ explanam corrected to explanavi (transcription error)",
+      "witnesses": {
+        "S": {
+          "lemma": "declaravi",
+          "tokenPosition": 23,
+          "before": "ut alias",
+          "after": "super primum librum"
+        },
+        "M": {
+          "lemma": "explanavi",
+          "tokenPosition": 28,
+          "before": "ut alias",
+          "after": "super primum librum"
+        }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e142": [
+    {
+      "tokenPosition": 11,
+      "before": "unum peccatum est",
+      "lemma": "iusta",
+      "after": "poena alterius hoc",
+      "decisionBasis": "S",
+      "note": "iusta makes better sense",
+      "witnesses": {
+        "S": { "lemma": "iusta", "tokenPosition": 11, "before": "unum peccatum est", "after": "poena alterius hoc" },
+        "M": { "lemma": "iuxta", "tokenPosition": 11, "before": "unum peccatum est", "after": "poena alterius hoc" }
+      }
+    },
+    {
+      "tokenPosition": 20,
+      "before": "dicit Gregorius",
+      "lemma": "omelia",
+      "after": "15 moralium sicut",
+      "decisionBasis": "S",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "S": { "lemma": "omelia", "tokenPosition": 20, "before": "dicit Gregorius", "after": "15 moralium sicut" },
+        "M": { "lemma": null, "precedingLemma": "Gregorius", "precedingTokenPosition": 19, "before": "dicit Gregorius", "after": "15 moralium sicut" }
+      }
+    },
+    {
+      "tokenPosition": 22,
+      "before": "omelia 15",
+      "lemma": "moralium",
+      "after": "sicut ibidem habetur",
+      "decisionBasis": "M",
+      "note": "moralium identifies Gregory's Moralia in Job",
+      "witnesses": {
+        "M": { "lemma": "moralium", "tokenPosition": 22, "before": "omelia 15", "after": "ut ibidem habetur" },
+        "S": { "lemma": null, "precedingLemma": "15", "precedingTokenPosition": 21, "before": "omelia 15", "after": "sicut ibidem habetur" }
+      }
+    },
+    {
+      "tokenPosition": 23,
+      "before": "15 moralium",
+      "lemma": "sicut",
+      "after": "ibidem habetur capitulo",
+      "decisionBasis": "S",
+      "note": "preference for SORB when meaning is the same",
+      "witnesses": {
+        "S": { "lemma": "sicut", "tokenPosition": 22, "before": "15", "after": "ibidem habetur capitulo" },
+        "M": { "lemma": "ut", "tokenPosition": 23, "before": "15 moralium", "after": "ibidem habetur capitulo" }
+      }
+    },
+    {
+      "tokenRange": "30-35",
+      "before": "non diluitur",
+      "lemma": "mox suo pondere trahit ad aliud",
+      "after": "",
+      "decisionBasis": "S",
+      "note": "SORB order matches the standard text of Gregory's Moralia",
+      "witnesses": {
+        "S": { "lemma": "mox suo pondere trahit ad aliud", "tokenRange": "25-30", "before": "non diluitur", "after": "" },
+        "M": { "lemma": "suo pondere mox ad aliud trahit", "tokenRange": "30-35", "before": "non diluitur", "after": "" }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e162": [
+    {
+      "tokenPosition": 2,
+      "before": "item",
+      "lemma": "dicit",
+      "after": "Isidorus libro secundo",
+      "decisionBasis": "M",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "M": { "lemma": "dicit", "tokenPosition": 2, "before": "item", "after": "Isidorus libro secundo" },
+        "S": { "lemma": null, "precedingLemma": "item", "precedingTokenPosition": 1, "before": "item", "after": "Isidorus de summo" }
+      }
+    },
+    {
+      "tokenRange": "4-5",
+      "before": "Isidorus",
+      "lemma": "libro secundo",
+      "after": "de summo bono",
+      "decisionBasis": "M",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "M": { "lemma": "libro secundo", "tokenRange": "4-5", "before": "Isidorus", "after": "de summo bono" },
+        "S": { "lemma": null, "precedingLemma": "Isidorus", "precedingTokenPosition": 3, "before": "Isidorus", "after": "de summo bono" }
+      }
+    }
+  ],
+  "aw98wa-xg4357-d1e175": [
+    {
+      "tokenRange": "14-15",
+      "before": "in nullo fieri praeiudicium",
+      "lemma": "veritati putatur",
+      "after": "si quis dixerit",
+      "decisionBasis": "S",
+      "note": "default to SORB when all things are equal",
+      "witnesses": {
+        "S": { "lemma": "veritati putatur", "tokenRange": "14-15", "before": "praeiudicium", "after": "si quis" },
+        "M": { "lemma": "putatur veritati", "tokenRange": "14-15", "before": "praeiudicium", "after": "si quis" }
+      }
+    },
+    {
+      "tokenPosition": 18,
+      "before": "si quis",
+      "lemma": "dixerit",
+      "after": "ipsa eademque peccata",
+      "decisionBasis": "S",
+      "note": "perfect subjunctive is better here",
+      "witnesses": {
+        "S": { "lemma": "dixerit", "tokenPosition": 18, "before": "si quis", "after": "ipsa eademque peccata" },
+        "M": { "lemma": "dicat", "tokenPosition": 18, "before": "si quis", "after": "ipsa eademque peccata" }
+      }
+    },
+    {
+      "tokenRange": "32-33",
+      "before": "peccata sunt poena peccati",
+      "lemma": "isto modo",
+      "after": "et tamen non",
+      "decisionBasis": "S",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "S": { "lemma": "isto modo", "tokenRange": "32-33", "before": "peccata sunt poena peccati", "after": "et tamen non" },
+        "M": { "lemma": null, "precedingLemma": "peccati", "precedingTokenPosition": 31, "before": "peccata sunt poena peccati", "after": "et tamen non" }
+      }
+    },
+    {
+      "tokenPosition": 36,
+      "before": "et tamen",
+      "lemma": "non",
+      "after": "inquantum peccata sunt",
+      "decisionBasis": "custom",
+      "note": "conjectural emendation — both witnesses omit; required by the logical contrast between the privation sense and the causal/active sense",
+      "witnesses": {
+        "M": { "lemma": null, "precedingLemma": "tamen", "precedingTokenPosition": 35, "before": "et tamen", "after": "inquantum peccata sunt" },
+        "S": { "lemma": null, "precedingLemma": "tamen", "precedingTokenPosition": 35, "before": "et tamen", "after": "inquantum peccata sunt" }
+      }
+    },
+    {
+      "tokenRange": "48-49",
+      "before": "optari alteri qui",
+      "lemma": "meruit eam",
+      "after": "sed ego non",
+      "decisionBasis": "S",
+      "note": "default to SORB when all things are equal",
+      "witnesses": {
+        "S": { "lemma": "meruit eam", "tokenRange": "43-44", "before": "optari alteri qui", "after": "sed ego non" },
+        "M": { "lemma": "eam meruit", "tokenRange": "48-49", "before": "optari alteri qui", "after": "sed ego non" }
+      }
+    },
+    {
+      "tokenPosition": 58,
+      "before": "possum alteri optare igitur",
+      "lemma": "etc",
+      "after": "",
+      "decisionBasis": "S",
+      "note": "preference for the more explicit reading",
+      "witnesses": {
+        "S": { "lemma": "etc", "tokenPosition": 53, "before": "possum alteri optare igitur", "after": "" },
+        "M": { "lemma": null, "precedingLemma": "igitur", "precedingTokenPosition": 57, "before": "possum alteri optare igitur", "after": "" }
+      }
+    }
+  ]
+}

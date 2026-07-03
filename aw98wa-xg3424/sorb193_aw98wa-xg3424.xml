@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium 2 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium 2 [Sorb193 Transcription]</title>
+          <date when="2026-07-02">July 02, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="139-r"/> 
+        <cb ed="#S" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3424"><!-- principium 2-->
+        <head xml:id="aw98wa-xg3424-Hd1e101">Principium 2</head>
+        <p xml:id="aw98wa-xg3424-d1e105">
+          <lb ed="#S" n="16"/>hic est liber generationis adam solent inquiri 
+          <lb ed="#S" n="17"/><choice><orig>tytuli</orig><reg>tituli</reg></choice> librorum in principiis lectionum cui inquisitioni 
+          <lb ed="#S" n="18"/>circa 2m librum sententiarum praemanibus iam habendum 
+          <lb ed="#S" n="19"/><!-- line coord error-->
+          <lb ed="#S" n="20"/>in primis sacrificio quod <choice><orig>tytulus</orig><reg>titulus</reg></choice> talis est hic est 
+          <lb ed="#S" n="21"/>liber generationis adam et offert ille titulus libri 
+          <lb ed="#S" n="22"/>sententiarum in generali et huius in speciali tunc 4tem habi<lb ed="#S" break="no" n="23"/>tudinem 
+          nam praefert indaginem realis efficaciae profert ymaginationem 
+          <lb ed="#S" n="24"/>finalis sufficientiae aufert <unclear>compaginem</unclear> <unclear>volitus</unclear> formati et offert 
+          <lb ed="#S" n="25"/>propaginem geminis abstracti
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e139">
+          Nam habitus doctrinae in hoc libro 
+          <lb ed="#S" n="26"/>traditus quantum ad indaginem realis efficaciae notatur singulariter designificari 
+          <lb ed="#S" n="27"/>in pronomine demonstrativo cum dicitur hic actiones enim sunt singularium et 
+          <lb ed="#S" n="28"/>circa singularia primo metaphysicae Quantum ad ymaginem finalis sufficientiae notatur 
+          <lb ed="#S" n="29"/>duratis conservari et ideo est quia non est in isto est et non sed est <sic>est</sic> 
+          <lb ed="#S" n="30"/>in illo <ref xml:id="aw98wa-xg3424-Rd1e154">2a ad corinthios capitulo primo</ref> omnia etiam illud appetunt et causa istius agunt 
+          <lb ed="#S" n="31"/>quae agunt secundum naturam quatenus ipso semper etiam divino esse participent secundum quod possunt 
+          <lb ed="#S" n="32"/><ref xml:id="aw98wa-xg3424-Rd1e159">2o de anima</ref> per 3ae Ex compagine <unclear>volitus</unclear> formati notatur <unclear>memorabiliter</unclear> ex 
+          <lb ed="#S" n="33"/><unclear>amri</unclear> cum dicitur liber <ref xml:id="aw98wa-xg3424-Rd1e169">Ieremia 36</ref> <quote xml:id="aw98wa-xg3424-Qd1e171" source="http://scta.info/resource/ier36_2@1-13">tolle volumen libri et <sic>scribe</sic> in eo omnia 
+          <lb ed="#S" n="34"/>verba quae locutus sum tibi</quote>
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e179">
+          <pc type="pilcrow"/> Ex propagine generis substracti notatur 
+          <lb ed="#S" n="35"/>materialiter explicari cum subdividitur generationis adam nam propter hoc ad litteram 
+          <lb ed="#S" n="36"/>non minus quam generatio haec est liber generationis materia enim liber sententiarum est 
+          <lb ed="#S" n="37"/>4x generatio dupliciter adam nam sensus adam bis est genitus sol 
+          <lb ed="#S" n="38"/>a patre aeternaliter de quo in primo et semel a matre temporaliter de 
+          <lb ed="#S" n="39"/>quo in 3o 
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e196">
+          Item primus adam bis est genitus semel ad enti<lb ed="#S" break="no" n="40"/>tatem 
+          cum corporaliter procedatur de quo in libro 2o et semel ad <unclear>sancti<lb ed="#S" break="no" n="41"/>tatem</unclear> 
+          cum sacramentaliter revocatur de quo in 4o libro
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e206">
+          <pc type="pilcrow"/> Sicut igitur liber 
+          <lb ed="#S" n="42"/>primus est liber generationis novissimi adam et filii dei aeternae ema<lb ed="#S" break="no" n="43"/>nationis 
+          sic est hic 2us liber generationis id est plasmationis primi a<lb ed="#S" break="no" n="44"/>dam 
+          unde sine medio iungitur themati in die qua creavit deus 
+          <lb ed="#S" n="45"/>homine ad similitudinem dei fecit istum <unclear>ma</unclear> et se creavit eos et 
+          <lb ed="#S" n="46"/>benedicit illis et vocavit nomen eorum adam in die qua creati sunt et 
+          <lb ed="#S" n="47"/>haec humana procreatio ut in primo principio tactum fuit appropriate  con<lb ed="#S" break="no" n="48"/>gruit 
+          <unclear>occi?ti</unclear> nam hoc sit plasinatus modicum profecit sed cito 
+          <lb ed="#S" n="49"/>post eodem die virgente ad ocassum sole in culpam corruit 
+          <lb ed="#S" n="50"/>et defecit Et ideo cum audisset vocem deum de ambulantis in 
+          <lb ed="#S" n="51"/>paradyso ad auram post meridiem abscondit se adam <unclear>generatio</unclear> 
+          <lb ed="#S" n="52"/>post culpam in obedientiae poenam sentiens erubescentiae hic 
+          <lb ed="#S" n="53"/>est igitur liber generationis adam quia ipsa cognita cum suis circumstan<lb ed="#S" break="no" n="54"/>tiis 
+          nota sunt consequentiam quae ad 2m pertinent sententiae potentiae culpae et poe<lb ed="#S" break="no" n="55"/>nae 
+          habitus gratiosi et usus virtuosi substantiae septiformes sunt de 
+          <lb ed="#S" n="56"/>quibus agitur in 2o iuxta numerum operis primae creationis et o<lb ed="#S" break="no" n="57"/>perum 
+          <unclear>dicens</unclear> quia in principio creavit deus celum et terram et successive postea 
+          <lb ed="#S" n="58"/>per intervalla 6 dierum species distinguuntur rerum quae omnia spectant 
+          <lb ed="#S" n="59"/>ad notitiam creationis humanae et angelis quia sicut habetur distinctionem prima et 
+          <lb ed="#S" n="60"/>angeli sibi ministrant et serviunt homini et econverso factus est homo propter re<lb ed="#S" break="no" n="61"/>parationem
+          casus angelici de aliis etiam habetur ibidem quia sicud factus 
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="62"/>est homo propter deum ut ei serviret ita mundus factus est propter 
+          <lb ed="#S" n="63"/>homine ut eis serviret cui alludit illud physicum 2o physicorum per 
+          <lb ed="#S" n="64"/>204 utimur tamquam propter nos omnibus quae sunt sumus enim quo<lb ed="#S" break="no" n="65"/>dam 
+          modo et nos omni finis
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e274">
+          <pc type="pilcrow"/> potentiae similiter 7 sunt de quibus 
+          <lb ed="#S" n="66"/>agitur in 2o receptiva productiva localiter motiva intelligibilia 
+          <lb ed="#S" n="67"/>et volitiva arbitrii libertas et ipsa sensualitas
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e283">
+          <pc type="pilcrow"/> Septem 
+          <lb ed="#S" n="68"/>similiter sunt culpae capitales notae et vulgatae de quibus agitur 
+          <lb ed="#S" n="69"/>in 2o ad quas omnia possunt reduci quae in libro 2o multipliciter prosequitur 
+          <lb ed="#S" n="70"/>de peccatis
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e294">
+          <pc type="pilcrow"/> poenae similiter 7 sunt de quibus agitur in 2o ignorantia 
+          <lb ed="#S" n="71"/>in potentia concupiscentia labor et dolor mors inevitabilis et sors 
+          <lb ed="#S" n="72"/><unclear>illacremabilis</unclear> scilicet reatus
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e304">
+          <pc type="pilcrow"/> Septem sunt iterum habitus gratio<lb ed="#S" break="no" n="73"/>si 
+          de quibus aitur in 2o tam in genere quam in specie licet aliter 
+          <lb ed="#S" n="74"/>quam in 3o 3es theologicae et 4or cardinales maxime de 
+          <lb ed="#S" n="75"/>gratia ex qua sunt ceteri habitus gratiosi
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e316">
+          <pc type="pilcrow"/> Septem et sunt circum<lb ed="#S" break="no" n="76"/>stantiae 
+          attendente in exercitio actus cuiuslibet virtuosi secundum 
+          <lb ed="#S" n="77"/><ref xml:id="aw98wa-xg3424-Rd1e323">tullum in sua rethorica</ref> et <ref xml:id="aw98wa-xg3424-Rd1e325">aristoteles 3 ethicorum capitulo 9</ref> de quarum 
+          <lb ed="#S" n="78"/>non nullus versus finem tractat 2i et colliguntur in hoc versu
+        </p>
+        <p xml:id="aw98wa-xg3424-d1e330">
+          <lb ed="#S" n="79"/><pc type="pilcrow"/>Quis quid ubi quibus auxiliis cui quaestio quando hic est igitur 
+          <lb ed="#S" n="80"/>liber generationis adam quia de ipsa et de eius circumstantiis quae ipsam or<lb ed="#S" break="no" n="81"/>dinant 
+          deformant vel reformant libri 2us totus <unclear>protrahitur</unclear> ut praedixi 
+          <lb ed="#S" n="82"/>ad profectum et doctrinam audientis et legentis quatenus in 
+          <lb ed="#S" n="83"/>via regulamur per gratiam in futuro pertingamus ad gloriam quam 
+          <lb ed="#S" n="84"/>nobis praestare dignetur etc
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Principium 3 [Sorb193 Transcription]</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>Tei Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Principium 3 [Sorb193 Transcription]</title>
+          <date when="2026-07-02">July 02, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>
+            Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="S" n="sorb193">Sorbonne 193</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#S" n="174-r"/> 
+        <cb ed="#S" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="aw98wa-xg3762"><!-- b3 principium 3-->
+        <head xml:id="aw98wa-xg3762-Hd1e101">Principium 3</head>
+        <p xml:id="aw98wa-xg3762-d1e103">
+          <lb ed="#S" n="119"/>In funiculis adam traham eos <ref xml:id="aw98wa-xg3762-Rd1e108">oseae xi</ref> intellectu<lb ed="#S" break="no" n="120"/>alis 
+          oculi naturale desiderium sed ignorantiae tenebris obligati caligantis 
+          <lb ed="#S" n="121"/>aciei circumfert <unclear>obtuitus</unclear> et nunc incomplexa rerum formetur 
+          <lb ed="#S" n="122"/>notitia intuendo et abstrahendo nunc complexa et 
+          <lb ed="#S" n="123"/>scientifica arguendo et discurrendo ut in delitiis sa<lb ed="#S" break="no" n="124"/>pientiae 
+          prout suppetit oblectetur sed in scientiis humanitus 
+          <lb ed="#S" n="125"/>inventis quidquid occurrit totum questionem desipit donec in illo 
+          <lb ed="#S" n="126"/>superne lucis radio in quo lumen fidei diffunditur 
+          <lb ed="#S" n="127"/>et doctrinae salutaris splendescit veritas tunc in<lb ed="#S" break="no" n="128"/>dulcescat 
+          et tunc iam sapiat in adminiculum cum re<lb ed="#S" break="no" n="129"/>fertur 
+          veri dvinitus revelati inter autem vera divinitus revelata 
+          <lb ed="#S" n="130"/>illa magis sapiunt delectant atque rapiunt quod magna<lb ed="#S" break="no" n="131"/>lia 
+          clamant christi in petri sententiis libro scilicet 3o plenius exara<pb ed="#S" n="174-v"/><cb ed="#S" n="a"/><lb ed="#S" n="1"/>ta 
+          de quibus ex persona petri verbum potest accipi praeassumptum in funiculis
+          <lb ed="#S" n="2"/>etc
+        </p>
+        <p xml:id="aw98wa-xg3762-d1e142">
+          <pc type="pilcrow">¶</pc> doctrina namque petri in libro suo 3o de christo tradita est 
+          <lb ed="#S" n="3"/>coniunctiva et allictiva ibi namque vinciunt amorosos et allici<lb ed="#S" break="no" n="4"/>unt
+          studiosos propter hoc quod vinciunt seu coniungunt funiculi nuncu<lb ed="#S" break="no" n="5"/>pantur
+          cum praemittitur in funiculis adam etc non primi utique sed 
+          <lb ed="#S" n="6"/>2i de quibus dicit <ref xml:id="aw98wa-xg3762-Rd1e156">apostolus prima ad corinthios capitulo 15</ref> factus est primus homo 
+          <lb ed="#S" n="7"/><quote xml:id="aw98wa-xg3762-Qd1e159" source="http://scta.info/resource/Icor15_45@1-13">adam in spiritum viventem novissimus adam in spiritum vivifican<lb ed="#S" break="no" n="8"/>tem</quote>
+          primus de terra terrenus 2us de caelo caelestis sed ex hoc 
+          <lb ed="#S" n="9"/>alliciunt quod vi <unclear>tractativa</unclear> fecundantur sequitur enim traham eos stu<lb ed="#S" break="no" n="10"/>diosos 
+          christi magnalia pertractand<subst><del rend="expunctuation">a</del><add place="above-line">o</add></subst> et <unclear>ista</unclear> studentibus <unclear>on</unclear> 
+          <lb ed="#S" n="11"/>dicendo sicut loquitur <ref xml:id="aw98wa-xg3762-Rd1e183">augustinus super ioannem secundum 26</ref> revelatio inquit tractio 
+          <lb ed="#S" n="12"/>est ramum viridem ostendis omni et trahis illam nutes 
+          <lb ed="#S" n="13"/>puero demonstrarentur et trahitur quo currit trahitur amando sine lae<lb ed="#S" break="no" n="14"/>sione
+          corporis trahitur cordis vinculo trahitur haec ille dicatur ita<lb ed="#S" break="no" n="15"/>que 
+          in funiculis adam traham eos funiculi illius adam 
+          <lb ed="#S" n="16"/>4or sunt ad quod reduci poterunt omnia quae in 3o de christi 
+          <lb ed="#S" n="17"/>magnalibus pertractantur primus est funiculus incarnationis 2us fu<lb ed="#S" break="no" n="18"/>niculus 
+          suae passionis 3us funiculus habituum inpressorum 4us funiculus 
+          <lb ed="#S" n="19"/>legalium praeceptorum primus funiculus scilicet incarnationis ex tribus 
+          <lb ed="#S" n="20"/>torquetur cordulis triplici scilicet unione trium naturarum in christo concurrentium 
+          <lb ed="#S" n="21"/>corporis et animae atque deitatis quarum quaelibet unitur cuilibet dicreta 
+          <lb ed="#S" n="22"/>ac propria unione et unaque cordula ex duplici ligamine 
+          <lb ed="#S" n="23"/>naturis scilicet ex duabus constituitur in eodem vocaturque funiculus 
+          <lb ed="#S" n="24"/>et non funis sicut et ceteri similibus congruentiis semper simplicem divi<lb ed="#S" break="no" n="25"/>nitatis 
+          et humilitatem humanitatis de hiis funiculis seu cor<lb ed="#S" break="no" n="26"/>dulis 
+          scribitur in prophetia <ref xml:id="aw98wa-xg3762-Rd1e218">ysaye 33</ref> omnis funiculi eius 
+          <lb ed="#S" n="27"/>non <unclear>rumpentur</unclear> id est non omnis quia solum unicus unio valet corporis 
+          <lb ed="#S" n="28"/>et animae ex hiis in <unclear>pati?lo</unclear> rupta fuit et hii apud 
+          <lb ed="#S" n="29"/>homines gloriam adepti sunt in origine adam <ref xml:id="aw98wa-xg3762-Rd1e231">ecclesiastes 49</ref> et 
+          <lb ed="#S" n="30"/>de dei filio dici poterit quod <ref xml:id="aw98wa-xg3762-Rd1e235">genesis 3</ref>
+        </p>
+        <p xml:id="aw98wa-xg3762-d1e238">
+          <pc type="pilcrow">¶</pc> de primo homine dictum fuit 
+          <lb ed="#S" n="31"/>ecce adam quasi unus ex nobis factus est hii funiculi multum 
+          <lb ed="#S" n="32"/>sunt difficiles et perplexi viatico captivi intellectus trahitur tamen 
+          <lb ed="#S" n="33"/>sapientia de occultis <ref xml:id="aw98wa-xg3762-Rd1e249">Iob 28 capitulo</ref> <del rend="expunctuation">et ibi</del> et ibi traxit magister 
+          <lb ed="#S" n="34"/>petrus ut merito dicere potuisset In funiculis adam traham 
+          <lb ed="#S" n="35"/>eos
+        </p>
+        <p xml:id="aw98wa-xg3762-d1e260">
+          <pc type="pilcrow">¶</pc> 2us funiculus <unclear>d?mte</unclear> scilicet passionis ex tribus similiter plec<lb ed="#S" break="no" n="36"/>titur 
+          cordulis linea spinea ac ferre <c>a</c> linea forsi<lb ed="#S" break="no" n="37"/>tan 
+          in discussione cum vinctus de iudice ad iudicem per<lb ed="#S" break="no" n="38"/>trahitur 
+          <ref xml:id="aw98wa-xg3762-Rd1e276">matthaeus 27</ref> spinea in coronatione quando <c>a</c> militibus prae<lb ed="#S" break="no" n="39"/>sidis 
+          illuditur ibidem sed ferrea quando in crucifixione quand cum 
+          <lb ed="#S" n="40"/>clavis ligno affigitur satis enim et amplius ille ligatur qui 
+          <lb ed="#S" n="41"/>loco ligaminis patibulo conclavatur de hoc funiculo prophetat 
+          <lb ed="#S" n="42"/>ad litteram <ref xml:id="aw98wa-xg3762-Rd1e289">psalmus 138</ref> <quote xml:id="aw98wa-xg3762-Qd1e291" source="http://scta.info/resource/ps138_1@6-10 http://scta.info/resource/ps138_2@1-7 http://scta.info/resource/ps138_3@1-11">domine inquit probasti me et cognovisti me 
+          <lb ed="#S" n="43"/>tu cognovisti sessionem meam et resurrectionem meam intellexisti cogitationes meas de semitam meam
+          <lb ed="#S" n="44"/>in funiculum meum investigasti</quote> nec mirum si investigatur quia illud quod 
+          <lb ed="#S" n="45"/>absconditur ibi nempe abscondit se adam<del rend="expunctuation">m</del> in <ref xml:id="aw98wa-xg3762-Rd1e303">genesis 3</ref> id est christus 
+          <lb ed="#S" n="46"/>quia ibi abscondita est fortitudo eius <ref xml:id="aw98wa-xg3762-Rd1e308">abacuc 3</ref> de hoc <ref xml:id="aw98wa-xg3762-Rd1e310">zach 
+          <lb ed="#S" n="47"/>3</ref> homo inquit agricola ego sive quantum ad <unclear>a</unclear> <unclear>dam</unclear> exemplum meum ab ado<lb ed="#S" break="no" n="48"/>lescentia 
+          mea et dicetur ei quid sunt iste plage in medio <unclear>manuum</unclear> tua<lb ed="#S" break="no" n="49"/>rum 
+          et dicet hiis plagatus sum in medio eorum qui diligebant 
+          <lb ed="#S" n="50"/>me hoc funiculo detinemur in fide et in christo trahimur ad sa<lb ed="#S" break="no" n="51"/>lutem 
+          ego inquit si exaltatus fuero a terra omnia traham ad me 
+          <lb ed="#S" n="52"/>ipsum <ref xml:id="aw98wa-xg3762-Rd1e332">ioannes 12</ref> in funiculis igitur adam traham eos
+        </p>
+        <p xml:id="aw98wa-xg3762-d1e336">
+          <pc type="pilcrow">¶</pc> 3us funiculus 
+          <lb ed="#S" n="53"/>scilicet habituum inpressorum ex 3bus iterum plectitur cordulis scilicet habitibus 
+          <lb ed="#S" n="54"/>fide spe et caritate ad quod ceteri reducuntur de quo funiculo 
+          <lb ed="#S" n="55"/>habetur <ref xml:id="aw98wa-xg3762-Rd1e347">ecclesiastes capitulo 5</ref> funiculus triplex difficile rumpitur nam quis separabit 
+          <lb ed="#S" n="56"/>nos a caritate christi quae speciem requirit et fidem tribulatio an an<lb ed="#S" break="no" n="57"/>gustia 
+          an persecutio an fames an <unclear>nudicas</unclear> an periculum 
+          <lb ed="#S" n="58"/>an gladius et certus sive quod neque mors neque vita neque creatura alia 
+          <lb ed="#S" n="59"/>poterit nos separare a caritate dei quae est in christo ihesu <ref xml:id="aw98wa-xg3762-Rd1e360">ad 
+          <lb ed="#S" n="60"/>Romanos 8</ref> qui fuit adam qui fuit dei <ref xml:id="aw98wa-xg3762-Rd1e366">luc 3</ref> hic funiculo tra<lb ed="#S" break="no" n="61"/>hi 
+          desiderat qui clamat in <ref xml:id="aw98wa-xg3762-Rd1e370">canticis capitulo 1</ref> trahe me post te <unclear>t?r</unclear>
+          <lb ed="#S" n="62"/>in odo etc In funiculis adam traham eos in vinculis caritatis 
+          <lb ed="#S" n="63"/>ubi <unclear>the?a</unclear> 4us funiculus legalium praeceptorum ex tribus etiam complectitur 
+          <lb ed="#S" n="64"/>cordulis ad quas reduci poterit totus decalogus praeceptorum 
+          <lb ed="#S" n="65"/>cultu superno servitu paterno et debito fraterno quae observantes
+          <cb ed="#S" n="b"/>
+          <lb ed="#S" n="66"/>induxit dominus in montem sanctificationis suae caelum scilicet et sorte divisit 
+          <lb ed="#S" n="67"/>eis terram promissionis in funiculo distributionis <ref xml:id="aw98wa-xg3762-Rd1e392">psalmus 77</ref> et quid 
+          <lb ed="#S" n="68"/>mirum ista est enim lex adam domine et <ref xml:id="aw98wa-xg3762-Rd1e396">Romanos 7</ref> opus enim hominis 
+          <lb ed="#S" n="69"/>reddet ei et iuxta vias singulorum restituet eis si direx<lb ed="#S" break="no" n="70"/>erit 
+          ad eum cor suum spiritum illius et flatum ad se trahet <ref xml:id="aw98wa-xg3762-Rd1e402">iob 34</ref> 
+          <lb ed="#S" n="71"/>in via per gratiam in patria per gloriam quod nobis concedat christus dei fi<lb ed="#S" break="no" n="72"/>lius 
+          cuius ad praesens notitiam quaerius quid cum patre et spiritus sanctus vivit et 
+          <lb ed="#S" n="73"/>regnat amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
