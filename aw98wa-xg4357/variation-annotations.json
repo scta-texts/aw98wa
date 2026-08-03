@@ -349,5 +349,115 @@
         "M": { "lemma": null, "precedingLemma": "igitur", "precedingTokenPosition": 57, "before": "possum alteri optare igitur", "after": "" }
       }
     }
+  ],
+  "aw98wa-xg4357-d1e198": [
+    {
+      "tokenPosition": 8,
+      "before": "quod peccatum",
+      "lemma": "secundarium",
+      "after": "gravius non est",
+      "decisionBasis": "S",
+      "note": "secundarium (secondary sin) is more theologically precise than secundum (second sin); default to S",
+      "witnesses": {
+        "S": { "lemma": "secundarium", "tokenPosition": 8, "before": "quod peccatum", "after": "gravius non est" },
+        "M": { "lemma": "secundum", "tokenPosition": 8, "before": "quod peccatum", "after": "gravius non est" }
+      }
+    },
+    {
+      "tokenRange": "15-17",
+      "before": "poena recompensativa",
+      "lemma": "alterius peccati praecedentis",
+      "after": "sed sic quod",
+      "decisionBasis": "S",
+      "note": "M has scribal error praeceptis, a garbled collapse of alterius peccati praecedentis; image inspection confirmed M genuinely reads praeceptis",
+      "witnesses": {
+        "S": { "lemma": "alterius peccati praecedentis", "tokenRange": "15-17", "before": "poena recompensativa", "after": "sed sic quod" },
+        "M": { "lemma": "praeceptis", "tokenPosition": 15, "before": "poena recompensativa", "after": "sed sic quod" }
+      }
+    },
+    {
+      "tokenRange": "37-38",
+      "before": "alterius videtur",
+      "lemma": "etiam quod",
+      "after": "secunda propositio neganda",
+      "decisionBasis": "S",
+      "note": "S has etiam quod; M has quod etiam (transposition); default to S",
+      "witnesses": {
+        "S": { "lemma": "etiam quod", "tokenRange": "37-38", "before": "alterius videtur", "after": "secunda propositio neganda" },
+        "M": { "lemma": "quod etiam", "tokenRange": "35-36", "before": "alterius videtur", "after": "secunda propositio neganda" }
+      }
+    },
+    {
+      "tokenPosition": 48,
+      "before": "poena recompensativa",
+      "lemma": "quod",
+      "after": "non possum licite",
+      "decisionBasis": "S",
+      "note": "S quod introduces result clause; M quia gives a causal reading; default to S",
+      "witnesses": {
+        "S": { "lemma": "quod", "tokenPosition": 48, "before": "poena recompensativa", "after": "non possum licite" },
+        "M": { "lemma": "quia", "tokenPosition": 46, "before": "poena recompensativa", "after": "non possum licite" }
+      }
+    },
+    {
+      "tokenRange": "50-52",
+      "before": "recompensativa quod non",
+      "lemma": "possum licite alicui",
+      "after": "viatori optare poenam",
+      "decisionBasis": "M",
+      "note": "M's first-person possum licite alicui is consistent with the first-person voice throughout the paragraph; licite is theologically apt since the argument turns on what one is or isn't lawfully permitted to wish for another; S possit alteri shifts awkwardly to third person",
+      "witnesses": {
+        "M": { "lemma": "possum licite alicui", "tokenRange": "48-50", "before": "recompensativa quia non", "after": "viatori optare aeternam" },
+        "S": { "lemma": "possit alteri", "tokenRange": "50-51", "before": "recompensativa quod non", "after": "viatori optare poenam" }
+      }
+    },
+    {
+      "tokenRange": "58-59",
+      "before": "licet",
+      "lemma": "meruerunt istam",
+      "after": "sive etiam intelligatur",
+      "decisionBasis": "S",
+      "note": "S meruerunt istam and M illam meruerunt represent the same pronoun in different positions (word-order variant) with different forms; S istam after meruerunt is preferred; default to S",
+      "witnesses": {
+        "S": { "lemma": "meruerunt istam", "tokenRange": "58-59", "before": "licet", "after": "sive etiam intelligatur" },
+        "M": { "lemma": "illam meruerunt", "tokenRange": "55-56", "before": "licet", "after": "sive etiam intelligatur" }
+      }
+    },
+    {
+      "tokenPosition": 66,
+      "before": "de poena in",
+      "lemma": "quam",
+      "after": "permittitur homo cadere",
+      "decisionBasis": "S",
+      "note": "in quam (accusative of motion) is more precise for falling into a punishment; M in qua uses ablative",
+      "witnesses": {
+        "S": { "lemma": "quam", "tokenPosition": 66, "before": "de poena in", "after": "permittitur homo cadere" },
+        "M": { "lemma": "qua", "tokenPosition": 64, "before": "de poena in", "after": "permittitur homo cadere" }
+      }
+    },
+    {
+      "tokenPosition": 86,
+      "before": "iuste permittitur",
+      "lemma": "homo",
+      "after": "cadere et a",
+      "decisionBasis": "S",
+      "note": "M omits homo, likely by homoioteleuton with preceding occurrence; S explicit reading preferred",
+      "witnesses": {
+        "S": { "lemma": "homo", "tokenPosition": 86, "before": "iuste permittitur", "after": "cadere et a" },
+        "M": { "lemma": null, "precedingLemma": "permittitur", "precedingTokenPosition": 83, "before": "iuste permittitur", "after": "cadere et a" }
+      }
+    },
+    {
+      "tokenPosition": 132,
+      "before": "poenas et confusiones",
+      "lemma": "temporales",
+      "after": "quae non sunt",
+      "decisionBasis": "M",
+      "note": "temporales (temporal punishments) contrasts with poenam aeternam earlier in the paragraph and fits the ethical argument better than S personales",
+      "witnesses": {
+        "M": { "lemma": "temporales", "tokenPosition": 129, "before": "poenas et confusiones", "after": "quae non sunt" },
+        "S": { "lemma": "personales", "tokenPosition": 132, "before": "poenas et confusiones", "after": "quae non sunt" }
+      }
+    }
   ]
 }
