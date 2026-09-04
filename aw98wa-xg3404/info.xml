@@ -1,0 +1,59 @@
+<info>
+  <body>
+    <div xml:id="aw98wa-xg3404">
+      <!-- b1d33q9-->
+      <!-- ALIGNMENT vs GHYaf3-d1e614 (Oyta abbreviatio). Small question, 9 sources -> 8 targets,
+           all sources mapped, all targets referenced, nothing dropped. Q9 of book 1 distinction 33
+           (utrum omne idem patri sit omnibus modis idem patri). Very close correspondence overall;
+           several source paragraphs are unusually long and span two target paragraphs each (the
+           "reverse fold" pattern seen elsewhere in this project): d103->114,132; d145->156,186;
+           d196->186,204. Genuine target-side folds needing splits: d132<-2 (d103-tail,d125);
+           d186<-2 (d145-tail,d196-head); d204<-2 (d196-tail,d216); d213<-2 (d221,d250). INITIAL
+           PASS from close reading; not yet reviewed fold-by-fold with user. -->
+      <head xml:id="aw98wa-xg3404-Hd1e101">Quaestio 9</head>
+      <p xml:id="aw98wa-xg3404-d1e103">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e114"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e132"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e125">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e150"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e145">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e156"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e186"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e196">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e195"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e204"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e221">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e213"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e250">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e225"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e268">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e235"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg3404-d1e301">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e614-d1e255"/>
+        </assertions>
+      </p>
+    </div>
+  </body>
+</info>

@@ -1,0 +1,851 @@
+<info>
+  <body>
+    <div xml:id="aw98wa-xg2828">
+      <!-- ALIGNMENT vs GHYaf3-d1e494 (Oyta abbreviatio). Unusual question: target originally had
+           MORE paragraphs than source (176 vs 164) - less compressed than most other questions
+           in this project. Built via automated ngram content-matching pass, then extensively
+           reviewed and corrected fold-by-fold with the user across many sessions: wrong
+           automated matches fixed, dozens of target paragraphs split to resolve folds, and
+           many additional source<->target links found via close reading of full paragraph
+           texts (sources are frequently long enough to span multiple consecutive target
+           paragraphs). Alignment is now fully 1:1 with zero duplicate target references.
+           Only 4 target paragraphs remain genuinely unreferenced after exhaustive review -
+           GHYaf3-d1e494-d1e245, d1e1060, d1e3219, d1e3816 - three of which (d1060, d3219,
+           d3816) open with "Nota"/"Unde nota", a strong signal these are genuine Oyta-only
+           additiones (explanatory asides) with no Wodeham source parallel, not alignment
+           gaps. d245 (a Joachim of Fiore reference) is likewise treated as a genuine
+           Oyta-only digression. -->
+      <head xml:id="aw98wa-xg2828-Hd1e101">Quaestio</head>
+      <p xml:id="aw98wa-xg2828-d1e102">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e114"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e143"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e150"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e132">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e164"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e165">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e190"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e172">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e197"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e182">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e206"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e211"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e192">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e215"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e220"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e280"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e232">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e300"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e316"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e325"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e330"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e283">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e335"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e314">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e340"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e338">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e351"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e350">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e355"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e372">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e400"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e389">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e410"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e409">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e426"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e422">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e445"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e462">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e472">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e478"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e489"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e498"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e529"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e514">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e548"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e524">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e557"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e577"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e597"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e582">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e615"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e609">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e644"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e625">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e663"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e737">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e713"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e750">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e735"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e793">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e761"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e810">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e774"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e826">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e790"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e851">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e808"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e865">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e820"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e890">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e840"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e911">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e857"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e929">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e877"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e951">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e890"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e908"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1014">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e932"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e969"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e982"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1079">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e990"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1029"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1135">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1042"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1146">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1089"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1165">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1100"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1118"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1217">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1139"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1320">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1187"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1406">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1220"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1431">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1233"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1458">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1255"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1268"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1536">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1278"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1543">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1285"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1554">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1298"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1564">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1303"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1310"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1317"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1586">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1327"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1599">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1345"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1613">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1358"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1629">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1370"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1640">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1380"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1391"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1652">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1398"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1407"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1661">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1413"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1416"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1685">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1432"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1708">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1454"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1719">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1461"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1730">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1472"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1770">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1515"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1850">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1870">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1572"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1579"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1595"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1600"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1899">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1605"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1928">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1630"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1941">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1639"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1661"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1677"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e1986">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1686"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2008">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1708"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1727"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1736"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1745"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2069">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1765"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2083">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1775"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2118">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1785"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2132">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1795"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2140">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1809"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2158">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1829"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2178">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1852"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2194">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1868"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2205">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1879"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2223">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1901"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2233">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1908"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2242">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1919"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2255">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1936"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2268">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1950"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2279">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1960"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2305">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1975"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1986"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2333">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e1997"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2351">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2008"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2015"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2041"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2049"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2451">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2112"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2469">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2130"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2491">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2149"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2509">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2165"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2182"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2542">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2200"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2213"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2225"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2264"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2630">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2275"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2291"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2309"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2667">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2320"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2680">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2329"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2348"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2700">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2355"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2754">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2366"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2773">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2388"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2829">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2451"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2868">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2500"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2532"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2927">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e2948">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2555"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2581"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2597"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2610"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3036">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2617"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3052">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3063">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3074">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3094">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2626"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2634"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3137">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3146">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2650"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3167">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2669"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2685"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3215">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2705"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3235">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2720"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3248">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2740"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3313">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3331">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3375">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3407">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3430">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3441">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2775"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2786"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3462">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2800"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3491">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2829"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2836"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2856"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2878"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3552">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2887"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3563">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3593">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2895"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2909"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3605">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2917"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3641">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2952"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3671">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3703">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2959"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3724">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2977"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e2986"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3771">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3000"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3787">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3019"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3027"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3800">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3820">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3038"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3855">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3062"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3874">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3084"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3885">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3095"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3904">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3104"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3915">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3122"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3128"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3144"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3972">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e3996">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3155"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4023">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4057">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3166"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3199"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4108">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3210"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4121">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3265"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4156">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3303"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4194">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3313"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4229">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3350"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3386"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4260">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3417"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3439"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4280">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3444"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4309">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3464"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4334">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4370">
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4389">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3511"/>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3524"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4438">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3537"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4475">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3568"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4511">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3603"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4533">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3632"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4566">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3655"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4575">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3664"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4597">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3680"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4635">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3701"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4651">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3715"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4660">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3727"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4677">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3749"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4719">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3760"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4737">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3774"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4768">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3798"/>
+        </assertions>
+      </p>
+      <p xml:id="aw98wa-xg2828-d1e4780">
+        <assertions>
+          <assertion property="isRelatedTo" target="http://scta.info/resource/GHYaf3-d1e494-d1e3809"/>
+        </assertions>
+      </p>
+    </div>
+  </body>
+</info>

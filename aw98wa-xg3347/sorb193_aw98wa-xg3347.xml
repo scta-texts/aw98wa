@@ -157,9 +157,15 @@
           <lb ed="#S" n="46"/>quod allegata <ref xml:id="aw98wa-xg3347-Rd1e335">magistro distinctione 25 primi libri capitulo ultimo</ref> et <ref xml:id="aw98wa-xg3347-Rd1e337">distinctione 33 capitulo primo</ref> dicentes 
           <lb ed="#S" n="47"/>inquit aliam patris aliam filii aliam spiritus sancti esse personam non nullas tantum modo sed 
           <lb ed="#S" n="48"/>etiam proprietates id est personas vel ut graeci exprimunt ypostases id est sub<lb ed="#S" break="no" n="49"/>sistentias 
-          confitentur Item <ref xml:id="aw98wa-xg3347-Rd1e346">distinctione 33 primo capitulo 3 obicit <name xml:id="aw98wa-xg3347-Nd1e348">magister</name></ref> <unclear>consequentia</unclear> 
+          confitentur 
+        </p>
+        <p xml:id="aw98wa-xg3347-d1e348">
+          Item <ref xml:id="aw98wa-xg3347-Rd1e346">distinctione 33 primo capitulo 3 obicit <name xml:id="aw98wa-xg3347-Nd1e348">magister</name></ref> <unclear>consequentia</unclear> 
           <lb ed="#S" n="50"/>illud quod praedixerat et ego iam saepe dedi idem si proprietates personae sunt 
-          <lb ed="#S" n="51"/>non igitur eis personae distinguuntur <pc type="virgula">//</pc> Contra quod inquit divinis quod est ad propositum 
+          <lb ed="#S" n="51"/>non igitur eis personae distinguuntur <pc type="virgula">//</pc> 
+        </p>
+        <p xml:id="aw98wa-xg3347-d1e356">
+          Contra quod inquit divinis quod est ad propositum 
           <lb ed="#S" n="52"/>directissime quia se ipsis etiam personae differunt sicut super Iermonius loquens de 
           <lb ed="#S" n="53"/>patre et filio dicit quod substantia unum sunt sed personis distinguitur haec ille
         </p>
@@ -280,7 +286,7 @@
           <lb ed="#S" n="25"/>modo ut ipso aliquo <add place="margin-left">distincto</add> ab ipso <c>b</c> <c>a</c> distinguatur <c>a</c> <c>b</c>
         </p>
         <p xml:id="aw98wa-xg3347-d1e682">
-          <pc type="pilcrow"/> Subiectum hanc 
+          <pc type="pilcrow"/> Secundum hanc 
           <lb ed="#S" n="26"/>distinctionem pono duas conclusiones prima sit quod ad primum istorum in<lb ed="#S" break="no" n="27"/>tellectum 
           loquendo quaelibet persona quolibet sui id est quolibet quod est ipsa dicitur 
           <lb ed="#S" n="28"/>ab alia certum est enim quod una persona quolibet sui quod non est alia 
